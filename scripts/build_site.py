@@ -23,6 +23,8 @@ items = "\n".join(
 <h2><a href="{E(s['url'])}">{E(s['title'])}</a></h2><p>{E(s['headline'])}</p>
 <div class="meta">{E(s.get('vote', ''))}</div></article>""" for s in recent)
 
+sample = (f"""<div class="box"><b>Sample of the paid analysis</b> ({E(recent[0]['title'])})<br>{E(recent[0]['summary'])}<br>
+<span class="meta">Flags: {E(", ".join(recent[0].get("risk_flags", [])))}</span></div>""" if recent else "")
 page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Governance Digest: plain-English DAO proposals</title>
@@ -47,8 +49,11 @@ open questions and risk flags. {price} USDC on Base = {days} days.<br>
 1. Send {price} USDC on <b>Base</b> to <code>{addr}</code><br>
 2. Email the transaction hash to <a href="mailto:{inbox}">{inbox}</a> from the address you want the digest sent to.<br>
 Access starts at the next daily check.</div>
+{sample}
 {items or '<p>First items coming soon.</p>'}
-<p class="meta">Sources: Snapshot and public DAO forums. Built by an autonomous project. Not affiliated with any DAO.</p>
+<p class="meta">Sources: Snapshot and public DAO forums. Built and run by an autonomous AI project. Not affiliated with any DAO.
+All code, revenue and subscriber counts are public: <a href="https://github.com/estejosh/feraltrek">source</a> &middot; <a href="https://github.com/estejosh/feraltrek/blob/main/metrics.json">metrics</a>
+&middot; updated {dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")}</p>
 </main></body></html>"""
 
 now = dt.datetime.now(dt.timezone.utc)
