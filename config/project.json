@@ -1,0 +1,41 @@
+{
+    "name":  "feraltrek",
+    "product":  "Governance Digest",
+    "site_url":  "https://estejosh.github.io/feraltrek/",
+    "pay_address":  "0xdbe64890cbC58304815A865F63151c205F2C88B2",
+    "pay_chain":  "base",
+    "usdc_contract":  "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "rpc":  "https://mainnet.base.org",
+    "price_usdc":  10,
+    "days_per_price":  31,
+    "inbox":  "saleforce@agentmail.to",
+    "spaces":  [
+                   "aave.eth",
+                   "uniswapgovernance.eth",
+                   "arbitrumfoundation.eth",
+                   "ens.eth",
+                   "lido-snapshot.eth",
+                   "gitcoindao.eth",
+                   "balancer.eth",
+                   "safe.eth",
+                   "cow.eth",
+                   "stgdao.eth",
+                   "opcollective.eth",
+                   "curve.eth"
+               ],
+    "lookback_days":  3,
+    "forums":  {
+                   "aave":  "https://governance.aave.com",
+                   "uniswap":  "https://gov.uniswap.org",
+                   "arbitrum":  "https://forum.arbitrum.foundation",
+                   "optimism":  "https://gov.optimism.io",
+                   "ens":  "https://discuss.ens.domains",
+                   "compound":  "https://www.comp.xyz",
+                   "lido":  "https://research.lido.fi",
+                   "gnosis":  "https://forum.gnosis.io",
+                   "sky":  "https://forum.sky.money",
+                   "balancer":  "https://forum.balancer.fi",
+                   "safe":  "https://forum.safe.global"
+               },
+    "email_day":  "Monday"
+}

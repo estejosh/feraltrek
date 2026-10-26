@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-25911",
+  "space": "aave",
+  "skip": true,
+  "headline": "Skipped: personal dispute about another protocol, not an Aave governance item.",
+  "summary": "",
+  "risk_flags": [
+    "unverified allegation"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "title": "Question regarding Acier's alleged misrepresentation and deception of investors",
+  "url": "https://governance.aave.com/t/question-regarding-aciers-alleged-misrepresentation-and-deception-of-investors/25911",
+  "written": "2026-10-26"
+}

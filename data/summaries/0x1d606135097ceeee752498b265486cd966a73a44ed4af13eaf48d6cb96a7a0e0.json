@@ -1,0 +1,14 @@
+{
+  "id": "0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0",
+  "space": "ens.eth",
+  "headline": "ENS is voting on hiring OpenZeppelin to audit Governor Nexus, its new governance contracts, before any deployment. The audit is paid from an existing working-group budget, with no new DAO funding.",
+  "summary": "Governor Nexus is a new governor for ENS, built on OpenZeppelin Governor v5.6.1 by blockful. It adds a proposal type registry, Standard, Optimistic and Bond rulesets, mutable voting and a late-vote extension. This social vote picks the auditor before any deployment proposal. The Meta-Governance Working Group proposes OpenZeppelin, citing that it wrote the base Governor code, and it was also the recommended auditor in EP 5.15. Scope is the contracts as published in the August implementation report, unchanged since. Cost comes from the contract-audits line of MetaGov's Term 7 budget, so there is no new request to the DAO. A vote Against sends the working group back to the other audit firms it considered with the stewards. The audit price is not stated in the proposal.",
+  "risk_flags": [
+    "new governance contracts",
+    "audit cost not disclosed"
+  ],
+  "vote": "For 4,695 / Against 0 / Abstain 0 so far, ends 2026-10-31",
+  "title": "[Social] [7.3] Select OpenZeppelin to audit Governor Nexus",
+  "url": "https://snapshot.org/#/ens.eth/proposal/0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0",
+  "written": "2026-10-26"
+}

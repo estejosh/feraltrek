@@ -1,0 +1,14 @@
+{
+  "id": "forum-gnosis-12493",
+  "space": "gnosis",
+  "headline": "A builder asks GnosisDAO to fund an open-source monitor that alerts when Gnosis bridge or consensus contracts are upgraded or their admins change. Retroactive pay plus an ongoing amount.",
+  "summary": "Phase-1 discussion before a formal GIP. The author runs an open-source monitor (github.com/emilhuseyn/drift-monitor) that reads contract bytecode, proxy implementation and admin slots, and owners over public RPC. It records a known-good baseline and alerts on changes. It already covers 9 Gnosis-governed contracts: the OmniBridge and AMB mediators on both chains, the GBC deposit contract, and the bridged WXDAI, GNO and USDC.e. The pitch is that transaction monitors do not continuously prove that deployed code still matches what was audited. The request is retroactive funding for work done plus a modest ongoing budget. Amounts are not in the opening post.",
+  "risk_flags": [
+    "funding request, amount not stated",
+    "bridge security"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "title": "Should GnosisDAO fund an open-source integrity monitor for Gnosis bridges and consensus contracts?",
+  "url": "https://forum.gnosis.io/t/should-gnosisdao-fund-an-open-source-integrity-monitor-for-gnosis-bridges-and-consensus-contracts/12493",
+  "written": "2026-10-26"
+}

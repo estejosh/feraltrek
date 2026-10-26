@@ -1,0 +1,15 @@
+{
+  "id": "forum-sky-28351",
+  "space": "sky",
+  "headline": "Spark's 5 November spell proposes six changes on Base and Ethereum, including a new Base controller and USDC route to Ethereum and onboarding OUSD, plus one Sky Core change.",
+  "summary": "On Base, the spell would activate the Diamond PAU parallel controller on the existing ALM Proxy, open a CCTP V2 USDC route from Base to Ethereum, and change who manages the controller's operators. It would also give the PAS Configurator admin over Base PAU access controls and rate limits, and move the Diamond PAU Beacon admin from the Base Spark Executor to the Sky governance relay. On Ethereum, it onboards OUSD mint and redeem through two bridge deposit addresses held for the Spark Assets Foundation, and the Uniswap v4 OUSD/USDS pool. It also claims accrued SparkLend reserves for the Liquidity Layer and the Operations Multisig. In Sky Core, the ALLOCATOR-SPARK-A auto-line ttl goes from 12 to 24 hours. The Base items go to one SPK Snapshot poll on sparkfi.eth, the OUSD items to their own polls, and then a Sky executive vote. A first-loss capital transfer moved to the 19 November spell.",
+  "risk_flags": [
+    "admin role changes",
+    "new asset OUSD",
+    "cross-chain USDC route"
+  ],
+  "vote": "Snapshot polls on sparkfi.eth, then Sky executive",
+  "title": "[November 5, 2026] Proposed Changes to Spark for Upcoming Spell",
+  "url": "https://forum.sky.money/t/november-5-2026-proposed-changes-to-spark-for-upcoming-spell/28351",
+  "written": "2026-10-26"
+}

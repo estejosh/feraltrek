@@ -1,0 +1,14 @@
+{
+  "id": "forum-lido-12140",
+  "space": "lido",
+  "headline": "A Lido research post proposes a blueprint for Community Staking Module operators to run hybrid home and cloud setups, plus a provider diversity score, to cut correlated outage and slashing risk.",
+  "summary": "Many permissionless CSM operators rely on the same hosted providers. A single provider outage could take a large group of Lido validators offline or cause correlated penalties. The post proposes two things. First, a standard hybrid blueprint: a low-power home client pair as hot standby, with open-source failover scripts that move validator keys without double-signing. Second, a provider diversity framework to score and steer operators away from concentration. It is research-stage. No budget, owner or timeline is set in the opening post.",
+  "risk_flags": [
+    "key-migration tooling is slashing-sensitive",
+    "no budget yet"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "title": "Mitigating Correlated Risk: Framework for Hybrid CSM Deployments and Provider Diversity Scoring",
+  "url": "https://research.lido.fi/t/mitigating-correlated-risk-framework-for-hybrid-csm-deployments-and-provider-diversity-scoring/12140",
+  "written": "2026-10-26"
+}

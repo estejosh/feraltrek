@@ -1,0 +1,15 @@
+{
+  "id": "forum-compound-8193",
+  "space": "compound",
+  "headline": "A Compound proposal, now pending on-chain, would remove the Community Multisig's power to cancel governance proposals from 1 November 2026, after the multisig cancelled Proposal 618 before voting began.",
+  "summary": "The Community Multisig (5-of-9) holds the Proposal Guardian role, which lets it cancel any proposal until an expiry date. Proposal 538 in February 2026 extended that role by four years, describing it as a fail-safe against malicious or technically unsound proposals. On 22 October 2026 the multisig cancelled Proposal 618 while it was still pending. Proposal 618 concerned the EPCF, a $5M DAO fund. The author says the cancellation took the decision from COMP holders and that signers have not explained it. The new proposal ends only the cancellation power. The multisig keeps its Pause Guardian role and can still pause markets in an emergency. The multisig's side of the story is not in the post.",
+  "risk_flags": [
+    "governance power change",
+    "emergency veto removed",
+    "contested action by multisig"
+  ],
+  "vote": "Pending on-chain, see Tally",
+  "title": "End Community Multisig Cancellation Power",
+  "url": "https://www.comp.xyz/t/end-community-multisig-cancellation-power/8193",
+  "written": "2026-10-26"
+}

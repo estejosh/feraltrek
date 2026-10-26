@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-25926",
+  "space": "aave",
+  "headline": "LlamaRisk recommends raising supply and borrow caps across Aave V4 on Ethereum and Arc, including USDC, USDG, WETH, weETH, LINK and syrupUSDC, citing demand and liquidity.",
+  "summary": "Risk steward update dated 2026-10-26. On Aave V4 Ethereum, the USDC add cap on the Core Hub Main Spoke rises from 50M to 75M, and USDC draw caps rise on the Forex (5M to 8M), Gold (1M to 2M) and Bluechip (6M to 9M) spokes. USDG add cap goes from 90M to 110M and draw cap from 60M to 75M on Main, plus Bluechip draw 5M to 8M. WETH add cap on Main goes from 60K to 90K, the EtherFi spoke WETH draw cap from 45K to 60K, weETH add cap from 55K to 65K, and LINK add cap doubles from 900K to 1.8M. On V4 Arc, the Maple spoke USDC draw cap goes from 46M to 75M and syrupUSDC add cap from 50M to 75M. LlamaRisk cites utilization: the Forex and Bluechip USDC draw caps are at 100%. Hub USDC utilization is 77.9% against a 92% optimal ratio, with 10.82M available.",
+  "risk_flags": [
+    "several caps at 100% utilization",
+    "larger exposure to syrupUSDC and USDG"
+  ],
+  "vote": "Risk steward change, no token vote",
+  "title": "Risk Stewards: Cap Increases on Aave V4 / 2026.10.26",
+  "url": "https://governance.aave.com/t/risk-stewards-cap-increases-on-aave-v4-2026-10-26/25926",
+  "written": "2026-10-26"
+}
