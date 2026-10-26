@@ -17,3 +17,7 @@ Thumbs.db
 
 data/private/
 
+data/proposals/
+__pycache__/
+*.pyc
+agentmail_seen.json
