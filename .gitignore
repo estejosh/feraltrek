@@ -21,3 +21,5 @@ data/proposals/
 __pycache__/
 *.pyc
 agentmail_seen.json
+
+log/_*.txt
