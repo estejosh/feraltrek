@@ -1,0 +1,11 @@
+{
+  "id": "forum-lido-12161",
+  "space": "lido",
+  "title": "LEGO Grant Proposal: Decentralized, Privacy-Preserving EDR",
+  "url": "https://research.lido.fi/t/lego-grant-proposal-decentralized-privacy-preserving-edr/12161",
+  "headline": "Asks Lido's LEGO for $30,000 toward a $300,000 open-source endpoint detection tool (EDR) for crypto teams, built by Auditware.",
+  "summary": "One of four sub-proposals under the TheDAO Security Fund request to LEGO. The post argues that many thefts start with a compromised laptop and that crypto teams avoid commercial EDR because it runs in the kernel and sends private data to a vendor. Auditware would build an open-source, self-hostable EDR that runs in user space on macOS, Windows and Linux, with collected data encrypted unless it matches a detection rule. Half the $300,000 budget ($150,000) pays only on adoption and trust milestones: 25+ Web3-specific detectors, a public review by a recognized Ethereum security organization saying it is safe to install, and 15+ crypto organizations publicly confirming production use. Lido's share is $30,000 (10% of the goal), sent to the initiative Safe 0x6178...0e48 on Ethereum mainnet in USDC, USDT, DAI or USDS, or pledged and sent only if the full goal is raised by February 1, 2027. The post says Lido signers, oracle members and node operators could use it.",
+  "risk_flags": ["grant $30,000", "half of budget tied to adoption", "pledge option expires 2027-02-01"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-27"
+}

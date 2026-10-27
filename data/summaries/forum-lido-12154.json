@@ -1,0 +1,11 @@
+{
+  "id": "forum-lido-12154",
+  "space": "lido",
+  "title": "Funding and Mandating an Independent Web3 Financial Audit & R&D Expenditures",
+  "url": "https://research.lido.fi/t/funding-and-mandating-an-independent-web3-financial-audit-r-d-expenditures/12154",
+  "headline": "A community proposal asks Lido DAO to fund an external financial audit of 2024-2026 R&D, payroll and product spending, with a target budget of $150,000 and a hard cap of $400,000.",
+  "summary": "This forum draft follows an October 13 community post that asked Lido's Core Team and Finance Workgroup for an itemized 2024-2026 financial report. A forum post alleges that the requested reporting was not delivered within the 14-day window; this is the author's claim and has not been confirmed. The proposal would authorize treasury funds for an external Web3 accounting firm (it names Convoy Finance, Llama or Fox Audit as preferred bidders) to publish an itemized report covering R&D and incubation costs for products such as Lido Earn, stVaults, Wisp and Lido Lend, an anonymized breakdown of contributor pay and overhead over 24 months, and product revenue versus deployment cost. Budget: target up to $150,000, hard cap $400,000, payable in USDC, USDT or ETH. Funds would stay in the Lido Treasury (Aragon Agent) until a statement of work is signed. Steakhouse Financial would be appointed as sole negotiator to collect bids and pick the firm within 7 days; the Treasury Management Committee would then pay the auditor directly (e.g. 50% upfront, 50% on delivery). The auditor would get 60 days and post the unedited report on the forum. A 10-day discussion period is planned before a Snapshot vote. Open questions: whether Steakhouse Financial and the named firms have agreed to these roles, and how Lido Labs would be bound to share internal data.",
+  "risk_flags": ["treasury spend up to $400,000 cap", "unverified allegation", "names third parties without stated consent", "community-authored draft"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-27"
+}

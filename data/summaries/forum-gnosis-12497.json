@@ -1,0 +1,11 @@
+{
+  "id": "forum-gnosis-12497",
+  "space": "gnosis",
+  "title": "GIP-XXX: Withdraw assets from the legacy DAO Safe",
+  "url": "https://forum.gnosis.io/t/gip-xxx-withdraw-assets-from-the-legacy-dao-safe/12497",
+  "headline": "GnosisDAO draft proposes sweeping idle tokens and unclaimed rewards from its old Ethereum governance Safe into the current treasury Safe, about $1.7M by the author's estimate.",
+  "summary": "This draft GIP would move assets that still sit in GnosisDAO's legacy Ethereum governance Safe (0x0DA0...5aFe) to the GnosisDAO treasury Safe (0x458c...5e6f). The author lists about 13.4M COW (after converting 12,903,083.57 vCOW to COW), 128,206.65 LDO claimed from Balancer rewards, and 28,634.90 BAL, plus small balances: 50.17 stkAAVE in claimed Aave v2 rewards, 259.29 LUSD, 728.73 1INCH, 0.0095 WETH and 0.683 ETH. The post puts the total at roughly $1.7M. Execution would be ten transactions on Ethereum mainnet run by the legacy Safe's SafeSnap (Reality) module, and the post states every recipient is the treasury Safe. The author reports a Tenderly simulation at block 26,281,494 in which all ten transactions execute and every asset arrives in the treasury Safe; full calldata is published in the post. This is a treasury housekeeping move between two DAO-controlled Safes, not a new spend. Open questions: the GIP number is not yet assigned, no vote date is given, and the dollar figure depends on token prices at the time of writing.",
+  "risk_flags": ["moves ~$1.7M (author estimate) between DAO Safes", "executed via SafeSnap/Reality module", "draft, no GIP number yet"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-27"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "forum-lido-12162",
+  "space": "lido",
+  "title": "LEGO Grant Proposal: Production-Ready Local-First Safe UI",
+  "url": "https://research.lido.fi/t/lego-grant-proposal-production-ready-local-first-safe-ui/12162",
+  "headline": "Asks Lido's LEGO to fund part of a $120,000 open RFP for a self-hosted, open-source Safe multisig interface, so teams are not tied to the hosted Safe{Wallet} frontend.",
+  "summary": "One of four sub-proposals under the TheDAO Security Fund request to LEGO. The RFP, co-drafted by Griff Green and pcaversaccio, would pay for a complete open-source Safe interface that runs on a signer's own computer or from IPFS, needing only an RPC endpoint and a hardware wallet. The post points to the Bybit theft, where a compromised hosted frontend showed signers one transaction while they signed another, as the risk being addressed. No builder is pre-selected. Of the $120,000 goal, $55,000 is tied to adoption (20+ named teams publicly keeping it as their Safe backup, and the team's business model earning at least $20,000) and $20,000 covers 12 months of maintenance. It must support Safe v1.3.0 and v1.4.1, which the post says Lido's LEGO, Treasury Management and Dual Governance Emergency Execution Committee Safes use. The Lido amount is stated inconsistently: $20,000 (17% of the goal) in the header and $25,000 in the budget line and in the umbrella post. Funds go to the initiative Safe 0x2bC9...bDCc on Ethereum mainnet in USDC, USDT, DAI or USDS, or are pledged and sent only if the full goal is raised by February 1, 2027.",
+  "risk_flags": ["grant $20,000-$25,000 (stated inconsistently)", "open RFP, builder not chosen", "pledge option expires 2027-02-01"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-27"
+}

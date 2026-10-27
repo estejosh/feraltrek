@@ -1,0 +1,11 @@
+{
+  "id": "forum-optimism-10939",
+  "space": "optimism",
+  "title": "Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation",
+  "url": "https://gov.optimism.io/t/maintenance-upgrade-proposal-op-mainnet-proposer-rotation/10939",
+  "headline": "OP Labs proposes rotating the proposer key on OP Mainnet's permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.",
+  "summary": "OP Mainnet's operator keys are moving to OP Enterprise infrastructure, targeted for 2026-11-05. Most of the rotation (batcher and unsafe block signer) is handled by the Foundation Upgrade Safe without governance. One item needs the L1 ProxyAdmin owner, a nested 2-of-2 Safe of the Optimism Foundation and the Security Council: changing the proposer of the SUPER_PERMISSIONED dispute game (game type 5) from 0x4733...3A33 to 0xc27b...5bE0. Since Upgrade 20 this is the permissioned fallback game; the respected game (type 9, SUPER_CANNON_KONA) is permissionless and unchanged. The change is one setImplementation call on the DisputeGameFactory that swaps only the proposer field, keeping the same implementation, AnchorStateRegistry and zero bond. The post states no downtime, no protocol behavior change, no user action, and that it is reversible by the same owner. It was rehearsed on OP Sepolia on 2026-10-14. As a Maintenance Upgrade it uses optimistic approval: a one-week veto period from on-chain submission on 2026-10-27 to 2026-11-03, with a 20% veto quorum.",
+  "risk_flags": ["changes permissioned dispute game proposer key", "optimistic approval, veto-only vote", "no code change, reversible"],
+  "vote": "Discussion stage, no vote yet (on-chain veto window stated as 2026-10-27 to 2026-11-03)",
+  "written": "2026-10-27"
+}
