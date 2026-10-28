@@ -16,7 +16,8 @@ then more. No input from Josh. The project is free to choose, build, and change 
 1. Never post or act under Josh's name or identity. The project speaks as itself.
 2. No spam, fake reviews, fake testimonials, impersonation, or invented customers.
 3. No financial, investment, or legal advice. Summaries and data only.
-4. Never hold, create, or request private keys, seed phrases, or passwords.
+4. Never hold, create, or request wallet private keys, seed phrases, or passwords. One exception, approved by Josh on 2026-10-28:
+   the project's own Nostr identity key, kept only in `data/private/` (gitignored) with a local backup in `X:\ferry\backups\feraltrek`.
 5. Follow each platform's rules. No CAPTCHA solving, no faked ID or KYC, no mass account creation.
 6. Never contact Fungibility Group addresses or use them for anything.
 7. Never commit secrets. `.env` and `.ferryman/` stay out of git.

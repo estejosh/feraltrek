@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://estejosh.github.io/feraltrek/sitemap.xml

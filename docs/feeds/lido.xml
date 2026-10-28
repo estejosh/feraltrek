@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: lido</title><link>https://estejosh.github.io/feraltrek/</link>
+<description>New DAO governance proposals and discussions, summarized in plain English.</description>
+<lastBuildDate>Wed, 28 Oct 2026 18:03:41 +0000</lastBuildDate>
+<item><title>LEGO Grant Proposal: Preventing Theft in Mainstream Wallets with Vaults (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-preventing-theft-in-mainstream-wallets-with-vaults--12163.html</link>
+<guid isPermaLink="false">forum-lido-12163</guid><pubDate>Tue, 27 Oct 2026 10:55:05 +0000</pubDate>
+<description>Asks Lido&#x27;s LEGO to pledge $30,000 toward a $240,000 effort to get mainstream wallets to ship spending-limited savings vaults that limit losses from stolen seed phrases.</description></item>
+<item><title>LEGO Grant Proposal: Production-Ready Local-First Safe UI (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-production-ready-local-first-safe-ui--12162.html</link>
+<guid isPermaLink="false">forum-lido-12162</guid><pubDate>Tue, 27 Oct 2026 10:54:01 +0000</pubDate>
+<description>Asks Lido&#x27;s LEGO to fund part of a $120,000 open RFP for a self-hosted, open-source Safe multisig interface, so teams are not tied to the hosted Safe{Wallet} frontend.</description></item>
+<item><title>LEGO Grant Proposal: Decentralized, Privacy-Preserving EDR (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-decentralized-privacy-preserving-edr--12161.html</link>
+<guid isPermaLink="false">forum-lido-12161</guid><pubDate>Tue, 27 Oct 2026 10:52:07 +0000</pubDate>
+<description>Asks Lido&#x27;s LEGO for $30,000 toward a $300,000 open-source endpoint detection tool (EDR) for crypto teams, built by Auditware.</description></item>
+<item><title>LEGO Grant Proposal: Assertions for Safes, Enforced on Every Transaction (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-assertions-for-safes-enforced-on-every-transaction--12160.html</link>
+<guid isPermaLink="false">forum-lido-12160</guid><pubDate>Tue, 27 Oct 2026 10:50:26 +0000</pubDate>
+<description>Asks Lido&#x27;s LEGO to put $10,000 toward a $75,000 Blossom Labs project that adds transaction-checking rules (assertions) directly to Safe multisigs.</description></item>
+<item><title>LEGO Grant Proposal: Fixing Shared Problems Before They Turn Into Lost Funds (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-fixing-shared-problems-before-they-turn-into-lost-funds--12159.html</link>
+<guid isPermaLink="false">forum-lido-12159</guid><pubDate>Tue, 27 Oct 2026 10:47:07 +0000</pubDate>
+<description>TheDAO Security Fund asks Lido&#x27;s LEGO grants program to back four Ethereum security projects with $95,000 total, either sent now or pledged until each project is fully funded.</description></item>
+<item><title>Funding and Mandating an Independent Web3 Financial Audit &amp; R&amp;D Expenditures (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-funding-and-mandating-an-independent-web3-financial-audit-r-d-expenditures--12154.html</link>
+<guid isPermaLink="false">forum-lido-12154</guid><pubDate>Tue, 27 Oct 2026 04:14:45 +0000</pubDate>
+<description>A community proposal asks Lido DAO to fund an external financial audit of 2024-2026 R&amp;D, payroll and product spending, with a target budget of $150,000 and a hard cap of $400,000.</description></item>
+<item><title>Mitigating Correlated Risk: Framework for Hybrid CSM Deployments and Provider Diversity Scoring (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-mitigating-correlated-risk-framework-for-hybrid-csm-deployments-and-provide--12140.html</link>
+<guid isPermaLink="false">forum-lido-12140</guid><pubDate>Mon, 26 Oct 2026 00:45:17 +0000</pubDate>
+<description>A Lido research post proposes a blueprint for Community Staking Module operators to run hybrid home and cloud setups, plus a provider diversity score, to cut correlated outage and slashing risk.</description></item>
+</channel></rss>

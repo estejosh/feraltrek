@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: ens</title><link>https://estejosh.github.io/feraltrek/</link>
+<description>New DAO governance proposals and discussions, summarized in plain English.</description>
+<lastBuildDate>Wed, 28 Oct 2026 18:03:41 +0000</lastBuildDate>
+<item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-draft-social-ips-amendment-no-2-ips-amendment-authority--22515.html</link>
+<guid isPermaLink="false">forum-ens-22515</guid><pubDate>Tue, 27 Oct 2026 22:11:03 +0000</pubDate>
+<description>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</description></item>
+<item><title>[Social] [7.3] Select OpenZeppelin to audit Governor Nexus (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-social-7-3-select-openzeppelin-to-audit-governor-nexus-a7a0e0.html</link>
+<guid isPermaLink="false">0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0</guid><pubDate>Mon, 26 Oct 2026 17:37:05 +0000</pubDate>
+<description>ENS is voting on hiring OpenZeppelin to audit Governor Nexus, its new governance contracts, before any deployment. The audit is paid from an existing working-group budget, with no new DAO funding.</description></item>
+</channel></rss>

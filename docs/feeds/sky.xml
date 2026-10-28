@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
+<description>New DAO governance proposals and discussions, summarized in plain English.</description>
+<lastBuildDate>Wed, 28 Oct 2026 18:03:41 +0000</lastBuildDate>
+<item><title>[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer--28359.html</link>
+<guid isPermaLink="false">forum-sky-28359</guid><pubDate>Wed, 28 Oct 2026 09:06:25 +0000</pubDate>
+<description>Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.</description></item>
+<item><title>Technical scope of the Beacon and Configurator launch on Base (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-beacon-and-configurator-launch-on-base--28358.html</link>
+<guid isPermaLink="false">forum-sky-28358</guid><pubDate>Wed, 28 Oct 2026 08:55:47 +0000</pubDate>
+<description>Proposes launching the PAS/Configurator module on Base so trusted operator groups can adjust rate limits and remove facets on Spark&#x27;s Diamond PAU without a spell, with the Timelock initially paused.</description></item>
+<item><title>SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum--28355.html</link>
+<guid isPermaLink="false">forum-sky-28355</guid><pubDate>Tue, 27 Oct 2026 15:56:06 +0000</pubDate>
+<description>Zyfai asks for feedback on a 90-day pilot where Spark&#x27;s Liquidity Layer would allocate up to 10M USDC to a Zyfai-managed Safe that rebalances across Ethereum USDC lending venues.</description></item>
+<item><title>[November 5, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-5-2026-proposed-changes-to-spark-for-upcoming-spell--28351.html</link>
+<guid isPermaLink="false">forum-sky-28351</guid><pubDate>Mon, 26 Oct 2026 02:57:20 +0000</pubDate>
+<description>Spark&#x27;s 5 November spell proposes six changes on Base and Ethereum, including a new Base controller and USDC route to Ethereum and onboarding OUSD, plus one Sky Core change.</description></item>
+</channel></rss>

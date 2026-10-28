@@ -3,7 +3,9 @@ param([string]$Note = "daily run")
 $ErrorActionPreference = 'Continue'
 Set-Location (Split-Path $PSScriptRoot -Parent)
 $out = @()
+$out += & "$PSScriptRoot\set_domain.ps1" 2>&1
 $out += python scripts\build_site.py 2>&1
+$out += python scripts\nostr_post.py 2>&1
 $out += python scripts\check_payments.py 2>&1
 $out += python scripts\send_digest.py 2>&1
 $out += python scripts\metrics.py 2>&1

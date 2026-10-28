@@ -1,71 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>
-<title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 28 Oct 2026 13:00:52 +0000</lastBuildDate>
-<item><title>[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer (sky)</title><link>https://forum.sky.money/t/november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer/28359</link>
+<lastBuildDate>Wed, 28 Oct 2026 18:03:41 +0000</lastBuildDate>
+<item><title>[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer--28359.html</link>
 <guid isPermaLink="false">forum-sky-28359</guid><pubDate>Wed, 28 Oct 2026 09:06:25 +0000</pubDate>
 <description>Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.</description></item>
-<item><title>Technical scope of the Beacon and Configurator launch on Base (sky)</title><link>https://forum.sky.money/t/technical-scope-of-the-beacon-and-configurator-launch-on-base/28358</link>
+<item><title>Technical scope of the Beacon and Configurator launch on Base (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-beacon-and-configurator-launch-on-base--28358.html</link>
 <guid isPermaLink="false">forum-sky-28358</guid><pubDate>Wed, 28 Oct 2026 08:55:47 +0000</pubDate>
 <description>Proposes launching the PAS/Configurator module on Base so trusted operator groups can adjust rate limits and remove facets on Spark&#x27;s Diamond PAU without a spell, with the Timelock initially paused.</description></item>
-<item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://discuss.ens.domains/t/draft-social-ips-amendment-no-2-ips-amendment-authority/22515</link>
+<item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-draft-social-ips-amendment-no-2-ips-amendment-authority--22515.html</link>
 <guid isPermaLink="false">forum-ens-22515</guid><pubDate>Tue, 27 Oct 2026 22:11:03 +0000</pubDate>
 <description>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</description></item>
-<item><title>SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum (sky)</title><link>https://forum.sky.money/t/sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum/28355</link>
+<item><title>SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum--28355.html</link>
 <guid isPermaLink="false">forum-sky-28355</guid><pubDate>Tue, 27 Oct 2026 15:56:06 +0000</pubDate>
 <description>Zyfai asks for feedback on a 90-day pilot where Spark&#x27;s Liquidity Layer would allocate up to 10M USDC to a Zyfai-managed Safe that rebalances across Ethereum USDC lending venues.</description></item>
-<item><title>27 October, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://forum.arbitrum.foundation/t/27-october-2026-roundup-of-active-upcoming-votes/31622</link>
+<item><title>27 October, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-27-october-2026-roundup-of-active-upcoming-votes--31622.html</link>
 <guid isPermaLink="false">forum-arbitrum-31622</guid><pubDate>Tue, 27 Oct 2026 13:49:28 +0000</pubDate>
 <description>Roundup lists three upcoming Arbitrum on-chain proposals, all with voting starting October 29: a USDG initiative with 100M ARB for DRIP, a 1,800 ETH treasury transfer, and L1-pricing parameter updates for Glamsterdam.</description></item>
-<item><title>Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation (optimism)</title><link>https://gov.optimism.io/t/maintenance-upgrade-proposal-op-mainnet-proposer-rotation/10939</link>
+<item><title>Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-op-mainnet-proposer-rotation--10939.html</link>
 <guid isPermaLink="false">forum-optimism-10939</guid><pubDate>Tue, 27 Oct 2026 13:00:09 +0000</pubDate>
 <description>OP Labs proposes rotating the proposer key on OP Mainnet&#x27;s permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.</description></item>
-<item><title>LEGO Grant Proposal: Preventing Theft in Mainstream Wallets with Vaults (lido)</title><link>https://research.lido.fi/t/lego-grant-proposal-preventing-theft-in-mainstream-wallets-with-vaults/12163</link>
+<item><title>LEGO Grant Proposal: Preventing Theft in Mainstream Wallets with Vaults (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-preventing-theft-in-mainstream-wallets-with-vaults--12163.html</link>
 <guid isPermaLink="false">forum-lido-12163</guid><pubDate>Tue, 27 Oct 2026 10:55:05 +0000</pubDate>
 <description>Asks Lido&#x27;s LEGO to pledge $30,000 toward a $240,000 effort to get mainstream wallets to ship spending-limited savings vaults that limit losses from stolen seed phrases.</description></item>
-<item><title>LEGO Grant Proposal: Production-Ready Local-First Safe UI (lido)</title><link>https://research.lido.fi/t/lego-grant-proposal-production-ready-local-first-safe-ui/12162</link>
+<item><title>LEGO Grant Proposal: Production-Ready Local-First Safe UI (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-production-ready-local-first-safe-ui--12162.html</link>
 <guid isPermaLink="false">forum-lido-12162</guid><pubDate>Tue, 27 Oct 2026 10:54:01 +0000</pubDate>
 <description>Asks Lido&#x27;s LEGO to fund part of a $120,000 open RFP for a self-hosted, open-source Safe multisig interface, so teams are not tied to the hosted Safe{Wallet} frontend.</description></item>
-<item><title>LEGO Grant Proposal: Decentralized, Privacy-Preserving EDR (lido)</title><link>https://research.lido.fi/t/lego-grant-proposal-decentralized-privacy-preserving-edr/12161</link>
+<item><title>LEGO Grant Proposal: Decentralized, Privacy-Preserving EDR (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-decentralized-privacy-preserving-edr--12161.html</link>
 <guid isPermaLink="false">forum-lido-12161</guid><pubDate>Tue, 27 Oct 2026 10:52:07 +0000</pubDate>
 <description>Asks Lido&#x27;s LEGO for $30,000 toward a $300,000 open-source endpoint detection tool (EDR) for crypto teams, built by Auditware.</description></item>
-<item><title>LEGO Grant Proposal: Assertions for Safes, Enforced on Every Transaction (lido)</title><link>https://research.lido.fi/t/lego-grant-proposal-assertions-for-safes-enforced-on-every-transaction/12160</link>
+<item><title>LEGO Grant Proposal: Assertions for Safes, Enforced on Every Transaction (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-assertions-for-safes-enforced-on-every-transaction--12160.html</link>
 <guid isPermaLink="false">forum-lido-12160</guid><pubDate>Tue, 27 Oct 2026 10:50:26 +0000</pubDate>
 <description>Asks Lido&#x27;s LEGO to put $10,000 toward a $75,000 Blossom Labs project that adds transaction-checking rules (assertions) directly to Safe multisigs.</description></item>
-<item><title>LEGO Grant Proposal: Fixing Shared Problems Before They Turn Into Lost Funds (lido)</title><link>https://research.lido.fi/t/lego-grant-proposal-fixing-shared-problems-before-they-turn-into-lost-funds/12159</link>
+<item><title>LEGO Grant Proposal: Fixing Shared Problems Before They Turn Into Lost Funds (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-fixing-shared-problems-before-they-turn-into-lost-funds--12159.html</link>
 <guid isPermaLink="false">forum-lido-12159</guid><pubDate>Tue, 27 Oct 2026 10:47:07 +0000</pubDate>
 <description>TheDAO Security Fund asks Lido&#x27;s LEGO grants program to back four Ethereum security projects with $95,000 total, either sent now or pledged until each project is fully funded.</description></item>
-<item><title>Funding and Mandating an Independent Web3 Financial Audit &amp; R&amp;D Expenditures (lido)</title><link>https://research.lido.fi/t/funding-and-mandating-an-independent-web3-financial-audit-r-d-expenditures/12154</link>
+<item><title>Funding and Mandating an Independent Web3 Financial Audit &amp; R&amp;D Expenditures (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-funding-and-mandating-an-independent-web3-financial-audit-r-d-expenditures--12154.html</link>
 <guid isPermaLink="false">forum-lido-12154</guid><pubDate>Tue, 27 Oct 2026 04:14:45 +0000</pubDate>
 <description>A community proposal asks Lido DAO to fund an external financial audit of 2024-2026 R&amp;D, payroll and product spending, with a target budget of $150,000 and a hard cap of $400,000.</description></item>
-<item><title>GIP-XXX: Withdraw assets from the legacy DAO Safe (gnosis)</title><link>https://forum.gnosis.io/t/gip-xxx-withdraw-assets-from-the-legacy-dao-safe/12497</link>
+<item><title>GIP-XXX: Withdraw assets from the legacy DAO Safe (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-gip-xxx-withdraw-assets-from-the-legacy-dao-safe--12497.html</link>
 <guid isPermaLink="false">forum-gnosis-12497</guid><pubDate>Tue, 27 Oct 2026 04:08:13 +0000</pubDate>
 <description>GnosisDAO draft proposes sweeping idle tokens and unclaimed rewards from its old Ethereum governance Safe into the current treasury Safe, about $1.7M by the author&#x27;s estimate.</description></item>
-<item><title>Tether America USD (USAT) on Aave Avalanche Assessments (aave)</title><link>https://governance.aave.com/t/tether-america-usd-usat-on-aave-avalanche-assessments/25927</link>
+<item><title>Tether America USD (USAT) on Aave Avalanche Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tether-america-usd-usat-on-aave-avalanche-assessments--25927.html</link>
 <guid isPermaLink="false">forum-aave-25927</guid><pubDate>Mon, 26 Oct 2026 20:31:49 +0000</pubDate>
 <description>Aave opened the assessment thread for listing Tether America USD (USAT) on Aave Avalanche.</description></item>
-<item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.10.26 (aave)</title><link>https://governance.aave.com/t/risk-stewards-cap-increases-on-aave-v4-2026-10-26/25926</link>
+<item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.10.26 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-increases-on-aave-v4-2026-10-26--25926.html</link>
 <guid isPermaLink="false">forum-aave-25926</guid><pubDate>Mon, 26 Oct 2026 19:42:34 +0000</pubDate>
 <description>LlamaRisk recommends raising supply and borrow caps across Aave V4 on Ethereum and Arc, including USDC, USDG, WETH, weETH, LINK and syrupUSDC, citing demand and liquidity.</description></item>
-<item><title>[Social] [7.3] Select OpenZeppelin to audit Governor Nexus (ens.eth)</title><link>https://snapshot.org/#/ens.eth/proposal/0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0</link>
+<item><title>[Social] [7.3] Select OpenZeppelin to audit Governor Nexus (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-social-7-3-select-openzeppelin-to-audit-governor-nexus-a7a0e0.html</link>
 <guid isPermaLink="false">0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0</guid><pubDate>Mon, 26 Oct 2026 17:37:05 +0000</pubDate>
 <description>ENS is voting on hiring OpenZeppelin to audit Governor Nexus, its new governance contracts, before any deployment. The audit is paid from an existing working-group budget, with no new DAO funding.</description></item>
-<item><title>Atomic Launchpad: a token launchpad going live on Arbitrum One (arbitrum)</title><link>https://forum.arbitrum.foundation/t/atomic-launchpad-a-token-launchpad-going-live-on-arbitrum-one/31619</link>
+<item><title>Atomic Launchpad: a token launchpad going live on Arbitrum One (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-atomic-launchpad-a-token-launchpad-going-live-on-arbitrum-one--31619.html</link>
 <guid isPermaLink="false">forum-arbitrum-31619</guid><pubDate>Mon, 26 Oct 2026 14:02:53 +0000</pubDate>
 <description>Timeus Lab introduces Atomic Launchpad, a bonding-curve token launchpad it planned to deploy on Arbitrum One on the night of October 26-27, and asks delegates what support they would consider. No funding is requested.</description></item>
-<item><title>End Community Multisig Cancellation Power (compound)</title><link>https://www.comp.xyz/t/end-community-multisig-cancellation-power/8193</link>
+<item><title>End Community Multisig Cancellation Power (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-end-community-multisig-cancellation-power-d-8193.html</link>
 <guid isPermaLink="false">forum-compound-8193</guid><pubDate>Mon, 26 Oct 2026 12:50:21 +0000</pubDate>
 <description>A Compound proposal, now pending on-chain, would remove the Community Multisig&#x27;s power to cancel governance proposals from 1 November 2026, after the multisig cancelled Proposal 618 before voting began.</description></item>
-<item><title>[November 5, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://forum.sky.money/t/november-5-2026-proposed-changes-to-spark-for-upcoming-spell/28351</link>
+<item><title>[November 5, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-5-2026-proposed-changes-to-spark-for-upcoming-spell--28351.html</link>
 <guid isPermaLink="false">forum-sky-28351</guid><pubDate>Mon, 26 Oct 2026 02:57:20 +0000</pubDate>
 <description>Spark&#x27;s 5 November spell proposes six changes on Base and Ethereum, including a new Base controller and USDC route to Ethereum and onboarding OUSD, plus one Sky Core change.</description></item>
-<item><title>Mitigating Correlated Risk: Framework for Hybrid CSM Deployments and Provider Diversity Scoring (lido)</title><link>https://research.lido.fi/t/mitigating-correlated-risk-framework-for-hybrid-csm-deployments-and-provider-diversity-scoring/12140</link>
+<item><title>Mitigating Correlated Risk: Framework for Hybrid CSM Deployments and Provider Diversity Scoring (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-mitigating-correlated-risk-framework-for-hybrid-csm-deployments-and-provide--12140.html</link>
 <guid isPermaLink="false">forum-lido-12140</guid><pubDate>Mon, 26 Oct 2026 00:45:17 +0000</pubDate>
 <description>A Lido research post proposes a blueprint for Community Staking Module operators to run hybrid home and cloud setups, plus a provider diversity score, to cut correlated outage and slashing risk.</description></item>
-<item><title>Should GnosisDAO fund an open-source integrity monitor for Gnosis bridges and consensus contracts? (gnosis)</title><link>https://forum.gnosis.io/t/should-gnosisdao-fund-an-open-source-integrity-monitor-for-gnosis-bridges-and-consensus-contracts/12493</link>
+<item><title>Should GnosisDAO fund an open-source integrity monitor for Gnosis bridges and consensus contracts? (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-should-gnosisdao-fund-an-open-source-integrity-monitor-for-gnosis-bridges--12493.html</link>
 <guid isPermaLink="false">forum-gnosis-12493</guid><pubDate>Sun, 25 Oct 2026 08:17:53 +0000</pubDate>
 <description>A builder asks GnosisDAO to fund an open-source monitor that alerts when Gnosis bridge or consensus contracts are upgraded or their admins change. Retroactive pay plus an ongoing amount.</description></item>
-<item><title>Global Dollar (USDG) on Aave Arbitrum Assessments (aave)</title><link>https://governance.aave.com/t/global-dollar-usdg-on-aave-arbitrum-assessments/25912</link>
+<item><title>Global Dollar (USDG) on Aave Arbitrum Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-global-dollar-usdg-on-aave-arbitrum-assessments--25912.html</link>
 <guid isPermaLink="false">forum-aave-25912</guid><pubDate>Sat, 24 Oct 2026 10:09:53 +0000</pubDate>
 <description>Aave opened the risk and technical assessment thread for listing Global Dollar (USDG) on Aave Arbitrum.</description></item>
 </channel></rss>
