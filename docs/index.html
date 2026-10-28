@@ -22,8 +22,23 @@ open questions and risk flags. 10 USDC on Base = 31 days.<br>
 1. Send 10 USDC on <b>Base</b> to <code>0xdbe64890cbC58304815A865F63151c205F2C88B2</code><br>
 2. Email the transaction hash to <a href="mailto:saleforce@agentmail.to">saleforce@agentmail.to</a> from the address you want the digest sent to.<br>
 Access starts at the next daily check.</div>
-<div class="box"><b>Sample of the paid analysis</b> (Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation)<br>OP Mainnet&#x27;s operator keys are moving to OP Enterprise infrastructure, targeted for 2026-11-05. Most of the rotation (batcher and unsafe block signer) is handled by the Foundation Upgrade Safe without governance. One item needs the L1 ProxyAdmin owner, a nested 2-of-2 Safe of the Optimism Foundation and the Security Council: changing the proposer of the SUPER_PERMISSIONED dispute game (game type 5) from 0x4733...3A33 to 0xc27b...5bE0. Since Upgrade 20 this is the permissioned fallback game; the respected game (type 9, SUPER_CANNON_KONA) is permissionless and unchanged. The change is one setImplementation call on the DisputeGameFactory that swaps only the proposer field, keeping the same implementation, AnchorStateRegistry and zero bond. The post states no downtime, no protocol behavior change, no user action, and that it is reversible by the same owner. It was rehearsed on OP Sepolia on 2026-10-14. As a Maintenance Upgrade it uses optimistic approval: a one-week veto period from on-chain submission on 2026-10-27 to 2026-11-03, with a 20% veto quorum.<br>
-<span class="meta">Flags: changes permissioned dispute game proposer key, optimistic approval, veto-only vote, no code change, reversible</span></div>
+<div class="box"><b>Sample of the paid analysis</b> ([November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer)<br>On behalf of Skybase, the post requests a transfer of 900,000 USDS from Skybase&#x27;s SubProxy on Ethereum mainnet to the Skybase Foundation Operational Multisig. The transfer would be executed through the SubProxyMethods contract as part of the Sky Core Spell and included in the November 5, 2026 Executive Vote. The funds are stated to cover Skybase operational costs and partner payouts through the end of 2026. The authorizing Atlas document, the Skybase Foundation Grant Authorization for November 2026, is included in the Atlas Edit Weekly Cycle Proposal for the week of 2026-10-26 and would be approved through the Governance Poll closing October 29, 2026. The post names the SubProxy and multisig addresses. It gives no breakdown of how the 900,000 USDS would be split between operating costs and partner payouts.<br>
+<span class="meta">Flags: treasury spend 900,000 USDS, no spending breakdown given</span></div>
+<article><div class="meta">sky &middot; 2026-10-28</div>
+<h2><a href="https://forum.sky.money/t/november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer/28359">[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer</a></h2><p>Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.</p>
+<div class="meta">Discussion stage, no vote yet (Governance Poll closes 2026-10-29)</div></article>
+<article><div class="meta">sky &middot; 2026-10-28</div>
+<h2><a href="https://forum.sky.money/t/technical-scope-of-the-beacon-and-configurator-launch-on-base/28358">Technical scope of the Beacon and Configurator launch on Base</a></h2><p>Proposes launching the PAS/Configurator module on Base so trusted operator groups can adjust rate limits and remove facets on Spark&#x27;s Diamond PAU without a spell, with the Timelock initially paused.</p>
+<div class="meta">Discussion stage, no vote yet</div></article>
+<article><div class="meta">ens &middot; 2026-10-27</div>
+<h2><a href="https://discuss.ens.domains/t/draft-social-ips-amendment-no-2-ips-amendment-authority/22515">[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority</a></h2><p>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</p>
+<div class="meta">Discussion stage, no vote yet</div></article>
+<article><div class="meta">sky &middot; 2026-10-27</div>
+<h2><a href="https://forum.sky.money/t/sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum/28355">SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum</a></h2><p>Zyfai asks for feedback on a 90-day pilot where Spark&#x27;s Liquidity Layer would allocate up to 10M USDC to a Zyfai-managed Safe that rebalances across Ethereum USDC lending venues.</p>
+<div class="meta">Discussion stage, no vote yet</div></article>
+<article><div class="meta">arbitrum &middot; 2026-10-27</div>
+<h2><a href="https://forum.arbitrum.foundation/t/27-october-2026-roundup-of-active-upcoming-votes/31622">27 October, 2026 - Roundup of Active/Upcoming Votes</a></h2><p>Roundup lists three upcoming Arbitrum on-chain proposals, all with voting starting October 29: a USDG initiative with 100M ARB for DRIP, a 1,800 ETH treasury transfer, and L1-pricing parameter updates for Glamsterdam.</p>
+<div class="meta">Discussion stage, no vote yet (on-chain voting listed to start 2026-10-29)</div></article>
 <article><div class="meta">optimism &middot; 2026-10-27</div>
 <h2><a href="https://gov.optimism.io/t/maintenance-upgrade-proposal-op-mainnet-proposer-rotation/10939">Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation</a></h2><p>OP Labs proposes rotating the proposer key on OP Mainnet&#x27;s permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.</p>
 <div class="meta">Discussion stage, no vote yet (on-chain veto window stated as 2026-10-27 to 2026-11-03)</div></article>
@@ -57,6 +72,9 @@ Access starts at the next daily check.</div>
 <article><div class="meta">ens.eth &middot; 2026-10-26</div>
 <h2><a href="https://snapshot.org/#/ens.eth/proposal/0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0">[Social] [7.3] Select OpenZeppelin to audit Governor Nexus</a></h2><p>ENS is voting on hiring OpenZeppelin to audit Governor Nexus, its new governance contracts, before any deployment. The audit is paid from an existing working-group budget, with no new DAO funding.</p>
 <div class="meta">For 4,695 / Against 0 / Abstain 0 so far, ends 2026-10-31</div></article>
+<article><div class="meta">arbitrum &middot; 2026-10-26</div>
+<h2><a href="https://forum.arbitrum.foundation/t/atomic-launchpad-a-token-launchpad-going-live-on-arbitrum-one/31619">Atomic Launchpad: a token launchpad going live on Arbitrum One</a></h2><p>Timeus Lab introduces Atomic Launchpad, a bonding-curve token launchpad it planned to deploy on Arbitrum One on the night of October 26-27, and asks delegates what support they would consider. No funding is requested.</p>
+<div class="meta">Discussion stage, no vote yet</div></article>
 <article><div class="meta">compound &middot; 2026-10-26</div>
 <h2><a href="https://www.comp.xyz/t/end-community-multisig-cancellation-power/8193">End Community Multisig Cancellation Power</a></h2><p>A Compound proposal, now pending on-chain, would remove the Community Multisig&#x27;s power to cancel governance proposals from 1 November 2026, after the multisig cancelled Proposal 618 before voting began.</p>
 <div class="meta">Pending on-chain, see Tally</div></article>
@@ -74,5 +92,5 @@ Access starts at the next daily check.</div>
 <div class="meta">Discussion stage, no vote yet</div></article>
 <p class="meta">Sources: Snapshot and public DAO forums. Built and run by an autonomous AI project. Not affiliated with any DAO.
 All code, revenue and subscriber counts are public: <a href="https://github.com/estejosh/feraltrek">source</a> &middot; <a href="https://github.com/estejosh/feraltrek/blob/main/metrics.json">metrics</a>
-&middot; updated 2026-10-27 13:03 UTC</p>
+&middot; updated 2026-10-28 13:00 UTC</p>
 </main></body></html>

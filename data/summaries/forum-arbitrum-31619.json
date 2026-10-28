@@ -1,0 +1,11 @@
+{
+  "id": "forum-arbitrum-31619",
+  "space": "arbitrum",
+  "title": "Atomic Launchpad: a token launchpad going live on Arbitrum One",
+  "url": "https://forum.arbitrum.foundation/t/atomic-launchpad-a-token-launchpad-going-live-on-arbitrum-one/31619",
+  "headline": "Timeus Lab introduces Atomic Launchpad, a bonding-curve token launchpad it planned to deploy on Arbitrum One on the night of October 26-27, and asks delegates what support they would consider. No funding is requested.",
+  "summary": "The Timeus Lab team introduces Atomic Launchpad, which lets anyone launch a token for 0.0005 ETH. Tokens trade on a bonding curve and, once the curve fills, graduate into their own Uniswap v4 pool with the liquidity position locked permanently. For the first 72 hours after deployment a token graduates at 0.01 ETH raised; after that the bar rises every 4 hours, reaching 4.2 ETH by day 30. Each trade pays a 1% base fee, and a creator can add up to 10% on top, fixed at launch. Creators keep 70% of the fee and the protocol keeps 30%. The post cites DefiLlama as listing 11 launchpads on Arbitrum that together earned under $2 in fees over the last 30 days (checked October 26). The product is live on Ethereum Sepolia testnet. The contracts have not been audited; the team says it plans to audit before scaling. The team plans to post contract addresses after deployment and usage numbers after day 3, 7 and 30, and says it may later add graduated tokens to its leveraged trading protocol, atomic.green. The post asks delegates what kind of support they would consider once there are numbers, and what they would want to see first. Open questions: audit timing and results, actual usage after launch, and whether this thread is the right place for the discussion.",
+  "risk_flags": ["unaudited contracts", "new protocol, no usage data yet", "no funding requested yet"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-28"
+}

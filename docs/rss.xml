@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>
 <title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 27 Oct 2026 13:03:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 13:00:52 +0000</lastBuildDate>
+<item><title>[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer (sky)</title><link>https://forum.sky.money/t/november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer/28359</link>
+<guid isPermaLink="false">forum-sky-28359</guid><pubDate>Wed, 28 Oct 2026 09:06:25 +0000</pubDate>
+<description>Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.</description></item>
+<item><title>Technical scope of the Beacon and Configurator launch on Base (sky)</title><link>https://forum.sky.money/t/technical-scope-of-the-beacon-and-configurator-launch-on-base/28358</link>
+<guid isPermaLink="false">forum-sky-28358</guid><pubDate>Wed, 28 Oct 2026 08:55:47 +0000</pubDate>
+<description>Proposes launching the PAS/Configurator module on Base so trusted operator groups can adjust rate limits and remove facets on Spark&#x27;s Diamond PAU without a spell, with the Timelock initially paused.</description></item>
+<item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://discuss.ens.domains/t/draft-social-ips-amendment-no-2-ips-amendment-authority/22515</link>
+<guid isPermaLink="false">forum-ens-22515</guid><pubDate>Tue, 27 Oct 2026 22:11:03 +0000</pubDate>
+<description>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</description></item>
+<item><title>SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum (sky)</title><link>https://forum.sky.money/t/sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum/28355</link>
+<guid isPermaLink="false">forum-sky-28355</guid><pubDate>Tue, 27 Oct 2026 15:56:06 +0000</pubDate>
+<description>Zyfai asks for feedback on a 90-day pilot where Spark&#x27;s Liquidity Layer would allocate up to 10M USDC to a Zyfai-managed Safe that rebalances across Ethereum USDC lending venues.</description></item>
+<item><title>27 October, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://forum.arbitrum.foundation/t/27-october-2026-roundup-of-active-upcoming-votes/31622</link>
+<guid isPermaLink="false">forum-arbitrum-31622</guid><pubDate>Tue, 27 Oct 2026 13:49:28 +0000</pubDate>
+<description>Roundup lists three upcoming Arbitrum on-chain proposals, all with voting starting October 29: a USDG initiative with 100M ARB for DRIP, a 1,800 ETH treasury transfer, and L1-pricing parameter updates for Glamsterdam.</description></item>
 <item><title>Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation (optimism)</title><link>https://gov.optimism.io/t/maintenance-upgrade-proposal-op-mainnet-proposer-rotation/10939</link>
 <guid isPermaLink="false">forum-optimism-10939</guid><pubDate>Tue, 27 Oct 2026 13:00:09 +0000</pubDate>
 <description>OP Labs proposes rotating the proposer key on OP Mainnet&#x27;s permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.</description></item>
@@ -35,6 +50,9 @@
 <item><title>[Social] [7.3] Select OpenZeppelin to audit Governor Nexus (ens.eth)</title><link>https://snapshot.org/#/ens.eth/proposal/0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0</link>
 <guid isPermaLink="false">0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0</guid><pubDate>Mon, 26 Oct 2026 17:37:05 +0000</pubDate>
 <description>ENS is voting on hiring OpenZeppelin to audit Governor Nexus, its new governance contracts, before any deployment. The audit is paid from an existing working-group budget, with no new DAO funding.</description></item>
+<item><title>Atomic Launchpad: a token launchpad going live on Arbitrum One (arbitrum)</title><link>https://forum.arbitrum.foundation/t/atomic-launchpad-a-token-launchpad-going-live-on-arbitrum-one/31619</link>
+<guid isPermaLink="false">forum-arbitrum-31619</guid><pubDate>Mon, 26 Oct 2026 14:02:53 +0000</pubDate>
+<description>Timeus Lab introduces Atomic Launchpad, a bonding-curve token launchpad it planned to deploy on Arbitrum One on the night of October 26-27, and asks delegates what support they would consider. No funding is requested.</description></item>
 <item><title>End Community Multisig Cancellation Power (compound)</title><link>https://www.comp.xyz/t/end-community-multisig-cancellation-power/8193</link>
 <guid isPermaLink="false">forum-compound-8193</guid><pubDate>Mon, 26 Oct 2026 12:50:21 +0000</pubDate>
 <description>A Compound proposal, now pending on-chain, would remove the Community Multisig&#x27;s power to cancel governance proposals from 1 November 2026, after the multisig cancelled Proposal 618 before voting began.</description></item>

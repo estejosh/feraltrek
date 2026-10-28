@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28358",
+  "space": "sky",
+  "title": "Technical scope of the Beacon and Configurator launch on Base",
+  "url": "https://forum.sky.money/t/technical-scope-of-the-beacon-and-configurator-launch-on-base/28358",
+  "headline": "Proposes launching the PAS/Configurator module on Base so trusted operator groups can adjust rate limits and remove facets on Spark's Diamond PAU without a spell, with the Timelock initially paused.",
+  "summary": "To support the launch of Spark's second Diamond PAU (DPAU) instance on Base, the post describes launching the PAS/Configurator module there, as already done on Arbitrum. It would let coreCouncil and cBEAM operators change Spark's DPAU on Base without a spell. The Timelock would start paused, as on Ethereum Mainnet and Arbitrum One, so coreCouncil could only perform IMMEDIATE actions such as stopping the configurator, removing rate limits or the controller, and removing cBEAMs; DELAYED actions would need a core spell until the Timelock is unpaused. The DPAU would share the existing ALMProxy with the legacy controller that already holds funds. Stated reasons: gradual rate-limit ramp-up outside spells, and emergency facet offboarding by the cBEAM. Timing: Spark's controller was deployed on Sep 21, 2026 and validated by auditors; the PAS deployment was to happen before October 20; Spark targets the 2026-11-05 Prime Spell and needs PAS addresses about a week before. No onchain action is required in the 2026-11-05 Core Spell. The post lists ChainSecurity and Cantina audit reports with commits, trusted addresses, constructor arguments (14-day minimum delay, 16-hour hop, 1.20 WAD max change) and bytecode verification steps. Several argument values are marked as still to be confirmed by BA Labs, Soter Labs or a Core Facilitator.",
+  "risk_flags": ["new operator permissions on Base", "Timelock launched paused", "several parameters still to be confirmed"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-28"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28359",
+  "space": "sky",
+  "title": "[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer",
+  "url": "https://forum.sky.money/t/november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer/28359",
+  "headline": "Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.",
+  "summary": "On behalf of Skybase, the post requests a transfer of 900,000 USDS from Skybase's SubProxy on Ethereum mainnet to the Skybase Foundation Operational Multisig. The transfer would be executed through the SubProxyMethods contract as part of the Sky Core Spell and included in the November 5, 2026 Executive Vote. The funds are stated to cover Skybase operational costs and partner payouts through the end of 2026. The authorizing Atlas document, the Skybase Foundation Grant Authorization for November 2026, is included in the Atlas Edit Weekly Cycle Proposal for the week of 2026-10-26 and would be approved through the Governance Poll closing October 29, 2026. The post names the SubProxy and multisig addresses. It gives no breakdown of how the 900,000 USDS would be split between operating costs and partner payouts.",
+  "risk_flags": ["treasury spend 900,000 USDS", "no spending breakdown given"],
+  "vote": "Discussion stage, no vote yet (Governance Poll closes 2026-10-29)",
+  "written": "2026-10-28"
+}

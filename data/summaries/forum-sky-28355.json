@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28355",
+  "space": "sky",
+  "title": "SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum",
+  "url": "https://forum.sky.money/t/sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum/28355",
+  "headline": "Zyfai asks for feedback on a 90-day pilot where Spark's Liquidity Layer would allocate up to 10M USDC to a Zyfai-managed Safe that rebalances across Ethereum USDC lending venues.",
+  "summary": "Zyfai requests feedback, ahead of any formal proposal, on running up to 10M USDC from the Spark Liquidity Layer on Ethereum mainnet only. A Safe owned by SPARK_PROXY would hold the funds, and a Zyfai session key could only move USDC between allowlisted venues or back to the ALM Proxy. Inflow would use the existing transferAsset path with a 10M limit and a slope of 2M USDC per day. Zyfai proposes a 5% fee on yield (its standard rate is 10%). The post's figures, which it says come from Zyfai's published simulated strategy yield net of fee, show a 90-day margin over the Sky Savings Rate of 96 bps (conservative tier) or 278 bps (aggressive tier), against 57 bps for Spark Blue Chip USDC; token incentives are excluded. Tier 1 covers blue-chip venues; Tier 2 adds venues with Pendle PT and RWA collateral, which the post suggests adding one at a time with per-venue caps. The pilot would run 90 days, and if net yield falls below Spark Blue Chip USDC the rate limit would be set to zero and the Safe unwound. Questions raised: whether the Safe-based integration is acceptable or a dedicated module is needed, which venues and limits Spark would accept, and whether Phoenix Labs would sponsor a Spark Prime proposal.",
+  "risk_flags": ["up to 10M USDC allocation", "third-party strategy manager with session key", "yield figures are simulated and self-reported", "Tier 2 non-blue-chip collateral"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-28"
+}
