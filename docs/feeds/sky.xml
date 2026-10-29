@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 28 Oct 2026 18:03:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 13:02:14 +0000</lastBuildDate>
+<item><title>Osero cBEAM Configuration (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-osero-cbeam-configuration--28362.html</link>
+<guid isPermaLink="false">forum-sky-28362</guid><pubDate>Thu, 29 Oct 2026 09:11:22 +0000</pubDate>
+<description>A Sky forum thread sets up public reporting for the Osero Configurator Bounded External Access Module (cBEAM), which can adjust rate limits for the Osero Diamond PAU within governance-set bounds.</description></item>
+<item><title>Reduce ABC Step 2 to 25%, increase Staking emissions 50% (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-reduce-abc-step-2-to-25-increase-staking-emissions-50--28361.html</link>
+<guid isPermaLink="false">forum-sky-28361</guid><pubDate>Wed, 28 Oct 2026 21:53:01 +0000</pubDate>
+<description>A forum post proposes cutting the share of Step 2 capital retained for the Aggregate Backstop Capital from 50% to 25%, which would raise Step 3 staking rewards and buybacks by 50%.</description></item>
 <item><title>[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer--28359.html</link>
 <guid isPermaLink="false">forum-sky-28359</guid><pubDate>Wed, 28 Oct 2026 09:06:25 +0000</pubDate>
 <description>Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.</description></item>

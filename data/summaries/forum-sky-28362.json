@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28362",
+  "space": "sky",
+  "title": "Osero cBEAM Configuration",
+  "url": "https://forum.sky.money/t/osero-cbeam-configuration/28362",
+  "headline": "A Sky forum thread sets up public reporting for the Osero Configurator Bounded External Access Module (cBEAM), which can adjust rate limits for the Osero Diamond PAU within governance-set bounds.",
+  "summary": "This thread is the public communication channel required by the Sky Atlas for the Osero cBEAM. A cBEAM is a whitelisted Operator of a Diamond Parallelized Allocation Unit (Diamond PAU) and can use the Configurator to adjust that unit's rate limits within ceilings set in BeamState, without a Spell or waiting for the GSM Pause Delay. Sky Governance keeps control through Executive Votes or Core Council actions; the Core Council Multisig can immediately unpair a cBEAM from a RateLimits contract or Controller, or remove its registration, and Configurator operations can also be halted through PASMom. Governance sets the cBEAM's pairings, rate-limit controls, default values and permitted Controller actions in BeamState. Two parameters constrain increases: hop, the minimum time before the same rate limit may be raised again, and maxChange, the maximum proportional increase per hop, though a limit may also be raised directly to its registered BeamState default if that is higher. Decreases, including to zero, are immediate, except for limits locked as unlimited. Target maxAmount and slope values come from the Atlas and each Instance Configuration Document, and the cBEAM moves on-chain values toward them incrementally. Each action will be reported in a reply listing every RateLimitID changed, before and after values, and the transaction hash. No specific values or changes are made in this post.",
+  "risk_flags": ["operator can change rate limits without a Spell", "informational, no parameter change in this post"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-29"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25931",
+  "space": "aave",
+  "title": "[Direct to AIP] Whitelist New CoW Protocol Adapters as Flash Borrowers on Aave V3/V4",
+  "url": "https://governance.aave.com/t/direct-to-aip-whitelist-new-cow-protocol-adapters-as-flash-borrowers-on-aave-v3-v4/25931",
+  "headline": "Aave Labs proposes registering new Aave swap adapter factories as approved flash borrowers on several Aave V3 markets, so adapter routes pay no flash loan fee.",
+  "summary": "Aave Labs, acting as a service provider to the DAO, proposes that the DAO register new Aave swap adapter factory contracts as approved flash borrowers by calling ACLManager.addFlashBorrower on the applicable Aave V3 deployments. Once registered, the factories would be exempt from flash loan fees when using flash liquidity through the approved path. Two factory versions are in scope, AaveV3AdapterV3Factory and AaveV3AdapterV4Factory, serving the collateral swap, debt swap, repay with collateral and leverage adapters. The post lists factory addresses per market: Ethereum Core, Ethereum Prime, Base, Arbitrum, Gnosis, Avalanche, BNB Chain, Polygon, Linea and Plasma; the V4 factory applies only on Ethereum Core, Base and Avalanche. The stated motivation is that the flash loan premium is currently embedded in adapter execution, reducing output on swaps and raising the cost of leveraged positions, and that removing it should improve pricing and keep more of this flow within Aave's own interface. The post says that under the Aave Will Win Framework the DAO would capture the revenue from that activity. This is a forum discussion; if the community supports it, the next step would be to raise an AIP vote. Open questions: the exact fee revenue the DAO would forgo on these routes is not quantified in the post.",
+  "risk_flags": ["changes flash loan fee treatment for registered contracts", "contract allowlist change across multiple markets", "discussion stage"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-29"
+}
