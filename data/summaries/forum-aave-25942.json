@@ -1,0 +1,14 @@
+{
+    "id":  "forum-aave-25942",
+    "space":  "aave",
+    "title":  "Tokenized Tesla, Inc. shares (TSLAc) on Aave Base Assessments",
+    "url":  "https://governance.aave.com/t/tokenized-tesla-inc-shares-tslac-on-aave-base-assessments/25942",
+    "headline":  "Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Tesla shares (TSLAc) on Aave Base.",
+    "summary":  "This forum thread is the home for risk and technical assessments of TSLAc, a tokenized Tesla, Inc. share, on Aave Base. It is meant to collect the pre-listing technical asset assessment under the Technical Asset Listing Framework, post-listing monitoring reports, periodic refresh assessments and re-evaluations triggered by material changes. The pre-listing risk assessment under the Aave Risk Framework is covered in the separate Coinbase B20 Equities on Base Assessments thread. New assessments are to be posted as replies. The opening post contains no parameters or decisions.",
+    "risk_flags":  [
+                       "low information",
+                       "tokenized equity"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-10-30"
+}

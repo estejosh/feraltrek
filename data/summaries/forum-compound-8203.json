@@ -1,0 +1,15 @@
+{
+    "id":  "forum-compound-8203",
+    "space":  "compound",
+    "title":  "Compound V3: Supply Paused Across Major Markets",
+    "url":  "https://www.comp.xyz/t/compound-v3-supply-paused-across-major-markets/8203",
+    "headline":  "Compound announced that supply is paused on all major Compound V3 markets across Ethereum, Optimism, Arbitrum and Base because of an ongoing incident on Ethereum mainnet.",
+    "summary":  "A Compound forum post says supply has been paused on all major Compound V3 markets as a precaution while it assesses an ongoing incident on Ethereum mainnet. Affected markets listed: Ethereum USDC, USDT, USDS, WETH, wstETH and WBTC; Optimism USDC, USDT and WETH; Arbitrum USDC, USDT and WETH; Base USDC and WETH. Withdrawals and liquidations are not affected. Borrow repayments remain available on L2 markets but are paused on Ethereum. The post says updates will be posted in the thread as more information arrives. It does not name the incident.",
+    "risk_flags":  [
+                       "security incident",
+                       "supply paused",
+                       "precautionary measure"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-10-30"
+}

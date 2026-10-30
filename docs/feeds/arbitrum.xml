@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: arbitrum</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 29 Oct 2026 13:02:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<item><title>Security Council Emergency Action – 30/10/2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-emergency-action-30-10-2026--31625.html</link>
+<guid isPermaLink="false">forum-arbitrum-31625</guid><pubDate>Fri, 30 Oct 2026 01:22:18 +0000</pubDate>
+<description>The Arbitrum Security Council executed an emergency action on 30 October 2026 to freeze 8,425 ETH and 74,559,805.2 ARB on Arbitrum One held by an address identified with a Binance exploit.</description></item>
+<item><title>[Constitutional] AIP: Stylus Activation Contract (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-constitutional-aip-stylus-activation-contract-c6a8b6.html</link>
+<guid isPermaLink="false">0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6</guid><pubDate>Thu, 29 Oct 2026 20:30:11 +0000</pubDate>
+<description>A Constitutional AIP would resume Stylus contract activations on Arbitrum One with a new activation contract, delegating activation signatures to an Arbitrum Foundation multisig for contracts that pass a limited security audit.</description></item>
 <item><title>27 October, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-27-october-2026-roundup-of-active-upcoming-votes--31622.html</link>
 <guid isPermaLink="false">forum-arbitrum-31622</guid><pubDate>Tue, 27 Oct 2026 13:49:28 +0000</pubDate>
 <description>Roundup lists three upcoming Arbitrum on-chain proposals, all with voting starting October 29: a USDG initiative with 100M ARB for DRIP, a 1,800 ETH treasury transfer, and L1-pricing parameter updates for Glamsterdam.</description></item>

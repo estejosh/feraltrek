@@ -1,0 +1,15 @@
+{
+    "id":  "forum-compound-8202",
+    "space":  "compound",
+    "title":  "Institutional Comet: Update on proposed council architecture and migration",
+    "url":  "https://www.comp.xyz/t/institutional-comet-update-on-proposed-council-architecture-and-migration/8202",
+    "headline":  "An interim update proposes a council architecture and five-step migration to place Compound\u0027s Institutional Comet under Compound governance with a delegated process for market changes.",
+    "summary":  "This post updates an 8 October post on Institutional Comet. It proposes a council architecture using ScopeLift\u0027s council-governance contracts, where each member holds a membership token. Compound governance, through the Compound Timelock, would own the token contract and both governor contracts, could add or remove members and change voting and COMP veto settings, and has relay powers that allow intervention without a council vote. Council proposals pass three stages: member proposal and council vote, a COMP veto stage where COMP voting power can defeat an action at a set threshold, and a council timelock before execution. The migration has five steps, starting with finalising the specification (Foundation, Woof, ScopeLift and CGWG) and security provider review, then releasing and deploying the contracts. The DAO installation proposal must pass and execute before the existing multisigs transfer market authority. The post says the full specification promised for end of October is still pending and a revised publication target will follow.",
+    "risk_flags":  [
+                       "governance architecture change",
+                       "specification pending",
+                       "market authority transfer"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-10-30"
+}

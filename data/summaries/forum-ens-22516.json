@@ -1,0 +1,14 @@
+{
+    "id":  "forum-ens-22516",
+    "space":  "ens",
+    "title":  "ENS-budget: budget-first ENS v2 renewals for viem",
+    "url":  "https://discuss.ens.domains/t/ens-budget-budget-first-ens-v2-renewals-for-viem/22516",
+    "headline":  "A community developer announced ens-budget, a small TypeScript library for ENS v2 renewals that finds the longest renewal a stablecoin budget buys.",
+    "summary":  "The post introduces ens-budget, a TypeScript library built on viem for ENSv2 renewals. It finds the longest renewal a budget buys, warns when the chosen term costs more than a longer one, and performs the renewal. The post says ENSv2 discounts the whole term at 2, 3 and 6 years, so a term one day short of a tier can cost more than the tier. For a 5+ character name it lists prices such as 1 year $15.98, 2 years $14.01, 2 years 364 days $20.99, 5 years 364 days $32.99 and 6 years $27.01. It reads rates from the renewer\u0027s rentPriceOracle(), supports ETHRegistrar and ETHRenewerV1, returns plain calls for EIP-5792 batching, Safe and bundlers, and supports mainnet and Sepolia with USDC and DAI. The post says viem is the only dependency, at about 3 kB. It invites feedback and pull requests. This is a tool announcement, not a governance vote.",
+    "risk_flags":  [
+                       "third-party tool",
+                       "not a governance vote"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-10-30"
+}

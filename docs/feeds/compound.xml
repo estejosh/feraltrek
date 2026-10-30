@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: compound</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 29 Oct 2026 13:02:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<item><title>Compound V3: Supply Paused Across Major Markets (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-v3-supply-paused-across-major-markets-d-8203.html</link>
+<guid isPermaLink="false">forum-compound-8203</guid><pubDate>Thu, 29 Oct 2026 23:09:38 +0000</pubDate>
+<description>Compound announced that supply is paused on all major Compound V3 markets across Ethereum, Optimism, Arbitrum and Base because of an ongoing incident on Ethereum mainnet.</description></item>
+<item><title>Institutional Comet: Update on proposed council architecture and migration (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-institutional-comet-update-on-proposed-council-architecture-and-migrati-d-8202.html</link>
+<guid isPermaLink="false">forum-compound-8202</guid><pubDate>Thu, 29 Oct 2026 19:30:51 +0000</pubDate>
+<description>An interim update proposes a council architecture and five-step migration to place Compound&#x27;s Institutional Comet under Compound governance with a delegated process for market changes.</description></item>
+<item><title>Short note on proposal 620 (deprecated Polygon markets reserves withdrawal) cancellation (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-short-note-on-proposal-620-deprecated-polygon-markets-reserves-withdraw-d-8201.html</link>
+<guid isPermaLink="false">forum-compound-8201</guid><pubDate>Thu, 29 Oct 2026 18:40:40 +0000</pubDate>
+<description>The Woof team cancelled Compound proposal 620 (Polygon deprecated-market reserves withdrawal) and put forward proposal 621 for Unichain instead.</description></item>
 <item><title>End Community Multisig Cancellation Power (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-end-community-multisig-cancellation-power-d-8193.html</link>
 <guid isPermaLink="false">forum-compound-8193</guid><pubDate>Mon, 26 Oct 2026 12:50:21 +0000</pubDate>
 <description>A Compound proposal, now pending on-chain, would remove the Community Multisig&#x27;s power to cancel governance proposals from 1 November 2026, after the multisig cancelled Proposal 618 before voting began.</description></item>

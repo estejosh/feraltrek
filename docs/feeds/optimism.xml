@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: optimism</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 29 Oct 2026 13:02:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<item><title>Proposal for Sequencer Fee Rebates on OP Mainnet (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-proposal-for-sequencer-fee-rebates-on-op-mainnet--10940.html</link>
+<guid isPermaLink="false">forum-optimism-10940</guid><pubDate>Thu, 29 Oct 2026 14:44:31 +0000</pubDate>
+<description>The Optimism Foundation asks to rebate part of OP Mainnet sequencer fees to select partners, for activity those partners bring, paid in ETH fee revenue rather than OP.</description></item>
 <item><title>Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-op-mainnet-proposer-rotation--10939.html</link>
 <guid isPermaLink="false">forum-optimism-10939</guid><pubDate>Tue, 27 Oct 2026 13:00:09 +0000</pubDate>
 <description>OP Labs proposes rotating the proposer key on OP Mainnet&#x27;s permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.</description></item>

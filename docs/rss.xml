@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 29 Oct 2026 13:02:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<item><title>ENS-budget: budget-first ENS v2 renewals for viem (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-budget-budget-first-ens-v2-renewals-for-viem--22516.html</link>
+<guid isPermaLink="false">forum-ens-22516</guid><pubDate>Fri, 30 Oct 2026 10:51:13 +0000</pubDate>
+<description>A community developer announced ens-budget, a small TypeScript library for ENS v2 renewals that finds the longest renewal a stablecoin budget buys.</description></item>
+<item><title>Risk Stewards: Borrow and Draw Cap Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-and-draw-cap-reductions-on-aave-v3-and-aave-v4-2026-10--25960.html</link>
+<guid isPermaLink="false">forum-aave-25960</guid><pubDate>Fri, 30 Oct 2026 10:11:21 +0000</pubDate>
+<description>LlamaRisk recommends cutting borrow caps on the largest Aave V3 reserves and draw caps on the largest V4 credit lines to about 2% above the amount borrowed before the exploit.</description></item>
+<item><title>Security Council Emergency Action – 30/10/2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-emergency-action-30-10-2026--31625.html</link>
+<guid isPermaLink="false">forum-arbitrum-31625</guid><pubDate>Fri, 30 Oct 2026 01:22:18 +0000</pubDate>
+<description>The Arbitrum Security Council executed an emergency action on 30 October 2026 to freeze 8,425 ETH and 74,559,805.2 ARB on Arbitrum One held by an address identified with a Binance exploit.</description></item>
+<item><title>Risk Stewards: Temporary Slope2 Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-temporary-slope2-reductions-on-aave-v3-and-aave-v4-2026-10-30--25955.html</link>
+<guid isPermaLink="false">forum-aave-25955</guid><pubDate>Fri, 30 Oct 2026 01:21:49 +0000</pubDate>
+<description>LlamaRisk recommends temporarily lowering Slope2 on stablecoin reserves (and V4 Ethereum WETH) so borrow rates at full utilization stay at or below 10% APR after the reserve freeze.</description></item>
+<item><title>Binance Hot Wallet Exploit: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-binance-hot-wallet-exploit-aave-s-response--25954.html</link>
+<guid isPermaLink="false">forum-aave-25954</guid><pubDate>Fri, 30 Oct 2026 00:59:32 +0000</pubDate>
+<description>Aave contributors describe their response to a reported Binance hot wallet exploit, including freezing reserves across Aave V3 and V4 networks.</description></item>
+<item><title>Compound V3: Supply Paused Across Major Markets (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-v3-supply-paused-across-major-markets-d-8203.html</link>
+<guid isPermaLink="false">forum-compound-8203</guid><pubDate>Thu, 29 Oct 2026 23:09:38 +0000</pubDate>
+<description>Compound announced that supply is paused on all major Compound V3 markets across Ethereum, Optimism, Arbitrum and Base because of an ongoing incident on Ethereum mainnet.</description></item>
+<item><title>[Constitutional] AIP: Stylus Activation Contract (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-constitutional-aip-stylus-activation-contract-c6a8b6.html</link>
+<guid isPermaLink="false">0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6</guid><pubDate>Thu, 29 Oct 2026 20:30:11 +0000</pubDate>
+<description>A Constitutional AIP would resume Stylus contract activations on Arbitrum One with a new activation contract, delegating activation signatures to an Arbitrum Foundation multisig for contracts that pass a limited security audit.</description></item>
+<item><title>Institutional Comet: Update on proposed council architecture and migration (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-institutional-comet-update-on-proposed-council-architecture-and-migrati-d-8202.html</link>
+<guid isPermaLink="false">forum-compound-8202</guid><pubDate>Thu, 29 Oct 2026 19:30:51 +0000</pubDate>
+<description>An interim update proposes a council architecture and five-step migration to place Compound&#x27;s Institutional Comet under Compound governance with a delegated process for market changes.</description></item>
+<item><title>Short note on proposal 620 (deprecated Polygon markets reserves withdrawal) cancellation (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-short-note-on-proposal-620-deprecated-polygon-markets-reserves-withdraw-d-8201.html</link>
+<guid isPermaLink="false">forum-compound-8201</guid><pubDate>Thu, 29 Oct 2026 18:40:40 +0000</pubDate>
+<description>The Woof team cancelled Compound proposal 620 (Polygon deprecated-market reserves withdrawal) and put forward proposal 621 for Unichain instead.</description></item>
+<item><title>[7.3] [Social] Governor Nexus Update (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-3-social-governor-nexus-update-f3627a.html</link>
+<guid isPermaLink="false">0x5bc7802637848e22f47e23615d3dcb2649e10b5feed5033a974eb556cdf3627a</guid><pubDate>Thu, 29 Oct 2026 18:15:08 +0000</pubDate>
+<description>ENS is voting on approving Governor Nexus, a new version of its governor contract, which would go through an external audit funded by MetaGov before any migration proposal.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-29--25949.html</link>
+<guid isPermaLink="false">forum-aave-25949</guid><pubDate>Thu, 29 Oct 2026 17:14:34 +0000</pubDate>
+<description>LlamaRisk recommends cap and interest-rate changes for Aave V4 on Ethereum, Avalanche and Base, including a USDC draw cap increase on the Core Hub Main Spoke from 36M to 60M.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-29--25948.html</link>
+<guid isPermaLink="false">forum-aave-25948</guid><pubDate>Thu, 29 Oct 2026 17:07:32 +0000</pubDate>
+<description>LlamaRisk recommends supply cap, borrow cap and interest-rate changes across several Aave V3 instances, including a cbETH supply cap increase on Base and cap reductions on Avalanche and X Layer.</description></item>
+<item><title>Proposal for Sequencer Fee Rebates on OP Mainnet (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-proposal-for-sequencer-fee-rebates-on-op-mainnet--10940.html</link>
+<guid isPermaLink="false">forum-optimism-10940</guid><pubDate>Thu, 29 Oct 2026 14:44:31 +0000</pubDate>
+<description>The Optimism Foundation asks to rebate part of OP Mainnet sequencer fees to select partners, for activity those partners bring, paid in ETH fee revenue rather than OP.</description></item>
+<item><title>Tokenized Space Exploration Technologies Corp. shares (SPCXc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-space-exploration-technologies-corp-shares-spcxc-on-aave-base-ass--25943.html</link>
+<guid isPermaLink="false">forum-aave-25943</guid><pubDate>Thu, 29 Oct 2026 14:00:06 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized SpaceX shares (SPCXc) on Aave Base.</description></item>
+<item><title>Tokenized Tesla, Inc. shares (TSLAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-tesla-inc-shares-tslac-on-aave-base-assessments--25942.html</link>
+<guid isPermaLink="false">forum-aave-25942</guid><pubDate>Thu, 29 Oct 2026 13:58:43 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Tesla shares (TSLAc) on Aave Base.</description></item>
+<item><title>Tokenized NVIDIA Corporation shares (NVDAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-nvidia-corporation-shares-nvdac-on-aave-base-assessments--25941.html</link>
+<guid isPermaLink="false">forum-aave-25941</guid><pubDate>Thu, 29 Oct 2026 13:56:43 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized NVIDIA shares (NVDAc) on Aave Base.</description></item>
+<item><title>Tokenized Microsoft Corporation shares (MSFTc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-microsoft-corporation-shares-msftc-on-aave-base-assessments--25940.html</link>
+<guid isPermaLink="false">forum-aave-25940</guid><pubDate>Thu, 29 Oct 2026 13:55:24 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Microsoft shares (MSFTc) on Aave Base.</description></item>
+<item><title>Tokenized Meta Platforms Inc. shares (METAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-meta-platforms-inc-shares-metac-on-aave-base-assessments--25939.html</link>
+<guid isPermaLink="false">forum-aave-25939</guid><pubDate>Thu, 29 Oct 2026 13:54:06 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Meta shares (METAc) on Aave Base.</description></item>
+<item><title>Tokenized Alphabet Inc. shares (GOOGLc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-alphabet-inc-shares-googlc-on-aave-base-assessments--25938.html</link>
+<guid isPermaLink="false">forum-aave-25938</guid><pubDate>Thu, 29 Oct 2026 13:52:50 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Alphabet shares (GOOGLc) on Aave Base.</description></item>
+<item><title>Tokenized Amazon.com, Inc. shares (AMZNc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-amazon-com-inc-shares-amznc-on-aave-base-assessments--25937.html</link>
+<guid isPermaLink="false">forum-aave-25937</guid><pubDate>Thu, 29 Oct 2026 13:51:25 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Amazon shares (AMZNc) on Aave Base.</description></item>
+<item><title>Tokenized Apple Inc. shares (AAPLc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-apple-inc-shares-aaplc-on-aave-base-assessments--25936.html</link>
+<guid isPermaLink="false">forum-aave-25936</guid><pubDate>Thu, 29 Oct 2026 13:47:44 +0000</pubDate>
+<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Apple shares (AAPLc) on Aave Base.</description></item>
+<item><title>Sky Ecosystem Q3 2026 Quarterly Report (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-sky-ecosystem-q3-2026-quarterly-report--28363.html</link>
+<guid isPermaLink="false">forum-sky-28363</guid><pubDate>Thu, 29 Oct 2026 13:21:12 +0000</pubDate>
+<description>Sky Frontier Foundation published the Sky Ecosystem Q3 2026 Quarterly Report, citing net revenue of $37.19 million, up 11.8% quarter on quarter.</description></item>
 <item><title>Osero cBEAM Configuration (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-osero-cbeam-configuration--28362.html</link>
 <guid isPermaLink="false">forum-sky-28362</guid><pubDate>Thu, 29 Oct 2026 09:11:22 +0000</pubDate>
 <description>A Sky forum thread sets up public reporting for the Osero Configurator Bounded External Access Module (cBEAM), which can adjust rate limits for the Osero Diamond PAU within governance-set bounds.</description></item>

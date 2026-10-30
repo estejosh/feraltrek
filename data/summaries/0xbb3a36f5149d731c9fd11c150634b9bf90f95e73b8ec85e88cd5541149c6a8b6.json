@@ -1,0 +1,15 @@
+{
+    "id":  "0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6",
+    "space":  "arbitrumfoundation.eth",
+    "title":  "[Constitutional] AIP: Stylus Activation Contract",
+    "url":  "https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6",
+    "headline":  "A Constitutional AIP would resume Stylus contract activations on Arbitrum One with a new activation contract, delegating activation signatures to an Arbitrum Foundation multisig for contracts that pass a limited security audit.",
+    "summary":  "Stylus activations on Arbitrum One and Nova were paused by a Security Council emergency action on October 2, 2026. This Constitutional AIP would install a new Stylus Activation Contract through which developers can activate new Stylus contracts that carry a valid activation signature, and delegate the authority to provide those signatures to a multisig controlled by the Arbitrum Foundation. Each new contract would first need a limited security audit by an Arbitrum Security Program auditor, with a passing result posted on the forum. The audit checks, among other things, that the contract was built from source with the standard Stylus toolchain and has no hand-crafted WASM; it is not a review of business logic, and the Foundation does not perform the audit. The DAO could change or revoke the delegation by a future constitutional vote. Existing activated contracts are unaffected. The proposal says it uses ArbOS 61 capabilities and needs no ArbOS upgrade, and notes known bugs have affected chain liveness but not user funds.",
+    "risk_flags":  [
+                       "constitutional proposal",
+                       "delegation to Foundation multisig",
+                       "limited audit scope"
+                   ],
+    "vote":  "For 12,319,097 / Against 53 / Abstain 2 (ARB), ends 2026-11-05",
+    "written":  "2026-10-30"
+}

@@ -1,0 +1,15 @@
+{
+    "id":  "forum-aave-25960",
+    "space":  "aave",
+    "title":  "Risk Stewards: Borrow and Draw Cap Reductions on Aave V3 and Aave V4 / 2026.10.30",
+    "url":  "https://governance.aave.com/t/risk-stewards-borrow-and-draw-cap-reductions-on-aave-v3-and-aave-v4-2026-10-30/25960",
+    "headline":  "LlamaRisk recommends cutting borrow caps on the largest Aave V3 reserves and draw caps on the largest V4 credit lines to about 2% above the amount borrowed before the exploit.",
+    "summary":  "After the reserve freeze following the Binance hot wallet incident, LlamaRisk\u0027s 2026.10.30 post recommends lowering borrow caps on Aave V3 reserves, and draw caps on Aave V4 spoke credit lines, with more than $10M borrowed before the exploit and more than $10M of room under the cap, to approximately 2% above the pre-exploit borrowed amount. Examples on V3 Core: WETH from 2,400,000 to 1,790,000; USDT from 3,090,000,000 to 2,560,000,000; USDC from 2,700,000,000 to 2,270,000,000; DAI from 180,000,000 to 119,000,000; WBTC from 1,500 to 749. Many other V3 networks are listed, including Base, Arbitrum, Plasma, Mantle, Monad, Avalanche, X Layer, Polygon, Optimism and Gnosis. On V4 Ethereum, examples include WETH on the Core Hub EtherFi Spoke from 60K to 41.1K and USDG on the Core Hub Main Spoke from 75M to 63.5M. The excerpt reviewed does not include the full rationale.",
+    "risk_flags":  [
+                       "large borrow cap reductions",
+                       "emergency context",
+                       "parameter changes"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-10-30"
+}

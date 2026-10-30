@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: ens</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 29 Oct 2026 13:02:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<item><title>ENS-budget: budget-first ENS v2 renewals for viem (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-budget-budget-first-ens-v2-renewals-for-viem--22516.html</link>
+<guid isPermaLink="false">forum-ens-22516</guid><pubDate>Fri, 30 Oct 2026 10:51:13 +0000</pubDate>
+<description>A community developer announced ens-budget, a small TypeScript library for ENS v2 renewals that finds the longest renewal a stablecoin budget buys.</description></item>
+<item><title>[7.3] [Social] Governor Nexus Update (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-3-social-governor-nexus-update-f3627a.html</link>
+<guid isPermaLink="false">0x5bc7802637848e22f47e23615d3dcb2649e10b5feed5033a974eb556cdf3627a</guid><pubDate>Thu, 29 Oct 2026 18:15:08 +0000</pubDate>
+<description>ENS is voting on approving Governor Nexus, a new version of its governor contract, which would go through an external audit funded by MetaGov before any migration proposal.</description></item>
 <item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-draft-social-ips-amendment-no-2-ips-amendment-authority--22515.html</link>
 <guid isPermaLink="false">forum-ens-22515</guid><pubDate>Tue, 27 Oct 2026 22:11:03 +0000</pubDate>
 <description>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</description></item>

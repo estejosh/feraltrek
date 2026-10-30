@@ -1,0 +1,15 @@
+{
+    "id":  "forum-aave-25955",
+    "space":  "aave",
+    "title":  "Risk Stewards: Temporary Slope2 Reductions on Aave V3 and Aave V4 / 2026.10.30",
+    "url":  "https://governance.aave.com/t/risk-stewards-temporary-slope2-reductions-on-aave-v3-and-aave-v4-2026-10-30/25955",
+    "headline":  "LlamaRisk recommends temporarily lowering Slope2 on stablecoin reserves (and V4 Ethereum WETH) so borrow rates at full utilization stay at or below 10% APR after the reserve freeze.",
+    "summary":  "Following the freeze of Aave V3 and V4 reserves after the Binance hot wallet incident, LlamaRisk\u0027s 2026.10.30 post recommends temporarily reducing Slope2 for stablecoin reserves, and WETH on the Aave V4 Ethereum Core Hub, so the variable borrow rate at full utilization does not exceed 10.00% APR. Base rate, Slope1 and optimal usage are unchanged. Examples listed: Aave V3 Core USDC and USDT from 10.00% to 5.50%, DAI from 35.00% to 15.00%, USDtb from 50.00% to 30.00%; Monad USDC and USDT0 from 20.00% to 5.00%; Horizon RLUSD from 25.00% to 5.00%; V4 Ethereum Core Hub USDC from 20.00% to 4.50% and WETH from 8.00% to 7.80%. The post\u0027s rationale is that frozen reserves accept no new supply or borrowing, so a higher rate no longer attracts deposits, while withdrawals have pushed the largest stablecoin reserves to 92-100% utilization and rates between 10% and 36% APR (up to 55% at full utilization on some).",
+    "risk_flags":  [
+                       "temporary rate changes",
+                       "emergency context",
+                       "parameter changes"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-10-30"
+}

@@ -1,0 +1,15 @@
+{
+    "id":  "0x5bc7802637848e22f47e23615d3dcb2649e10b5feed5033a974eb556cdf3627a",
+    "space":  "ens.eth",
+    "title":  "[7.3] [Social] Governor Nexus Update",
+    "url":  "https://snapshot.org/#/ens.eth/proposal/0x5bc7802637848e22f47e23615d3dcb2649e10b5feed5033a974eb556cdf3627a",
+    "headline":  "ENS is voting on approving Governor Nexus, a new version of its governor contract, which would go through an external audit funded by MetaGov before any migration proposal.",
+    "summary":  "This social vote asks the ENS DAO to approve the Governor Nexus update, built on OpenZeppelin v5.6.1 to address risks found in a Governance Security Assessment that placed ENS at Stage 0 under the Anticapture framework. Changes described: a per-proposal-type voting delay (2 days in the migration proposal); a limit of 2 live proposals per proposer, adjustable between 1 and 10; mutable votes that can be recast before the deadline; a 48-hour extension if a proposal flips from failing to passing in the final 24 hours; a governed proposal-type registry starting with Standard, Optimistic (passes unless 500k ENS oppose) and Bond (1,000 ENS); and batch voting plus ERC-1271 signatures for contract wallets. The Timelock is untouched. The audit scope is the code written on top of OpenZeppelin\u0027s library; quotes from three firms range from $14,000 to $25,000; MetaGov stewards pick the firm and pay from its Term 7 contract-audits line, with no new DAO funding. If the vote passes, a migration proposal follows after the audit.",
+    "risk_flags":  [
+                       "governance contract change",
+                       "audit pending",
+                       "low turnout so far"
+                   ],
+    "vote":  "For 100% (1,015 ENS) / Against 0 / Abstain 0 so far, ends 2026-11-03",
+    "written":  "2026-10-30"
+}
