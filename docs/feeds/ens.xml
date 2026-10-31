@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: ens</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:58:02 +0000</lastBuildDate>
+<item><title>Notice of amendment to Bylaw 16 (annual and interim budgets) (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-notice-of-amendment-to-bylaw-16-annual-and-interim-budgets--22518.html</link>
+<guid isPermaLink="false">forum-ens-22518</guid><pubDate>Fri, 30 Oct 2026 17:54:09 +0000</pubDate>
+<description>The ENS Foundation Board amended Bylaw 16 to set an annual budget deadline and allow a capped interim budget; no tokenholder vote is required and it takes effect 7 November 2026.</description></item>
 <item><title>ENS-budget: budget-first ENS v2 renewals for viem (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-budget-budget-first-ens-v2-renewals-for-viem--22516.html</link>
 <guid isPermaLink="false">forum-ens-22516</guid><pubDate>Fri, 30 Oct 2026 10:51:13 +0000</pubDate>
 <description>A community developer announced ens-budget, a small TypeScript library for ENS v2 renewals that finds the longest renewal a stablecoin budget buys.</description></item>

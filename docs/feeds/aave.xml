@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:58:02 +0000</lastBuildDate>
+<item><title>tBTC Mint &amp; Redeem Pause: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tbtc-mint-redeem-pause-aave-s-response--25965.html</link>
+<guid isPermaLink="false">forum-aave-25965</guid><pubDate>Sat, 31 Oct 2026 10:28:51 +0000</pubDate>
+<description>After Threshold Network paused tBTC mints and redeems, the guardian multisig froze tBTC on Aave V3 Ethereum Core, stopping new deposits and borrowing against it.</description></item>
 <item><title>Risk Stewards: Borrow and Draw Cap Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-and-draw-cap-reductions-on-aave-v3-and-aave-v4-2026-10--25960.html</link>
 <guid isPermaLink="false">forum-aave-25960</guid><pubDate>Fri, 30 Oct 2026 10:11:21 +0000</pubDate>
 <description>LlamaRisk recommends cutting borrow caps on the largest Aave V3 reserves and draw caps on the largest V4 credit lines to about 2% above the amount borrowed before the exploit.</description></item>

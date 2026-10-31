@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: compound</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 30 Oct 2026 13:04:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:58:02 +0000</lastBuildDate>
+<item><title>[Gauntlet] Deprecation of the Ethereum WBTC Comet (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-deprecation-of-the-ethereum-wbtc-comet-d-8209.html</link>
+<guid isPermaLink="false">forum-compound-8209</guid><pubDate>Fri, 30 Oct 2026 17:11:00 +0000</pubDate>
+<description>Gauntlet recommends winding down the Ethereum WBTC Comet by setting borrow collateral factors and the remaining supply caps to zero, citing minimal borrow demand.</description></item>
 <item><title>Compound V3: Supply Paused Across Major Markets (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-v3-supply-paused-across-major-markets-d-8203.html</link>
 <guid isPermaLink="false">forum-compound-8203</guid><pubDate>Thu, 29 Oct 2026 23:09:38 +0000</pubDate>
 <description>Compound announced that supply is paused on all major Compound V3 markets across Ethereum, Optimism, Arbitrum and Base because of an ongoing incident on Ethereum mainnet.</description></item>

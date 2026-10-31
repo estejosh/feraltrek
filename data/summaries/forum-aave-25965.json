@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25965",
+  "space": "aave",
+  "title": "tBTC Mint & Redeem Pause: Aave's Response",
+  "url": "https://governance.aave.com/t/tbtc-mint-redeem-pause-aaves-response/25965",
+  "headline": "After Threshold Network paused tBTC mints and redeems, the guardian multisig froze tBTC on Aave V3 Ethereum Core, stopping new deposits and borrowing against it.",
+  "summary": "The post (last updated 10:26 UTC, 31 October 2026) says Threshold Network issued a pre-emptive pause of tBTC mints and redeems on 31 October 2026, and that Aave contributors are in contact with the Threshold team. tBTC is listed on Aave V3 on Ethereum Core, Base and Arbitrum; the Base and Arbitrum reserves were frozen in earlier deprecation rounds, leaving Ethereum Core the only market where tBTC could still support new borrowing. Contributors recommended a pre-emptive freeze of tBTC on Ethereum Core to prevent Aave's exposure from growing while the pause lasts. The guardian multisig executed the freeze at 10:01 UTC. A freeze stops new tBTC deposits and stops tBTC from adding borrowing power to any position. Users can still repay and withdraw, liquidations continue, and borrowing against other collateral works as normal. tBTC keeps its liquidation threshold, so existing health factors do not change and no position becomes liquidatable because of the freeze. Users can raise their health factor by repaying debt or adding other collateral. Only tBTC on Ethereum Core is affected; no other reserve is affected and no market is paused. The post says contributors will keep monitoring tBTC positions and secondary-market liquidity, and will propose restorative measures once tBTC operations are confirmed to be back to normal. Open question: when Threshold confirms the incident is mitigated.",
+  "risk_flags": ["emergency freeze executed by guardian", "upstream incident at Threshold Network", "tBTC exposure on Ethereum Core"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-31"
+}

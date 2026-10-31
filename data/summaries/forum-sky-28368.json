@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28368",
+  "space": "sky",
+  "title": "Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-02",
+  "url": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-02/28368",
+  "headline": "Core GovOps submits this week's Atlas edits, including temporary capital ratio requirements and a larger exposure limit for Osero's Gauntlet USDC vault instance.",
+  "summary": "On behalf of Core GovOps, this weekly Atlas Edit proposal lists several changes. (1) Temporary Capital Ratio Requirements: applies temporary Instance Total CRRs approved by the Core Council to listed Instances from November 1, 2026, without replacing a higher Prime Agent Artifact CRR or a 100% CRR. (2) Morpho vaults: makes Prime Agents responsible for verifying every Morpho vault they deploy or enable to receive capital, and requires Prime Spell reviewers to review the resulting Morpho Verification Report before signing off a Prime Spell. (3) Osero Gauntlet Instance: raises the Maximum Exposure for the Gauntlet USDC Prime Morpho Vault V2 Instance from 10,000,000 to 25,000,000 USDC, lowers its Capital Ratio Requirement from 25% to 10%, and raises its deposit rate limit to 15,000,000 USDC with a slope of 10,000,000 USDC per day. (4) Removes the Initial Planning and Operational GovOps Review documents from the Distribution Reward and Integration Boost Invocation Protocols; Prime Agents instead submit requests directly to Operational GovOps for a feasibility review. (5) Records the September 24, 2026 Grant Transfers for Spark and Grove. (6) Records the Osero Gauntlet vault timelocks, abdicated functions and 0.01% force-deallocate penalty. (7) Housekeeping: removes empty documents, links grant transfer records to authorizations, renames rate limit documents, and moves Osero's SparkLend USDS Instance, which no longer holds exposure, to Completed Instances. The full proposal is in GitHub Pull Request #369 (sky-ecosystem/next-gen-atlas).",
+  "risk_flags": ["raises exposure limit 10M to 25M USDC", "lowers capital ratio requirement 25% to 10%", "changes review process for incentive requests"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-10-31"
+}
