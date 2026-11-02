@@ -1,0 +1,11 @@
+{
+  "id": "forum-arbitrum-31633",
+  "space": "arbitrum",
+  "title": "Rewarding Active Delegates - October 2026 Results",
+  "url": "https://forum.arbitrum.foundation/t/rewarding-active-delegates-october-2026-results/31633",
+  "headline": "Arbitrum's October 2026 delegate rewards: 28 of 32 enrolled delegates qualified and $12,000 was distributed, with 86.72% aggregate participation.",
+  "summary": "The report covers four October proposals, all Snapshot temperature checks ahead of on-chain votes, each with a $3,000 budget, so the envelope was $12,000 versus $15,000 in September. 28 of 32 enrolled delegates qualified. Aggregate participation was 86.72%, against 78.13% in September and 81.25% in August; 27 delegates voted on every proposal and one qualifying delegate missed a vote. The participation threshold stays at 50% (voting on any two of four was enough) and the rationale penalty stays at 10%. Rewards per delegate ranged from $1,000.00 (DZack23.eth) and $990.85 (yoav.eth) down to $16.56 for the smallest payment, with a per-proposal cap of $250 per delegate. Four enrolled delegates, limes.eth, Michigan Blockchain, Mikael Bondum and Lampros DAO, did not vote on any of the four proposals and were not paid. The post also gives per-proposal breakdowns, for example 27 delegates (84% of enrolled) voting on the Glamsterdam L1-pricing temperature check, of whom 19 (70%) posted on-time rationales.",
+  "risk_flags": ["delegate incentive program payouts"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-02"
+}

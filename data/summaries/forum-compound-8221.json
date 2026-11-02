@@ -1,0 +1,11 @@
+{
+  "id": "forum-compound-8221",
+  "space": "compound",
+  "title": "Proposal Guardian: Cancellation of Proposal 619",
+  "url": "https://www.comp.xyz/t/proposal-guardian-cancellation-of-proposal-619/8221",
+  "headline": "The Community Multisig, acting as Compound's Proposal Guardian, says it cancelled Proposal 619 before execution.",
+  "summary": "A forum post from the Community Multisig, acting as Proposal Guardian, states that it cancelled Proposal 619 before execution. The post gives two criteria from the Guardian's mandate and says either is sufficient; it says Proposal 619 met both. First, the post alleges a single entity controlled the vote: of 1,908,209 COMP cast For, it says 1,908,141 came from two addresses linked to the same entity, including the proposer. Second, it says the proposal passed over substantial opposition: 1,092,085 COMP from 18 voters voted Against, above the mandate's 400K threshold. The post says the Proposal Guardian was created after Proposal 289 (see Proposal 304) and renewed to 2030 in Proposal 538, and argues that Proposal 619 would have allowed that same voting position to remove the safeguard against itself. It points to a Foundation post and earlier posts on proposals 612, 613 and 618 for background. These are claims made in the forum post and have not been independently verified here. Open questions include how the community responds to the cancellation.",
+  "risk_flags": ["unverified allegation", "governance safeguard used to cancel a passed proposal", "vote concentration claim"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-02"
+}

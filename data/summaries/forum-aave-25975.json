@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25975",
+  "space": "aave",
+  "title": "Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.01",
+  "url": "https://governance.aave.com/t/risk-stewards-add-cap-increases-on-aave-v4-2026-11-01/25975",
+  "headline": "LlamaRisk recommends raising the Aave V4 add cap for weETH on Ethereum from 20K to 22K and for GOOGLc on Base from 15K to 22K.",
+  "summary": "LlamaRisk recommends two Aave V4 add cap increases. First, weETH on the Ethereum Core Hub Main Spoke from 20K to 22K: the post reports 19,533 weETH added (97.7% of the cap), with supply rising from about 14,300 to the cap on October 28 and staying close since the spoke was unfrozen on October 30. weETH is not borrowable on the Core Hub. The largest position holds about 24% of the reserve, the top three about 60% and the top twenty about 99%; nineteen of the top twenty borrow stablecoins against it, with health factors between 1.32 and 29.17 and a median of 1.80. The post says the new cap would sit at about 88.8% utilization. Second, GOOGLc on the Base Equities Hub MAG7 Spoke from 15K to 22K: 12,993 GOOGLc (about USD 3.7M) added, 86.6% of the cap, across 189 supplying positions, up from about 1,430 on October 2. GOOGLc is not borrowable on the Equities Hub, and the largest position holds about 29% of the reserve and the top three about 67%.",
+  "risk_flags": ["supply cap increases", "concentrated supply positions", "tokenized equity collateral"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-02"
+}

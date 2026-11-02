@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: arbitrum</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sat, 31 Oct 2026 12:58:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 17:03:12 +0000</lastBuildDate>
+<item><title>Rewarding Active Delegates - October 2026 Results (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-rewarding-active-delegates-october-2026-results--31633.html</link>
+<guid isPermaLink="false">forum-arbitrum-31633</guid><pubDate>Mon, 02 Nov 2026 15:34:45 +0000</pubDate>
+<description>Arbitrum&#x27;s October 2026 delegate rewards: 28 of 32 enrolled delegates qualified and $12,000 was distributed, with 86.72% aggregate participation.</description></item>
+<item><title>November 3, 2026 - Open Discussion of Proposals Governance Call (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-november-3-2026-open-discussion-of-proposals-governance-call--31632.html</link>
+<guid isPermaLink="false">forum-arbitrum-31632</guid><pubDate>Mon, 02 Nov 2026 14:44:35 +0000</pubDate>
+<description>Arbitrum&#x27;s governance call on November 3, 16:00-17:00 UTC, will cover three on-chain AIPs, an off-chain Stylus Activation Contract AIP, and a Security Council emergency action.</description></item>
+<item><title>2 November, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-2-november-2026-roundup-of-active-upcoming-votes--31631.html</link>
+<guid isPermaLink="false">forum-arbitrum-31631</guid><pubDate>Mon, 02 Nov 2026 13:46:03 +0000</pubDate>
+<description>Arbitrum&#x27;s roundup lists on-chain votes including a 100M ARB addition to the DRIP budget for USDG adoption and a 1,800 ETH treasury transfer.</description></item>
 <item><title>Security Council Emergency Action – 30/10/2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-emergency-action-30-10-2026--31625.html</link>
 <guid isPermaLink="false">forum-arbitrum-31625</guid><pubDate>Fri, 30 Oct 2026 01:22:18 +0000</pubDate>
 <description>The Arbitrum Security Council executed an emergency action on 30 October 2026 to freeze 8,425 ETH and 74,559,805.2 ARB on Arbitrum One held by an address identified with a Binance exploit.</description></item>

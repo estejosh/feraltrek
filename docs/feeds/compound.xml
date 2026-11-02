@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: compound</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sat, 31 Oct 2026 12:58:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 17:03:12 +0000</lastBuildDate>
+<item><title>Mosaico Delegate Platform (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-mosaico-delegate-platform-d-8233.html</link>
+<guid isPermaLink="false">forum-compound-8233</guid><pubDate>Sun, 01 Nov 2026 21:51:36 +0000</pubDate>
+<description>Mosaico, an advisory firm continuing the Avantgarde Finance delegate work, has posted a delegate platform for Compound governance.</description></item>
+<item><title>Proposal Guardian: Cancellation of Proposal 619 (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-proposal-guardian-cancellation-of-proposal-619-d-8221.html</link>
+<guid isPermaLink="false">forum-compound-8221</guid><pubDate>Sat, 31 Oct 2026 15:47:50 +0000</pubDate>
+<description>The Community Multisig, acting as Compound&#x27;s Proposal Guardian, says it cancelled Proposal 619 before execution.</description></item>
+<item><title>[Gauntlet] tBTC Risk Parameter Update: Supply Caps and Borrow Collateral Factors to 0 (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-tbtc-risk-parameter-update-supply-caps-and-borrow-collateral-f-d-8220.html</link>
+<guid isPermaLink="false">forum-compound-8220</guid><pubDate>Sat, 31 Oct 2026 15:19:28 +0000</pubDate>
+<description>Gauntlet recommends setting the tBTC supply cap and borrow collateral factor to 0 on every Compound Comet where tBTC is listed, after Threshold Network paused tBTC minting and redemptions.</description></item>
 <item><title>[Gauntlet] Deprecation of the Ethereum WBTC Comet (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-deprecation-of-the-ethereum-wbtc-comet-d-8209.html</link>
 <guid isPermaLink="false">forum-compound-8209</guid><pubDate>Fri, 30 Oct 2026 17:11:00 +0000</pubDate>
 <description>Gauntlet recommends winding down the Ethereum WBTC Comet by setting borrow collateral factors and the remaining supply caps to zero, citing minimal borrow demand.</description></item>

@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25970",
+  "space": "aave",
+  "title": "Risk Stewards: Slope2 Increases on Aave V3 and Aave V4 / 2026.10.31",
+  "url": "https://governance.aave.com/t/risk-stewards-slope2-increases-on-aave-v3-and-aave-v4-2026-10-31/25970",
+  "headline": "LlamaRisk recommends restoring Slope2 (the borrow rate slope above optimal utilization) on affected Aave V3 and V4 reserves to pre-incident values, now that the reserves are no longer frozen.",
+  "summary": "Following temporary Slope2 reductions recommended on October 30 after the Binance hot wallet incident of October 29, LlamaRisk recommends restoring Slope2 on each affected reserve to its prior value. The post says the reserves are no longer frozen and accept new supply and borrowing, and that base rate, Slope1 and optimal utilization are unchanged, so rates at or below the optimal point are unaffected. Examples on Aave V3 Core: USDC and USDT from 5.50% to 10.00%, DAI from 15.00% to 35.00%, USDtb from 30.00% to 50.00%. Other V3 instances listed are Plasma, Base, Mantle, Monad, Avalanche, Optimism and Horizon. On Aave V4 Ethereum, Core Hub Slope2 rises for USDT, USDG, USDC and frxUSD (to 20.00% or 35.00%) and WETH from 7.80% to 8.00%, with further changes on the Global Dollar Hub and Arc. The post's tables show current utilization, for example 94.0% on V3 Core USDC and 94.8% on V3 Core USDT, and the borrow APR at 100% utilization, which for V3 Core USDC would go from 10.00% to 14.50%. The post says the earlier reductions narrowed the rate response available to restore withdrawal liquidity on reserves operating above optimal utilization.",
+  "risk_flags": ["borrow rate parameter increases", "reserves above optimal utilization", "follows security incident response"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-02"
+}

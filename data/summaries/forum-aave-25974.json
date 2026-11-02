@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25974",
+  "space": "aave",
+  "title": "Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.01",
+  "url": "https://governance.aave.com/t/risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-01/25974",
+  "headline": "LlamaRisk recommends raising borrow caps on five Aave V3 reserves whose debt has reached 98.3% to 100% of caps reduced on October 30.",
+  "summary": "LlamaRisk reviewed the Aave V3 borrow caps reduced on October 30, 2026 and recommends increases on five reserves: Core WETH from 1,790,000 to 1,810,000; Core EURC from 26,600,000 to 30,000,000; Prime WETH from 16,100 to 17,000; Polygon USDT0 from 22,200,000 to 23,000,000; and X Layer from 30,300,000 to 35,000,000. The post says debt on these reserves has grown since the reduction and now uses between 98.3% and 100% of each cap; the recommended caps would put usage between 86.6% and 98.3%. For Core WETH, it reports 2,098,953 WETH supplied against 1,778,949 WETH borrowed, utilization of 84.8% against an optimal 92%. It says WETH debt is concentrated: the two largest borrowers hold about 23% and 18% of the reserve's debt and the top twenty about 80%, mostly borrowing against liquid restaking and staking tokens such as weETH, rsETH and wstETH, with health factors between 1.01 and 3.56 and a median of 1.04. Open questions include how the concentration and low health factors interact with higher caps.",
+  "risk_flags": ["borrow cap increases", "concentrated borrower positions", "low median health factor in WETH borrower cohort"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-02"
+}

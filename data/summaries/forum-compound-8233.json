@@ -1,0 +1,11 @@
+{
+  "id": "forum-compound-8233",
+  "space": "compound",
+  "title": "Mosaico Delegate Platform",
+  "url": "https://www.comp.xyz/t/mosaico-delegate-platform/8233",
+  "headline": "Mosaico, an advisory firm continuing the Avantgarde Finance delegate work, has posted a delegate platform for Compound governance.",
+  "summary": "Mosaico introduces itself as an advisory firm working between institutional capital and on-chain markets, whose team has been active in Compound governance, previously as part of Avantgarde Finance. The post lists its delegate address (mosaico-gov.eth), Tally profile and forum username. Stated values are diligence (reading each proposal and engaging with proposers before voting), transparency (sharing the reasoning behind every vote), collaboration with the Foundation, service providers and delegates, and a long-term view favoring security, sustainability and growth. Stated goals include careful proposal review and an institutional perspective on risk, governance and operations. It says it will update the thread monthly with votes, rationales and forum contributions. Disclosures: Mosaico says Compound is currently the only DAO where it acts as a delegate and that it will disclose relevant conflicts of interest when they arise. The post does not request funds or propose a vote.",
+  "risk_flags": ["delegate self-description, unverified claims"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-02"
+}

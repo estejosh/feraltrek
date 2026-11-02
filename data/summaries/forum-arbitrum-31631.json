@@ -1,0 +1,11 @@
+{
+  "id": "forum-arbitrum-31631",
+  "space": "arbitrum",
+  "title": "2 November, 2026 - Roundup of Active/Upcoming Votes",
+  "url": "https://forum.arbitrum.foundation/t/2-november-2026-roundup-of-active-upcoming-votes/31631",
+  "headline": "Arbitrum's roundup lists on-chain votes including a 100M ARB addition to the DRIP budget for USDG adoption and a 1,800 ETH treasury transfer.",
+  "summary": "The roundup lists on-chain proposals. (1) Adopting USDG as a Core Strategic Initiative: Entropy proposes coordinated efforts to grow USDG adoption on Arbitrum, including adding 100M ARB from the DAO treasury to the DRIP budget with changes to season structure, scope and timeline; enabling the ATMC to deploy assets in support of USDG growth under existing oversight; routing AEP fees, net of the 20% allocated to the Arbitrum Developer Guild, to the TM Portfolio for conversion into USDG; and confirming the initiative as a Special Project under Entropy's Year 2-3 scope. Voting ends November 13. (2) Transfer 1,800 ETH from the Treasury: about 1,714 ETH of Sequencer revenue to the TM Portfolio to restart a covered call strategy, and about 86 ETH of Timeboost and PGA revenue to the Arbitrum Developer Guild, in line with the 3% allocation from earlier proposals. The total rose from 1,700 ETH after the temperature check. Voting ends November 12. (3) A Constitutional AIP updating Arbitrum One and Nova L1-pricing parameters (parentGasFloorPerToken and perBatchGasCharge) ahead of Ethereum's Glamsterdam upgrade.",
+  "risk_flags": ["treasury spend 100M ARB", "treasury transfer 1,800 ETH", "constitutional parameter change"],
+  "vote": "On-chain votes listed: USDG initiative ends 2026-11-13, 1,800 ETH transfer ends 2026-11-12",
+  "written": "2026-11-02"
+}

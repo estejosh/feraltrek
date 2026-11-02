@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sat, 31 Oct 2026 12:58:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 17:03:12 +0000</lastBuildDate>
+<item><title>AL Development Update | October 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-al-development-update-october-2026--25979.html</link>
+<guid isPermaLink="false">forum-aave-25979</guid><pubDate>Mon, 02 Nov 2026 12:14:09 +0000</pubDate>
+<description>Aave Labs&#x27; October update reports Aave V4 deposits above $1.5B, the first external curator on V4, and an ARFC to establish the Aave Foundation.</description></item>
+<item><title>Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-cap-increases-on-aave-v4-2026-11-01--25975.html</link>
+<guid isPermaLink="false">forum-aave-25975</guid><pubDate>Sun, 01 Nov 2026 17:19:21 +0000</pubDate>
+<description>LlamaRisk recommends raising the Aave V4 add cap for weETH on Ethereum from 20K to 22K and for GOOGLc on Base from 15K to 22K.</description></item>
+<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-01--25974.html</link>
+<guid isPermaLink="false">forum-aave-25974</guid><pubDate>Sun, 01 Nov 2026 17:18:44 +0000</pubDate>
+<description>LlamaRisk recommends raising borrow caps on five Aave V3 reserves whose debt has reached 98.3% to 100% of caps reduced on October 30.</description></item>
+<item><title>Risk Stewards: Slope2 Increases on Aave V3 and Aave V4 / 2026.10.31 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-slope2-increases-on-aave-v3-and-aave-v4-2026-10-31--25970.html</link>
+<guid isPermaLink="false">forum-aave-25970</guid><pubDate>Sat, 31 Oct 2026 19:53:42 +0000</pubDate>
+<description>LlamaRisk recommends restoring Slope2 (the borrow rate slope above optimal utilization) on affected Aave V3 and V4 reserves to pre-incident values, now that the reserves are no longer frozen.</description></item>
 <item><title>tBTC Mint &amp; Redeem Pause: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tbtc-mint-redeem-pause-aave-s-response--25965.html</link>
 <guid isPermaLink="false">forum-aave-25965</guid><pubDate>Sat, 31 Oct 2026 10:28:51 +0000</pubDate>
 <description>After Threshold Network paused tBTC mints and redeems, the guardian multisig froze tBTC on Aave V3 Ethereum Core, stopping new deposits and borrowing against it.</description></item>
