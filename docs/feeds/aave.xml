@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 02 Nov 2026 17:03:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:53:37 +0000</lastBuildDate>
+<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.02 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-02--25980.html</link>
+<guid isPermaLink="false">forum-aave-25980</guid><pubDate>Mon, 02 Nov 2026 17:58:39 +0000</pubDate>
+<description>LlamaRisk recommends raising three Aave V3 caps: USDe supply on X Layer, USDT0 borrow on Monad, and WETH borrow on Optimism, via the Risk Steward process.</description></item>
 <item><title>AL Development Update | October 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-al-development-update-october-2026--25979.html</link>
 <guid isPermaLink="false">forum-aave-25979</guid><pubDate>Mon, 02 Nov 2026 12:14:09 +0000</pubDate>
 <description>Aave Labs&#x27; October update reports Aave V4 deposits above $1.5B, the first external curator on V4, and an ARFC to establish the Aave Foundation.</description></item>

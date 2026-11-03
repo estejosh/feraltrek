@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28373",
+  "space": "sky",
+  "title": "PSM-GUSD-A and PSM-PAX-A housekeeping",
+  "url": "https://forum.sky.money/t/psm-gusd-a-and-psm-pax-a-housekeeping/28373",
+  "headline": "Sidestream proposes a core spell to fully offboard two inactive legacy PSM collateral types (PSM-GUSD-A and PSM-PAX-A) from Sky's on-chain records.",
+  "summary": "Sidestream has prepared a housekeeping item to finish offboarding PSM-GUSD-A and PSM-PAX-A, two legacy PSM ilks the post says have been inactive for a long time with no plan to re-enable them. Their debt ceilings were set to 0 in the 2023-11-29 and 2024-01-24 spells. The proposed core spell would write off remaining debt, remove both ilks from ILK_REGISTRY and LINE_MOM, cage the join contracts, revoke permissions held on MCD_VAT and MCD_DOG, and remove the related contracts from the chainlog, bumping its version from 1.20.21 to 1.20.22. The post says both Clippers are stopped and have never run an auction, and that the JAR contracts hold no valuable tokens. The join contracts still hold dust: about 0.38 USDP and 0.57 GUSD, which the post says is not withdrawable. The pause proxy keeps its authority on the offboarded contracts, which the post notes deviates from the PSM Offboarding Checklist. Ilks removed from the registry can be re-added permissionlessly if listed conditions are met. Timing is a core spell on 2026-11-05. No audit is listed, and no new contracts were deployed. A Core Facilitator must confirm the dust amounts can be left as is. The post also notes PSM-USDC-A is to be offboarded in a future spell.",
+  "risk_flags": ["core spell changes on-chain permissions", "removes contracts from chainlog", "deviates from offboarding checklist", "no audit", "dust balances left in join contracts"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-03"
+}

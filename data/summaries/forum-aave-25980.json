@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25980",
+  "space": "aave",
+  "title": "Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.02",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-02/25980",
+  "headline": "LlamaRisk recommends raising three Aave V3 caps: USDe supply on X Layer, USDT0 borrow on Monad, and WETH borrow on Optimism, via the Risk Steward process.",
+  "summary": "LlamaRisk recommends three cap changes based on its latest review of Aave V3 reserves. On Aave V3 X Layer, the USDe supply cap would rise from 25,000,000 to 50,000,000; the post reports 45.8% cap utilization as of 2026-11-02, with supply concentrated (largest supplier about 76%, top three about 98%). On Aave V3 Monad, the USDT0 borrow cap would rise from 57,900,000 to 63,000,000; the post reports 100.0% borrow cap utilization, with the largest borrower about 26% and the top three about 57%. On Aave V3 Optimism, the WETH borrow cap would rise from 6,280 to 7,750; the post reports 98.5% utilization, with the top twenty borrowers holding about 91% of debt, all using wstETH as collateral. Post-change utilization is given as about 22.9%, 91.9% and 79.8% respectively. The post says the changes will be implemented through the Risk Steward process and can be reviewed on the LlamaRisk Risk Stewards Dashboard. Disclosure in the post: LlamaRisk is a risk service provider funded in part by the Aave DAO and says it received no compensation from the reviewed protocols for this work.",
+  "risk_flags": ["concentrated suppliers and borrowers", "caps near 100% utilization", "implemented via Risk Steward process, no DAO vote"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-03"
+}

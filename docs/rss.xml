@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 02 Nov 2026 17:03:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:53:37 +0000</lastBuildDate>
+<item><title>[Final Report] zkArb SDK - Dev Tooling on One and Stylus (D.A.O. Season 3) (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-final-report-zkarb-sdk-dev-tooling-on-one-and-stylus-d-a-o-season-3--31634.html</link>
+<guid isPermaLink="false">forum-arbitrum-31634</guid><pubDate>Tue, 03 Nov 2026 11:47:02 +0000</pubDate>
+<description>The zkArb SDK grantee reports all seven milestones delivered under a $13,000 Arbitrum D.A.O. Season 3 grant.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.02 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-02--25980.html</link>
+<guid isPermaLink="false">forum-aave-25980</guid><pubDate>Mon, 02 Nov 2026 17:58:39 +0000</pubDate>
+<description>LlamaRisk recommends raising three Aave V3 caps: USDe supply on X Layer, USDT0 borrow on Monad, and WETH borrow on Optimism, via the Risk Steward process.</description></item>
+<item><title>PSM-GUSD-A and PSM-PAX-A housekeeping (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-psm-gusd-a-and-psm-pax-a-housekeeping--28373.html</link>
+<guid isPermaLink="false">forum-sky-28373</guid><pubDate>Mon, 02 Nov 2026 17:12:36 +0000</pubDate>
+<description>Sidestream proposes a core spell to fully offboard two inactive legacy PSM collateral types (PSM-GUSD-A and PSM-PAX-A) from Sky&#x27;s on-chain records.</description></item>
 <item><title>Rewarding Active Delegates - October 2026 Results (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-rewarding-active-delegates-october-2026-results--31633.html</link>
 <guid isPermaLink="false">forum-arbitrum-31633</guid><pubDate>Mon, 02 Nov 2026 15:34:45 +0000</pubDate>
 <description>Arbitrum&#x27;s October 2026 delegate rewards: 28 of 32 enrolled delegates qualified and $12,000 was distributed, with 86.72% aggregate participation.</description></item>
@@ -142,13 +151,4 @@
 <item><title>Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-op-mainnet-proposer-rotation--10939.html</link>
 <guid isPermaLink="false">forum-optimism-10939</guid><pubDate>Tue, 27 Oct 2026 13:00:09 +0000</pubDate>
 <description>OP Labs proposes rotating the proposer key on OP Mainnet&#x27;s permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.</description></item>
-<item><title>LEGO Grant Proposal: Preventing Theft in Mainstream Wallets with Vaults (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-preventing-theft-in-mainstream-wallets-with-vaults--12163.html</link>
-<guid isPermaLink="false">forum-lido-12163</guid><pubDate>Tue, 27 Oct 2026 10:55:05 +0000</pubDate>
-<description>Asks Lido&#x27;s LEGO to pledge $30,000 toward a $240,000 effort to get mainstream wallets to ship spending-limited savings vaults that limit losses from stolen seed phrases.</description></item>
-<item><title>LEGO Grant Proposal: Production-Ready Local-First Safe UI (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-production-ready-local-first-safe-ui--12162.html</link>
-<guid isPermaLink="false">forum-lido-12162</guid><pubDate>Tue, 27 Oct 2026 10:54:01 +0000</pubDate>
-<description>Asks Lido&#x27;s LEGO to fund part of a $120,000 open RFP for a self-hosted, open-source Safe multisig interface, so teams are not tied to the hosted Safe{Wallet} frontend.</description></item>
-<item><title>LEGO Grant Proposal: Decentralized, Privacy-Preserving EDR (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-decentralized-privacy-preserving-edr--12161.html</link>
-<guid isPermaLink="false">forum-lido-12161</guid><pubDate>Tue, 27 Oct 2026 10:52:07 +0000</pubDate>
-<description>Asks Lido&#x27;s LEGO for $30,000 toward a $300,000 open-source endpoint detection tool (EDR) for crypto teams, built by Auditware.</description></item>
 </channel></rss>

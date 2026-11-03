@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 02 Nov 2026 17:03:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:53:37 +0000</lastBuildDate>
+<item><title>PSM-GUSD-A and PSM-PAX-A housekeeping (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-psm-gusd-a-and-psm-pax-a-housekeeping--28373.html</link>
+<guid isPermaLink="false">forum-sky-28373</guid><pubDate>Mon, 02 Nov 2026 17:12:36 +0000</pubDate>
+<description>Sidestream proposes a core spell to fully offboard two inactive legacy PSM collateral types (PSM-GUSD-A and PSM-PAX-A) from Sky&#x27;s on-chain records.</description></item>
 <item><title>Risk Month in Review: October 2026 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-risk-month-in-review-october-2026--28372.html</link>
 <guid isPermaLink="false">forum-sky-28372</guid><pubDate>Mon, 02 Nov 2026 13:22:41 +0000</pubDate>
 <description>BA Labs&#x27; October report covers a Stability Scope parameter change, stUSDS keeper rate settings and Treasury Management Function figures for the Sky Ecosystem.</description></item>
