@@ -23,3 +23,6 @@ __pycache__/
 agentmail_seen.json
 
 log/_*.txt
+
+data/post_out.txt
+data/post_err.txt
