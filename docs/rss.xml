@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 03 Nov 2026 12:53:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 12:54:20 +0000</lastBuildDate>
+<item><title>Compound Foundation: Monthly V4 Programme Update [October 2026] (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-foundation-monthly-v4-programme-update-october-2026-d-8240.html</link>
+<guid isPermaLink="false">forum-compound-8240</guid><pubDate>Wed, 04 Nov 2026 07:52:53 +0000</pubDate>
+<description>The Compound Foundation&#x27;s fifth monthly V4 funding-program update reports an on-track status, new engineering hires and lower proposed annual provider fees.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-03--25988.html</link>
+<guid isPermaLink="false">forum-aave-25988</guid><pubDate>Tue, 03 Nov 2026 14:42:57 +0000</pubDate>
+<description>A risk service provider recommends raising several supply and borrow caps on Aave V4 (Ethereum and Avalanche) and changing the USDC interest rate slope on two hubs.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-03--25987.html</link>
+<guid isPermaLink="false">forum-aave-25987</guid><pubDate>Tue, 03 Nov 2026 14:36:57 +0000</pubDate>
+<description>A risk service provider recommends doubling the USD₮0 borrow cap on Aave V3 X Layer and cutting the WAVAX supply cap on Aave V3 Avalanche.</description></item>
 <item><title>[Final Report] zkArb SDK - Dev Tooling on One and Stylus (D.A.O. Season 3) (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-final-report-zkarb-sdk-dev-tooling-on-one-and-stylus-d-a-o-season-3--31634.html</link>
 <guid isPermaLink="false">forum-arbitrum-31634</guid><pubDate>Tue, 03 Nov 2026 11:47:02 +0000</pubDate>
 <description>The zkArb SDK grantee reports all seven milestones delivered under a $13,000 Arbitrum D.A.O. Season 3 grant.</description></item>
@@ -142,13 +151,4 @@
 <item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-draft-social-ips-amendment-no-2-ips-amendment-authority--22515.html</link>
 <guid isPermaLink="false">forum-ens-22515</guid><pubDate>Tue, 27 Oct 2026 22:11:03 +0000</pubDate>
 <description>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</description></item>
-<item><title>SLL pilot request: Zyfai as a $10M rate-limited USDC venue on Ethereum (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-sll-pilot-request-zyfai-as-a-10m-rate-limited-usdc-venue-on-ethereum--28355.html</link>
-<guid isPermaLink="false">forum-sky-28355</guid><pubDate>Tue, 27 Oct 2026 15:56:06 +0000</pubDate>
-<description>Zyfai asks for feedback on a 90-day pilot where Spark&#x27;s Liquidity Layer would allocate up to 10M USDC to a Zyfai-managed Safe that rebalances across Ethereum USDC lending venues.</description></item>
-<item><title>27 October, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-27-october-2026-roundup-of-active-upcoming-votes--31622.html</link>
-<guid isPermaLink="false">forum-arbitrum-31622</guid><pubDate>Tue, 27 Oct 2026 13:49:28 +0000</pubDate>
-<description>Roundup lists three upcoming Arbitrum on-chain proposals, all with voting starting October 29: a USDG initiative with 100M ARB for DRIP, a 1,800 ETH treasury transfer, and L1-pricing parameter updates for Glamsterdam.</description></item>
-<item><title>Maintenance Upgrade Proposal: OP Mainnet Proposer Rotation (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-op-mainnet-proposer-rotation--10939.html</link>
-<guid isPermaLink="false">forum-optimism-10939</guid><pubDate>Tue, 27 Oct 2026 13:00:09 +0000</pubDate>
-<description>OP Labs proposes rotating the proposer key on OP Mainnet&#x27;s permissioned fallback dispute game to new OP Enterprise infrastructure; it passes unless vetoed during a one-week window.</description></item>
 </channel></rss>

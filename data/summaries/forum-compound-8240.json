@@ -1,0 +1,11 @@
+{
+  "id": "forum-compound-8240",
+  "space": "compound",
+  "title": "Compound Foundation: Monthly V4 Programme Update [October 2026]",
+  "url": "https://www.comp.xyz/t/compound-foundation-monthly-v4-programme-update-october-2026/8240",
+  "headline": "The Compound Foundation's fifth monthly V4 funding-program update reports an on-track status, new engineering hires and lower proposed annual provider fees.",
+  "summary": "The Foundation reports overall status 'on track' for October 2026. It says new technical staff joined, a fractional CFO is active, and V4 interest-accrual and escrow/spoke designs advanced through engineering review. For the Institutional Market, it reports $50.2M in deposits and collateral, $15.2M in USDC loans and 72.7% utilization at 1 November, 00:01 UTC. It says precautionary V3 pauses followed an incident at an exchange and most markets reopened on 30 October, with borrowing partially recovered. WOOF expanded Comet tests from 152 to 1,408. On stewardship, the Foundation says negotiated security and proposed Gauntlet fees total about $2.15M annually, around $4.2M below the selected $6.3M summer-2025 packages, with scopes differing and approvals outstanding. It also says recovery work on Elixir continues with external counsel. November priorities are core modules, technical reviews and audit planning, partner and incentive plans, WOOF releases, and finalizing provider renewals. The 12-month review and five Year 1 deliverables of the V4 funding proposal are stated as unchanged. Open questions: the pending renewal approvals and what the differing scopes cover.",
+  "risk_flags": ["provider fee renewals pending approval", "Institutional Market borrowing disruption in late October", "recovery work ongoing (Elixir)"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-04"
+}

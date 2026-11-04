@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-25987",
+  "space": "aave",
+  "title": "Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.03",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-03/25987",
+  "headline": "A risk service provider recommends doubling the USD₮0 borrow cap on Aave V3 X Layer and cutting the WAVAX supply cap on Aave V3 Avalanche.",
+  "summary": "The post, written by LlamaRisk, recommends two parameter changes on Aave V3. On X Layer, the USD₮0 borrow cap would rise from 35,000,000 to 70,000,000. The post says the cap is 72.5% used (25,380,870 borrowed) as of November 3, 2026, and that the new cap would be roughly 36.3% used. It reports the top twenty borrowers hold about 83% of the debt, with health factors between 1.03 and 1.10 (median 1.05), the largest holding about 31% of debt against USDe collateral, and eighteen of the twenty posting PT-USDG-25FEB2027 as collateral. On Avalanche, the WAVAX supply cap would fall from 14,000,000 to 12,000,000. Current supply is 16,229,566 (115.9% of the cap), so the lower cap (about 135.2% used) would keep new supply blocked until supply drops below it; the post notes some users are moving WAVAX supply to Aave V4. The post says the changes will be implemented through the Risk Steward process. It includes a disclosure that LlamaRisk is funded in part by the Aave DAO and that the content is not financial advice. Open question: borrower concentration and reliance on one collateral token's price on X Layer.",
+  "risk_flags": ["borrow cap doubled to 70M", "borrower concentration (top 20 hold ~83% of debt)", "low health factors in top borrowers", "supply cap below current supply"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-04"
+}
