@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26133",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "USDC was mistakenly deposited to the Aave V3 contract address ",
     "url":  "https://governance.aave.com/t/usdc-was-mistakenly-deposited-to-the-aave-v3-contract-address/26133",
     "headline":  "Low-information proposal",

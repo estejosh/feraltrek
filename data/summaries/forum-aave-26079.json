@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26079",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "[TEMP CHECK] Extend HyperLend\u0027s Friendly Fork Recognition to Elysium (Aave v3.7)",
     "url":  "https://governance.aave.com/t/temp-check-extend-hyperlends-friendly-fork-recognition-to-elysium-aave-v3-7/26079",
     "headline":  "HyperLend asks the Aave DAO to recognize its deployment on Elysium (an L2 for the Hyperliquid ecosystem) as a friendly fork on Aave v3.7, offering 50% of that deployment\u0027s revenue to the DAO.",

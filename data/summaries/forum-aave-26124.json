@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26124",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "[TEMP CHECK] AAVE SECURITY SHIELD – Exploring Preventive Risk Controls for External Security Incidents",
     "url":  "https://governance.aave.com/t/temp-check-aave-security-shield-exploring-preventive-risk-controls-for-external-security-incidents/26124",
     "headline":  "A community initiative (written in Spanish) proposes studying whether Aave could temporarily limit new debt during an external security incident while keeping repayments and liquidations working. It asks for a feasibility study, not protocol changes.",

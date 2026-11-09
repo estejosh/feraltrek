@@ -1,9 +1,6 @@
 {
     "id":  "forum-sky-28391",
-    "space":  {
-                  "id":  "sky",
-                  "name":  "sky"
-              },
+    "space":  "sky",
     "title":  "SAEP-25: Update the Allocation System Primitive",
     "url":  "https://forum.sky.money/t/saep-25-update-the-allocation-system-primitive/28391",
     "headline":  "Phoenix Labs proposes SAEP-25 to update the Allocation System Primitive section of the Spark Artifact, recording wound-down instances, rate limit IDs and current controllers.",

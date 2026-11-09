@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26139",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "ACLManager: RISK_ADMIN_ROLE grants, Sep 2026 — decoded",
     "url":  "https://governance.aave.com/t/aclmanager-risk-admin-role-grants-sep-2026-decoded/26139",
     "headline":  "A forum post decodes three RISK_ADMIN_ROLE grants on Aave V3 Ethereum since 2 September 2026, all sent by the governance Executor, and notes the role can change caps and risk parameters without a full vote.",

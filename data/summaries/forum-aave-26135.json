@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26135",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "Request: wallet list behind the Aave Insights treasury figure",
     "url":  "https://governance.aave.com/t/request-wallet-list-behind-the-aave-insights-treasury-figure/26135",
     "headline":  "An independent treasury analysis service asks TokenLogic for the wallet list and method behind the Aave Insights treasury figure ($260.65M at Q3 2026 close) so it can reconcile its own numbers.",

@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26073",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.06",
     "url":  "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-06/26073",
     "headline":  "LlamaRisk recommends raising several supply, draw and add caps and one base interest rate on Aave V4 reserves on Ethereum, Avalanche and Base. The post is a risk-steward parameter update based on observed borrowing and liquidity.",

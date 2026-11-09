@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26131",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "Per-Asset Liquidation Thresholds Underpredict Co-Liquidation by 301×",
     "url":  "https://governance.aave.com/t/per-asset-liquidation-thresholds-underpredict-co-liquidation-by-301x/26131",
     "headline":  "A forum post reports a backtest finding that Aave V3 per-asset liquidation thresholds do not account for assets falling together, and argues for a joint probability model.",

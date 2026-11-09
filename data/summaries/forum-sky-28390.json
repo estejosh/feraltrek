@@ -1,9 +1,6 @@
 {
     "id":  "forum-sky-28390",
-    "space":  {
-                  "id":  "sky",
-                  "name":  "sky"
-              },
+    "space":  "sky",
     "title":  "[November 19, 2026] Proposed Changes to Spark for Upcoming Spell",
     "url":  "https://forum.sky.money/t/november-19-2026-proposed-changes-to-spark-for-upcoming-spell/28390",
     "headline":  "Proposed changes for the Spark spell of November 19, 2026: seven changes across Ethereum, OP Mainnet, Unichain, Avalanche and X-Layer, including deprecating Spark Liquidity Layer on OP Mainnet, Unichain and Avalanche, and December grants of 865,000 USDS and 45,000 USDS.",

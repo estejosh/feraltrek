@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 04 Nov 2026 12:54:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 13:10:01 +0000</lastBuildDate>
+<item><title>ACLManager: RISK_ADMIN_ROLE grants, Sep 2026 — decoded (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aclmanager-risk-admin-role-grants-sep-2026-decoded--26139.html</link>
+<guid isPermaLink="false">forum-aave-26139</guid><pubDate>Mon, 09 Nov 2026 00:45:03 +0000</pubDate>
+<description>A forum post decodes three RISK_ADMIN_ROLE grants on Aave V3 Ethereum since 2 September 2026, all sent by the governance Executor, and notes the role can change caps and risk parameters without a full vote.</description></item>
+<item><title>Request: wallet list behind the Aave Insights treasury figure (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-request-wallet-list-behind-the-aave-insights-treasury-figure--26135.html</link>
+<guid isPermaLink="false">forum-aave-26135</guid><pubDate>Mon, 09 Nov 2026 00:44:15 +0000</pubDate>
+<description>An independent treasury analysis service asks TokenLogic for the wallet list and method behind the Aave Insights treasury figure ($260.65M at Q3 2026 close) so it can reconcile its own numbers.</description></item>
+<item><title>Per-Asset Liquidation Thresholds Underpredict Co-Liquidation by 301× (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-per-asset-liquidation-thresholds-underpredict-co-liquidation-by-301--26131.html</link>
+<guid isPermaLink="false">forum-aave-26131</guid><pubDate>Mon, 09 Nov 2026 00:43:56 +0000</pubDate>
+<description>A forum post reports a backtest finding that Aave V3 per-asset liquidation thresholds do not account for assets falling together, and argues for a joint probability model.</description></item>
+<item><title>[TEMP CHECK] AAVE SECURITY SHIELD – Exploring Preventive Risk Controls for External Security Incidents (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-aave-security-shield-exploring-preventive-risk-controls-for-exte--26124.html</link>
+<guid isPermaLink="false">forum-aave-26124</guid><pubDate>Mon, 09 Nov 2026 00:43:34 +0000</pubDate>
+<description>A community initiative (written in Spanish) proposes studying whether Aave could temporarily limit new debt during an external security incident while keeping repayments and liquidations working. It asks for a feasibility study, not protocol changes.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.08 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-08--26107.html</link>
+<guid isPermaLink="false">forum-aave-26107</guid><pubDate>Sun, 08 Nov 2026 10:12:08 +0000</pubDate>
+<description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.6B to 2.75B and the USDe supply cap from 550M to 750M, after both reserves reached near-full utilization.</description></item>
+<item><title>[TEMP CHECK] Extend HyperLend&#x27;s Friendly Fork Recognition to Elysium (Aave v3.7) (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-extend-hyperlend-s-friendly-fork-recognition-to-elysium-aave-v3---26079.html</link>
+<guid isPermaLink="false">forum-aave-26079</guid><pubDate>Fri, 06 Nov 2026 17:05:02 +0000</pubDate>
+<description>HyperLend asks the Aave DAO to recognize its deployment on Elysium (an L2 for the Hyperliquid ecosystem) as a friendly fork on Aave v3.7, offering 50% of that deployment&#x27;s revenue to the DAO.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-06--26078.html</link>
+<guid isPermaLink="false">forum-aave-26078</guid><pubDate>Fri, 06 Nov 2026 16:01:37 +0000</pubDate>
+<description>LlamaRisk recommends a broad set of borrow and supply cap changes across Aave V3 instances, mostly reductions, plus a USDe base borrow rate increase to 7.00%. USDt on Avalanche had reached 99.9% borrow cap utilization.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-06--26073.html</link>
+<guid isPermaLink="false">forum-aave-26073</guid><pubDate>Fri, 06 Nov 2026 15:55:38 +0000</pubDate>
+<description>LlamaRisk recommends raising several supply, draw and add caps and one base interest rate on Aave V4 reserves on Ethereum, Avalanche and Base. The post is a risk-steward parameter update based on observed borrowing and liquidity.</description></item>
 <item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-03--25988.html</link>
 <guid isPermaLink="false">forum-aave-25988</guid><pubDate>Tue, 03 Nov 2026 14:42:57 +0000</pubDate>
 <description>A risk service provider recommends raising several supply and borrow caps on Aave V4 (Ethereum and Avalanche) and changing the USDC interest rate slope on two hubs.</description></item>

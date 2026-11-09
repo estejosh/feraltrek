@@ -1,9 +1,6 @@
 {
     "id":  "forum-optimism-10966",
-    "space":  {
-                  "id":  "optimism",
-                  "name":  "optimism"
-              },
+    "space":  "optimism",
     "title":  "Grant Proposal: Trustless ZK Bitcoin Verification Infrastructure for [Opromism]",
     "url":  "https://gov.optimism.io/t/grant-proposal-trustless-zk-bitcoin-verification-infrastructure-for-opromism/10966",
     "headline":  "Low-information proposal",

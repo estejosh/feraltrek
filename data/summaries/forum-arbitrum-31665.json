@@ -1,9 +1,6 @@
 {
     "id":  "forum-arbitrum-31665",
-    "space":  {
-                  "id":  "arbitrum",
-                  "name":  "arbitrum"
-              },
+    "space":  "arbitrum",
     "title":  "OpCo Update October 2026",
     "url":  "https://forum.arbitrum.foundation/t/opco-update-october-2026/31665",
     "headline":  "OpCo reports on October 2026 for Arbitrum DAO, covering the Oversight and Transparency Committee, USDG coordination, a negotiation over a 10M ARB set-aside, and cross-organization work.",

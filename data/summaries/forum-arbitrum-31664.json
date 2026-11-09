@@ -1,9 +1,6 @@
 {
     "id":  "forum-arbitrum-31664",
-    "space":  {
-                  "id":  "arbitrum",
-                  "name":  "arbitrum"
-              },
+    "space":  "arbitrum",
     "title":  "Entropy Advisors Monthly Update: October 2026",
     "url":  "https://forum.arbitrum.foundation/t/entropy-advisors-monthly-update-october-2026/31664",
     "headline":  "Entropy Advisors reports on October 2026 for Arbitrum DAO: USDG supply on Arbitrum One reached $61.32M, treasury stablecoins moved toward USDG, and two onchain votes close November 12.",

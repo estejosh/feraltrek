@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26107",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.08",
     "url":  "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-08/26107",
     "headline":  "LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.6B to 2.75B and the USDe supply cap from 550M to 750M, after both reserves reached near-full utilization.",

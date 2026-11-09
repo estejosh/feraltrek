@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 04 Nov 2026 12:54:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 13:10:01 +0000</lastBuildDate>
+<item><title>SAEP-25: Update the Allocation System Primitive (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-saep-25-update-the-allocation-system-primitive--28391.html</link>
+<guid isPermaLink="false">forum-sky-28391</guid><pubDate>Mon, 09 Nov 2026 04:14:32 +0000</pubDate>
+<description>Phoenix Labs proposes SAEP-25 to update the Allocation System Primitive section of the Spark Artifact, recording wound-down instances, rate limit IDs and current controllers.</description></item>
+<item><title>[November 19, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-19-2026-proposed-changes-to-spark-for-upcoming-spell--28390.html</link>
+<guid isPermaLink="false">forum-sky-28390</guid><pubDate>Mon, 09 Nov 2026 03:10:09 +0000</pubDate>
+<description>Proposed changes for the Spark spell of November 19, 2026: seven changes across Ethereum, OP Mainnet, Unichain, Avalanche and X-Layer, including deprecating Spark Liquidity Layer on OP Mainnet, Unichain and Avalanche, and December grants of 865,000 USDS and 45,000 USDS.</description></item>
+<item><title>ACLManager: RISK_ADMIN_ROLE grants, Sep 2026 — decoded (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aclmanager-risk-admin-role-grants-sep-2026-decoded--26139.html</link>
+<guid isPermaLink="false">forum-aave-26139</guid><pubDate>Mon, 09 Nov 2026 00:45:03 +0000</pubDate>
+<description>A forum post decodes three RISK_ADMIN_ROLE grants on Aave V3 Ethereum since 2 September 2026, all sent by the governance Executor, and notes the role can change caps and risk parameters without a full vote.</description></item>
+<item><title>Request: wallet list behind the Aave Insights treasury figure (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-request-wallet-list-behind-the-aave-insights-treasury-figure--26135.html</link>
+<guid isPermaLink="false">forum-aave-26135</guid><pubDate>Mon, 09 Nov 2026 00:44:15 +0000</pubDate>
+<description>An independent treasury analysis service asks TokenLogic for the wallet list and method behind the Aave Insights treasury figure ($260.65M at Q3 2026 close) so it can reconcile its own numbers.</description></item>
+<item><title>Per-Asset Liquidation Thresholds Underpredict Co-Liquidation by 301× (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-per-asset-liquidation-thresholds-underpredict-co-liquidation-by-301--26131.html</link>
+<guid isPermaLink="false">forum-aave-26131</guid><pubDate>Mon, 09 Nov 2026 00:43:56 +0000</pubDate>
+<description>A forum post reports a backtest finding that Aave V3 per-asset liquidation thresholds do not account for assets falling together, and argues for a joint probability model.</description></item>
+<item><title>[TEMP CHECK] AAVE SECURITY SHIELD – Exploring Preventive Risk Controls for External Security Incidents (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-aave-security-shield-exploring-preventive-risk-controls-for-exte--26124.html</link>
+<guid isPermaLink="false">forum-aave-26124</guid><pubDate>Mon, 09 Nov 2026 00:43:34 +0000</pubDate>
+<description>A community initiative (written in Spanish) proposes studying whether Aave could temporarily limit new debt during an external security incident while keeping repayments and liquidations working. It asks for a feasibility study, not protocol changes.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.08 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-08--26107.html</link>
+<guid isPermaLink="false">forum-aave-26107</guid><pubDate>Sun, 08 Nov 2026 10:12:08 +0000</pubDate>
+<description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.6B to 2.75B and the USDe supply cap from 550M to 750M, after both reserves reached near-full utilization.</description></item>
+<item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-09 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-09--28389.html</link>
+<guid isPermaLink="false">forum-sky-28389</guid><pubDate>Sat, 07 Nov 2026 19:29:43 +0000</pubDate>
+<description>Core GovOps submits the weekly Atlas Edit proposal for the week of 2026-11-09: edits include adding weETH as Morpho vault collateral with a 60,000 weETH cap, new Morpho vault governance rules, and monthly grants to the Spark and Grove foundations.</description></item>
+<item><title>OpCo Update October 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-opco-update-october-2026--31665.html</link>
+<guid isPermaLink="false">forum-arbitrum-31665</guid><pubDate>Fri, 06 Nov 2026 21:54:23 +0000</pubDate>
+<description>OpCo reports on October 2026 for Arbitrum DAO, covering the Oversight and Transparency Committee, USDG coordination, a negotiation over a 10M ARB set-aside, and cross-organization work.</description></item>
+<item><title>[RFC] Upgrade VolatilePair hook and update X Layer releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-rfc-upgrade-volatilepair-hook-and-update-x-layer-releaser--26337.html</link>
+<guid isPermaLink="false">forum-uniswap-26337</guid><pubDate>Fri, 06 Nov 2026 21:16:31 +0000</pubDate>
+<description>Uniswap Labs proposes an RFC with two technical updates: upgrading the VolatilePair hook on Ethereum to cap its temporary fee by block gap, and updating the protocol fee releaser on X Layer.</description></item>
+<item><title>[TEMP CHECK] Extend HyperLend&#x27;s Friendly Fork Recognition to Elysium (Aave v3.7) (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-extend-hyperlend-s-friendly-fork-recognition-to-elysium-aave-v3---26079.html</link>
+<guid isPermaLink="false">forum-aave-26079</guid><pubDate>Fri, 06 Nov 2026 17:05:02 +0000</pubDate>
+<description>HyperLend asks the Aave DAO to recognize its deployment on Elysium (an L2 for the Hyperliquid ecosystem) as a friendly fork on Aave v3.7, offering 50% of that deployment&#x27;s revenue to the DAO.</description></item>
+<item><title>Entropy Advisors Monthly Update: October 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-entropy-advisors-monthly-update-october-2026--31664.html</link>
+<guid isPermaLink="false">forum-arbitrum-31664</guid><pubDate>Fri, 06 Nov 2026 16:16:27 +0000</pubDate>
+<description>Entropy Advisors reports on October 2026 for Arbitrum DAO: USDG supply on Arbitrum One reached $61.32M, treasury stablecoins moved toward USDG, and two onchain votes close November 12.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-06--26078.html</link>
+<guid isPermaLink="false">forum-aave-26078</guid><pubDate>Fri, 06 Nov 2026 16:01:37 +0000</pubDate>
+<description>LlamaRisk recommends a broad set of borrow and supply cap changes across Aave V3 instances, mostly reductions, plus a USDe base borrow rate increase to 7.00%. USDt on Avalanche had reached 99.9% borrow cap utilization.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-06--26073.html</link>
+<guid isPermaLink="false">forum-aave-26073</guid><pubDate>Fri, 06 Nov 2026 15:55:38 +0000</pubDate>
+<description>LlamaRisk recommends raising several supply, draw and add caps and one base interest rate on Aave V4 reserves on Ethereum, Avalanche and Base. The post is a risk-steward parameter update based on observed borrowing and liquidity.</description></item>
 <item><title>Compound Foundation: Monthly V4 Programme Update [October 2026] (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-foundation-monthly-v4-programme-update-october-2026-d-8240.html</link>
 <guid isPermaLink="false">forum-compound-8240</guid><pubDate>Wed, 04 Nov 2026 07:52:53 +0000</pubDate>
 <description>The Compound Foundation&#x27;s fifth monthly V4 funding-program update reports an on-track status, new engineering hires and lower proposed annual provider fees.</description></item>
@@ -109,46 +151,4 @@
 <item><title>Tokenized Space Exploration Technologies Corp. shares (SPCXc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-space-exploration-technologies-corp-shares-spcxc-on-aave-base-ass--25943.html</link>
 <guid isPermaLink="false">forum-aave-25943</guid><pubDate>Thu, 29 Oct 2026 14:00:06 +0000</pubDate>
 <description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized SpaceX shares (SPCXc) on Aave Base.</description></item>
-<item><title>Tokenized Tesla, Inc. shares (TSLAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-tesla-inc-shares-tslac-on-aave-base-assessments--25942.html</link>
-<guid isPermaLink="false">forum-aave-25942</guid><pubDate>Thu, 29 Oct 2026 13:58:43 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Tesla shares (TSLAc) on Aave Base.</description></item>
-<item><title>Tokenized NVIDIA Corporation shares (NVDAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-nvidia-corporation-shares-nvdac-on-aave-base-assessments--25941.html</link>
-<guid isPermaLink="false">forum-aave-25941</guid><pubDate>Thu, 29 Oct 2026 13:56:43 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized NVIDIA shares (NVDAc) on Aave Base.</description></item>
-<item><title>Tokenized Microsoft Corporation shares (MSFTc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-microsoft-corporation-shares-msftc-on-aave-base-assessments--25940.html</link>
-<guid isPermaLink="false">forum-aave-25940</guid><pubDate>Thu, 29 Oct 2026 13:55:24 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Microsoft shares (MSFTc) on Aave Base.</description></item>
-<item><title>Tokenized Meta Platforms Inc. shares (METAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-meta-platforms-inc-shares-metac-on-aave-base-assessments--25939.html</link>
-<guid isPermaLink="false">forum-aave-25939</guid><pubDate>Thu, 29 Oct 2026 13:54:06 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Meta shares (METAc) on Aave Base.</description></item>
-<item><title>Tokenized Alphabet Inc. shares (GOOGLc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-alphabet-inc-shares-googlc-on-aave-base-assessments--25938.html</link>
-<guid isPermaLink="false">forum-aave-25938</guid><pubDate>Thu, 29 Oct 2026 13:52:50 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Alphabet shares (GOOGLc) on Aave Base.</description></item>
-<item><title>Tokenized Amazon.com, Inc. shares (AMZNc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-amazon-com-inc-shares-amznc-on-aave-base-assessments--25937.html</link>
-<guid isPermaLink="false">forum-aave-25937</guid><pubDate>Thu, 29 Oct 2026 13:51:25 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Amazon shares (AMZNc) on Aave Base.</description></item>
-<item><title>Tokenized Apple Inc. shares (AAPLc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-apple-inc-shares-aaplc-on-aave-base-assessments--25936.html</link>
-<guid isPermaLink="false">forum-aave-25936</guid><pubDate>Thu, 29 Oct 2026 13:47:44 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Apple shares (AAPLc) on Aave Base.</description></item>
-<item><title>Sky Ecosystem Q3 2026 Quarterly Report (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-sky-ecosystem-q3-2026-quarterly-report--28363.html</link>
-<guid isPermaLink="false">forum-sky-28363</guid><pubDate>Thu, 29 Oct 2026 13:21:12 +0000</pubDate>
-<description>Sky Frontier Foundation published the Sky Ecosystem Q3 2026 Quarterly Report, citing net revenue of $37.19 million, up 11.8% quarter on quarter.</description></item>
-<item><title>Osero cBEAM Configuration (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-osero-cbeam-configuration--28362.html</link>
-<guid isPermaLink="false">forum-sky-28362</guid><pubDate>Thu, 29 Oct 2026 09:11:22 +0000</pubDate>
-<description>A Sky forum thread sets up public reporting for the Osero Configurator Bounded External Access Module (cBEAM), which can adjust rate limits for the Osero Diamond PAU within governance-set bounds.</description></item>
-<item><title>Reduce ABC Step 2 to 25%, increase Staking emissions 50% (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-reduce-abc-step-2-to-25-increase-staking-emissions-50--28361.html</link>
-<guid isPermaLink="false">forum-sky-28361</guid><pubDate>Wed, 28 Oct 2026 21:53:01 +0000</pubDate>
-<description>A forum post proposes cutting the share of Step 2 capital retained for the Aggregate Backstop Capital from 50% to 25%, which would raise Step 3 staking rewards and buybacks by 50%.</description></item>
-<item><title>[Direct to AIP] Whitelist New CoW Protocol Adapters as Flash Borrowers on Aave V3/V4 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-whitelist-new-cow-protocol-adapters-as-flash-borrowers-on-aav--25931.html</link>
-<guid isPermaLink="false">forum-aave-25931</guid><pubDate>Wed, 28 Oct 2026 15:20:34 +0000</pubDate>
-<description>Aave Labs proposes registering new Aave swap adapter factories as approved flash borrowers on several Aave V3 markets, so adapter routes pay no flash loan fee.</description></item>
-<item><title>[November 5, 2026] - Skybase Foundation Grant: 900,000 USDS SubProxy Transfer (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-5-2026-skybase-foundation-grant-900-000-usds-subproxy-transfer--28359.html</link>
-<guid isPermaLink="false">forum-sky-28359</guid><pubDate>Wed, 28 Oct 2026 09:06:25 +0000</pubDate>
-<description>Skybase requests a 900,000 USDS transfer from its SubProxy to the Skybase Foundation Operational Multisig, via the November 5, 2026 Executive Vote, to cover operating costs and partner payouts through the end of 2026.</description></item>
-<item><title>Technical scope of the Beacon and Configurator launch on Base (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-beacon-and-configurator-launch-on-base--28358.html</link>
-<guid isPermaLink="false">forum-sky-28358</guid><pubDate>Wed, 28 Oct 2026 08:55:47 +0000</pubDate>
-<description>Proposes launching the PAS/Configurator module on Base so trusted operator groups can adjust rate limits and remove facets on Spark&#x27;s Diamond PAU without a spell, with the Timelock initially paused.</description></item>
-<item><title>[Draft] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-draft-social-ips-amendment-no-2-ips-amendment-authority--22515.html</link>
-<guid isPermaLink="false">forum-ens-22515</guid><pubDate>Tue, 27 Oct 2026 22:11:03 +0000</pubDate>
-<description>Draft social proposal would let the ENS Foundation Board amend the Endowment&#x27;s Investment Policy Statement and replace MetaGov as oversight body, while the DAO keeps control of the Minimum Runway and the amendment process.</description></item>
 </channel></rss>

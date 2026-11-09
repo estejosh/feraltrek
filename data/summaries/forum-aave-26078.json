@@ -1,9 +1,6 @@
 {
     "id":  "forum-aave-26078",
-    "space":  {
-                  "id":  "aave",
-                  "name":  "aave"
-              },
+    "space":  "aave",
     "title":  "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.06",
     "url":  "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-06/26078",
     "headline":  "LlamaRisk recommends a broad set of borrow and supply cap changes across Aave V3 instances, mostly reductions, plus a USDe base borrow rate increase to 7.00%. USDt on Avalanche had reached 99.9% borrow cap utilization.",

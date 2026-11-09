@@ -1,9 +1,6 @@
 {
     "id":  "forum-uniswap-26337",
-    "space":  {
-                  "id":  "uniswap",
-                  "name":  "uniswap"
-              },
+    "space":  "uniswap",
     "title":  "[RFC] Upgrade VolatilePair hook and update X Layer releaser",
     "url":  "https://gov.uniswap.org/t/rfc-upgrade-volatilepair-hook-and-update-x-layer-releaser/26337",
     "headline":  "Uniswap Labs proposes an RFC with two technical updates: upgrading the VolatilePair hook on Ethereum to cap its temporary fee by block gap, and updating the protocol fee releaser on X Layer.",

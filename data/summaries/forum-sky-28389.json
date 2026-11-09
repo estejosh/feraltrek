@@ -1,9 +1,6 @@
 {
     "id":  "forum-sky-28389",
-    "space":  {
-                  "id":  "sky",
-                  "name":  "sky"
-              },
+    "space":  "sky",
     "title":  "Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-09",
     "url":  "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-09/28389",
     "headline":  "Core GovOps submits the weekly Atlas Edit proposal for the week of 2026-11-09: edits include adding weETH as Morpho vault collateral with a 60,000 weETH cap, new Morpho vault governance rules, and monthly grants to the Spark and Grove foundations.",
