@@ -17,10 +17,10 @@ RPCS = [CFG["rpc"], "https://base-rpc.publicnode.com", "https://base.llamarpc.co
 def rpc(method, params):
     """Public RPCs rate-limit; slow down, retry, and fall back."""
     err = None
-    for attempt in range(6):
+    for attempt in range(4):
         url = RPCS[attempt % len(RPCS)]
         try:
-            j = requests.post(url, json={"jsonrpc": "2.0", "id": 1, "method": method, "params": params}, timeout=60).json()
+            j = requests.post(url, json={"jsonrpc": "2.0", "id": 1, "method": method, "params": params}, timeout=15).json()
             if "error" not in j:
                 time.sleep(0.4)
                 return j["result"]
@@ -35,17 +35,18 @@ st = load(STATE, {"last_block": None, "transfers": {}, "used_tx": [], "seen_msgs
 subs = load(SUBS, {})
 
 # 1. new incoming USDC transfers
+T0 = time.time()
 head = int(rpc("eth_blockNumber", []), 16)
 b = st["last_block"] + 1 if st["last_block"] else head - 5_000
 to_topic = "0x" + "0" * 24 + ADDR[2:]
-while b <= head:
+while b <= head and time.time() - T0 < 240:
     e = min(b + 1999, head)
     for lg in rpc("eth_getLogs", [{"address": CFG["usdc_contract"], "topics": [TRANSFER, None, to_topic],
                                    "fromBlock": hex(b), "toBlock": hex(e)}]):
         st["transfers"][lg["transactionHash"].lower()] = {
             "from": "0x" + lg["topics"][1][-40:], "usdc": int(lg["data"], 16) / 1e6, "block": int(lg["blockNumber"], 16)}
     b = e + 1
-st["last_block"] = head
+st["last_block"] = min(head, b - 1)  # resumes next run if the 240s budget ran out
 
 # 2. emails carrying tx hashes
 now = dt.datetime.now(dt.timezone.utc)

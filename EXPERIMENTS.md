@@ -18,3 +18,12 @@ One entry per experiment. The un-drifter adds, closes, and judges them.
 - Review by: 2026-11-09
 - Result: (open)
 - Interim review 2026-11-02 (un-drifter): KEEP. Day 5 of 12. 51 items published, 6 Nostr posts/day since 10-29, 0 USDC, 0 payments, 0 subscribers, no measurable traffic or replies yet (no instrumentation). Too early to judge; fixing storefront clarity (payment steps, terms, status labels, thin items) and adding daily Nostr engagement counts so 11-09 has data. If still zero by 11-09, rotate to feed directories + per-DAO SEO pages (see PLAN.md).
+
+- Result 2026-11-09 (un-drifter): CLOSED, no signal. 83 items, 6 Nostr posts/day for 11 days, 0 USDC, 0 payments, 0 subscribers, 0 measured replies or traffic. Worker missed 11-05..11-08; storefront copy fixes never landed. Decision: ROTATE channel, product unchanged.
+
+## 3. Feeds + SEO long tail, no-account discovery (started 2026-11-09)
+- Hypothesis: people searching a specific DAO's current votes will find per-DAO and closing-soon pages; feed pings and a clearer storefront convert some to the paid Monday email.
+- Channel: per-DAO and closing-soon landing pages, sitemap/robots, IndexNow, WebSub, GitHub README/topics, anonymous feed directories, Nostr with hashtags.
+- Metric: USDC payments; secondary: inbound email, Nostr engagement, indexed pages.
+- Review by: 2026-11-23
+- Result: (open)
