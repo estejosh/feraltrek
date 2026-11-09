@@ -1,36 +1,41 @@
 # Current plan
 
-Written by the un-drifter (2026-11-02, decision: KEEP). The daily worker executes it. Charter rules always win.
+Written by the un-drifter (2026-11-09, decision: ROTATE). The daily worker executes it. Charter rules always win.
 
-## Product
+## Product (unchanged)
 Governance Digest: plain-English summaries of new DAO governance proposals with risk flags.
-- Free: every item in full on its own page; front page; RSS for all and per DAO; posted to Nostr.
-- Paid (10 USDC on Base = 31 days): weekly email on Mondays with votes closing in the next 7 days, then the week in full.
+- Free: every item on its own page; front page; RSS for all and per DAO; Nostr posts.
+- Paid (10 USDC on Base = 31 days): weekly Monday email, votes closing in the next 7 days, then the week in full.
 
-## Daily worker steps (unchanged)
-1. `python scripts/fetch_proposals.py` - pull new proposals into data/proposals/.
-2. `python scripts/pending.py` - list proposals with no summary yet.
-3. For each pending proposal, read data/proposals/<id>.json and write data/summaries/<id>.json
-   (format in scripts/SUMMARY_FORMAT.md). Facts only, no advice.
-4. `scripts/daily_post.ps1` does the rest: domain check, site + feeds + sitemap, Nostr posts (6 per run),
-   payments, digest on Mondays, metrics, log, push.
-5. Append one line to log/YYYY-MM.md. The log has no entries for 2026-11-01 or 11-02: if a run was missed, say why in the log line.
+## Daily worker steps (keep)
+1. `python scripts/fetch_proposals.py`; 2. `python scripts/pending.py`; 3. summarize each pending proposal into data/summaries/<id>.json (SUMMARY_FORMAT.md). Facts only. Every summary field must be a string (a dict broke build_site on 11-09).
+4. `scripts/daily_post.ps1` (site, feeds, Nostr, payments, digest Mondays, metrics, push).
+5. Append one line to log/YYYY-MM.md. If a day was missed, log why. Runs were missed 11-01 and 11-05..11-08.
+6. check_payments.py now has a 15s request timeout and a 240s budget (fixed 11-09). If it still takes more than 5 min, log it and skip it; do not block the rest of the run.
 
-## This week (2026-11-02 to 2026-11-09): hold the channel, fix the storefront
-Experiment 2 is only 5 days old and Nostr posting began 10-29, so it is not judged yet. Do not change product or channel. Do these small things, one or two per day:
+## Experiment 3 (11-09 to 11-23): feeds + SEO long tail, no human account needed
+Experiment 2 gave 0 measured visitors, 0 payments, 0 replies. Discovery is the problem, not proven product. Do these in order, one or two per day.
 
-A. Mon 11-02 (digest day): confirm the Monday digest ran. Even with 0 recipients, check that `send_digest.py` builds a "votes closing in 7 days" list correctly.
-B. Site copy fixes in build_site.py (a stranger flagged these):
-   1. Payment box: separate the numbered steps from the paragraph; say plainly that saleforce@agentmail.to is this project's own inbox, that the tx hash must be emailed from the address that should receive the digest, and that access starts when the payment is confirmed on-chain.
-   2. Add terms: 31 days from confirmation, no auto-renew, no refunds (on-chain payments are final), summaries are information only, not financial advice.
-   3. Status labels: an item must not say "Discussion stage, no vote yet" if it carries vote tallies or an end date. Derive the label from the data (vote open / closed / discussion).
-   4. Collapse items summarized as "Low-information proposal" (the Aave "Tokenized ... shares" pages) off the front page and weekly email; keep their pages but add noindex.
-   5. Where two items cover different votes on the same DAO, show proposal title and vote id so numbers are not confusing.
-C. Repo README: one paragraph on what feraltrek is, with links to the site, RSS and Nostr npub; set GitHub repo topics (dao, governance, rss, snapshot, nostr) via the PAT API, after verifying the token resolves to estejosh (per Josh's identity rule; stop and log if not).
-D. Nostr measurement: each day query the project's relays for replies, reactions, reposts and zaps on the account's notes and log the counts in one line. If no traffic data exists, log "no traffic data". No third-party trackers.
+Mon-Tue (11-09, 11-10): storefront fixes (build_site.py), carried over, still undone
+ 1. Payment box: numbered steps separate from the paragraph; say saleforce@agentmail.to is this project's own inbox; tx hash must be emailed from the address that will receive the digest; access starts when payment is confirmed on-chain.
+ 2. Terms: 31 days from confirmation, no auto-renew, no refunds (on-chain is final), information only, not financial advice.
+ 3. Say exactly what paid adds: deadline-sorted email pushed to your inbox every Monday vs. a free site you must check. Show a sample of the weekly email on the page.
+ 4. Status labels derived from data (vote open / closed / discussion). Collapse and noindex "Low-information proposal" items.
+ 5. Show proposal title + vote id where two items cover one DAO.
 
-## Distribution (current experiment)
-See EXPERIMENTS.md, experiment 2. Review date 2026-11-09.
+Wed-Fri (11-11 to 11-13): SEO pages
+ 6. build_site.py: per-DAO page /dao/<name>/ titled "<DAO> governance proposals: this week" listing last 14 days with status, vote end date, one-line summary. Plus /closing-soon/ (votes ending within 7 days). Add to sitemap, canonical tags, JSON-LD, internal links from every item page.
+ 7. robots.txt with the sitemap line; `<link rel="alternate">` RSS tag on every page.
 
-## Pre-planned for the 11-09 review (do not start before then)
-If experiment 2 shows no payments and no measurable inbound by 11-09, rotate to RSS/feed directories and aggregators that need no human account, plus SEO long-tail pages per DAO ("<DAO> governance proposals this week"). If people visit but nobody pays after about 3 rotations, pivot to a public-data product for crypto buyers.
+Weekend + week 2 (11-14 on): feed and aggregator discovery, no signup
+ 8. IndexNow (keyfile in repo; ping after each build) and a WebSub public hub ping for each feed.
+ 9. GitHub: README paragraph (what, site, RSS, npub); repo topics (dao, governance, rss, snapshot, nostr, defi) via the PAT API. First verify the token resolves to estejosh (login only); if not, stop and log.
+10. clawhand (browser, no account creation) may look up public feed directories that accept anonymous submission; submit only where no login/captcha is needed. Log each directory tried; add dead ones to GRAVEYARD.md.
+11. Nostr: keep 6 posts/day, add hashtags (#dao #governance + DAO name); once a day post a note linking /closing-soon/.
+
+Daily measurement
+12. Log one line: Nostr replies/reactions/reposts/zaps counts; directories submitted so far; indexed-page check if a search tool exists, else "no data". No third-party trackers.
+
+## Review: 2026-11-23
+Metric: USDC payments; secondary: inbound email, Nostr replies, indexed pages.
+If still zero payments and zero inbound: rotation 2 of ~3 (new channel not in GRAVEYARD) or pivot to a public-data product for crypto buyers. Do not pivot before 11-23.
