@@ -1,0 +1,18 @@
+{
+    "id":  "forum-sky-28389",
+    "space":  {
+                  "id":  "sky",
+                  "name":  "sky"
+              },
+    "title":  "Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-09",
+    "url":  "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-09/28389",
+    "headline":  "Core GovOps submits the weekly Atlas Edit proposal for the week of 2026-11-09: edits include adding weETH as Morpho vault collateral with a 60,000 weETH cap, new Morpho vault governance rules, and monthly grants to the Spark and Grove foundations.",
+    "summary":  "On behalf of Core GovOps, the Atlas Edit Weekly Cycle proposal for the week of 2026-11-09 lists these edits: add weETH as eligible collateral for Morpho vaults with a 60,000 weETH exposure cap shared between Spark and Grove; add a Morpho Vault Curation Governance Process defining which vault changes need governance approval and which need only disclosure, with a change note template; consolidate the rules for Governance Polls into one process definition; replenish the Demand Side Buffer monthly through the Monthly Settlement Cycle and change how its payments are recognized as Expenses; rename audit firm tiers to Category 1 and Category 2, moving OpenZeppelin, ConsenSys Diligence and Trail Of Bits to Category 1; authorize the December 2026 grants to the Spark Foundation and the Spark Asset Foundation; authorize the November 2026 grant to the Grove Foundation; and add CCTP Facet controller functions with an ERC-4626 emergency withdrawal on chains other than Ethereum. The post covers several independent edits to the governing document. Open questions: the exposure limits for weETH and the effect of the new vault governance process.",
+    "risk_flags":  [
+                       "multiple governance document edits",
+                       "new collateral exposure cap 60,000 weETH",
+                       "recurring foundation grants"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

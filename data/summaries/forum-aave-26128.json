@@ -1,0 +1,17 @@
+{
+    "id":  "forum-aave-26128",
+    "space":  {
+                  "id":  "aave",
+                  "name":  "aave"
+              },
+    "title":  "Recovery Request – 2 AAVE Accidentally Sent to AAVE Token Contract (Ethereum)",
+    "url":  "https://governance.aave.com/t/recovery-request-2-aave-accidentally-sent-to-aave-token-contract-ethereum/26128",
+    "headline":  "Low-information proposal",
+    "summary":  "Personal token recovery request from one user; skipped as off-topic.",
+    "risk_flags":  [
+                       "personal request"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09",
+    "skip":  true
+}

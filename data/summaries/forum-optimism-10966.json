@@ -1,0 +1,17 @@
+{
+    "id":  "forum-optimism-10966",
+    "space":  {
+                  "id":  "optimism",
+                  "name":  "optimism"
+              },
+    "title":  "Grant Proposal: Trustless ZK Bitcoin Verification Infrastructure for [Opromism]",
+    "url":  "https://gov.optimism.io/t/grant-proposal-trustless-zk-bitcoin-verification-infrastructure-for-opromism/10966",
+    "headline":  "Low-information proposal",
+    "summary":  "Templated grant request with unfilled placeholders and a solicitation for a call; skipped as spam.",
+    "risk_flags":  [
+                       "spam or template post"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09",
+    "skip":  true
+}

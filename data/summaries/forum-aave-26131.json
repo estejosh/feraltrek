@@ -1,0 +1,17 @@
+{
+    "id":  "forum-aave-26131",
+    "space":  {
+                  "id":  "aave",
+                  "name":  "aave"
+              },
+    "title":  "Per-Asset Liquidation Thresholds Underpredict Co-Liquidation by 301×",
+    "url":  "https://governance.aave.com/t/per-asset-liquidation-thresholds-underpredict-co-liquidation-by-301x/26131",
+    "headline":  "A forum post reports a backtest finding that Aave V3 per-asset liquidation thresholds do not account for assets falling together, and argues for a joint probability model.",
+    "summary":  "A forum post presents an analysis of whether Aave V3 per-asset liquidation parameters hold up when assets move together. Using Aave published parameters and public daily price data for nine collateral assets over 2,123 trading days (September 2020 to October 2026), the author marks days a maximum-LTV position would cross its liquidation threshold, then compares the real count of simultaneous triggers with a column-shuffle permutation test (B = 2,000). The post reports that four assets triggered on the same day on 57 days versus 0.19 expected, five assets on 31 days versus 0.004 expected, and six or more on 21 days versus none in 2,000 shuffles, and that all 36 asset pairs were significant at p \u003c 0.001. It names 2021-05-19, 2022-05-11 and 2022-11-08 as worst days. The author says the per-asset threshold model should be replaced with a joint probability model that accounts for tail dependence, and links to a longer write-up and test script. The methodology is the author\u0027s own and has not been independently verified. Open questions: whether the test setup reflects real positions.",
+    "risk_flags":  [
+                       "author-run analysis, not independently verified",
+                       "proposes replacing the threshold model"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

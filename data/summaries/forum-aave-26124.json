@@ -1,0 +1,17 @@
+{
+    "id":  "forum-aave-26124",
+    "space":  {
+                  "id":  "aave",
+                  "name":  "aave"
+              },
+    "title":  "[TEMP CHECK] AAVE SECURITY SHIELD – Exploring Preventive Risk Controls for External Security Incidents",
+    "url":  "https://governance.aave.com/t/temp-check-aave-security-shield-exploring-preventive-risk-controls-for-external-security-incidents/26124",
+    "headline":  "A community initiative (written in Spanish) proposes studying whether Aave could temporarily limit new debt during an external security incident while keeping repayments and liquidations working. It asks for a feasibility study, not protocol changes.",
+    "summary":  "This is a Spanish-language community draft titled AAVE SECURITY SHIELD, described as an independent community initiative and a conceptual draft before a possible ARFC. It asks how Aave could limit new credit exposure during an external security incident without unnecessarily harming users. The initial request is to gauge community interest in funding or carrying out a feasibility study, without yet approving any protocol modifications. The idea is an extra preventive layer that complements existing security, risk management and emergency response, giving Aave more time to verify a threat and contain its impact. The mechanisms to be evaluated include identifying external threats through verifiable signals and transparent criteria, temporarily limiting creation of new debt when there is material risk, and preserving, where technically safe, debt repayment, liquidations and collateral deposits that reduce risk. No amounts or parameter values appear in the opening sections. Open questions: who would decide that a threat is real, how triggers would be defined, and what the study would cost.",
+    "risk_flags":  [
+                       "concept draft, not a formal proposal",
+                       "would affect borrowing during incidents"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

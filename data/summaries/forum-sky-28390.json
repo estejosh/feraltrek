@@ -1,0 +1,18 @@
+{
+    "id":  "forum-sky-28390",
+    "space":  {
+                  "id":  "sky",
+                  "name":  "sky"
+              },
+    "title":  "[November 19, 2026] Proposed Changes to Spark for Upcoming Spell",
+    "url":  "https://forum.sky.money/t/november-19-2026-proposed-changes-to-spark-for-upcoming-spell/28390",
+    "headline":  "Proposed changes for the Spark spell of November 19, 2026: seven changes across Ethereum, OP Mainnet, Unichain, Avalanche and X-Layer, including deprecating Spark Liquidity Layer on OP Mainnet, Unichain and Avalanche, and December grants of 865,000 USDS and 45,000 USDS.",
+    "summary":  "Part 1 of 2 of the proposed changes to Spark for the upcoming spell dated November 19, 2026 lists seven changes, none dependent on another. On Ethereum: upgrade the ALM controller to MainnetController v1.11.0, which sends USDC over CCTP V2 instead of V1 on every route; claim accrued SparkLend reserves and route them to the Spark Liquidity Layer and the Spark Operations Multisig (recurring); and transfer the December 2026 grants of 865,000 USDS to the Spark Foundation and 45,000 USDS to the Spark Asset Foundation (recurring). On OP Mainnet and Unichain: deprecate the Spark Liquidity Layer by returning remaining USDS and sUSDS to Ethereum and setting all related rate limits to zero. On Avalanche: deprecate Spark Savings and the Liquidity Layer by setting the USDC deposit cap to zero and maximum rate to 0%, closing the CCTP route and retiring the governance bridge. On X-Layer: onboard the Spark-curated Morpho USDC vault to the spUSDC PAU through the ERC4626 facet. The post says items 1 to 4 and 6 each go through their own governance route. Open questions: details of each route are in the full post.",
+    "risk_flags":  [
+                       "winding down three networks",
+                       "treasury grant 910,000 USDS total",
+                       "several independent changes"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

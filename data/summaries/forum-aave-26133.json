@@ -1,0 +1,17 @@
+{
+    "id":  "forum-aave-26133",
+    "space":  {
+                  "id":  "aave",
+                  "name":  "aave"
+              },
+    "title":  "USDC was mistakenly deposited to the Aave V3 contract address ",
+    "url":  "https://governance.aave.com/t/usdc-was-mistakenly-deposited-to-the-aave-v3-contract-address/26133",
+    "headline":  "Low-information proposal",
+    "summary":  "Personal token recovery question from one user; skipped as off-topic.",
+    "risk_flags":  [
+                       "personal request"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09",
+    "skip":  true
+}

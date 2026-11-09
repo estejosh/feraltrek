@@ -1,0 +1,18 @@
+{
+    "id":  "forum-arbitrum-31664",
+    "space":  {
+                  "id":  "arbitrum",
+                  "name":  "arbitrum"
+              },
+    "title":  "Entropy Advisors Monthly Update: October 2026",
+    "url":  "https://forum.arbitrum.foundation/t/entropy-advisors-monthly-update-october-2026/31664",
+    "headline":  "Entropy Advisors reports on October 2026 for Arbitrum DAO: USDG supply on Arbitrum One reached $61.32M, treasury stablecoins moved toward USDG, and two onchain votes close November 12.",
+    "summary":  "In its October 2026 monthly update, Entropy Advisors says USDG launched publicly on Arbitrum One on October 6 and supply reached $61.32M by October 31. It lists integrations (DeFi Saver, Beefy, Twyne, Aerodrome, and later Zyfai and Jumper) and notes the Arbitrum Foundation launched a Stablecoin Growth Program on October 15 with a 2M ARB reward pool. The USDG proposal passed its offchain vote (October 15 to 22) and the onchain vote runs October 29 to November 12. On treasury management, the ATMC shifted stablecoin holdings toward USDG: about $12.4M withdrawn from sUSDC, about $5.9M from syrupUSDC, and about $19.7M USDG minted from USDC, with $10M placed in two Morpho vaults, $9.4M in syrupUSDG, and small Uniswap liquidity. The D.A.O. program completed, returning about $1.5M USDC, and 0.32 stETH was collected from a Lido rewards program. A separate proposal moving accrued ETH to the Arbitrum Developer Guild and the treasury management portfolio (86.27 ETH to the Guild, with the transfer total raised from 1,700 to 1,800 ETH) is onchain with voting closing November 12. Open questions: concentration of treasury holdings in one stablecoin.",
+    "risk_flags":  [
+                       "vote closes 2026-11-12",
+                       "treasury concentration in USDG",
+                       "ETH transfer proposal onchain"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

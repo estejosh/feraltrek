@@ -1,0 +1,18 @@
+{
+    "id":  "forum-aave-26079",
+    "space":  {
+                  "id":  "aave",
+                  "name":  "aave"
+              },
+    "title":  "[TEMP CHECK] Extend HyperLend\u0027s Friendly Fork Recognition to Elysium (Aave v3.7)",
+    "url":  "https://governance.aave.com/t/temp-check-extend-hyperlends-friendly-fork-recognition-to-elysium-aave-v3-7/26079",
+    "headline":  "HyperLend asks the Aave DAO to recognize its deployment on Elysium (an L2 for the Hyperliquid ecosystem) as a friendly fork on Aave v3.7, offering 50% of that deployment\u0027s revenue to the DAO.",
+    "summary":  "In a temp check dated 2026-11-06, the HyperLend team asks for Aave DAO recognition of a new deployment on Elysium, a high-throughput Arbitrum Orbit L2 built by Kinetiq that settles to HyperEVM. The deployment would use the Aave v3.7 codebase, offer only Aave pools, and use Block Analitica as risk manager. HyperLend would share 50% of all revenue from the Elysium deployment with the Aave DAO, monthly or via a RevenueSplitter contract, compared with 10% under the original HyperEVM terms, and use the remaining 50% to buy back its token HPL. The post says HyperLend has originated about $2B in loans, peaked at over $900M total market size, and now holds over $530M TVL with $250M in active loans, citing Block Analitica and DefiLlama dashboards. It says the expansion needs no DAO capital or operational burden. Open questions: the exact revenue share mechanics, and the DAO role if the fork is recognized. This is a temp check, so no binding vote has happened.",
+    "risk_flags":  [
+                       "friendly fork recognition",
+                       "revenue share 50% to DAO",
+                       "temp check stage"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "forum-arbitrum-31665",
+    "space":  {
+                  "id":  "arbitrum",
+                  "name":  "arbitrum"
+              },
+    "title":  "OpCo Update October 2026",
+    "url":  "https://forum.arbitrum.foundation/t/opco-update-october-2026/31665",
+    "headline":  "OpCo reports on October 2026 for Arbitrum DAO, covering the Oversight and Transparency Committee, USDG coordination, a negotiation over a 10M ARB set-aside, and cross-organization work.",
+    "summary":  "In its October 2026 update, OpCo describes the work of the Oversight and Transparency Committee (OAT): recurring meetings with the OpCo team, setting KPIs for the USDG initiative, overseeing OpCo\u0027s role in the AGV wind-down, serving on the GCP Foundation Council through year end, and reviewing and approving treasury allocation proposals from Entropy, including reallocations toward growing USDG on Arbitrum One. It says negotiation with Entropy over a 10M ARB set-aside is ongoing as the parties look for a structure that aligns incentives and protects the DAO. On USDG, which launched on Arbitrum on October 6, OpCo mainly coordinates between the Arbitrum Foundation, Offchain Labs, Entropy and OpCo. It notes the Stablecoin Growth Program (launched October 15, 2M ARB prize pool for the first 10 teams reaching $10M USDG TVL), new integrations, a October 22 livestream, a Snapshot vote that closed October 22 with 94.7% of about 210.7M ARB cast in favor, and an onchain vote scheduled for October 29 to November 12. Open questions: the outcome of the 10M ARB negotiation.",
+    "risk_flags":  [
+                       "ongoing 10M ARB negotiation",
+                       "onchain vote closes 2026-11-12"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

@@ -1,0 +1,19 @@
+{
+    "id":  "forum-aave-26073",
+    "space":  {
+                  "id":  "aave",
+                  "name":  "aave"
+              },
+    "title":  "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.06",
+    "url":  "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-06/26073",
+    "headline":  "LlamaRisk recommends raising several supply, draw and add caps and one base interest rate on Aave V4 reserves on Ethereum, Avalanche and Base. The post is a risk-steward parameter update based on observed borrowing and liquidity.",
+    "summary":  "A forum post from LlamaRisk, dated 6 November 2026, recommends parameter changes on Aave V4. On Ethereum it proposes raising the USDG draw cap on the Core Hub Main Spoke from 63.5M to 75M, the WBTC add cap on the Prime Hub Bluechip Spoke from 700 to 1,000, the cbBTC add cap from 300 to 600, and the USDe base rate on the Plus Hub from 6.60% to 7.00%. On Avalanche the USDC draw cap on the Core Hub Main Spoke would rise from 9M to 15M. On Base, add caps for tokenized GOOGL, META and NVDA on the Equities Hub MAG7 Spoke would rise to 40K, 10K and 35K. The post includes borrower-concentration data: for USDG on the Main Spoke the largest position holds about 27% of drawn debt and the top twenty about 87%, with health factors between 1.15 and 3.18. It states the 75M USDG cap would land at about 71.0% utilization, and that 7.60M of USDG liquidity on the Core Hub, where utilization is 90.1%, would limit further draws. Open questions: how concentrated borrowing and thin hub liquidity interact with higher caps.",
+    "risk_flags":  [
+                       "parameter changes on Aave V4",
+                       "cap increases",
+                       "USDG hub utilization 90.1%",
+                       "concentrated borrowers"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

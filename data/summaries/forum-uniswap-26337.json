@@ -1,0 +1,17 @@
+{
+    "id":  "forum-uniswap-26337",
+    "space":  {
+                  "id":  "uniswap",
+                  "name":  "uniswap"
+              },
+    "title":  "[RFC] Upgrade VolatilePair hook and update X Layer releaser",
+    "url":  "https://gov.uniswap.org/t/rfc-upgrade-volatilepair-hook-and-update-x-layer-releaser/26337",
+    "headline":  "Uniswap Labs proposes an RFC with two technical updates: upgrading the VolatilePair hook on Ethereum to cap its temporary fee by block gap, and updating the protocol fee releaser on X Layer.",
+    "summary":  "This RFC from Uniswap Labs proposes two updates to protocol infrastructure owned by governance. First, upgrade the VolatilePair Hook on Ethereum. The hook is a Uniswap v4 dynamic-fee hook, live on Ethereum since October 14 with the ETH/USDC pool and also on Robinhood Chain (ETH/USDG). It sets separate buy and sell fees on each swap and applies a temporary fee to trades that push the price back after a large move. The proposed upgrade caps that temporary fee at a maximum number of blocks via a new per-chain parameter, maxTempFeeBlockGap. On Ethereum it would be 1; Robinhood Chain already runs the implementation with a gap of 2. The post says this should keep LPs from being hurt by the temporary fee and make the pool more competitive for routing. The hook is an upgradeable proxy owned by Uniswap Governance, and this would be the first use of that upgrade path. Second, update the protocol fee releaser on X Layer. Open questions: effects on LP returns and on trader costs after the change.",
+    "risk_flags":  [
+                       "upgrade of governance-owned contract",
+                       "fee parameter change"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}

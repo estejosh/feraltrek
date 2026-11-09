@@ -1,0 +1,17 @@
+{
+    "id":  "forum-sky-28391",
+    "space":  {
+                  "id":  "sky",
+                  "name":  "sky"
+              },
+    "title":  "SAEP-25: Update the Allocation System Primitive",
+    "url":  "https://forum.sky.money/t/saep-25-update-the-allocation-system-primitive/28391",
+    "headline":  "Phoenix Labs proposes SAEP-25 to update the Allocation System Primitive section of the Spark Artifact, recording wound-down instances, rate limit IDs and current controllers.",
+    "summary":  "SAEP-25, submitted by Phoenix Labs as a nested contributor, recommends that Spark governance update the Allocation System Primitive section of the Spark Artifact (A.6.1.1.1.2.6.1) in six ways. It would record as Completed the ten wound-down instances (Aave and Fluid on Ethereum, Fluid and Aave on Base and Arbitrum, Aave on Avalanche) and add Completed entries for three B2C2 transfer instances and a Superstate USCC instance on Ethereum. It would record the rate limit IDs for instances whose Rate Limit IDs documents it replaces, correct stated rate limit values to those configured onchain, rename the transfer rate limit documents and fill addresses marked TBD. It would record the current ALM Controller contracts on Ethereum, Base and Avalanche, add directory entries for the Arbitrum Spark Savings v2 USDT instance and the new Completed instances, and replace the step-by-step operator instructions for ALM Controller and Ethena instance functions with a description of each function and its verified code. The changes are documentation updates; no funds or parameters are moved by the post itself. Open questions: whether the recorded onchain values match current configuration.",
+    "risk_flags":  [
+                       "documentation-only update",
+                       "corrects stated rate limit values"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-09"
+}
