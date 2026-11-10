@@ -1,0 +1,15 @@
+{
+  "id": "forum-arbitrum-31681",
+  "space": "arbitrum",
+  "title": "Arbitrum Audit Program: Q4 & Final Transparency Report",
+  "url": "https://forum.arbitrum.foundation/t/arbitrum-audit-program-q4-final-transparency-report/31681",
+  "headline": "The final report on the DAO-approved Arbitrum Audit Program says 367 applications led to 25 audits for 22 projects, at a total audit expenditure of $1,477,810.",
+  "summary": "This report covers the fourth and final operational quarter of the Arbitrum Audit Program (1 May to 31 July 2026) and the full year of applications (1 August 2025 to 31 July 2026). Q4 received 109 applications, the highest quarterly intake; two were initially approved and one (Stabilizer) completed an audit with Nethermind for $15,840. Over the full program, 367 applications were received, 40 (10.9%) from 39 teams were initially accepted, 22 distinct projects completed 25 audits, 17 audits were cancelled and 327 applications were rejected. Eight cancellations followed disagreement over Arbitrum alignment commitments such as exclusivity, two teams cited funding limits and seven did not deliver the needed work. Auditors reviewed 126,737 lines of code and reported 510 findings, including 17 critical and 54 high severity. The average audit cost was $61,575, or $14.8 per line, which the report says is about 12% below a $70,000 public benchmark. DeFi made up 52.3% of applications. 90.9% of projects completing audits reported a referral, against 38.4% of all applicants. At follow-up, 12 of 22 projects were deployed on mainnet and operating or building, four were progressing toward mainnet, four were reconsidering priorities and two were discontinued. The report gives project outcomes as reported by teams. Open questions: the posted text is cut off mid-sentence, so closing lessons are not shown.",
+  "risk_flags": [
+    "retrospective report, no vote or spend requested",
+    "project outcomes are self-reported",
+    "two supported projects discontinued"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-10"
+}

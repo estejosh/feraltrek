@@ -1,0 +1,14 @@
+{
+  "id": "forum-lido-12190",
+  "space": "lido",
+  "title": "Node Operator Admission: Galaxy Digital as stVault Professional Operator",
+  "url": "https://research.lido.fi/t/node-operator-admission-galaxy-digital-as-stvault-professional-operator/12190",
+  "headline": "Galaxy Digital applies to join Lido as an stVaults Professional Operator, citing existing client requests and a first stVault targeted for end of 2026 or early Q1 2027.",
+  "summary": "Galaxy Digital says it has taken part in the Lido Curated Module for many years and is now applying to be an stVaults Professional Operator. Its stated business case is existing client requests for a Galaxy-operated stVault, more prospects in its pipeline, and internal interest in using stVaults for some strategies, which it says would bring more ETH to Lido through its institutional clients. It targets its first stVault by the end of 2026 or early Q1 2027. On operations, the application lists three client pairings (Teku/Besu, Geth/Lighthouse, Nethermind/Lighthouse) with diversification work ongoing, Web3signer and MEV Boost, a mix of cloud for signing and bare metal for RPC, validators distributed across North America, Europe and Asia-Pacific, OFAC-compliant MEV endpoints approved by the RMC, and 24/7 follow-the-sun monitoring. It links its existing Curated Module operator entries (v1 and v2) and notes SOC2 as a special consideration. No funds, parameters or votes are described. Open questions: no admission criteria, stake limits or review dates are given in the post.",
+  "risk_flags": [
+    "new operator admission request",
+    "no stake or limit figures stated"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-10"
+}

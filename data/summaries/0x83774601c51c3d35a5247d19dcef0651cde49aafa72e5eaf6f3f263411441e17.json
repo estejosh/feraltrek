@@ -1,0 +1,16 @@
+{
+  "id": "0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17",
+  "space": "arbitrumfoundation.eth",
+  "title": "[Constitutional] AIP: Approve Release of Frozen ETH and ARB",
+  "url": "https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17",
+  "headline": "Binance asks ArbitrumDAO to approve releasing 8,425.997 ETH and 74,559,805.2 ARB, frozen by the Arbitrum Security Council on 29 October 2026, back to a Binance recovery address.",
+  "summary": "This Constitutional AIP, authored by Binance, asks ArbitrumDAO to release the full frozen balance of 8,425.997 ETH and 74,559,805.2 ARB. The proposal says the Security Council froze the funds on Arbitrum One on 29 October 2026 as part of an ecosystem response to an exploit of Binance's hot wallet, and moved them to a frozen address. The funds would go to a named recovery address and, per the proposal, be applied to losses and costs from the incident, including replenishing the SAFU Fund or treasury reserves. Execution would be one atomic action: upgrade the Inbox contract on Ethereum to add a temporary function, issue a transaction recovering the funds, then upgrade the Inbox again to remove the function. The proposal states no new treasury allocation is requested. It describes an indemnification by Binance entities in favour of the Arbitrum Foundation, Offchain Labs and Security Council members, to be signed before on-chain submission. It also says the proposal will not go on-chain while any legal process restrains the transfer, and that Binance would hold the delivered assets and turn them over if a court finally finds another party entitled. The stated timeline is about 49 days: forum discussion, a Snapshot temperature check, an on-chain vote, then execution. Open questions: how third-party claims or legal process may affect timing.",
+  "risk_flags": [
+    "release of frozen funds (8,425.997 ETH, 74,559,805.2 ARB)",
+    "temporary contract upgrade needed to execute",
+    "legal process could delay or block submission",
+    "proposer is the beneficiary"
+  ],
+  "vote": "For 100.0% (69,347,963 ARB) / Against 0.0% (53 ARB) / Abstain 0, ends 2026-11-16",
+  "written": "2026-11-10"
+}

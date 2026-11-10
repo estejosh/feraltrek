@@ -1,0 +1,15 @@
+{
+  "id": "forum-arbitrum-31682",
+  "space": "arbitrum",
+  "title": "Security Council Membership Rotation - November 2026",
+  "url": "https://forum.arbitrum.foundation/t/security-council-membership-rotation-november-2026/31682",
+  "headline": "An announcement says Immunefi's representative on the Arbitrum Security Council, who left Immunefi, will keep serving in a personal capacity after 9 of 12 members voted to allow it.",
+  "summary": "This announcement says Immunefi was elected to the Security Council in the September 2025 cohort and appointed a representative. That representative left Immunefi and notified the Council on 7 September 2026, and continued serving personally for two months while waiting for a replacement appointee. On 1 November 2026, 9 of 12 Security Council members voted, in line with the ArbitrumDAO Constitution, to let the representative serve in their own personal capacity for the rest of the term. The post says the seat is up for re-election in the March 2026 elections (the date is as written in the post). No key rotation was needed, though the member keeps the right to rotate before the election, and the thread would be updated if that happens. The post states that no on-chain transaction was performed. No funds or parameters are involved. Open questions: the post does not say whether a replacement appointee is expected.",
+  "risk_flags": [
+    "Security Council membership change",
+    "seat held in personal capacity",
+    "election date in post appears inconsistent"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-10"
+}

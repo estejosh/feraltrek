@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 09 Nov 2026 13:10:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 12:56:13 +0000</lastBuildDate>
+<item><title>Security Council Membership Rotation - November 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-membership-rotation-november-2026--31682.html</link>
+<guid isPermaLink="false">forum-arbitrum-31682</guid><pubDate>Tue, 10 Nov 2026 02:34:34 +0000</pubDate>
+<description>An announcement says Immunefi&#x27;s representative on the Arbitrum Security Council, who left Immunefi, will keep serving in a personal capacity after 9 of 12 members voted to allow it.</description></item>
+<item><title>Node Operator Admission: Galaxy Digital as stVault Professional Operator (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-node-operator-admission-galaxy-digital-as-stvault-professional-operator--12190.html</link>
+<guid isPermaLink="false">forum-lido-12190</guid><pubDate>Mon, 09 Nov 2026 21:29:18 +0000</pubDate>
+<description>Galaxy Digital applies to join Lido as an stVaults Professional Operator, citing existing client requests and a first stVault targeted for end of 2026 or early Q1 2027.</description></item>
+<item><title>Maintenance Upgrade Proposal: Soneium Mainnet Proposer Rotation and Fee Vault Config Update (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-soneium-mainnet-proposer-rotation-and-fee---10978.html</link>
+<guid isPermaLink="false">forum-optimism-10978</guid><pubDate>Mon, 09 Nov 2026 18:37:19 +0000</pubDate>
+<description>A maintenance upgrade proposal would rotate the Soneium dispute game proposer to OP Enterprise and repoint two fee vaults to its cost recipient, as Soneium&#x27;s operator moves from Sony to the Optimism Foundation.</description></item>
+<item><title>Arbitrum Audit Program: Q4 &amp; Final Transparency Report (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-arbitrum-audit-program-q4-final-transparency-report--31681.html</link>
+<guid isPermaLink="false">forum-arbitrum-31681</guid><pubDate>Mon, 09 Nov 2026 17:24:40 +0000</pubDate>
+<description>The final report on the DAO-approved Arbitrum Audit Program says 367 applications led to 25 audits for 22 projects, at a total audit expenditure of $1,477,810.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.09 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-09--26145.html</link>
+<guid isPermaLink="false">forum-aave-26145</guid><pubDate>Mon, 09 Nov 2026 16:09:23 +0000</pubDate>
+<description>LlamaRisk recommends lowering most supply and borrow caps across Aave V3 instances, and raising one: the USD₮0 borrow cap on Arbitrum from 45M to 52.4M.</description></item>
+<item><title>[Constitutional] AIP: Approve Release of Frozen ETH and ARB (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-constitutional-aip-approve-release-of-frozen-eth-and-arb-441e17.html</link>
+<guid isPermaLink="false">0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17</guid><pubDate>Mon, 09 Nov 2026 14:10:50 +0000</pubDate>
+<description>Binance asks ArbitrumDAO to approve releasing 8,425.997 ETH and 74,559,805.2 ARB, frozen by the Arbitrum Security Council on 29 October 2026, back to a Binance recovery address.</description></item>
 <item><title>SAEP-25: Update the Allocation System Primitive (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-saep-25-update-the-allocation-system-primitive--28391.html</link>
 <guid isPermaLink="false">forum-sky-28391</guid><pubDate>Mon, 09 Nov 2026 04:14:32 +0000</pubDate>
 <description>Phoenix Labs proposes SAEP-25 to update the Allocation System Primitive section of the Spark Artifact, recording wound-down instances, rate limit IDs and current controllers.</description></item>
@@ -133,22 +151,4 @@
 <item><title>Institutional Comet: Update on proposed council architecture and migration (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-institutional-comet-update-on-proposed-council-architecture-and-migrati-d-8202.html</link>
 <guid isPermaLink="false">forum-compound-8202</guid><pubDate>Thu, 29 Oct 2026 19:30:51 +0000</pubDate>
 <description>An interim update proposes a council architecture and five-step migration to place Compound&#x27;s Institutional Comet under Compound governance with a delegated process for market changes.</description></item>
-<item><title>Short note on proposal 620 (deprecated Polygon markets reserves withdrawal) cancellation (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-short-note-on-proposal-620-deprecated-polygon-markets-reserves-withdraw-d-8201.html</link>
-<guid isPermaLink="false">forum-compound-8201</guid><pubDate>Thu, 29 Oct 2026 18:40:40 +0000</pubDate>
-<description>The Woof team cancelled Compound proposal 620 (Polygon deprecated-market reserves withdrawal) and put forward proposal 621 for Unichain instead.</description></item>
-<item><title>[7.3] [Social] Governor Nexus Update (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-3-social-governor-nexus-update-f3627a.html</link>
-<guid isPermaLink="false">0x5bc7802637848e22f47e23615d3dcb2649e10b5feed5033a974eb556cdf3627a</guid><pubDate>Thu, 29 Oct 2026 18:15:08 +0000</pubDate>
-<description>ENS is voting on approving Governor Nexus, a new version of its governor contract, which would go through an external audit funded by MetaGov before any migration proposal.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-29--25949.html</link>
-<guid isPermaLink="false">forum-aave-25949</guid><pubDate>Thu, 29 Oct 2026 17:14:34 +0000</pubDate>
-<description>LlamaRisk recommends cap and interest-rate changes for Aave V4 on Ethereum, Avalanche and Base, including a USDC draw cap increase on the Core Hub Main Spoke from 36M to 60M.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-29--25948.html</link>
-<guid isPermaLink="false">forum-aave-25948</guid><pubDate>Thu, 29 Oct 2026 17:07:32 +0000</pubDate>
-<description>LlamaRisk recommends supply cap, borrow cap and interest-rate changes across several Aave V3 instances, including a cbETH supply cap increase on Base and cap reductions on Avalanche and X Layer.</description></item>
-<item><title>Proposal for Sequencer Fee Rebates on OP Mainnet (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-proposal-for-sequencer-fee-rebates-on-op-mainnet--10940.html</link>
-<guid isPermaLink="false">forum-optimism-10940</guid><pubDate>Thu, 29 Oct 2026 14:44:31 +0000</pubDate>
-<description>The Optimism Foundation asks to rebate part of OP Mainnet sequencer fees to select partners, for activity those partners bring, paid in ETH fee revenue rather than OP.</description></item>
-<item><title>Tokenized Space Exploration Technologies Corp. shares (SPCXc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-space-exploration-technologies-corp-shares-spcxc-on-aave-base-ass--25943.html</link>
-<guid isPermaLink="false">forum-aave-25943</guid><pubDate>Thu, 29 Oct 2026 14:00:06 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized SpaceX shares (SPCXc) on Aave Base.</description></item>
 </channel></rss>
