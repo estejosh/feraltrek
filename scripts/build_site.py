@@ -20,6 +20,25 @@ for s in sums:
 sums.sort(key=lambda s: s["_created"], reverse=True)
 
 
+def status(s):
+    pr = props.get(s["id"], {})
+    if pr.get("source") == "snapshot" or s["id"].startswith("0x"):
+        end = pr.get("end")
+        if pr.get("state") == "active" and end:
+            return "Vote open, ends " + day(end)
+        return "Vote closed" + (", ended " + day(end) if end else "")
+    return "Discussion, no vote yet"
+
+
+def ref(s):
+    i = s["id"]
+    return ("Vote " + i[:6] + "\u2026" + i[-4:]) if i.startswith("0x") else "Forum thread " + i.rsplit("-", 1)[-1]
+
+
+def lowinfo(s):
+    return s.get("headline", "").strip().lower().startswith("low-information")
+
+
 def day(ts):
     return dt.datetime.fromtimestamp(ts or now.timestamp(), dt.timezone.utc).strftime("%Y-%m-%d")
 
@@ -33,10 +52,10 @@ article{border-top:1px solid var(--line);padding:16px 0}code{word-break:break-al
 .box{border:1px solid var(--line);padding:14px 16px;margin:20px 0;font:15px/1.5 system-ui,sans-serif}"""
 
 
-def shell(title, desc, body, canonical, rel=""):
+def shell(title, desc, body, canonical, rel="", noindex=False):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)}</title>
-<meta name="description" content="{E(desc)}"><link rel="canonical" href="{canonical}">
+<meta name="description" content="{E(desc)}"><link rel="canonical" href="{canonical}">{'<meta name="robots" content="noindex">' if noindex else ''}
 <link rel="alternate" type="application/rss+xml" title="Governance Digest" href="{rel}rss.xml">
 <style>{CSS}</style></head><body><main>{body}
 <p class="meta">Sources: Snapshot and public DAO forums. Built and run by an autonomous AI project. Not affiliated with any DAO.
@@ -46,17 +65,29 @@ Facts only, not advice. All code, revenue and subscriber counts are public:
 
 
 def paybox():
-    return f"""<div class="box"><b>Weekly email: everything coming to a vote, with deadlines.</b>
-Every item this week in full, plus the votes closing in the next 7 days across all tracked DAOs.
-{CFG['price_usdc']} USDC on Base = {CFG['days_per_price']} days.<br>
-1. Send {CFG['price_usdc']} USDC on <b>Base</b> to <code>{CFG['pay_address']}</code><br>
-2. Email the transaction hash to <a href="mailto:{CFG['inbox']}">{CFG['inbox']}</a> from the address that should get the email.</div>"""
+    return f"""<div class="box"><b>Paid weekly email: deadlines pushed to your inbox</b>
+<p>Free: this site, which you have to remember to check. Paid: every Monday an email lists the votes closing in the next 7 days, sorted by deadline, then the week's items in full.</p>
+<details><summary>Sample of the weekly email</summary><pre style="white-space:pre-wrap">Closing in the next 7 days
+1. [dao] Proposal title - vote ends 2026-11-16 - one-line summary
+2. [dao] Proposal title - vote ends 2026-11-18 - one-line summary
+The week in full
+[dao] Proposal title: full plain-English analysis and flags</pre></details>
+<p><b>{CFG['price_usdc']} USDC on Base = {CFG['days_per_price']} days.</b></p>
+<ol>
+<li>Send {CFG['price_usdc']} USDC on <b>Base</b> to <code>{CFG['pay_address']}</code></li>
+<li>Email the transaction hash to <a href="mailto:{CFG['inbox']}">{CFG['inbox']}</a>, which is this project's own inbox. Send it from the address that should receive the digest.</li>
+<li>Access starts when the payment is confirmed on-chain.</li>
+</ol>
+<p class="meta">Terms: {CFG['days_per_price']} days from on-chain confirmation, no auto-renew, no refunds (on-chain payments are final). Information only, not financial advice.</p></div>"""
 
 
 def card(s, rel):
-    return f"""<article><div class="meta">{E(s['space'])} &middot; {day(s['_created'])}</div>
+    if lowinfo(s):
+        return f"""<article><div class="meta">{E(s['space'])} &middot; {day(s['_created'])} &middot; {E(ref(s))}</div>
+<details><summary>Low-information item: <a href="{rel}p/{s['_slug']}.html">{E(s['title'])}</a></summary></details></article>"""
+    return f"""<article><div class="meta">{E(s['space'])} &middot; {day(s['_created'])} &middot; {E(ref(s))}</div>
 <h2><a href="{rel}p/{s['_slug']}.html">{E(s['title'])}</a></h2><p>{E(s['headline'])}</p>
-<div class="meta">{E(s.get('vote', ''))}</div></article>"""
+<div class="meta">{E(status(s))} &middot; {E(s.get('vote', ''))}</div></article>"""
 
 
 def rss(items, title, link):
@@ -79,10 +110,10 @@ for s in sums:
     flags = ", ".join(s.get("risk_flags", []))
     body = f"""<p class="meta"><a href="../">Governance Digest</a> &middot; {E(s['space'])} &middot; {day(s['_created'])}</p>
 <h1>{E(s['title'])}</h1><p><b>{E(s['headline'])}</b></p><p>{E(s['summary'])}</p>
-<p class="meta">Flags: {E(flags)}<br>Status: {E(s.get('vote', ''))}<br>Source: <a href="{E(s['url'])}">{E(s['url'])}</a></p>
+<p class="meta">Flags: {E(flags)}<br>Status: {E(status(s))}. {E(s.get('vote', ''))}<br>Reference: {E(ref(s))}<br>Source: <a href="{E(s['url'])}">{E(s['url'])}</a></p>
 {paybox()}"""
     (DOCS / "p" / f"{s['_slug']}.html").write_text(
-        shell(f"{s['title']} ({s['space']}) explained", s["headline"], body, f"{SITE}p/{s['_slug']}.html", "../"), encoding="utf-8")
+        shell(f"{s['title']} ({s['space']}) explained", s["headline"], body, f"{SITE}p/{s['_slug']}.html", "../", noindex=lowinfo(s)), encoding="utf-8")
 
 # front page
 feeds = " ".join(f'<a href="feeds/{E(sp)}.xml">{E(sp)}</a>' for sp in spaces)
@@ -101,7 +132,7 @@ for sp in spaces:
     (DOCS / "feeds" / f"{sp}.xml").write_text(rss([s for s in sums if s["space"] == sp], f"Governance Digest: {sp}", SITE), encoding="utf-8")
 
 # sitemap + robots + nostr identity (NIP-05)
-urls = [SITE] + [f"{SITE}p/{s['_slug']}.html" for s in sums]
+urls = [SITE] + [f"{SITE}p/{s['_slug']}.html" for s in sums if not lowinfo(s)]
 (DOCS / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
     + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>", encoding="utf-8")
 (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}sitemap.xml\n", encoding="utf-8")

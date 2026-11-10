@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 10 Nov 2026 12:56:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 13:04:36 +0000</lastBuildDate>
 <item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.09 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-09--26145.html</link>
 <guid isPermaLink="false">forum-aave-26145</guid><pubDate>Mon, 09 Nov 2026 16:09:23 +0000</pubDate>
 <description>LlamaRisk recommends lowering most supply and borrow caps across Aave V3 instances, and raising one: the USD₮0 borrow cap on Arbitrum from 45M to 52.4M.</description></item>
