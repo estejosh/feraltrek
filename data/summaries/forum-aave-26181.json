@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26181",
+  "space": "aave",
+  "title": "Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.10",
+  "url": "https://governance.aave.com/t/26181",
+  "headline": "LlamaRisk recommends 14 supply and borrow cap changes across Aave V3 markets, mostly reductions, with one increase for WBTC on Arbitrum.",
+  "summary": "LlamaRisk recommends cap changes based on user behavior, on-chain liquidity and position health. On Arbitrum: WBTC supply cap up from 3,500 to 3,630 (reserve at 89.2% utilization now, about 86.0% after) and ARB supply cap down from 52,000,000 to 30,800,000 (37.6% utilization now, about 63.4% after). On Avalanche: USDC supply cap 150,000,000 to 90,000,000, USDt supply cap 100,000,000 to 50,000,000, BTC.b supply cap 1,700 to 1,500, WETH.e borrow cap 7,000 to 4,500. On Prime: WETH supply cap 60,000 to 25,000. On Mantle: USDe supply cap 80,000,000 to 50,000,000 and sUSDe 100,000,000 to 80,000,000. On Core: USDS supply cap 25,000,000 to 10,000,000 and borrow cap 20,000,000 to 9,000,000. On MegaETH: stcUSD supply cap 15,000,000 to 10,000,000. On Base: cbBTC borrow cap 380 to 150. On Polygon: WETH borrow cap 11,000 to 6,000. The post gives current utilization and 30-day supply trends for each reserve, for example WETH.e borrows down 70.5% and USDe supply down 36.5% over 30 days. It says the top 20 WBTC suppliers hold 21.8% of that supply. Open questions: how utilization would change for borrowers near the new caps.",
+  "risk_flags": ["14 cap changes across 8 markets", "caps reduced on several reserves"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-11"
+}

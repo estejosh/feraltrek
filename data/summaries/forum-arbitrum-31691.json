@@ -1,0 +1,11 @@
+{
+  "id": "forum-arbitrum-31691",
+  "space": "arbitrum",
+  "title": "11 November, 2026 - Roundup of Active/Upcoming Votes",
+  "url": "https://forum.arbitrum.foundation/t/31691",
+  "headline": "The 11 November roundup lists three on-chain Arbitrum proposals with voting ending November 12, including 100M ARB more for a USDG program and a 1,800 ETH treasury transfer, plus a temperature check on releasing frozen funds.",
+  "summary": "The roundup lists three on-chain proposals, each with voting ending on November 12. (1) Adopting USDG as a core strategic initiative: Entropy proposes adding 100M ARB from the treasury to the DRIP budget, adjusting the season structure, widening permitted activities and extending the timeline; letting the ATMC deploy assets to support USDG growth; routing AEP fees, net of the 20% for the Arbitrum Developer Guild, to the TM Portfolio with authority to convert them to USDG; and confirming USDG as a Special Project in Entropy's Year 2-3 scope. (2) Transfer of 1,800 ETH from the treasury: about 1,714 ETH of Sequencer revenue to the TM Portfolio to restart a covered call strategy and about 86 ETH of Timeboost and PGA revenue to the Arbitrum Developer Guild; the total rose from 1,700 ETH since the temperature check. (3) A constitutional AIP updating the L1-pricing parameters parentGasFloorPerToken and perBatchGasCharge on Arbitrum One and Nova ahead of Ethereum's Glamsterdam upgrade; it does not include an ArbOS upgrade or change the pricing algorithm. The roundup also lists temperature checks, including a request by Binance to release 8,425.997 ETH and 74,559,805.2 ARB frozen on Arbitrum One on October 29 after an exploit of its hot wallet. Open questions: effects on treasury balances and how the temperature-check items proceed.",
+  "risk_flags": ["treasury spend 100M ARB", "treasury transfer 1800 ETH", "votes close November 12", "constitutional parameter change"],
+  "vote": "Votes on three on-chain proposals end 2026-11-12; roundup gives no tally",
+  "written": "2026-11-11"
+}

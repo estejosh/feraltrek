@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26179",
+  "space": "aave",
+  "title": "Circle Wrapped Bitcoin (cirBTC) on Aave Ethereum Assessments",
+  "url": "https://governance.aave.com/t/circle-wrapped-bitcoin-cirbtc-on-aave-ethereum-assessments/26179",
+  "headline": "Low-information proposal",
+  "summary": "This forum thread is a collection point for risk and technical assessments of cirBTC on Aave Ethereum. It is to hold the pre-listing asset risk assessment under the Aave Risk Framework, the pre-listing technical assessment under the Technical Asset Listing Framework, post-listing monitoring reports, periodic refresh assessments and re-evaluations triggered by material changes. New assessments are to be posted as replies. The opening post itself contains no proposal, parameters or amounts.",
+  "risk_flags": ["no proposal text yet"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-11"
+}

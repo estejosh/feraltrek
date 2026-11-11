@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 10 Nov 2026 13:04:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:55:08 +0000</lastBuildDate>
+<item><title>[ARFC] Repositioning Aave V3 Core Around Established &amp; Liquid Collateral (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-repositioning-aave-v3-core-around-established-liquid-collateral--26191.html</link>
+<guid isPermaLink="false">forum-aave-26191</guid><pubDate>Tue, 10 Nov 2026 19:33:53 +0000</pubDate>
+<description>LlamaRisk proposes to freeze rsETH, osETH, LBTC, tBTC, rETH and some smaller reserves on Aave V3 Core, which together held $1.33B of collateral backing $1.03B of debt as of 9 November 2026.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.10 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-10--26181.html</link>
+<guid isPermaLink="false">forum-aave-26181</guid><pubDate>Tue, 10 Nov 2026 16:10:57 +0000</pubDate>
+<description>LlamaRisk recommends 14 supply and borrow cap changes across Aave V3 markets, mostly reductions, with one increase for WBTC on Arbitrum.</description></item>
+<item><title>11 November, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-11-november-2026-roundup-of-active-upcoming-votes--31691.html</link>
+<guid isPermaLink="false">forum-arbitrum-31691</guid><pubDate>Tue, 10 Nov 2026 15:52:20 +0000</pubDate>
+<description>The 11 November roundup lists three on-chain Arbitrum proposals with voting ending November 12, including 100M ARB more for a USDG program and a 1,800 ETH treasury transfer, plus a temperature check on releasing frozen funds.</description></item>
+<item><title>Should the gnosis DAO fund a Compensation Plan in GNO for Affected Users of Personal Data Leak? (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-should-the-gnosis-dao-fund-a-compensation-plan-in-gno-for-affected-users---12503.html</link>
+<guid isPermaLink="false">forum-gnosis-12503</guid><pubDate>Tue, 10 Nov 2026 15:33:39 +0000</pubDate>
+<description>A draft GIP asks GnosisDAO to fund up to 25,000 GNO so each verified user affected by a personal-data leak receives the equivalent of $500 in GNO.</description></item>
+<item><title>Circle Wrapped Bitcoin (cirBTC) on Aave Ethereum Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-circle-wrapped-bitcoin-cirbtc-on-aave-ethereum-assessments--26179.html</link>
+<guid isPermaLink="false">forum-aave-26179</guid><pubDate>Tue, 10 Nov 2026 15:08:56 +0000</pubDate>
+<description>Low-information proposal</description></item>
 <item><title>Security Council Membership Rotation - November 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-membership-rotation-november-2026--31682.html</link>
 <guid isPermaLink="false">forum-arbitrum-31682</guid><pubDate>Tue, 10 Nov 2026 02:34:34 +0000</pubDate>
 <description>An announcement says Immunefi&#x27;s representative on the Arbitrum Security Council, who left Immunefi, will keep serving in a personal capacity after 9 of 12 members voted to allow it.</description></item>
@@ -136,19 +151,4 @@
 <item><title>Security Council Emergency Action – 30/10/2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-emergency-action-30-10-2026--31625.html</link>
 <guid isPermaLink="false">forum-arbitrum-31625</guid><pubDate>Fri, 30 Oct 2026 01:22:18 +0000</pubDate>
 <description>The Arbitrum Security Council executed an emergency action on 30 October 2026 to freeze 8,425 ETH and 74,559,805.2 ARB on Arbitrum One held by an address identified with a Binance exploit.</description></item>
-<item><title>Risk Stewards: Temporary Slope2 Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-temporary-slope2-reductions-on-aave-v3-and-aave-v4-2026-10-30--25955.html</link>
-<guid isPermaLink="false">forum-aave-25955</guid><pubDate>Fri, 30 Oct 2026 01:21:49 +0000</pubDate>
-<description>LlamaRisk recommends temporarily lowering Slope2 on stablecoin reserves (and V4 Ethereum WETH) so borrow rates at full utilization stay at or below 10% APR after the reserve freeze.</description></item>
-<item><title>Binance Hot Wallet Exploit: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-binance-hot-wallet-exploit-aave-s-response--25954.html</link>
-<guid isPermaLink="false">forum-aave-25954</guid><pubDate>Fri, 30 Oct 2026 00:59:32 +0000</pubDate>
-<description>Aave contributors describe their response to a reported Binance hot wallet exploit, including freezing reserves across Aave V3 and V4 networks.</description></item>
-<item><title>Compound V3: Supply Paused Across Major Markets (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-v3-supply-paused-across-major-markets-d-8203.html</link>
-<guid isPermaLink="false">forum-compound-8203</guid><pubDate>Thu, 29 Oct 2026 23:09:38 +0000</pubDate>
-<description>Compound announced that supply is paused on all major Compound V3 markets across Ethereum, Optimism, Arbitrum and Base because of an ongoing incident on Ethereum mainnet.</description></item>
-<item><title>[Constitutional] AIP: Stylus Activation Contract (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-constitutional-aip-stylus-activation-contract-c6a8b6.html</link>
-<guid isPermaLink="false">0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6</guid><pubDate>Thu, 29 Oct 2026 20:30:11 +0000</pubDate>
-<description>A Constitutional AIP would resume Stylus contract activations on Arbitrum One with a new activation contract, delegating activation signatures to an Arbitrum Foundation multisig for contracts that pass a limited security audit.</description></item>
-<item><title>Institutional Comet: Update on proposed council architecture and migration (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-institutional-comet-update-on-proposed-council-architecture-and-migrati-d-8202.html</link>
-<guid isPermaLink="false">forum-compound-8202</guid><pubDate>Thu, 29 Oct 2026 19:30:51 +0000</pubDate>
-<description>An interim update proposes a council architecture and five-step migration to place Compound&#x27;s Institutional Comet under Compound governance with a delegated process for market changes.</description></item>
 </channel></rss>

@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26191",
+  "space": "aave",
+  "title": "[ARFC] Repositioning Aave V3 Core Around Established & Liquid Collateral",
+  "url": "https://governance.aave.com/t/26191",
+  "headline": "LlamaRisk proposes to freeze rsETH, osETH, LBTC, tBTC, rETH and some smaller reserves on Aave V3 Core, which together held $1.33B of collateral backing $1.03B of debt as of 9 November 2026.",
+  "summary": "LlamaRisk proposes repositioning Aave V3 Core as an instance for liquid, bluechip collateral, with the wider range of asset classes served by Aave V4, where a Risk Premium parameter prices each collateral's risk. It is described as the next step after earlier deprecation work that wound down 71 reserves across eleven deployments and six whole markets (about $98M of supply) and replaced long-tail price feeds with fixed values. The initial measure is to freeze each reserve in scope, which stops new supply and sets LTV to zero while leaving existing positions untouched. Reserves that are frozen, still borrowable and carry more than $20k of debt would have their reserve factor raised to 99%. LlamaRisk would then work with asset issuers and the largest borrowers on an orderly migration. The proposal also approves follow-up controls, including stepwise liquidation threshold reductions and, last, interest rate adjustments with targeted rebates, to be applied through Risk Stewards or Direct-to-AIP proposals only if exposure does not migrate within the coming months. The post says it completes deprecation of assets that had a three-month exemption (eBTC, BTC.b, tETH and governance tokens). Open questions: timing of migration and effects on borrowers holding these assets.",
+  "risk_flags": ["freezes reserves holding $1.33B collateral", "reserve factor raised to 99% on some reserves", "later liquidation threshold reductions possible"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-11"
+}

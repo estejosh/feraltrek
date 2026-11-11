@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 10 Nov 2026 13:04:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:55:08 +0000</lastBuildDate>
+<item><title>[ARFC] Repositioning Aave V3 Core Around Established &amp; Liquid Collateral (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-repositioning-aave-v3-core-around-established-liquid-collateral--26191.html</link>
+<guid isPermaLink="false">forum-aave-26191</guid><pubDate>Tue, 10 Nov 2026 19:33:53 +0000</pubDate>
+<description>LlamaRisk proposes to freeze rsETH, osETH, LBTC, tBTC, rETH and some smaller reserves on Aave V3 Core, which together held $1.33B of collateral backing $1.03B of debt as of 9 November 2026.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.10 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-10--26181.html</link>
+<guid isPermaLink="false">forum-aave-26181</guid><pubDate>Tue, 10 Nov 2026 16:10:57 +0000</pubDate>
+<description>LlamaRisk recommends 14 supply and borrow cap changes across Aave V3 markets, mostly reductions, with one increase for WBTC on Arbitrum.</description></item>
+<item><title>Circle Wrapped Bitcoin (cirBTC) on Aave Ethereum Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-circle-wrapped-bitcoin-cirbtc-on-aave-ethereum-assessments--26179.html</link>
+<guid isPermaLink="false">forum-aave-26179</guid><pubDate>Tue, 10 Nov 2026 15:08:56 +0000</pubDate>
+<description>Low-information proposal</description></item>
 <item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.09 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-09--26145.html</link>
 <guid isPermaLink="false">forum-aave-26145</guid><pubDate>Mon, 09 Nov 2026 16:09:23 +0000</pubDate>
 <description>LlamaRisk recommends lowering most supply and borrow caps across Aave V3 instances, and raising one: the USD₮0 borrow cap on Arbitrum from 45M to 52.4M.</description></item>

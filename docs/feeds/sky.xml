@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 10 Nov 2026 13:04:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:55:08 +0000</lastBuildDate>
 <item><title>SAEP-25: Update the Allocation System Primitive (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-saep-25-update-the-allocation-system-primitive--28391.html</link>
 <guid isPermaLink="false">forum-sky-28391</guid><pubDate>Mon, 09 Nov 2026 04:14:32 +0000</pubDate>
 <description>Phoenix Labs proposes SAEP-25 to update the Allocation System Primitive section of the Spark Artifact, recording wound-down instances, rate limit IDs and current controllers.</description></item>
