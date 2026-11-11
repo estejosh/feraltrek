@@ -52,12 +52,12 @@ article{border-top:1px solid var(--line);padding:16px 0}code{word-break:break-al
 .box{border:1px solid var(--line);padding:14px 16px;margin:20px 0;font:15px/1.5 system-ui,sans-serif}"""
 
 
-def shell(title, desc, body, canonical, rel="", noindex=False):
+def shell(title, desc, body, canonical, rel="", noindex=False, ld=""):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)}</title>
 <meta name="description" content="{E(desc)}"><link rel="canonical" href="{canonical}">{'<meta name="robots" content="noindex">' if noindex else ''}
 <link rel="alternate" type="application/rss+xml" title="Governance Digest" href="{rel}rss.xml">
-<style>{CSS}</style></head><body><main>{body}
+{ld}<style>{CSS}</style></head><body><main>{body}
 <p class="meta">Sources: Snapshot and public DAO forums. Built and run by an autonomous AI project. Not affiliated with any DAO.
 Facts only, not advice. All code, revenue and subscriber counts are public:
 <a href="https://github.com/estejosh/feraltrek">source</a> &middot; <a href="https://github.com/estejosh/feraltrek/blob/main/metrics.json">metrics</a>
@@ -108,7 +108,7 @@ spaces = sorted({s["space"] for s in sums})
 # item pages (full analysis, free; good for search)
 for s in sums:
     flags = ", ".join(s.get("risk_flags", []))
-    body = f"""<p class="meta"><a href="../">Governance Digest</a> &middot; {E(s['space'])} &middot; {day(s['_created'])}</p>
+    body = f"""<p class="meta"><a href="../">Governance Digest</a> &middot; <a href="../dao/{E(s['space'])}/">{E(s['space'])} proposals</a> &middot; <a href="../closing-soon/">Closing soon</a> &middot; {day(s['_created'])}</p>
 <h1>{E(s['title'])}</h1><p><b>{E(s['headline'])}</b></p><p>{E(s['summary'])}</p>
 <p class="meta">Flags: {E(flags)}<br>Status: {E(status(s))}. {E(s.get('vote', ''))}<br>Reference: {E(ref(s))}<br>Source: <a href="{E(s['url'])}">{E(s['url'])}</a></p>
 {paybox()}"""
@@ -131,8 +131,47 @@ front = f"""<h1>Governance Digest</h1>
 for sp in spaces:
     (DOCS / "feeds" / f"{sp}.xml").write_text(rss([s for s in sums if s["space"] == sp], f"Governance Digest: {sp}", SITE), encoding="utf-8")
 
+
+# SEO pages: per-DAO (last 14 days) and closing-soon (votes ending within 7 days)
+def ends(s):
+    pr = props.get(s["id"], {})
+    return pr.get("end") if pr.get("state") == "active" and pr.get("end") else None
+
+
+def line(s, rel):
+    return f"""<article><div class="meta">{day(s['_created'])} &middot; {E(status(s))}</div>
+<h2><a href="{rel}p/{s['_slug']}.html">{E(s['title'])}</a></h2><p>{E(s['headline'])}</p></article>"""
+
+
+def ldjson(name, url, items, rel):
+    import json as _j
+    return '<script type="application/ld+json">' + _j.dumps({"@context": "https://schema.org", "@type": "CollectionPage", "name": name, "url": url,
+        "hasPart": [{"@type": "Article", "headline": s["title"], "url": f"{SITE}p/{s['_slug']}.html"} for s in items[:20]]}).replace("</", "<\\/") + "</script>"
+
+
+cut = now.timestamp() - 14 * 86400
+urls_extra = []
+for sp in spaces:
+    its = [s for s in sums if s["space"] == sp and not lowinfo(s) and s["_created"] >= cut]
+    d = DOCS / "dao" / sp
+    d.mkdir(parents=True, exist_ok=True)
+    name = f"{sp.title()} governance proposals: this week"
+    body = f"""<p class="meta"><a href="../../">Governance Digest</a> &middot; <a href="../../closing-soon/">Closing soon</a> &middot; <a href="../../feeds/{E(sp)}.xml">RSS for {E(sp)}</a></p>
+<h1>{E(name)}</h1><p class="meta">Items from the last 14 days.</p>{''.join(line(s, '../../') for s in its) or '<p>No new items in the last 14 days.</p>'}"""
+    u = f"{SITE}dao/{sp}/"
+    (d / "index.html").write_text(shell(name, f"{sp.title()} DAO governance proposals and discussions from the last 14 days, summarized in plain English.", body, u, "../../", noindex=not its, ld=ldjson(name, u, its, "../../")), encoding="utf-8")
+    if its:
+        urls_extra.append(u)
+soon = sorted([s for s in sums if ends(s) and now.timestamp() <= ends(s) <= now.timestamp() + 7 * 86400], key=ends)
+(DOCS / "closing-soon").mkdir(exist_ok=True)
+body = f"""<p class="meta"><a href="../">Governance Digest</a></p><h1>DAO votes closing in the next 7 days</h1>
+{''.join(f"<article><div class='meta'>{E(s['space'])} &middot; vote ends {day(ends(s))}</div><h2><a href='../p/{s['_slug']}.html'>{E(s['title'])}</a></h2><p>{E(s['headline'])}</p></article>" for s in soon) or '<p>No open votes in our data end within 7 days.</p>'}"""
+u = SITE + "closing-soon/"
+(DOCS / "closing-soon" / "index.html").write_text(shell("DAO votes closing in the next 7 days", "Governance votes that end within a week, sorted by deadline.", body, u, "../", ld=ldjson("Votes closing soon", u, soon, "../")), encoding="utf-8")
+urls_extra.append(u)
+
 # sitemap + robots + nostr identity (NIP-05)
-urls = [SITE] + [f"{SITE}p/{s['_slug']}.html" for s in sums if not lowinfo(s)]
+urls = [SITE] + urls_extra + [f"{SITE}p/{s['_slug']}.html" for s in sums if not lowinfo(s)]
 (DOCS / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
     + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>", encoding="utf-8")
 (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}sitemap.xml\n", encoding="utf-8")

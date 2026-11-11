@@ -26,3 +26,5 @@ log/_*.txt
 
 data/post_out.txt
 data/post_err.txt
+daily_post.out
+daily_post.err
