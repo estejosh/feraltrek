@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26219",
+  "space": "aave",
+  "title": "[ARFC] Dynamic Caps Oracle: Rate Limiter",
+  "url": "https://governance.aave.com/t/arfc-dynamic-caps-oracle-rate-limiter/26219",
+  "headline": "LlamaRisk proposes LlamaGuard Caps, a borrow rate limiter for Aave V3 that gives each reserve limited borrowing room which refills automatically, so large draws have to wait and the Protocol Guardian has time to react.",
+  "summary": "LlamaRisk proposes the first stage of LlamaGuard Caps, part of its Risk Layer for Aave. For each Aave V3 reserve the limiter keeps a margin of borrowing room above current debt, sized to the reserve. The room refills automatically as ordinary demand uses it and is cut back when large repayments open up more than the reserve needs. Everyday borrowing keeps instant access, but a large draw must wait for each refill, which the post says gives the Protocol Guardian time to respond to illegitimate activity. Integrated institutional clients and other approved large borrowers would get a dedicated pathway. Raises are computed on Chainlink CRE and every bound is enforced onchain. Risk Stewards and governance would still set each cap's maximum; the automation only controls how fast room opens beneath it. Aave's core contracts and existing agents stay unchanged and the new contract surface is described as small. The post cites data from October 2025 to October 2026: standing borrow headroom averaged 41.1% of debt on Core WETH, 75.3% on Core USDT and 76.7% on Core USDC, and the largest malicious draws borrowed tens of millions of dollars of WETH within minutes. Later stages would set the ceiling from live liquidity and extend to supply caps and Aave V4. Open questions: how institutional pathways are approved, and how refill speeds are calibrated per reserve.",
+  "risk_flags": ["new automated control over borrow caps", "relies on Chainlink CRE", "institutional borrower pathway"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-13"
+}

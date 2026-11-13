@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28399",
+  "space": "sky",
+  "title": "Core Vaults parameter changes - Set DC-IAM line to 0 on ETH-A, ETH-B, ETH-C, WSTETH-A, and WSTETH-B",
+  "url": "https://forum.sky.money/t/core-vaults-parameter-changes-set-dc-iam-line-to-0-on-eth-a-eth-b-eth-c-wsteth-a-and-wsteth-b/28399",
+  "headline": "BA Labs, acting as Core Council Risk Advisor, recommends setting the debt ceilings of five Sky Core vault types to 0, which would stop new USDS minting through them while leaving existing vaults usable.",
+  "summary": "BA Labs recommends cutting the DC-IAM line (maximum debt ceiling) to 0 on ETH-A (from 15B), ETH-B (from 250M), ETH-C (from 2B), WSTETH-A (from 750M) and WSTETH-B (from 1B), and removing them from the DC-IAM. WBTC-A, B and C already have a line of 0. The stated rationale is reducing potential attack vectors. The post reports that over the last 365 days debt across the five vault types fell by 126.68M USDS (-25.18%) to 376.33M USDS and open vaults fell by 177 to 771, with debt down a further 58.97M USDS over 90 days. Aggregate debt peaked at 537.51M USDS around 2026-06-14. The post says none of the ceilings constrains current users and demand for new minting is low, though ETH-A debt grew by 7.76M over the year, so the change would stop that growth. Existing vaults are not affected beyond losing the ability to mint more: they can still repay, add collateral, withdraw, and remain subject to liquidation. Open questions: whether any new borrowing demand would move elsewhere.",
+  "risk_flags": ["stops new minting on five vault types", "debt ceilings 15B/250M/2B/750M/1B to 0"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-13"
+}

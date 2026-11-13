@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 11 Nov 2026 13:03:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:56:01 +0000</lastBuildDate>
+<item><title>[Direct-to-AIP] Ethena E-Mode Consolidation on Aave V3 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-ethena-e-mode-consolidation-on-aave-v3--26304.html</link>
+<guid isPermaLink="false">forum-aave-26304</guid><pubDate>Fri, 13 Nov 2026 12:19:38 +0000</pubDate>
+<description>TokenLogic proposes common reference e-modes for Ethena collateral (USDe, sUSDe) on five Aave V3 markets and retiring legacy e-modes whose Pendle tokens have matured.</description></item>
+<item><title>Technical Maintenance Proposals (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-technical-maintenance-proposals--26300.html</link>
+<guid isPermaLink="false">forum-aave-26300</guid><pubDate>Fri, 13 Nov 2026 10:58:38 +0000</pubDate>
+<description>Aave Labs opens a single thread for technical maintenance updates across Aave deployments from November 2026, such as oracle feed updates and permission cleanups.</description></item>
+<item><title>Core Vaults parameter changes - Set DC-IAM line to 0 on ETH-A, ETH-B, ETH-C, WSTETH-A, and WSTETH-B (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-core-vaults-parameter-changes-set-dc-iam-line-to-0-on-eth-a-eth-b-eth-c-wste--28399.html</link>
+<guid isPermaLink="false">forum-sky-28399</guid><pubDate>Thu, 12 Nov 2026 18:19:07 +0000</pubDate>
+<description>BA Labs, acting as Core Council Risk Advisor, recommends setting the debt ceilings of five Sky Core vault types to 0, which would stop new USDS minting through them while leaving existing vaults usable.</description></item>
+<item><title>Should Equities Hub carry a custodian-level exposure limit? Every reserve on it is custodied at Alpaca (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-should-equities-hub-carry-a-custodian-level-exposure-limit-every-reserve-on--26267.html</link>
+<guid isPermaLink="false">forum-aave-26267</guid><pubDate>Thu, 12 Nov 2026 16:45:47 +0000</pubDate>
+<description>A forum post asks whether the Aave V4 Base Equities hub should have a combined exposure limit per custodian, since all eight of its reserves are custodied at one broker-dealer.</description></item>
+<item><title>[Direct-to-AIP] Reserve Factor Updates Across Aave V3 and V2 Markets (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-reserve-factor-updates-across-aave-v3-and-v2-markets--26249.html</link>
+<guid isPermaLink="false">forum-aave-26249</guid><pubDate>Thu, 12 Nov 2026 05:48:15 +0000</pubDate>
+<description>TokenLogic proposes raising Reserve Factors on 54 reserves across 12 Aave V3 instances and Aave V2 Ethereum, which the post says adds about $3.5M a year of DAO revenue and lifts the blended factor from 12.0% to 12.7%.</description></item>
+<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.12 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-12--26233.html</link>
+<guid isPermaLink="false">forum-aave-26233</guid><pubDate>Wed, 11 Nov 2026 21:50:04 +0000</pubDate>
+<description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.75B to 2.95B, after the reserve reached 99.0% of its current cap.</description></item>
+<item><title>[ARFC] Dynamic Caps Oracle: Rate Limiter (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-dynamic-caps-oracle-rate-limiter--26219.html</link>
+<guid isPermaLink="false">forum-aave-26219</guid><pubDate>Wed, 11 Nov 2026 17:00:38 +0000</pubDate>
+<description>LlamaRisk proposes LlamaGuard Caps, a borrow rate limiter for Aave V3 that gives each reserve limited borrowing room which refills automatically, so large draws have to wait and the Protocol Guardian has time to react.</description></item>
 <item><title>[ARFC] Repositioning Aave V3 Core Around Established &amp; Liquid Collateral (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-repositioning-aave-v3-core-around-established-liquid-collateral--26191.html</link>
 <guid isPermaLink="false">forum-aave-26191</guid><pubDate>Tue, 10 Nov 2026 19:33:53 +0000</pubDate>
 <description>LlamaRisk proposes to freeze rsETH, osETH, LBTC, tBTC, rETH and some smaller reserves on Aave V3 Core, which together held $1.33B of collateral backing $1.03B of debt as of 9 November 2026.</description></item>
@@ -130,25 +151,4 @@
 <item><title>[Gauntlet] tBTC Risk Parameter Update: Supply Caps and Borrow Collateral Factors to 0 (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-tbtc-risk-parameter-update-supply-caps-and-borrow-collateral-f-d-8220.html</link>
 <guid isPermaLink="false">forum-compound-8220</guid><pubDate>Sat, 31 Oct 2026 15:19:28 +0000</pubDate>
 <description>Gauntlet recommends setting the tBTC supply cap and borrow collateral factor to 0 on every Compound Comet where tBTC is listed, after Threshold Network paused tBTC minting and redemptions.</description></item>
-<item><title>tBTC Mint &amp; Redeem Pause: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tbtc-mint-redeem-pause-aave-s-response--25965.html</link>
-<guid isPermaLink="false">forum-aave-25965</guid><pubDate>Sat, 31 Oct 2026 10:28:51 +0000</pubDate>
-<description>After Threshold Network paused tBTC mints and redeems, the guardian multisig froze tBTC on Aave V3 Ethereum Core, stopping new deposits and borrowing against it.</description></item>
-<item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-02 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-02--28368.html</link>
-<guid isPermaLink="false">forum-sky-28368</guid><pubDate>Fri, 30 Oct 2026 21:22:33 +0000</pubDate>
-<description>Core GovOps submits this week&#x27;s Atlas edits, including temporary capital ratio requirements and a larger exposure limit for Osero&#x27;s Gauntlet USDC vault instance.</description></item>
-<item><title>Notice of amendment to Bylaw 16 (annual and interim budgets) (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-notice-of-amendment-to-bylaw-16-annual-and-interim-budgets--22518.html</link>
-<guid isPermaLink="false">forum-ens-22518</guid><pubDate>Fri, 30 Oct 2026 17:54:09 +0000</pubDate>
-<description>The ENS Foundation Board amended Bylaw 16 to set an annual budget deadline and allow a capped interim budget; no tokenholder vote is required and it takes effect 7 November 2026.</description></item>
-<item><title>[Gauntlet] Deprecation of the Ethereum WBTC Comet (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-deprecation-of-the-ethereum-wbtc-comet-d-8209.html</link>
-<guid isPermaLink="false">forum-compound-8209</guid><pubDate>Fri, 30 Oct 2026 17:11:00 +0000</pubDate>
-<description>Gauntlet recommends winding down the Ethereum WBTC Comet by setting borrow collateral factors and the remaining supply caps to zero, citing minimal borrow demand.</description></item>
-<item><title>ENS-budget: budget-first ENS v2 renewals for viem (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-budget-budget-first-ens-v2-renewals-for-viem--22516.html</link>
-<guid isPermaLink="false">forum-ens-22516</guid><pubDate>Fri, 30 Oct 2026 10:51:13 +0000</pubDate>
-<description>A community developer announced ens-budget, a small TypeScript library for ENS v2 renewals that finds the longest renewal a stablecoin budget buys.</description></item>
-<item><title>Risk Stewards: Borrow and Draw Cap Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-and-draw-cap-reductions-on-aave-v3-and-aave-v4-2026-10--25960.html</link>
-<guid isPermaLink="false">forum-aave-25960</guid><pubDate>Fri, 30 Oct 2026 10:11:21 +0000</pubDate>
-<description>LlamaRisk recommends cutting borrow caps on the largest Aave V3 reserves and draw caps on the largest V4 credit lines to about 2% above the amount borrowed before the exploit.</description></item>
-<item><title>Security Council Emergency Action – 30/10/2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-emergency-action-30-10-2026--31625.html</link>
-<guid isPermaLink="false">forum-arbitrum-31625</guid><pubDate>Fri, 30 Oct 2026 01:22:18 +0000</pubDate>
-<description>The Arbitrum Security Council executed an emergency action on 30 October 2026 to freeze 8,425 ETH and 74,559,805.2 ARB on Arbitrum One held by an address identified with a Binance exploit.</description></item>
 </channel></rss>

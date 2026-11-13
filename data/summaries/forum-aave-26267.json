@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26267",
+  "space": "aave",
+  "title": "Should Equities Hub carry a custodian-level exposure limit? Every reserve on it is custodied at Alpaca",
+  "url": "https://governance.aave.com/t/should-equities-hub-carry-a-custodian-level-exposure-limit-every-reserve-on-it-is-custodied-at-alpaca/26267",
+  "headline": "A forum post asks whether the Aave V4 Base Equities hub should have a combined exposure limit per custodian, since all eight of its reserves are custodied at one broker-dealer.",
+  "summary": "A forum post asks whether the Aave DAO should set a custodian-level exposure limit on the Aave V4 Base Equities hub. According to the post, the hub lends USDC against eight Coinbase stocks, all custodied by the same US broker-dealer, Alpaca Securities LLC. The post cites another thread saying $4.17B of $4.6B (91% of total supply) is custodied at that one entity. It says every limit on the hub is set per reserve, and that the deployment ARFC, the Coinbase assessment and the Risk framework do not say what happens to the eight reserves together if the custodian faces a major stress event. The author asks whether the DAO thinks a custodian-level limit makes sense and, if not, why per-reserve sizing is sufficient. No specific limit value is proposed. Open questions: whether the DAO will adopt a combined custodian limit, and how concentration risk is assessed across reserves.",
+  "risk_flags": ["custodian concentration", "question only, no proposed parameters"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-13"
+}

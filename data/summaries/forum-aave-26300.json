@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26300",
+  "space": "aave",
+  "title": "Technical Maintenance Proposals",
+  "url": "https://governance.aave.com/t/technical-maintenance-proposals/26300",
+  "headline": "Aave Labs opens a single thread for technical maintenance updates across Aave deployments from November 2026, such as oracle feed updates and permission cleanups.",
+  "summary": "Aave Labs says this thread will hold technical maintenance updates from November 2026 onward, so the DAO has one place to see what is changing, why and how it is executed. Earlier updates stay in a previous maintenance thread. The thread is open to any DAO Service Provider responsible for a maintenance item. In scope are technical, limited changes not expected to cause material disagreement: price feed and oracle adapter updates, oracle changes needed by an asset's deprecation or migration, replacing auxiliary contracts without changing user positions or interfaces, removing roles no longer needed, and consistency updates across deployments. Items such as new asset listings, material risk parameter changes, budgets and incentive programs would follow the normal ARFC, Snapshot or AIP route. Each update would be posted as a standalone item with Simple Summary, Motivation and Specification, covering the affected components, execution path and expected user impact. Items needing an onchain proposal would be shared before the AIP is created; items executed through an operational multisig or Security Council path would explain why. If timing or security requires it, an update may be posted after execution. If the DAO raises material concerns, an item moves to the standard process. This post sets up a process and contains no specific change.",
+  "risk_flags": ["process thread, no specific change", "some updates may be disclosed after execution"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-13"
+}

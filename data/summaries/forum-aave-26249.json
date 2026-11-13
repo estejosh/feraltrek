@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26249",
+  "space": "aave",
+  "title": "[Direct-to-AIP] Reserve Factor Updates Across Aave V3 and V2 Markets",
+  "url": "https://governance.aave.com/t/direct-to-aip-reserve-factor-updates-across-aave-v3-and-v2-markets/26249",
+  "headline": "TokenLogic proposes raising Reserve Factors on 54 reserves across 12 Aave V3 instances and Aave V2 Ethereum, which the post says adds about $3.5M a year of DAO revenue and lifts the blended factor from 12.0% to 12.7%.",
+  "summary": "The Reserve Factor (RF) decides how borrower interest is split between suppliers and the DAO; it does not change the rate a borrower pays. TokenLogic proposes RF updates on 54 reserves, using balances and rates as of 9 November 2026. Changes are grouped by rationale. Reserves with no supply yield, such as BTC wrappers and staked-ETH assets on several networks, would move to 100%, for a stated combined +$173,209 a year. Volatile tokens (LINK, ARB, WPOL, GNO) would move to 50%, about +$24,255 a year. USDe on Plasma would move from 25% to 35%, about +$217,872 a year. Plasma USDT0 would move from 5% to 7.5%, in line with terms the post says were agreed with the Plasma team, and that line is only included in the AIP once those terms are final; Plasma GHO would move from 5% to 10%. Stablecoin RFs on V3 stay at or below 70% except DAI.e on Avalanche. WETH on Ethereum Core is excluded to coordinate with other Core collateral work. The post frames this as part of streamlining Aave V3 as low-adoption reserves wind down and V2 is frozen. Open questions: effects on suppliers on reserves where yield changes by a few basis points.",
+  "risk_flags": ["reserve factor changes on 54 reserves", "DAO revenue change about $3.5M/yr per post", "one line pending third-party terms"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-13"
+}

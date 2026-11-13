@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 11 Nov 2026 13:03:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:56:01 +0000</lastBuildDate>
+<item><title>[Direct-to-AIP] Ethena E-Mode Consolidation on Aave V3 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-ethena-e-mode-consolidation-on-aave-v3--26304.html</link>
+<guid isPermaLink="false">forum-aave-26304</guid><pubDate>Fri, 13 Nov 2026 12:19:38 +0000</pubDate>
+<description>TokenLogic proposes common reference e-modes for Ethena collateral (USDe, sUSDe) on five Aave V3 markets and retiring legacy e-modes whose Pendle tokens have matured.</description></item>
+<item><title>Technical Maintenance Proposals (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-technical-maintenance-proposals--26300.html</link>
+<guid isPermaLink="false">forum-aave-26300</guid><pubDate>Fri, 13 Nov 2026 10:58:38 +0000</pubDate>
+<description>Aave Labs opens a single thread for technical maintenance updates across Aave deployments from November 2026, such as oracle feed updates and permission cleanups.</description></item>
+<item><title>Should Equities Hub carry a custodian-level exposure limit? Every reserve on it is custodied at Alpaca (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-should-equities-hub-carry-a-custodian-level-exposure-limit-every-reserve-on--26267.html</link>
+<guid isPermaLink="false">forum-aave-26267</guid><pubDate>Thu, 12 Nov 2026 16:45:47 +0000</pubDate>
+<description>A forum post asks whether the Aave V4 Base Equities hub should have a combined exposure limit per custodian, since all eight of its reserves are custodied at one broker-dealer.</description></item>
+<item><title>[Direct-to-AIP] Reserve Factor Updates Across Aave V3 and V2 Markets (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-reserve-factor-updates-across-aave-v3-and-v2-markets--26249.html</link>
+<guid isPermaLink="false">forum-aave-26249</guid><pubDate>Thu, 12 Nov 2026 05:48:15 +0000</pubDate>
+<description>TokenLogic proposes raising Reserve Factors on 54 reserves across 12 Aave V3 instances and Aave V2 Ethereum, which the post says adds about $3.5M a year of DAO revenue and lifts the blended factor from 12.0% to 12.7%.</description></item>
+<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.12 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-12--26233.html</link>
+<guid isPermaLink="false">forum-aave-26233</guid><pubDate>Wed, 11 Nov 2026 21:50:04 +0000</pubDate>
+<description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.75B to 2.95B, after the reserve reached 99.0% of its current cap.</description></item>
+<item><title>[ARFC] Dynamic Caps Oracle: Rate Limiter (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-dynamic-caps-oracle-rate-limiter--26219.html</link>
+<guid isPermaLink="false">forum-aave-26219</guid><pubDate>Wed, 11 Nov 2026 17:00:38 +0000</pubDate>
+<description>LlamaRisk proposes LlamaGuard Caps, a borrow rate limiter for Aave V3 that gives each reserve limited borrowing room which refills automatically, so large draws have to wait and the Protocol Guardian has time to react.</description></item>
 <item><title>[ARFC] Repositioning Aave V3 Core Around Established &amp; Liquid Collateral (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-repositioning-aave-v3-core-around-established-liquid-collateral--26191.html</link>
 <guid isPermaLink="false">forum-aave-26191</guid><pubDate>Tue, 10 Nov 2026 19:33:53 +0000</pubDate>
 <description>LlamaRisk proposes to freeze rsETH, osETH, LBTC, tBTC, rETH and some smaller reserves on Aave V3 Core, which together held $1.33B of collateral backing $1.03B of debt as of 9 November 2026.</description></item>
