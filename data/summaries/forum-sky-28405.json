@@ -1,0 +1,15 @@
+{
+    "id":  "forum-sky-28405",
+    "space":  "sky",
+    "title":  "MSC Reconciliation IV - MSC #5-#13 (January-September 2026)",
+    "url":  "https://forum.sky.money/t/msc-reconciliation-iv-msc-5-13-january-september-2026/28405",
+    "headline":  "A reconciliation report proposes corrections to earlier monthly settlements for Spark, Grove, Osero and Obex, from a +536,094 USDS Sky-share adjustment for Spark to a -273,509 USDS supply-side adjustment for Obex.",
+    "summary":  "This report reconciles corrections to lending revenue, omitted investment income, borrowing-cost deductions and earlier settlement payments for Spark, Grove, Osero and Obex, covering monthly settlement cycles #5 to #13 (January to September 2026). Amounts already settled are excluded and published reports remain the baseline. All figures are in USDS. Supply-side adjustments: Spark +249,141.52, Grove +11,554.74, Osero 0, Obex -273,508.90. Sky-share adjustments: Spark +536,094.04, Grove -110,419.56. Osero gets a send-only refund of 5,514.00 that adds to the transfer without creating new debt. The method compares corrected historical results with the published reports; one correction fixes lending revenue for 139 allocation-months using actual deposit and withdrawal events. The report states its limits: complete independent daily asset checks remain deferred, it does not certify a full monthly ALM transfer review, and the bridge analysis covers four Ethereum routes, not all. Calculation inputs and scripts are published at a named commit. The adjustments feed into the October settlement (MSC #14).",
+    "risk_flags":  [
+                       "settlement corrections across four agents",
+                       "validation scope limited",
+                       "sign of adjustments differs by agent"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-14"
+}

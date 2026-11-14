@@ -1,0 +1,14 @@
+{
+    "id":  "forum-aave-26342",
+    "space":  "aave",
+    "title":  "Aave Labs 180 Day Report",
+    "url":  "https://governance.aave.com/t/aave-labs-180-day-report/26342",
+    "headline":  "Aave Labs reports on its first 180 days as DAO service provider: about 97 team members, 6,096 tracked issues closed, 36 projects, and Aave V4 deposits growing to over 1.3 billion USD.",
+    "summary":  "Under the Aave Will Win Framework approved in April 2026, Aave Labs committed to quarterly updates. This report covers Q2 and Q3 2026. It says a team of about 97 put an estimated 100,000 hours into DAO work, completing 6,096 tracked issues and 36 projects. Aave Labs authored 26 onchain governance proposals and 20 Snapshot votes and shipped 28 items. It prepared onboarding of 33 assets, deployments on four new chains, and four new V4 Liquidity Hubs with Spokes. In Q2 it took over roughly 40 functions previously done by BGD Labs and the Aave Chan Initiative while an rsETH incident response was still underway. In Q3, V4 deployments went live on Avalanche, Arc and Base, and V4 deposits grew from 212.6 million to 1.34 billion USD, passing 1 billion on September 16. Other items: Aave App early access on iOS across five chains with instant onramps for eligible U.S. users via third-party providers, Stable Vaults for enterprise use, an official Aave MCP server, and a V3 interface redesign. All figures are self-reported by Aave Labs.",
+    "risk_flags":  [
+                       "self-reported figures",
+                       "service provider reporting on its own work"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-14"
+}

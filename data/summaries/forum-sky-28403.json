@@ -1,0 +1,14 @@
+{
+    "id":  "forum-sky-28403",
+    "space":  "sky",
+    "title":  "Independent BUIDL flow record across all chains (open data)",
+    "url":  "https://forum.sky.money/t/independent-buidl-flow-record-across-all-chains-open-data/28403",
+    "headline":  "A forum poster shares an open-source nightly record of tokenized-fund flows, including BlackRock BUIDL mints and redemptions, and asks what alerts would be useful.",
+    "summary":  "The poster says they run an open-source nightly read of tokenized funds (BUIDL, BENJI, EUTBL) across every chain they exist on, classifying each mint and burn and reconciling to on-chain supply. They post because Grove holds BUIDL and an earlier settlement reconciliation picked up BUIDL redemption costs after the fact. They report that on 6 Nov 113.7M BUIDL was redeemed in two transactions 16 seconds apart (28.6M on Solana, 85.08M BUIDL-I on Ethereum), and that large redemptions on 29 Oct, 3 Nov, 6 Nov, 9 Nov and 12 Nov all landed at 3 pm New York time. Daily data is public as JSON and the code is Apache-2.0. The poster says they are not affiliated with BlackRock, Securitize or Grove and asks what an alert on BUIDL flows should fire on for risk or settlement teams. These figures are the poster own claims and are not verified here.",
+    "risk_flags":  [
+                       "unverified third-party data",
+                       "mentions large BUIDL redemptions"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-14"
+}

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 13 Nov 2026 12:56:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:54:22 +0000</lastBuildDate>
+<item><title>Aave Labs 180 Day Report (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-180-day-report--26342.html</link>
+<guid isPermaLink="false">forum-aave-26342</guid><pubDate>Fri, 13 Nov 2026 23:00:44 +0000</pubDate>
+<description>Aave Labs reports on its first 180 days as DAO service provider: about 97 team members, 6,096 tracked issues closed, 36 projects, and Aave V4 deposits growing to over 1.3 billion USD.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.13 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-13--26317.html</link>
+<guid isPermaLink="false">forum-aave-26317</guid><pubDate>Fri, 13 Nov 2026 15:42:33 +0000</pubDate>
+<description>LlamaRisk recommends one cap increase (cbBTC) and several cuts on Aave V3 Core and Mantle, including USDT0 supply cap 312.5M to 150M.</description></item>
+<item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.11.13 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-increases-on-aave-v4-2026-11-13--26316.html</link>
+<guid isPermaLink="false">forum-aave-26316</guid><pubDate>Fri, 13 Nov 2026 15:41:06 +0000</pubDate>
+<description>LlamaRisk recommends raising eight supply and borrow caps on Aave V4 (Ethereum and Avalanche), including USDC add cap 75M to 85M and USDt add cap 110M to 150M.</description></item>
+<item><title>Aave Labs. Request for Bounty Payout - November 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-request-for-bounty-payout-november-2026--26313.html</link>
+<guid isPermaLink="false">forum-aave-26313</guid><pubDate>Fri, 13 Nov 2026 15:16:18 +0000</pubDate>
+<description>Aave Labs asks for release of a 1,000 USD bounty for one valid bug bounty submission, plus a 100 USD Immunefi fee, 1,100 USD in total.</description></item>
+<item><title>[Direct-to-AIP] November 2026 - Funding Update (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-november-2026-funding-update--26312.html</link>
+<guid isPermaLink="false">forum-aave-26312</guid><pubDate>Fri, 13 Nov 2026 14:05:46 +0000</pubDate>
+<description>TokenLogic posts the November funding update: acquire GHO to extend runway, consolidate cross-network assets onto Ethereum, deposit idle ETH, and fund a bug bounty and incentives.</description></item>
 <item><title>[Direct-to-AIP] Ethena E-Mode Consolidation on Aave V3 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-ethena-e-mode-consolidation-on-aave-v3--26304.html</link>
 <guid isPermaLink="false">forum-aave-26304</guid><pubDate>Fri, 13 Nov 2026 12:19:38 +0000</pubDate>
 <description>TokenLogic proposes common reference e-modes for Ethena collateral (USDe, sUSDe) on five Aave V3 markets and retiring legacy e-modes whose Pendle tokens have matured.</description></item>

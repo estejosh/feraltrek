@@ -1,0 +1,15 @@
+{
+    "id":  "forum-aave-26312",
+    "space":  "aave",
+    "title":  "[Direct-to-AIP] November 2026 - Funding Update",
+    "url":  "https://governance.aave.com/t/direct-to-aip-november-2026-funding-update/26312",
+    "headline":  "TokenLogic posts the November funding update: acquire GHO to extend runway, consolidate cross-network assets onto Ethereum, deposit idle ETH, and fund a bug bounty and incentives.",
+    "summary":  "This Direct-to-AIP post from TokenLogic lists several treasury operations. (1) Acquire GHO for runway: use the MainnetSwapSteward and already-approved allowances to buy 2.7M GHO and deposit it into the Prime instance. (2) Consolidate assets: about 1.18M GHO held by Collectors on Plasma, Monad and Arbitrum, plus idle assets on Mantle, Gnosis and Sonic, would be bridged to Ethereum. (3) Expand the MainnetSwapSteward so it can swap about 1.3M of USDtb, USDG, EURC and sUSDe into GHO. (4) Wrap about 121 ETH held by the Collector into WETH and deposit it into the Core instance. (5) Move Merkl rewards accrued by the GHO GSMs on Plasma and Monad (613k WXPL and 1.46M WMON) to the Aave Finance Committee, where they would be sold. (6) Use 350k USDC held on Ahab for incentive campaigns. (7) Pay one 1,000 USDC bug bounty plus a 100 USDC Immunefi fee. (8) Create and update allowances for operations. It also notes the V4 Base USDC supply was funded from AFC USDC and GHO borrowed on Ahab, and that 100k USDC was bridged to the Incentive Budget Safe on Arc. The post is in discussion; no vote is scheduled yet.",
+    "risk_flags":  [
+                       "treasury operations across several networks",
+                       "expands swap steward token list",
+                       "bug bounty payout"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-14"
+}

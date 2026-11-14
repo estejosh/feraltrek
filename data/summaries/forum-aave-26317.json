@@ -1,0 +1,15 @@
+{
+    "id":  "forum-aave-26317",
+    "space":  "aave",
+    "title":  "Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.13",
+    "url":  "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-13/26317",
+    "headline":  "LlamaRisk recommends one cap increase (cbBTC) and several cuts on Aave V3 Core and Mantle, including USDT0 supply cap 312.5M to 150M.",
+    "summary":  "LlamaRisk recommends these changes from its latest review of Aave V3 reserves. Core instance: raise cbBTC supply cap from 20,000 to 22,500; cut weETH from 1.5M to 1.42M, WBTC from 38,200 to 35,500, BTC.b from 225 to 40 and eBTC from 134 to 100. Mantle: cut USDT0 supply cap from 312.5M to 150M and borrow cap from 152M to 125M; cut sUSDe supply cap from 100M to 65M and USDe from 80M to 50M. Reported utilization: cbBTC is at 97.2% of its cap, with all top twenty suppliers carrying debt at health factors from 1.11 to 3.07 (median 1.60); the largest supplier holds about 27% and the top five about 72%. After the change cbBTC would sit near 86.4%. weETH is 90.5% used (1.36M of 1.5M) and would be about 95.6% after the cut; WBTC is 90.1% used and would be about 97.0%; BTC.b is 10.0% used and eBTC 54.1%. Mantle utilization details are not shown in the excerpt reviewed.",
+    "risk_flags":  [
+                       "cap reductions leave WBTC and weETH near their limits",
+                       "cbBTC supply concentrated",
+                       "cuts on Mantle stablecoin caps"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-14"
+}

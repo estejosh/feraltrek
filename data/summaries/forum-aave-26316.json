@@ -1,0 +1,15 @@
+{
+    "id":  "forum-aave-26316",
+    "space":  "aave",
+    "title":  "Risk Stewards: Cap Increases on Aave V4 / 2026.11.13",
+    "url":  "https://governance.aave.com/t/risk-stewards-cap-increases-on-aave-v4-2026-11-13/26316",
+    "headline":  "LlamaRisk recommends raising eight supply and borrow caps on Aave V4 (Ethereum and Avalanche), including USDC add cap 75M to 85M and USDt add cap 110M to 150M.",
+    "summary":  "LlamaRisk recommends cap increases from its latest review of Aave V4 reserves. Ethereum, Core Hub: wstETH add cap 30K to 40K and weETH add cap 25K to 35K on the Main Spoke; USDC add cap 75M to 85M and draw cap 50M to 60M on the Main Spoke; EURC draw cap 300K to 600K on the Bluechip Spoke. Avalanche, Core Hub: USDt add cap 110M to 150M on the Main Spoke and draw cap 100M to 140M on the Ethena Ecosystem Spoke; USDe add cap 120M to 150M on the Ethena Ecosystem Spoke. The post includes utilization data as of November 13: wstETH add cap is 77.5% used (23,253 of 30,000), falling to about 58.1% after the change; weETH is 83.7% used (20,933 of 25,000), about 59.8% after. The top twenty wstETH suppliers all carry debt with health factors from 1.31 to 3.25 (median 1.51); the top twenty weETH suppliers have health factors from 1.28 to 24.96 (median 1.62). Supply is concentrated: the largest wstETH position is about 18% of the reserve and the largest weETH position about 25%. Changes would be applied through the Risk Stewards process.",
+    "risk_flags":  [
+                       "higher caps increase exposure",
+                       "concentrated suppliers",
+                       "health factors tied to ETH price"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-14"
+}

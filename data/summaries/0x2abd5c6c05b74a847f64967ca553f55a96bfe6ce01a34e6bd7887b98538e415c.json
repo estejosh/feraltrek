@@ -1,0 +1,15 @@
+{
+    "id":  "0x2abd5c6c05b74a847f64967ca553f55a96bfe6ce01a34e6bd7887b98538e415c",
+    "space":  "lido-snapshot.eth",
+    "title":  "Expand the CSMC Mandate to Cover Additional Penalty Cases",
+    "url":  "https://snapshot.org/#/lido-snapshot.eth/proposal/0x2abd5c6c05b74a847f64967ca553f55a96bfe6ce01a34e6bd7887b98538e415c",
+    "headline":  "Proposes letting the Community Staking Module Committee use the existing General Delayed Penalty mechanism for validator slashing and other protocol-harming incidents, not only MEV stealing.",
+    "summary":  "This Lido proposal asks voters to adopt an updated mandate for the Community Staking Module Committee (CSMC), which handles operational actions for both the 0x01 and 0x02 Community Staking Modules. Today the committee can apply the General Delayed Penalty mechanism only to MEV stealing. The proposal does not create a new penalty; it widens when the existing one may be used, to cover penalties tied to validator slashing and other incidents that may adversely affect the protocol. The background cites a slashing incident on March 12, 2026 involving six CSM validators, where penalties and missed rewards came to about 0.79 ETH: about 0.34 ETH was covered automatically by the operator bond and about 0.45 ETH was compensated voluntarily by the operator. The proposal says this showed the committee lacked an established way to address additional losses without relying on voluntary compensation. Node operators in both modules would be subject to the wider penalty cases; the stated beneficiary is the protocol and its stakers. The vote is a For/Against choice. Open questions in the text include how the additional cases are defined and applied in practice.",
+    "risk_flags":  [
+                       "expands committee penalty powers",
+                       "applies to 0x01 and 0x02 CSM node operators",
+                       "early vote, no tally yet"
+                   ],
+    "vote":  "Not started: For / Against, voting 2026-11-16 to 2026-11-23",
+    "written":  "2026-11-14"
+}

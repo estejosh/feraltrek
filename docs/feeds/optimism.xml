@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: optimism</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 13 Nov 2026 12:56:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:54:22 +0000</lastBuildDate>
 <item><title>Maintenance Upgrade Proposal: Soneium Mainnet Proposer Rotation and Fee Vault Config Update (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-soneium-mainnet-proposer-rotation-and-fee---10978.html</link>
 <guid isPermaLink="false">forum-optimism-10978</guid><pubDate>Mon, 09 Nov 2026 18:37:19 +0000</pubDate>
 <description>A maintenance upgrade proposal would rotate the Soneium dispute game proposer to OP Enterprise and repoint two fee vaults to its cost recipient, as Soneium&#x27;s operator moves from Sony to the Optimism Foundation.</description></item>

@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 13 Nov 2026 12:56:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:54:22 +0000</lastBuildDate>
+<item><title>Aave Labs 180 Day Report (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-180-day-report--26342.html</link>
+<guid isPermaLink="false">forum-aave-26342</guid><pubDate>Fri, 13 Nov 2026 23:00:44 +0000</pubDate>
+<description>Aave Labs reports on its first 180 days as DAO service provider: about 97 team members, 6,096 tracked issues closed, 36 projects, and Aave V4 deposits growing to over 1.3 billion USD.</description></item>
+<item><title>MSC #14 - Settlement Summary (October 2026) (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-msc-14-settlement-summary-october-2026--28406.html</link>
+<guid isPermaLink="false">forum-sky-28406</guid><pubDate>Fri, 13 Nov 2026 18:49:53 +0000</pubDate>
+<description>The October 2026 settlement summary for Spark, Grove and Keel, published by Soter Labs for the Amatsu executor agent, includes Reconciliation IV once and says no payment has been executed.</description></item>
+<item><title>MSC Reconciliation IV - MSC #5-#13 (January-September 2026) (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-msc-reconciliation-iv-msc-5-13-january-september-2026--28405.html</link>
+<guid isPermaLink="false">forum-sky-28405</guid><pubDate>Fri, 13 Nov 2026 18:49:26 +0000</pubDate>
+<description>A reconciliation report proposes corrections to earlier monthly settlements for Spark, Grove, Osero and Obex, from a +536,094 USDS Sky-share adjustment for Spark to a -273,509 USDS supply-side adjustment for Obex.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.13 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-13--26317.html</link>
+<guid isPermaLink="false">forum-aave-26317</guid><pubDate>Fri, 13 Nov 2026 15:42:33 +0000</pubDate>
+<description>LlamaRisk recommends one cap increase (cbBTC) and several cuts on Aave V3 Core and Mantle, including USDT0 supply cap 312.5M to 150M.</description></item>
+<item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.11.13 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-increases-on-aave-v4-2026-11-13--26316.html</link>
+<guid isPermaLink="false">forum-aave-26316</guid><pubDate>Fri, 13 Nov 2026 15:41:06 +0000</pubDate>
+<description>LlamaRisk recommends raising eight supply and borrow caps on Aave V4 (Ethereum and Avalanche), including USDC add cap 75M to 85M and USDt add cap 110M to 150M.</description></item>
+<item><title>Independent BUIDL flow record across all chains (open data) (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-independent-buidl-flow-record-across-all-chains-open-data--28403.html</link>
+<guid isPermaLink="false">forum-sky-28403</guid><pubDate>Fri, 13 Nov 2026 15:28:40 +0000</pubDate>
+<description>A forum poster shares an open-source nightly record of tokenized-fund flows, including BlackRock BUIDL mints and redemptions, and asks what alerts would be useful.</description></item>
+<item><title>Aave Labs. Request for Bounty Payout - November 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-request-for-bounty-payout-november-2026--26313.html</link>
+<guid isPermaLink="false">forum-aave-26313</guid><pubDate>Fri, 13 Nov 2026 15:16:18 +0000</pubDate>
+<description>Aave Labs asks for release of a 1,000 USD bounty for one valid bug bounty submission, plus a 100 USD Immunefi fee, 1,100 USD in total.</description></item>
+<item><title>[Direct-to-AIP] November 2026 - Funding Update (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-november-2026-funding-update--26312.html</link>
+<guid isPermaLink="false">forum-aave-26312</guid><pubDate>Fri, 13 Nov 2026 14:05:46 +0000</pubDate>
+<description>TokenLogic posts the November funding update: acquire GHO to extend runway, consolidate cross-network assets onto Ethereum, deposit idle ETH, and fund a bug bounty and incentives.</description></item>
+<item><title>Expand the CSMC Mandate to Cover Additional Penalty Cases (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-expand-the-csmc-mandate-to-cover-additional-penalty-cases-8e415c.html</link>
+<guid isPermaLink="false">0x2abd5c6c05b74a847f64967ca553f55a96bfe6ce01a34e6bd7887b98538e415c</guid><pubDate>Fri, 13 Nov 2026 13:10:04 +0000</pubDate>
+<description>Proposes letting the Community Staking Module Committee use the existing General Delayed Penalty mechanism for validator slashing and other protocol-harming incidents, not only MEV stealing.</description></item>
 <item><title>[Direct-to-AIP] Ethena E-Mode Consolidation on Aave V3 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-ethena-e-mode-consolidation-on-aave-v3--26304.html</link>
 <guid isPermaLink="false">forum-aave-26304</guid><pubDate>Fri, 13 Nov 2026 12:19:38 +0000</pubDate>
 <description>TokenLogic proposes common reference e-modes for Ethena collateral (USDe, sUSDe) on five Aave V3 markets and retiring legacy e-modes whose Pendle tokens have matured.</description></item>
@@ -124,31 +151,4 @@
 <item><title>2 November, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-2-november-2026-roundup-of-active-upcoming-votes--31631.html</link>
 <guid isPermaLink="false">forum-arbitrum-31631</guid><pubDate>Mon, 02 Nov 2026 13:46:03 +0000</pubDate>
 <description>Arbitrum&#x27;s roundup lists on-chain votes including a 100M ARB addition to the DRIP budget for USDG adoption and a 1,800 ETH treasury transfer.</description></item>
-<item><title>Risk Month in Review: October 2026 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-risk-month-in-review-october-2026--28372.html</link>
-<guid isPermaLink="false">forum-sky-28372</guid><pubDate>Mon, 02 Nov 2026 13:22:41 +0000</pubDate>
-<description>BA Labs&#x27; October report covers a Stability Scope parameter change, stUSDS keeper rate settings and Treasury Management Function figures for the Sky Ecosystem.</description></item>
-<item><title>AL Development Update | October 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-al-development-update-october-2026--25979.html</link>
-<guid isPermaLink="false">forum-aave-25979</guid><pubDate>Mon, 02 Nov 2026 12:14:09 +0000</pubDate>
-<description>Aave Labs&#x27; October update reports Aave V4 deposits above $1.5B, the first external curator on V4, and an ARFC to establish the Aave Foundation.</description></item>
-<item><title>Mosaico Delegate Platform (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-mosaico-delegate-platform-d-8233.html</link>
-<guid isPermaLink="false">forum-compound-8233</guid><pubDate>Sun, 01 Nov 2026 21:51:36 +0000</pubDate>
-<description>Mosaico, an advisory firm continuing the Avantgarde Finance delegate work, has posted a delegate platform for Compound governance.</description></item>
-<item><title>Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-cap-increases-on-aave-v4-2026-11-01--25975.html</link>
-<guid isPermaLink="false">forum-aave-25975</guid><pubDate>Sun, 01 Nov 2026 17:19:21 +0000</pubDate>
-<description>LlamaRisk recommends raising the Aave V4 add cap for weETH on Ethereum from 20K to 22K and for GOOGLc on Base from 15K to 22K.</description></item>
-<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-01--25974.html</link>
-<guid isPermaLink="false">forum-aave-25974</guid><pubDate>Sun, 01 Nov 2026 17:18:44 +0000</pubDate>
-<description>LlamaRisk recommends raising borrow caps on five Aave V3 reserves whose debt has reached 98.3% to 100% of caps reduced on October 30.</description></item>
-<item><title>Risk Stewards: Slope2 Increases on Aave V3 and Aave V4 / 2026.10.31 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-slope2-increases-on-aave-v3-and-aave-v4-2026-10-31--25970.html</link>
-<guid isPermaLink="false">forum-aave-25970</guid><pubDate>Sat, 31 Oct 2026 19:53:42 +0000</pubDate>
-<description>LlamaRisk recommends restoring Slope2 (the borrow rate slope above optimal utilization) on affected Aave V3 and V4 reserves to pre-incident values, now that the reserves are no longer frozen.</description></item>
-<item><title>ENS DAO Newsletter #123 - 11/1/2026 (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-dao-newsletter-123-11-1-2026--22520.html</link>
-<guid isPermaLink="false">forum-ens-22520</guid><pubDate>Sat, 31 Oct 2026 19:15:41 +0000</pubDate>
-<description>ENS newsletter lists ENSv2 activation as executed, a Meta-Governance Working Group Term 7 funding request of 201,559 USDC as passed, and new draft IPS amendments and ENSv2 pricing temp checks.</description></item>
-<item><title>Proposal Guardian: Cancellation of Proposal 619 (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-proposal-guardian-cancellation-of-proposal-619-d-8221.html</link>
-<guid isPermaLink="false">forum-compound-8221</guid><pubDate>Sat, 31 Oct 2026 15:47:50 +0000</pubDate>
-<description>The Community Multisig, acting as Compound&#x27;s Proposal Guardian, says it cancelled Proposal 619 before execution.</description></item>
-<item><title>[Gauntlet] tBTC Risk Parameter Update: Supply Caps and Borrow Collateral Factors to 0 (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-tbtc-risk-parameter-update-supply-caps-and-borrow-collateral-f-d-8220.html</link>
-<guid isPermaLink="false">forum-compound-8220</guid><pubDate>Sat, 31 Oct 2026 15:19:28 +0000</pubDate>
-<description>Gauntlet recommends setting the tBTC supply cap and borrow collateral factor to 0 on every Compound Comet where tBTC is listed, after Threshold Network paused tBTC minting and redemptions.</description></item>
 </channel></rss>

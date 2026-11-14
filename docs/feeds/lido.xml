@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: lido</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 13 Nov 2026 12:56:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:54:22 +0000</lastBuildDate>
+<item><title>Expand the CSMC Mandate to Cover Additional Penalty Cases (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-expand-the-csmc-mandate-to-cover-additional-penalty-cases-8e415c.html</link>
+<guid isPermaLink="false">0x2abd5c6c05b74a847f64967ca553f55a96bfe6ce01a34e6bd7887b98538e415c</guid><pubDate>Fri, 13 Nov 2026 13:10:04 +0000</pubDate>
+<description>Proposes letting the Community Staking Module Committee use the existing General Delayed Penalty mechanism for validator slashing and other protocol-harming incidents, not only MEV stealing.</description></item>
 <item><title>Node Operator Admission: Galaxy Digital as stVault Professional Operator (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-node-operator-admission-galaxy-digital-as-stvault-professional-operator--12190.html</link>
 <guid isPermaLink="false">forum-lido-12190</guid><pubDate>Mon, 09 Nov 2026 21:29:18 +0000</pubDate>
 <description>Galaxy Digital applies to join Lido as an stVaults Professional Operator, citing existing client requests and a first stVault targeted for end of 2026 or early Q1 2027.</description></item>
