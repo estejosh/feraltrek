@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sat, 14 Nov 2026 12:54:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 12:54:25 +0000</lastBuildDate>
+<item><title>[Discussion] A Limited-Time Campaign: Lifetime Safe Pro Access for 100K+ SAFE Stakers (safe)</title><link>https://estejosh.github.io/feraltrek/p/safe-discussion-a-limited-time-campaign-lifetime-safe-pro-access-for-100k-safe-s-e-7201.html</link>
+<guid isPermaLink="false">forum-safe-7201</guid><pubDate>Sun, 15 Nov 2026 08:04:25 +0000</pubDate>
+<description>A forum user suggests a one-time, limited-window campaign giving lifetime access to the initial version of Safe Pro to users who stake at least 100,000 SAFE during a published eligibility period.</description></item>
+<item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-16 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-16--28410.html</link>
+<guid isPermaLink="false">forum-sky-28410</guid><pubDate>Sun, 15 Nov 2026 01:00:08 +0000</pubDate>
+<description>Core GovOps submits the weekly Atlas Edit batch for the week of 2026-11-16: five edits including a definition of Halo Agents and Sky Core Halos, new rate bounds for the Osero Diamond PAU on Base, and updated reference links.</description></item>
 <item><title>Aave Labs 180 Day Report (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-180-day-report--26342.html</link>
 <guid isPermaLink="false">forum-aave-26342</guid><pubDate>Fri, 13 Nov 2026 23:00:44 +0000</pubDate>
 <description>Aave Labs reports on its first 180 days as DAO service provider: about 97 team members, 6,096 tracked issues closed, 36 projects, and Aave V4 deposits growing to over 1.3 billion USD.</description></item>
@@ -145,10 +151,4 @@
 <item><title>Rewarding Active Delegates - October 2026 Results (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-rewarding-active-delegates-october-2026-results--31633.html</link>
 <guid isPermaLink="false">forum-arbitrum-31633</guid><pubDate>Mon, 02 Nov 2026 15:34:45 +0000</pubDate>
 <description>Arbitrum&#x27;s October 2026 delegate rewards: 28 of 32 enrolled delegates qualified and $12,000 was distributed, with 86.72% aggregate participation.</description></item>
-<item><title>November 3, 2026 - Open Discussion of Proposals Governance Call (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-november-3-2026-open-discussion-of-proposals-governance-call--31632.html</link>
-<guid isPermaLink="false">forum-arbitrum-31632</guid><pubDate>Mon, 02 Nov 2026 14:44:35 +0000</pubDate>
-<description>Arbitrum&#x27;s governance call on November 3, 16:00-17:00 UTC, will cover three on-chain AIPs, an off-chain Stylus Activation Contract AIP, and a Security Council emergency action.</description></item>
-<item><title>2 November, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-2-november-2026-roundup-of-active-upcoming-votes--31631.html</link>
-<guid isPermaLink="false">forum-arbitrum-31631</guid><pubDate>Mon, 02 Nov 2026 13:46:03 +0000</pubDate>
-<description>Arbitrum&#x27;s roundup lists on-chain votes including a 100M ARB addition to the DRIP budget for USDG adoption and a 1,800 ETH treasury transfer.</description></item>
 </channel></rss>

@@ -1,0 +1,15 @@
+{
+  "id": "forum-safe-7201",
+  "space": "safe",
+  "title": "[Discussion] A Limited-Time Campaign: Lifetime Safe Pro Access for 100K+ SAFE Stakers",
+  "url": "https://forum.safe.global/t/discussion-a-limited-time-campaign-lifetime-safe-pro-access-for-100k-safe-stakers/7201",
+  "headline": "A forum user suggests a one-time, limited-window campaign giving lifetime access to the initial version of Safe Pro to users who stake at least 100,000 SAFE during a published eligibility period.",
+  "summary": "A community member proposes offering lifetime access to the initial version of Safe Pro to users who stake at least 100,000 SAFE during a clearly defined, limited eligibility period under announced verification rules. The post argues that large stakers show long-term commitment and that a product benefit would recognize it. Once earned, access would remain without requiring the same staking balance to be maintained. The scope would cover the initial version's features only, not automatic entitlement to future premium products, enterprise services or third-party add-ons. The author lists suggested implementation points: publish the eligibility window and staking verification rules in advance; require at least 100,000 SAFE in qualifying active stake; prevent the same stake from being reused to claim multiple lifetime licenses; provide one lifetime license per linked Workspace; document the included initial features and any separately charged services; and provide a route for individual stakers, not only businesses. The author says a limited window would make the cost easier to evaluate and asks whether Safe Labs and the Safe Ecosystem Foundation would consider it, inviting feedback on feasibility, scope and implementation. No cost estimate, dates or numbers beyond the 100,000 SAFE threshold are given.",
+  "risk_flags": [
+    "community suggestion, not an official proposal",
+    "no cost estimate given",
+    "eligibility verification rules undefined"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-15"
+}

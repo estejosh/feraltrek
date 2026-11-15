@@ -1,0 +1,15 @@
+{
+  "id": "forum-sky-28410",
+  "space": "sky",
+  "title": "Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-16",
+  "url": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-16/28410",
+  "headline": "Core GovOps submits the weekly Atlas Edit batch for the week of 2026-11-16: five edits including a definition of Halo Agents and Sky Core Halos, new rate bounds for the Osero Diamond PAU on Base, and updated reference links.",
+  "summary": "On behalf of Core GovOps, this post submits the weekly Atlas Edit proposal, with the full text in Pull Request #383 of the sky-ecosystem/next-gen-atlas repository. Per the post, the edits are: (1) Add Halo Agents and Sky Core Halos, defining Halo Agents and adding Sky Core Halos, starting with Test Halo, which is used to test new Agent architecture in production. (2) Align the Distribution Reward and Integration Boost invocation processes: Invocation entries are created only after Operational GovOps confirms feasibility, and the status and removal steps for rejected or failed proposals are aligned across both Primitives. (3) Specify the hop and maxChange bounds for the Osero Diamond PAU on Base, setting hop to 16 hours and maxChange to 1.20, matching the Base defaults. (4) Update the ERC-4626 Facet's highest production deposit rate limit, recording 12,441,600 USDC and 2,329,067 USDC per day as the highest deposit rate limit operated in production. (5) Add file links to the operational reference materials: the Technical Scope Template, the Deployment Checklist and the Morpho Deployment Verification Guide. The post itself gives no vote date or tally. Open questions: the full wording of each edit sits in the linked pull request rather than in the forum post.",
+  "risk_flags": [
+    "rule text edits to Atlas",
+    "rate limit parameters recorded",
+    "details only in linked pull request"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-15"
+}
