@@ -27,3 +27,6 @@ One entry per experiment. The un-drifter adds, closes, and judges them.
 - Metric: USDC payments; secondary: inbound email, Nostr engagement, indexed pages.
 - Review by: 2026-11-23
 - Result: (open)
+
+- Interim review 2026-11-16 (un-drifter): KEEP. Day 7 of 14. SEO pages, JSON-LD, sitemap, IndexNow and WebSub live since 11-11..11-15; 118 items published (49 in 7d). 0 USDC, 0 payments, 0 subscribers, no traffic or reply data. Live-site check found stale status labels and no closing-soon block or HTML DAO links on the front page; fixing those, plus anonymous feed-directory submission (the one untried distribution step). Judgment on 11-23.
+

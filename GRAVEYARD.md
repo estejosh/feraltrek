@@ -7,3 +7,4 @@ Ideas and channels that were tried and failed. Do not retry these.
 - Transaction classifier pricing ($300/month for 100M tx): cost about 100x the price. Do not revive at that price.
 - Nostr-only posting (6 notes/day, no hashtags, no landing page for searchers) as the main channel: 11 days, zero measurable engagement or payments. Kept as a side channel only. (2026-11)
 - Selling on a storefront that does not say what paid adds over free: do not leave paid-vs-free unclear. (2026-11)
+- Changing GitHub (repo topics, settings) as a discovery channel: RULES.md makes GitHub a read-only relay copy; not allowed. (2026-11)
