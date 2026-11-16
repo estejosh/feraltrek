@@ -1,0 +1,15 @@
+{
+    "id":  "0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df",
+    "space":  "uniswapgovernance.eth",
+    "title":  "Upgrade VolatilePair hook and update X Layer Releaser",
+    "url":  "https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df",
+    "headline":  "Snapshot vote on two Uniswap Labs technical updates: capping the VolatilePair hook temporary fee by block gap on Ethereum, and replacing the protocol fee releaser on X Layer so accrued fees can be released and UNI burned.",
+    "summary":  "Part 1 upgrades the VolatilePair Hook proxy on Ethereum, owned by Uniswap Governance, to a new implementation that caps the temporary fee, applied to trades pushing the price back after a large move, at a maximum number of blocks via a new per-chain parameter, maxTempFeeBlockGap. On Ethereum the value would be 1; Robinhood Chain already runs it with a gap of 2. Changing hook parameters later would need another governance proposal. Part 2 replaces the X Layer fee releaser. Protocol fees activated by Proposal 95 have accrued on X Layer but cannot be released because the existing OP Stack releaser cannot bridge UNI over X Layer\u0027s Agglayer bridge, so the corresponding UNI has not been burned. Uniswap Labs wrote an AggLayerReleaser and a DecayingThresholdSetter that starts with a high release threshold and steps down to the standard 2,000 UNI over roughly six days after execution, intended to avoid an arbitrage opportunity on the accumulated fees. Governance would point the X Layer TokenJar to the new releaser. Contracts are deployed by Uniswap Labs ahead of the vote. Open points: effects on LP returns and the post-decay threshold.",
+    "risk_flags":  [
+                       "upgrade of governance-owned contract",
+                       "fee parameter change",
+                       "new contracts deployed ahead of vote"
+                   ],
+    "vote":  "For 100% (1,297.77 votes) / Against 0 / Abstain 0, ends 2026-11-20",
+    "written":  "2026-11-16"
+}

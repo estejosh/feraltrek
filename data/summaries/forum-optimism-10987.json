@@ -1,0 +1,15 @@
+{
+    "id":  "forum-optimism-10987",
+    "space":  "optimism",
+    "title":  "What factors should be considered when selecting Security Council members?",
+    "url":  "https://gov.optimism.io/t/what-factors-should-be-considered-when-selecting-security-council-members/10987",
+    "headline":  "A community member proposes ten criteria for choosing Optimism Security Council members, including independence, disclosure and ongoing monitoring, while a separate proposal to change selection is under discussion.",
+    "summary":  "The post argues that a public selection framework should be agreed before deciding who selects Security Council members, because the Council holds upgrade keys. Its ten suggested factors are: technical security competence; independence from the Foundation, OP Labs, investors or other single parties; governance track record; public disclosure of employers, advisory roles, investments and conflicts; judgment under pressure; diversity of expertise; geographic and ecosystem diversity; availability and commitment; public accountability through privacy-preserving publication of applicant counts and criteria; and ongoing monitoring with fixed terms and periodic reconfirmation. The author suggests a process where AI tools screen and monitor, independent experts verify, the Lead recommends, delegates actively approve through a Token House confirmation vote, and the community can reconfirm or remove members. The post asks which factors should be mandatory, which weighted, and how conflicts of interest should be handled. It is an opinion post with no on-chain action or funds attached.",
+    "risk_flags":  [
+                       "governance process proposal",
+                       "upgrade-key holders",
+                       "no vote yet"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-16"
+}

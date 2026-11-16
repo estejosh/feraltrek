@@ -1,0 +1,15 @@
+{
+    "id":  "forum-sky-28413",
+    "space":  "sky",
+    "title":  "Technical Scope of the Core L2 Spell on Base assisting Osero\u0027s DPAU launch",
+    "url":  "https://forum.sky.money/t/technical-scope-of-the-core-l2-spell-on-base-assisting-osero-s-dpau-launch/28413",
+    "headline":  "Sidestream describes a Sky Core spell for Base that adds an ERC4626 facet to the Beacon and adjusts the PAS module to support Osero\u0027s DPAU launch, planned for the 2026-11-19 Sky Core spell.",
+    "summary":  "The post sets out the technical scope for preparing Osero\u0027s DPAU launch on Base. It would add the ERC4626_FACET (requested by Osero) to the Beacon, which currently whitelists only CCTP_FACET, and adjust the PAS module so governance can change the DPAU module without Prime spells and ramp rate limits gradually. Because the PAS Timelock on Base is paused, adding a new DPAU needs a Sky Core L2 spell. Instead of custom L2 spells, the post proposes deploying an L2MulticallSpell contract once and sending constructed calldata from the Core Spell on Ethereum. The Core L2 spell is planned for the 2026-11-19 Sky Core spell, alongside an L2 Osero spell that uses the new facet. The post lists audits by Cantina and ChainSecurity for the PAS module, the diamond-pau repository and the L2 multicall spell, with commit hashes, and a table of trusted addresses on Ethereum and Base. Open points: the post notes no diff against another independent audit for some components.",
+    "risk_flags":  [
+                       "governance spell touching Base contracts",
+                       "new facet and rate-limit configuration",
+                       "timed for 2026-11-19 spell"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-16"
+}

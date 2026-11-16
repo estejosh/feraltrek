@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sun, 15 Nov 2026 12:54:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<item><title>Technical Scope of the Core L2 Spell on Base assisting Osero&#x27;s DPAU launch (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-core-l2-spell-on-base-assisting-osero-s-dpau-launch--28413.html</link>
+<guid isPermaLink="false">forum-sky-28413</guid><pubDate>Mon, 16 Nov 2026 08:52:00 +0000</pubDate>
+<description>Sidestream describes a Sky Core spell for Base that adds an ERC4626 facet to the Beacon and adjusts the PAS module to support Osero&#x27;s DPAU launch, planned for the 2026-11-19 Sky Core spell.</description></item>
 <item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-16 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-16--28410.html</link>
 <guid isPermaLink="false">forum-sky-28410</guid><pubDate>Sun, 15 Nov 2026 01:00:08 +0000</pubDate>
 <description>Core GovOps submits the weekly Atlas Edit batch for the week of 2026-11-16: five edits including a definition of Halo Agents and Sky Core Halos, new rate bounds for the Osero Diamond PAU on Base, and updated reference links.</description></item>

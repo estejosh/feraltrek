@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: uniswap</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sun, 15 Nov 2026 12:54:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<item><title>Upgrade VolatilePair hook and update X Layer Releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-upgrade-volatilepair-hook-and-update-x-layer-releaser-e713df.html</link>
+<guid isPermaLink="false">0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df</guid><pubDate>Sun, 15 Nov 2026 20:34:33 +0000</pubDate>
+<description>Snapshot vote on two Uniswap Labs technical updates: capping the VolatilePair hook temporary fee by block gap on Ethereum, and replacing the protocol fee releaser on X Layer so accrued fees can be released and UNI burned.</description></item>
 <item><title>[RFC] Upgrade VolatilePair hook and update X Layer releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-rfc-upgrade-volatilepair-hook-and-update-x-layer-releaser--26337.html</link>
 <guid isPermaLink="false">forum-uniswap-26337</guid><pubDate>Fri, 06 Nov 2026 21:16:31 +0000</pubDate>
 <description>Uniswap Labs proposes an RFC with two technical updates: upgrading the VolatilePair hook on Ethereum to cap its temporary fee by block gap, and updating the protocol fee releaser on X Layer.</description></item>

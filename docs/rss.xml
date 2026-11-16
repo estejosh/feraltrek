@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sun, 15 Nov 2026 12:54:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<item><title>Final Proposal (Version 2): Comprehensive Reporting &amp; Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-audit-standards-strategic---12200.html</link>
+<guid isPermaLink="false">forum-lido-12200</guid><pubDate>Mon, 16 Nov 2026 10:51:36 +0000</pubDate>
+<description>A Lido forum proposal asks Lido Labs and the Finance Workgroup to publish fully itemised financial reports and audits and to build budget cuts into the EGG 2027 plan, instead of paying outside contractors now.</description></item>
+<item><title>Technical Scope of the Core L2 Spell on Base assisting Osero&#x27;s DPAU launch (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-core-l2-spell-on-base-assisting-osero-s-dpau-launch--28413.html</link>
+<guid isPermaLink="false">forum-sky-28413</guid><pubDate>Mon, 16 Nov 2026 08:52:00 +0000</pubDate>
+<description>Sidestream describes a Sky Core spell for Base that adds an ERC4626 facet to the Beacon and adjusts the PAS module to support Osero&#x27;s DPAU launch, planned for the 2026-11-19 Sky Core spell.</description></item>
+<item><title>Upgrade VolatilePair hook and update X Layer Releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-upgrade-volatilepair-hook-and-update-x-layer-releaser-e713df.html</link>
+<guid isPermaLink="false">0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df</guid><pubDate>Sun, 15 Nov 2026 20:34:33 +0000</pubDate>
+<description>Snapshot vote on two Uniswap Labs technical updates: capping the VolatilePair hook temporary fee by block gap on Ethereum, and replacing the protocol fee releaser on X Layer so accrued fees can be released and UNI burned.</description></item>
+<item><title>What factors should be considered when selecting Security Council members? (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-what-factors-should-be-considered-when-selecting-security-council-membe--10987.html</link>
+<guid isPermaLink="false">forum-optimism-10987</guid><pubDate>Sun, 15 Nov 2026 16:48:57 +0000</pubDate>
+<description>A community member proposes ten criteria for choosing Optimism Security Council members, including independence, disclosure and ongoing monitoring, while a separate proposal to change selection is under discussion.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.15 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-15--26376.html</link>
+<guid isPermaLink="false">forum-aave-26376</guid><pubDate>Sun, 15 Nov 2026 15:37:21 +0000</pubDate>
+<description>LlamaRisk recommends raising supply or borrow caps on four Aave V3 reserves (wstETH, mUSD, AAVE, EURe) across Core, Monad, Arbitrum and Gnosis, to be applied through the Risk Steward process.</description></item>
+<item><title>ENS DAO Newsletter #124 - 11/15/2026 (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-dao-newsletter-124-11-15-2026--22544.html</link>
+<guid isPermaLink="false">forum-ens-22544</guid><pubDate>Sun, 15 Nov 2026 15:25:53 +0000</pubDate>
+<description>Weekly ENS DAO newsletter: two social proposals on the endowment policy and two executable proposals (a roughly 200k USDC working-group funding request and a DNSSEC upgrade) are in discussion, plus the October endowment report.</description></item>
 <item><title>[Discussion] A Limited-Time Campaign: Lifetime Safe Pro Access for 100K+ SAFE Stakers (safe)</title><link>https://estejosh.github.io/feraltrek/p/safe-discussion-a-limited-time-campaign-lifetime-safe-pro-access-for-100k-safe-s-e-7201.html</link>
 <guid isPermaLink="false">forum-safe-7201</guid><pubDate>Sun, 15 Nov 2026 08:04:25 +0000</pubDate>
 <description>A forum user suggests a one-time, limited-window campaign giving lifetime access to the initial version of Safe Pro to users who stake at least 100,000 SAFE during a published eligibility period.</description></item>
@@ -133,22 +151,4 @@
 <item><title>Compound Foundation: Monthly V4 Programme Update [October 2026] (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-foundation-monthly-v4-programme-update-october-2026-d-8240.html</link>
 <guid isPermaLink="false">forum-compound-8240</guid><pubDate>Wed, 04 Nov 2026 07:52:53 +0000</pubDate>
 <description>The Compound Foundation&#x27;s fifth monthly V4 funding-program update reports an on-track status, new engineering hires and lower proposed annual provider fees.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-03--25988.html</link>
-<guid isPermaLink="false">forum-aave-25988</guid><pubDate>Tue, 03 Nov 2026 14:42:57 +0000</pubDate>
-<description>A risk service provider recommends raising several supply and borrow caps on Aave V4 (Ethereum and Avalanche) and changing the USDC interest rate slope on two hubs.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-03--25987.html</link>
-<guid isPermaLink="false">forum-aave-25987</guid><pubDate>Tue, 03 Nov 2026 14:36:57 +0000</pubDate>
-<description>A risk service provider recommends doubling the USD₮0 borrow cap on Aave V3 X Layer and cutting the WAVAX supply cap on Aave V3 Avalanche.</description></item>
-<item><title>[Final Report] zkArb SDK - Dev Tooling on One and Stylus (D.A.O. Season 3) (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-final-report-zkarb-sdk-dev-tooling-on-one-and-stylus-d-a-o-season-3--31634.html</link>
-<guid isPermaLink="false">forum-arbitrum-31634</guid><pubDate>Tue, 03 Nov 2026 11:47:02 +0000</pubDate>
-<description>The zkArb SDK grantee reports all seven milestones delivered under a $13,000 Arbitrum D.A.O. Season 3 grant.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.02 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-02--25980.html</link>
-<guid isPermaLink="false">forum-aave-25980</guid><pubDate>Mon, 02 Nov 2026 17:58:39 +0000</pubDate>
-<description>LlamaRisk recommends raising three Aave V3 caps: USDe supply on X Layer, USDT0 borrow on Monad, and WETH borrow on Optimism, via the Risk Steward process.</description></item>
-<item><title>PSM-GUSD-A and PSM-PAX-A housekeeping (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-psm-gusd-a-and-psm-pax-a-housekeeping--28373.html</link>
-<guid isPermaLink="false">forum-sky-28373</guid><pubDate>Mon, 02 Nov 2026 17:12:36 +0000</pubDate>
-<description>Sidestream proposes a core spell to fully offboard two inactive legacy PSM collateral types (PSM-GUSD-A and PSM-PAX-A) from Sky&#x27;s on-chain records.</description></item>
-<item><title>Rewarding Active Delegates - October 2026 Results (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-rewarding-active-delegates-october-2026-results--31633.html</link>
-<guid isPermaLink="false">forum-arbitrum-31633</guid><pubDate>Mon, 02 Nov 2026 15:34:45 +0000</pubDate>
-<description>Arbitrum&#x27;s October 2026 delegate rewards: 28 of 32 enrolled delegates qualified and $12,000 was distributed, with 86.72% aggregate participation.</description></item>
 </channel></rss>

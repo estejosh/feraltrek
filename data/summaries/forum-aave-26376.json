@@ -1,0 +1,16 @@
+{
+    "id":  "forum-aave-26376",
+    "space":  "aave",
+    "title":  "Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.15",
+    "url":  "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-15/26376",
+    "headline":  "LlamaRisk recommends raising supply or borrow caps on four Aave V3 reserves (wstETH, mUSD, AAVE, EURe) across Core, Monad, Arbitrum and Gnosis, to be applied through the Risk Steward process.",
+    "summary":  "The post lists these recommended changes: Aave V3 Core wstETH supply cap 850,000 to 900,000 (reserve at 98.9% utilization, about 93.4% after the change); Aave V3 Monad mUSD supply cap 50,000,000 to 75,000,000 and borrow cap 40,000,000 to 50,000,000 (99.8% supply and 84.4% borrow utilization now); Aave V3 Arbitrum AAVE supply cap 10,400 to 20,000 (100.0% utilization now, about 52.0% after); Aave V3 Gnosis EURe borrow cap 10,600,000 to 12,000,000 (96.7% utilization now, about 85.4% after). For each reserve the post describes holder concentration and health factors of the largest suppliers or borrowers. For example, one vault holds about 99.8% of mUSD supplied on Monad, and the largest EURe borrower holds about 69% of that debt. LlamaRisk states it will implement the updates via the Risk Steward process and that it is a risk service provider funded in part by the Aave DAO. Open points: concentration of mUSD supply and EURe borrowing in single positions.",
+    "risk_flags":  [
+                       "supply/borrow cap increases",
+                       "concentrated mUSD supply (about 99.8% one vault)",
+                       "concentrated EURe borrowing (about 69% one borrower)",
+                       "provider partly funded by the DAO"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-16"
+}
