@@ -21,13 +21,27 @@ sums.sort(key=lambda s: s["_created"], reverse=True)
 
 
 def status(s):
+    """Status comes only from dates versus now: before start = upcoming, between = open, after end = closed."""
     pr = props.get(s["id"], {})
     if pr.get("source") == "snapshot" or s["id"].startswith("0x"):
-        end = pr.get("end")
-        if pr.get("state") == "active" and end:
+        st, end, t = pr.get("start"), pr.get("end"), now.timestamp()
+        if st and t < st:
+            return "Vote upcoming, starts " + day(st)
+        if end and t <= end:
             return "Vote open, ends " + day(end)
-        return "Vote closed" + (", ended " + day(end) if end else "")
+        if end:
+            return "Vote closed, ended " + day(end)
+        return "Vote closed" if pr.get("state") == "closed" else "Vote open"
     return "Discussion, no vote yet"
+
+
+def tally(s):
+    """Live tally from the fetched data, never the older text written into the summary."""
+    pr = props.get(s["id"], {})
+    ch, sc = pr.get("choices") or [], pr.get("scores") or []
+    if not (pr.get("source") == "snapshot" or s["id"].startswith("0x")) or not ch or not sum(sc or [0]):
+        return ""
+    return "Tally: " + " / ".join(f"{c} {v:,.0f}" for c, v in zip(ch, sc))
 
 
 def ref(s):
@@ -87,7 +101,7 @@ def card(s, rel):
 <details><summary>Low-information item: <a href="{rel}p/{s['_slug']}.html">{E(s['title'])}</a></summary></details></article>"""
     return f"""<article><div class="meta">{E(s['space'])} &middot; {day(s['_created'])} &middot; {E(ref(s))}</div>
 <h2><a href="{rel}p/{s['_slug']}.html">{E(s['title'])}</a></h2><p>{E(s['headline'])}</p>
-<div class="meta">{E(status(s))} &middot; {E(s.get('vote', ''))}</div></article>"""
+<div class="meta">{E(status(s))}{(' &middot; ' + E(tally(s))) if tally(s) else ''}</div></article>"""
 
 
 def rss(items, title, link):
@@ -110,7 +124,7 @@ for s in sums:
     flags = ", ".join(s.get("risk_flags", []))
     body = f"""<p class="meta"><a href="../">Governance Digest</a> &middot; <a href="../dao/{E(s['space'])}/">{E(s['space'])} proposals</a> &middot; <a href="../closing-soon/">Closing soon</a> &middot; {day(s['_created'])}</p>
 <h1>{E(s['title'])}</h1><p><b>{E(s['headline'])}</b></p><p>{E(s['summary'])}</p>
-<p class="meta">Flags: {E(flags)}<br>Status: {E(status(s))}. {E(s.get('vote', ''))}<br>Reference: {E(ref(s))}<br>Source: <a href="{E(s['url'])}">{E(s['url'])}</a></p>
+<p class="meta">Flags: {E(flags)}<br>Status: {E(status(s))}. {E(tally(s))}<br>Reference: {E(ref(s))}<br>Source: <a href="{E(s['url'])}">{E(s['url'])}</a></p>
 {paybox()}"""
     (DOCS / "p" / f"{s['_slug']}.html").write_text(
         shell(f"{s['title']} ({s['space']}) explained", s["headline"], body, f"{SITE}p/{s['_slug']}.html", "../", noindex=lowinfo(s)), encoding="utf-8")
