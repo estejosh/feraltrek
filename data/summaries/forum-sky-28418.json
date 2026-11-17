@@ -1,0 +1,15 @@
+{
+    "id":  "forum-sky-28418",
+    "space":  "sky",
+    "title":  "Technical scope for the new Test Halo agent setup",
+    "url":  "https://forum.sky.money/t/technical-scope-for-the-new-test-halo-agent-setup/28418",
+    "headline":  "A technical post describes the onchain setup for a new Sky agent called Test Halo, a dedicated SubProxy and StarGuard, planned for a core spell on 2026-11-19.",
+    "summary":  "Sidestream prepared this technical scope ahead of the launch of a new onchain agent called Test Halo, needed for a future test run of the first NFAT Halo instance. Following earlier Sky agent onboardings, the agent needs its own SubProxy and StarGuard before the actual agent spell. The SubProxy is the main admin and executor of the agent. The StarGuard allows permissionless execution of the agent spells once a core spell has whitelisted them. The planned core spell initializes the StarGuard through StarGuardInit.init, adds it to the StarGuardJob, and registers both contract addresses in the Chainlog. The post lists audits for the endgame-toolkit (SubProxy) and star-guard repositories from ChainSecurity and Cantina, and both contracts are already deployed on Ethereum mainnet. The SubProxy is administered by the pause proxy, and the post states the deployer no longer has a privileged role. For the StarGuard, the post notes that a bytecode verification tool reports a partial match, limited to metadata. Timing is the 2026-11-19 core spell. The post does not state any funding amounts.",
+    "risk_flags":  [
+                       "core spell planned 2026-11-19",
+                       "new contracts with admin rights",
+                       "StarGuard bytecode check is a partial match (metadata)"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-17"
+}

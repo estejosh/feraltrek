@@ -1,0 +1,14 @@
+{
+    "id":  "forum-gnosis-12508",
+    "space":  "gnosis",
+    "title":  "GIP 152 - Quarterly Investor/DAO Update 1",
+    "url":  "https://forum.gnosis.io/t/gip-152-quarterly-investor-dao-update-1/12508",
+    "headline":  "The Gnosis team shares its first quarterly update: the Gnosis App is becoming Circles-first, with an alpha pilot in Kenya and a rebrand to the Circles App planned.",
+    "summary":  "This is a progress report rather than a spending request. The team says the Gnosis App is becoming Circles-first, aiming to give underserved communities their own money to exchange value. Since the DAO vote was finalised, it reports launching alpha products (a user app and a group admin app) with the first communities in Kenya. It reports about 13,200 Circles minted across 38 people and 2 communities, more than 50 trades (mostly services), and 30+ communities on a waitlist, and vendors are now being added to a marketplace. The existing Circles website became the technical site for developers, and a new public-facing site was launched. The team says it added a designer, a community coordinator in Kenya and a fractional finance operations team, and that the spinout is legally and operationally complete. Next steps stated: rebrand the Gnosis App as the Circles App, which moves away from being a neobank, with a V1 release expected in under about three weeks, and continued iteration with the Kenya pilot communities. All figures are self-reported.",
+    "risk_flags":  [
+                       "self-reported figures",
+                       "product pivot away from neobank"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-17"
+}

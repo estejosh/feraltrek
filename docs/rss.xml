@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:54:53 +0000</lastBuildDate>
+<item><title>GIP 152 - Quarterly Investor/DAO Update 1 (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-gip-152-quarterly-investor-dao-update-1--12508.html</link>
+<guid isPermaLink="false">forum-gnosis-12508</guid><pubDate>Tue, 17 Nov 2026 07:17:51 +0000</pubDate>
+<description>The Gnosis team shares its first quarterly update: the Gnosis App is becoming Circles-first, with an alpha pilot in Kenya and a rebrand to the Circles App planned.</description></item>
+<item><title>Protocol Fee Expansion: v4 on Five More Chains (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-protocol-fee-expansion-v4-on-five-more-chains-e17f8c.html</link>
+<guid isPermaLink="false">0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c</guid><pubDate>Mon, 16 Nov 2026 18:19:22 +0000</pubDate>
+<description>A Uniswap Snapshot vote on turning on v4 protocol fees on Celo, Soneium, X Layer, World Chain and Zora, and lowering the target fee on two Arbitrum stablecoin pools.</description></item>
+<item><title>Upgrade the v4 Protocol Fee Adapter (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-upgrade-the-v4-protocol-fee-adapter-4ae4bc.html</link>
+<guid isPermaLink="false">0x65503933c85b5c813a350603a6f4be143e911f073ae17ff109aa978f494ae4bc</guid><pubDate>Mon, 16 Nov 2026 18:17:56 +0000</pubDate>
+<description>A Uniswap Snapshot vote on replacing the v4 fee policy with a flexible per-hook ruleset system on all eight chains, with current fee levels unchanged.</description></item>
+<item><title>[Temp Check] Protocol Fee Expansion: v4 on Five More Chains (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-temp-check-protocol-fee-expansion-v4-on-five-more-chains--26349.html</link>
+<guid isPermaLink="false">forum-uniswap-26349</guid><pubDate>Mon, 16 Nov 2026 18:16:27 +0000</pubDate>
+<description>A temp check proposes turning on v4 protocol fees on Celo, Soneium, X Layer, World Chain and Zora, and lowering the target fee on two Arbitrum stablecoin pools.</description></item>
+<item><title>[Temp Check] Upgrade the v4 Protocol Fee System (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-temp-check-upgrade-the-v4-protocol-fee-system--26348.html</link>
+<guid isPermaLink="false">forum-uniswap-26348</guid><pubDate>Mon, 16 Nov 2026 18:12:48 +0000</pubDate>
+<description>A temp check proposes replacing the v4 fee policy so governance can set protocol fees per hook using reusable rulesets, with current fee levels unchanged.</description></item>
+<item><title>Snapshot Governance: Updated Voting Framework (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-snapshot-governance-updated-voting-framework-d-8265.html</link>
+<guid isPermaLink="false">forum-compound-8265</guid><pubDate>Mon, 16 Nov 2026 18:00:17 +0000</pubDate>
+<description>The Compound Governance Working Group proposes new eligibility rules for voting and proposing in the comp-vote.eth Snapshot space; onchain governance is unchanged.</description></item>
+<item><title>[7.5] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-5-social-ips-amendment-no-2-ips-amendment-authority-22e2f4.html</link>
+<guid isPermaLink="false">0x8862cc2d5574b17aaa97108635ee39a260d7e8a710acb8928538361bbd22e2f4</guid><pubDate>Mon, 16 Nov 2026 17:22:55 +0000</pubDate>
+<description>ENS voters decide whether the ENS Foundation Board, not a DAO vote, may amend the Endowment investment policy, replacing the Meta-Governance Working Group as oversight body.</description></item>
+<item><title>LEGO Grant Proposal: NOC Engine, Base L2 wstETH Peg-Defense Routing and Execution Telemetry (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-noc-engine-base-l2-wsteth-peg-defense-routing-and-execu--12203.html</link>
+<guid isPermaLink="false">forum-lido-12203</guid><pubDate>Mon, 16 Nov 2026 16:42:01 +0000</pubDate>
+<description>A team asks for a $10,000 LEGO Pebble Grant to build a wstETH peg-defense routing adapter on Base and a public telemetry dashboard.</description></item>
+<item><title>[7.4] [Social] IPS Amendment No. 1: Endowment Options Overlay (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-4-social-ips-amendment-no-1-endowment-options-overlay-e5bec9.html</link>
+<guid isPermaLink="false">0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9</guid><pubDate>Mon, 16 Nov 2026 16:32:33 +0000</pubDate>
+<description>ENS voters decide whether the Endowment may write covered options as part of its scheduled ETH and stablecoin rebalancing, within written limits.</description></item>
+<item><title>Final Proposal (Version 2): Comprehensive Reporting and Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-and-audit-standards-strate-66b818.html</link>
+<guid isPermaLink="false">0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818</guid><pubDate>Mon, 16 Nov 2026 16:11:52 +0000</pubDate>
+<description>A Lido vote would mandate more detailed financial reporting and audits, and ask for 10-15% cuts to Lido Labs 2027 operating budget; early tally is heavily Against.</description></item>
+<item><title>Technical scope for the new Test Halo agent setup (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-for-the-new-test-halo-agent-setup--28418.html</link>
+<guid isPermaLink="false">forum-sky-28418</guid><pubDate>Mon, 16 Nov 2026 13:40:31 +0000</pubDate>
+<description>A technical post describes the onchain setup for a new Sky agent called Test Halo, a dedicated SubProxy and StarGuard, planned for a core spell on 2026-11-19.</description></item>
+<item><title>PSM-USDC-A housekeeping (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-psm-usdc-a-housekeeping--28417.html</link>
+<guid isPermaLink="false">forum-sky-28417</guid><pubDate>Mon, 16 Nov 2026 13:32:03 +0000</pubDate>
+<description>A technical post proposes fully offboarding the inactive legacy PSM-USDC-A vault type in Sky, removing its registry entries and permissions, with a core spell planned for 2026-11-19.</description></item>
 <item><title>Final Proposal (Version 2): Comprehensive Reporting &amp; Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-audit-standards-strategic---12200.html</link>
 <guid isPermaLink="false">forum-lido-12200</guid><pubDate>Mon, 16 Nov 2026 10:51:36 +0000</pubDate>
 <description>A Lido forum proposal asks Lido Labs and the Finance Workgroup to publish fully itemised financial reports and audits and to build budget cuts into the EGG 2027 plan, instead of paying outside contractors now.</description></item>
@@ -115,40 +151,4 @@
 <item><title>ACLManager: RISK_ADMIN_ROLE grants, Sep 2026 — decoded (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aclmanager-risk-admin-role-grants-sep-2026-decoded--26139.html</link>
 <guid isPermaLink="false">forum-aave-26139</guid><pubDate>Mon, 09 Nov 2026 00:45:03 +0000</pubDate>
 <description>A forum post decodes three RISK_ADMIN_ROLE grants on Aave V3 Ethereum since 2 September 2026, all sent by the governance Executor, and notes the role can change caps and risk parameters without a full vote.</description></item>
-<item><title>Request: wallet list behind the Aave Insights treasury figure (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-request-wallet-list-behind-the-aave-insights-treasury-figure--26135.html</link>
-<guid isPermaLink="false">forum-aave-26135</guid><pubDate>Mon, 09 Nov 2026 00:44:15 +0000</pubDate>
-<description>An independent treasury analysis service asks TokenLogic for the wallet list and method behind the Aave Insights treasury figure ($260.65M at Q3 2026 close) so it can reconcile its own numbers.</description></item>
-<item><title>Per-Asset Liquidation Thresholds Underpredict Co-Liquidation by 301× (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-per-asset-liquidation-thresholds-underpredict-co-liquidation-by-301--26131.html</link>
-<guid isPermaLink="false">forum-aave-26131</guid><pubDate>Mon, 09 Nov 2026 00:43:56 +0000</pubDate>
-<description>A forum post reports a backtest finding that Aave V3 per-asset liquidation thresholds do not account for assets falling together, and argues for a joint probability model.</description></item>
-<item><title>[TEMP CHECK] AAVE SECURITY SHIELD – Exploring Preventive Risk Controls for External Security Incidents (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-aave-security-shield-exploring-preventive-risk-controls-for-exte--26124.html</link>
-<guid isPermaLink="false">forum-aave-26124</guid><pubDate>Mon, 09 Nov 2026 00:43:34 +0000</pubDate>
-<description>A community initiative (written in Spanish) proposes studying whether Aave could temporarily limit new debt during an external security incident while keeping repayments and liquidations working. It asks for a feasibility study, not protocol changes.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.08 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-08--26107.html</link>
-<guid isPermaLink="false">forum-aave-26107</guid><pubDate>Sun, 08 Nov 2026 10:12:08 +0000</pubDate>
-<description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.6B to 2.75B and the USDe supply cap from 550M to 750M, after both reserves reached near-full utilization.</description></item>
-<item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-09 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-09--28389.html</link>
-<guid isPermaLink="false">forum-sky-28389</guid><pubDate>Sat, 07 Nov 2026 19:29:43 +0000</pubDate>
-<description>Core GovOps submits the weekly Atlas Edit proposal for the week of 2026-11-09: edits include adding weETH as Morpho vault collateral with a 60,000 weETH cap, new Morpho vault governance rules, and monthly grants to the Spark and Grove foundations.</description></item>
-<item><title>OpCo Update October 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-opco-update-october-2026--31665.html</link>
-<guid isPermaLink="false">forum-arbitrum-31665</guid><pubDate>Fri, 06 Nov 2026 21:54:23 +0000</pubDate>
-<description>OpCo reports on October 2026 for Arbitrum DAO, covering the Oversight and Transparency Committee, USDG coordination, a negotiation over a 10M ARB set-aside, and cross-organization work.</description></item>
-<item><title>[RFC] Upgrade VolatilePair hook and update X Layer releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-rfc-upgrade-volatilepair-hook-and-update-x-layer-releaser--26337.html</link>
-<guid isPermaLink="false">forum-uniswap-26337</guid><pubDate>Fri, 06 Nov 2026 21:16:31 +0000</pubDate>
-<description>Uniswap Labs proposes an RFC with two technical updates: upgrading the VolatilePair hook on Ethereum to cap its temporary fee by block gap, and updating the protocol fee releaser on X Layer.</description></item>
-<item><title>[TEMP CHECK] Extend HyperLend&#x27;s Friendly Fork Recognition to Elysium (Aave v3.7) (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-extend-hyperlend-s-friendly-fork-recognition-to-elysium-aave-v3---26079.html</link>
-<guid isPermaLink="false">forum-aave-26079</guid><pubDate>Fri, 06 Nov 2026 17:05:02 +0000</pubDate>
-<description>HyperLend asks the Aave DAO to recognize its deployment on Elysium (an L2 for the Hyperliquid ecosystem) as a friendly fork on Aave v3.7, offering 50% of that deployment&#x27;s revenue to the DAO.</description></item>
-<item><title>Entropy Advisors Monthly Update: October 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-entropy-advisors-monthly-update-october-2026--31664.html</link>
-<guid isPermaLink="false">forum-arbitrum-31664</guid><pubDate>Fri, 06 Nov 2026 16:16:27 +0000</pubDate>
-<description>Entropy Advisors reports on October 2026 for Arbitrum DAO: USDG supply on Arbitrum One reached $61.32M, treasury stablecoins moved toward USDG, and two onchain votes close November 12.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-06--26078.html</link>
-<guid isPermaLink="false">forum-aave-26078</guid><pubDate>Fri, 06 Nov 2026 16:01:37 +0000</pubDate>
-<description>LlamaRisk recommends a broad set of borrow and supply cap changes across Aave V3 instances, mostly reductions, plus a USDe base borrow rate increase to 7.00%. USDt on Avalanche had reached 99.9% borrow cap utilization.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-06--26073.html</link>
-<guid isPermaLink="false">forum-aave-26073</guid><pubDate>Fri, 06 Nov 2026 15:55:38 +0000</pubDate>
-<description>LlamaRisk recommends raising several supply, draw and add caps and one base interest rate on Aave V4 reserves on Ethereum, Avalanche and Base. The post is a risk-steward parameter update based on observed borrowing and liquidity.</description></item>
-<item><title>Compound Foundation: Monthly V4 Programme Update [October 2026] (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-compound-foundation-monthly-v4-programme-update-october-2026-d-8240.html</link>
-<guid isPermaLink="false">forum-compound-8240</guid><pubDate>Wed, 04 Nov 2026 07:52:53 +0000</pubDate>
-<description>The Compound Foundation&#x27;s fifth monthly V4 funding-program update reports an on-track status, new engineering hires and lower proposed annual provider fees.</description></item>
 </channel></rss>

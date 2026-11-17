@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: lido</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:54:53 +0000</lastBuildDate>
+<item><title>LEGO Grant Proposal: NOC Engine, Base L2 wstETH Peg-Defense Routing and Execution Telemetry (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-noc-engine-base-l2-wsteth-peg-defense-routing-and-execu--12203.html</link>
+<guid isPermaLink="false">forum-lido-12203</guid><pubDate>Mon, 16 Nov 2026 16:42:01 +0000</pubDate>
+<description>A team asks for a $10,000 LEGO Pebble Grant to build a wstETH peg-defense routing adapter on Base and a public telemetry dashboard.</description></item>
+<item><title>Final Proposal (Version 2): Comprehensive Reporting and Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-and-audit-standards-strate-66b818.html</link>
+<guid isPermaLink="false">0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818</guid><pubDate>Mon, 16 Nov 2026 16:11:52 +0000</pubDate>
+<description>A Lido vote would mandate more detailed financial reporting and audits, and ask for 10-15% cuts to Lido Labs 2027 operating budget; early tally is heavily Against.</description></item>
 <item><title>Final Proposal (Version 2): Comprehensive Reporting &amp; Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-audit-standards-strategic---12200.html</link>
 <guid isPermaLink="false">forum-lido-12200</guid><pubDate>Mon, 16 Nov 2026 10:51:36 +0000</pubDate>
 <description>A Lido forum proposal asks Lido Labs and the Finance Workgroup to publish fully itemised financial reports and audits and to build budget cuts into the EGG 2027 plan, instead of paying outside contractors now.</description></item>

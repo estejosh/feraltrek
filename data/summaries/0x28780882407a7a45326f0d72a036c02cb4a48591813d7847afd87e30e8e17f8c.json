@@ -1,0 +1,15 @@
+{
+    "id":  "0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c",
+    "space":  "uniswapgovernance.eth",
+    "title":  "Protocol Fee Expansion: v4 on Five More Chains",
+    "url":  "https://snapshot.org/#/uniswapgovernance.eth/proposal/0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c",
+    "headline":  "A Uniswap Snapshot vote on turning on v4 protocol fees on Celo, Soneium, X Layer, World Chain and Zora, and lowering the target fee on two Arbitrum stablecoin pools.",
+    "summary":  "This Snapshot extends v4 protocol fees from the eight chains where they are live to five more where v2 and v3 fees already run: Celo, Soneium, X Layer, World Chain and Zora. It uses the same upgraded V4FeeAdapter and initial configuration as the companion fee adapter vote, and it does not enable fees on third-party hooks. Fees route to the TokenJar on each chain; UNI burned there is bridged back to Ethereum and sent to a burn address, and the post says this infrastructure is already live. It also lowers the target LP fee on the two USDC/USDG StablePair pools on Arbitrum, from 0.5 bps to 0.07 bps on the tick-spacing-1 pool and from 0.08 bps to 0.07 bps on the tick-spacing-2 pool. The post text still contains an unfilled placeholder for the companion proposal number.",
+    "risk_flags":  [
+                       "enables protocol fees on five chains",
+                       "changes Arbitrum pool fee settings",
+                       "depends on companion fee-adapter vote"
+                   ],
+    "vote":  "For 10,513 / Against 0 / Abstain 0 so far, ends 2026-11-21",
+    "written":  "2026-11-17"
+}

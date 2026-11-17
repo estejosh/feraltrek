@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: ens</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:54:53 +0000</lastBuildDate>
+<item><title>[7.5] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-5-social-ips-amendment-no-2-ips-amendment-authority-22e2f4.html</link>
+<guid isPermaLink="false">0x8862cc2d5574b17aaa97108635ee39a260d7e8a710acb8928538361bbd22e2f4</guid><pubDate>Mon, 16 Nov 2026 17:22:55 +0000</pubDate>
+<description>ENS voters decide whether the ENS Foundation Board, not a DAO vote, may amend the Endowment investment policy, replacing the Meta-Governance Working Group as oversight body.</description></item>
+<item><title>[7.4] [Social] IPS Amendment No. 1: Endowment Options Overlay (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-4-social-ips-amendment-no-1-endowment-options-overlay-e5bec9.html</link>
+<guid isPermaLink="false">0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9</guid><pubDate>Mon, 16 Nov 2026 16:32:33 +0000</pubDate>
+<description>ENS voters decide whether the Endowment may write covered options as part of its scheduled ETH and stablecoin rebalancing, within written limits.</description></item>
 <item><title>ENS DAO Newsletter #124 - 11/15/2026 (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-dao-newsletter-124-11-15-2026--22544.html</link>
 <guid isPermaLink="false">forum-ens-22544</guid><pubDate>Sun, 15 Nov 2026 15:25:53 +0000</pubDate>
 <description>Weekly ENS DAO newsletter: two social proposals on the endowment policy and two executable proposals (a roughly 200k USDC working-group funding request and a DNSSEC upgrade) are in discussion, plus the October endowment report.</description></item>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:54:53 +0000</lastBuildDate>
+<item><title>Technical scope for the new Test Halo agent setup (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-for-the-new-test-halo-agent-setup--28418.html</link>
+<guid isPermaLink="false">forum-sky-28418</guid><pubDate>Mon, 16 Nov 2026 13:40:31 +0000</pubDate>
+<description>A technical post describes the onchain setup for a new Sky agent called Test Halo, a dedicated SubProxy and StarGuard, planned for a core spell on 2026-11-19.</description></item>
+<item><title>PSM-USDC-A housekeeping (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-psm-usdc-a-housekeeping--28417.html</link>
+<guid isPermaLink="false">forum-sky-28417</guid><pubDate>Mon, 16 Nov 2026 13:32:03 +0000</pubDate>
+<description>A technical post proposes fully offboarding the inactive legacy PSM-USDC-A vault type in Sky, removing its registry entries and permissions, with a core spell planned for 2026-11-19.</description></item>
 <item><title>Technical Scope of the Core L2 Spell on Base assisting Osero&#x27;s DPAU launch (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-core-l2-spell-on-base-assisting-osero-s-dpau-launch--28413.html</link>
 <guid isPermaLink="false">forum-sky-28413</guid><pubDate>Mon, 16 Nov 2026 08:52:00 +0000</pubDate>
 <description>Sidestream describes a Sky Core spell for Base that adds an ERC4626 facet to the Beacon and adjusts the PAS module to support Osero&#x27;s DPAU launch, planned for the 2026-11-19 Sky Core spell.</description></item>

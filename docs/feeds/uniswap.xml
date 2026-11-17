@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: uniswap</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:56:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:54:53 +0000</lastBuildDate>
+<item><title>Protocol Fee Expansion: v4 on Five More Chains (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-protocol-fee-expansion-v4-on-five-more-chains-e17f8c.html</link>
+<guid isPermaLink="false">0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c</guid><pubDate>Mon, 16 Nov 2026 18:19:22 +0000</pubDate>
+<description>A Uniswap Snapshot vote on turning on v4 protocol fees on Celo, Soneium, X Layer, World Chain and Zora, and lowering the target fee on two Arbitrum stablecoin pools.</description></item>
+<item><title>Upgrade the v4 Protocol Fee Adapter (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-upgrade-the-v4-protocol-fee-adapter-4ae4bc.html</link>
+<guid isPermaLink="false">0x65503933c85b5c813a350603a6f4be143e911f073ae17ff109aa978f494ae4bc</guid><pubDate>Mon, 16 Nov 2026 18:17:56 +0000</pubDate>
+<description>A Uniswap Snapshot vote on replacing the v4 fee policy with a flexible per-hook ruleset system on all eight chains, with current fee levels unchanged.</description></item>
+<item><title>[Temp Check] Protocol Fee Expansion: v4 on Five More Chains (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-temp-check-protocol-fee-expansion-v4-on-five-more-chains--26349.html</link>
+<guid isPermaLink="false">forum-uniswap-26349</guid><pubDate>Mon, 16 Nov 2026 18:16:27 +0000</pubDate>
+<description>A temp check proposes turning on v4 protocol fees on Celo, Soneium, X Layer, World Chain and Zora, and lowering the target fee on two Arbitrum stablecoin pools.</description></item>
+<item><title>[Temp Check] Upgrade the v4 Protocol Fee System (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-temp-check-upgrade-the-v4-protocol-fee-system--26348.html</link>
+<guid isPermaLink="false">forum-uniswap-26348</guid><pubDate>Mon, 16 Nov 2026 18:12:48 +0000</pubDate>
+<description>A temp check proposes replacing the v4 fee policy so governance can set protocol fees per hook using reusable rulesets, with current fee levels unchanged.</description></item>
 <item><title>Upgrade VolatilePair hook and update X Layer Releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-upgrade-volatilepair-hook-and-update-x-layer-releaser-e713df.html</link>
 <guid isPermaLink="false">0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df</guid><pubDate>Sun, 15 Nov 2026 20:34:33 +0000</pubDate>
 <description>Snapshot vote on two Uniswap Labs technical updates: capping the VolatilePair hook temporary fee by block gap on Ethereum, and replacing the protocol fee releaser on X Layer so accrued fees can be released and UNI burned.</description></item>

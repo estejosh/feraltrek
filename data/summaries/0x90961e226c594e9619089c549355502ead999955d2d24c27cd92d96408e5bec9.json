@@ -1,0 +1,15 @@
+{
+    "id":  "0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9",
+    "space":  "ens.eth",
+    "title":  "[7.4] [Social] IPS Amendment No. 1: Endowment Options Overlay",
+    "url":  "https://snapshot.org/#/ens.eth/proposal/0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9",
+    "headline":  "ENS voters decide whether the Endowment may write covered options as part of its scheduled ETH and stablecoin rebalancing, within written limits.",
+    "summary":  "KPK, the Endowment Manager, proposes amending the Investment Policy Statement (IPS v2.0) to allow covered calls when ETH is overweight and cash-secured puts when ETH is underweight, as part of a required rebalance. The limits written into the policy: options cover at most 25% of the flow a rebalance needs; written notional including collateral is capped at 3% of total Endowment value, and 2% per venue; tenor is at most 30 days; every position is fully covered and physically settled, with no naked, margined or leveraged options; and no new option is written if reserves fall below 42 months of operating expenses or if a put would take stablecoins below the Minimum Runway. Activity is reported monthly, and the DAO or the Foundation Board can suspend writing at any time. The vote is a policy change only and grants no onchain permissions; venue permissions are granted separately. The post lists risks including forgone upside, settlement at worse than spot, and smart contract, venue and oracle risk. Premium counts toward the existing fee, with no extra fee.",
+    "risk_flags":  [
+                       "treasury strategy change",
+                       "options carry smart contract and venue risk",
+                       "relaxes a prior IPS constraint"
+                   ],
+    "vote":  "For 694,386 / Against 0 / Abstain 0 so far, ends 2026-11-21",
+    "written":  "2026-11-17"
+}

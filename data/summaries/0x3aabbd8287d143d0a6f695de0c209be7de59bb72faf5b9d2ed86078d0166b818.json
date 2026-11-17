@@ -1,0 +1,15 @@
+{
+    "id":  "0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818",
+    "space":  "lido-snapshot.eth",
+    "title":  "Final Proposal (Version 2): Comprehensive Reporting and Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027",
+    "url":  "https://snapshot.org/#/lido-snapshot.eth/proposal/0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818",
+    "headline":  "A Lido vote would mandate more detailed financial reporting and audits, and ask for 10-15% cuts to Lido Labs 2027 operating budget; early tally is heavily Against.",
+    "summary":  "This proposal tells Lido Labs and the Finance Workgroup to publish fully expanded reports and future audits, with separate profit and loss for each sub-product (such as stVaults, Wisp, Lido Earn and Lido Lend), quarterly team compensation totals by function, and line-by-line budget versus actual reconciliation. It says it avoids new spending on outside contractors so the EGG 2027 budget process is not delayed. For the EGG 2027 budget it asks for a 10-15% reduction in Lido Labs overall 2027 operating budget, a 20-50% reduction of initial sub-product budgets with restoration tied to break-even roadmaps, and automatic funding reductions for underperforming initiatives based on H1 metrics. It cites a current burn rate of about $40M. It also asks to make Lido Poolside sessions monthly with community-driven agendas. The final section says the groups are encouraged to include these measures in the EGG 2027 plan. Open questions include how binding the mandate is and who verifies the metrics.",
+    "risk_flags":  [
+                       "budget cuts for 2027",
+                       "mandate wording is \"encouraged\"",
+                       "early tally heavily Against"
+                   ],
+    "vote":  "For 2,251 / Against 4,260,858 so far, ends 2026-11-19",
+    "written":  "2026-11-17"
+}
