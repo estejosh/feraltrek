@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 17 Nov 2026 13:01:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:55:48 +0000</lastBuildDate>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.17 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-17--26415.html</link>
+<guid isPermaLink="false">forum-aave-26415</guid><pubDate>Tue, 17 Nov 2026 19:04:56 +0000</pubDate>
+<description>LlamaRisk recommends changing supply and borrow caps on Aave V3 Mantle, Monad, BNB and Core, mostly reductions, with increases for mUSD on Monad and BTCB on BNB.</description></item>
+<item><title>[Risk Stewards] November 2026 - Stablecoin Interest Rate Adjustments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-november-2026-stablecoin-interest-rate-adjustments--26414.html</link>
+<guid isPermaLink="false">forum-aave-26414</guid><pubDate>Tue, 17 Nov 2026 15:56:48 +0000</pubDate>
+<description>TokenLogic proposes interest-rate changes on 17 stablecoin reserves across Aave V3 and V4: higher Slope 1 on 16, lower on Base EURC, and Base USDC UOptimal from 90% to 92%.</description></item>
 <item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.15 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-15--26376.html</link>
 <guid isPermaLink="false">forum-aave-26376</guid><pubDate>Sun, 15 Nov 2026 15:37:21 +0000</pubDate>
 <description>LlamaRisk recommends raising supply or borrow caps on four Aave V3 reserves (wstETH, mUSD, AAVE, EURe) across Core, Monad, Arbitrum and Gnosis, to be applied through the Risk Steward process.</description></item>
@@ -145,7 +151,4 @@
 <item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.10.26 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-increases-on-aave-v4-2026-10-26--25926.html</link>
 <guid isPermaLink="false">forum-aave-25926</guid><pubDate>Mon, 26 Oct 2026 19:42:34 +0000</pubDate>
 <description>LlamaRisk recommends raising supply and borrow caps across Aave V4 on Ethereum and Arc, including USDC, USDG, WETH, weETH, LINK and syrupUSDC, citing demand and liquidity.</description></item>
-<item><title>Global Dollar (USDG) on Aave Arbitrum Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-global-dollar-usdg-on-aave-arbitrum-assessments--25912.html</link>
-<guid isPermaLink="false">forum-aave-25912</guid><pubDate>Sat, 24 Oct 2026 10:09:53 +0000</pubDate>
-<description>Aave opened the risk and technical assessment thread for listing Global Dollar (USDG) on Aave Arbitrum.</description></item>
 </channel></rss>

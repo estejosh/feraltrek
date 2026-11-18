@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26414",
+  "space": "aave",
+  "title": "[Risk Stewards] November 2026 - Stablecoin Interest Rate Adjustments",
+  "url": "https://governance.aave.com/t/risk-stewards-november-2026-stablecoin-interest-rate-adjustments/26414",
+  "headline": "TokenLogic proposes interest-rate changes on 17 stablecoin reserves across Aave V3 and V4: higher Slope 1 on 16, lower on Base EURC, and Base USDC UOptimal from 90% to 92%.",
+  "summary": "The post covers stablecoin reserves holding about $3.9B of outstanding debt. It says roughly 53% of that debt is backed by blue-chip collateral and 39% by loops using yield-bearing stablecoins. It reports that several reserves sat above their utilization kink for much of the last 60 days, for example Avalanche USDC for 54 of 60 days and Base USDC for 43. Base EURC is the exception, averaging about 50% utilization, so its Slope 1 would be reduced. Ethereum Core USDT's Slope 1 is left unchanged because supply returned. The post compares Aave rates with other lenders (Ethereum Core USDC averaged 5.14% over 30 days versus 5.31% on Morpho and 4.58% on SparkLend) and says the proposed increases would reduce maximum-leverage carry-trade returns by about 0.9 to 1.8 percentage points in most markets, with a 50 bp increase for V4 Core frxUSD. It also notes concentration: Ethena's backing wallet holds 61.6% of Plasma USDT0 supply and 74.0% of Mantle USDT0. Stated aims: moderate borrowing demand where utilization is high, improve supplier incentives, and keep carry trades viable. The excerpt ends before the full specification table.",
+  "risk_flags": ["changes rate parameters on 17 reserves", "high supplier and borrower concentration in some markets", "affects leveraged carry-trade positions"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-18"
+}

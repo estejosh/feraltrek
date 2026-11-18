@@ -1,0 +1,11 @@
+{
+  "id": "forum-ens-22549",
+  "space": "ens",
+  "title": "[RFC] NSEC Proofs as a Permissionless Release Trigger for TLDs",
+  "url": "https://discuss.ens.domains/t/rfc-nsec-proofs-as-a-permissionless-release-trigger-for-tlds/22549",
+  "headline": "An RFC proposes letting anyone return a claimed TLD to DAO custody by submitting a DNSSEC NSEC proof that its delegation has been removed from the DNS root.",
+  "summary": "The post builds on earlier ENS designs for claiming TLDs. It notes that today a claim stays current until expiry, so a TLD can keep resolving under an operator that ICANN has already removed, and bringing it back needs a DAO-gated register call. The proposal: when a TLD's NS and DS records are gone from the root, a permissionless release(tld, nsecProof) call would check that no delegation exists and unregister the TLD so the node returns. Expiry stays as the fallback. The post links a reference predicate and says tests ran against the published root zone. For TLDs in emergency operator (EBERO) status, it suggests a possible NSEC3-based predicate for the TLD's own zone, and says only 7 are in EBERO today. Feedback is requested on three points: whether the term should match the ICANN convention of 10 years; whether the oracle needs two roles for permissionless claims and releases (root ROLE_REGISTRAR and entry-scoped UNREGISTER) and any pushback on that; and whether an NSEC proof is a strong enough demonstration that a delegation was removed. The post says the TSG report it cites is in draft and non-binding.",
+  "risk_flags": ["grants permissionless unregister role", "relies on a draft, non-binding report", "EBERO case not yet specified"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-18"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26415",
+  "space": "aave",
+  "title": "Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.17",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-17/26415",
+  "headline": "LlamaRisk recommends changing supply and borrow caps on Aave V3 Mantle, Monad, BNB and Core, mostly reductions, with increases for mUSD on Monad and BTCB on BNB.",
+  "summary": "Caps listed as reductions: on Mantle, supply caps for USDT0 (150M to 100M), sUSDe (65M to 25M), USDC (25M to 10M) and USDe (50M to 25M), plus borrow caps for USDT0 (125M to 90M) and USDC (22.5M to 10M). On Monad: supply caps for USDe (150M to 100M), USDT0 (125M to 75M), USDC (200M to 165M), syrupUSDC (90.4M to 63.5M) and AUSD (20M to 10M), plus the AUSD borrow cap (16M to 10M). On Core: LBTC supply cap 2,400 to 2,270 and rETH 35,000 to 31,700. Increases: Monad mUSD supply cap 75M to 150M and borrow cap 50M to 75M; BNB BTCB borrow cap 17 to 34. The post cites current utilization and 30-day supply declines for each reserve, for example Mantle sUSDe supply down 99.5% and 0.5% utilized. It says BTCB is at 87.9% borrow-cap utilization, with the largest borrower holding 53.7% of BTCB debt, and mUSD supply is about 99.9% held by one vault. Post-change utilization would be about 100.1% for rETH and 94.8% for syrupUSDC. LlamaRisk says it will implement these through the Risk Steward process and discloses it is partly funded by the Aave DAO.",
+  "risk_flags": ["cap changes on four Aave V3 instances", "borrower concentration on BTCB and mUSD", "rETH cap would sit at about 100% utilization"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-18"
+}

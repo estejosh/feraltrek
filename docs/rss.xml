@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 17 Nov 2026 13:01:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:55:48 +0000</lastBuildDate>
+<item><title>DAO Resolution - TACO Foundation Supervisor Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-dao-resolution-taco-foundation-supervisor-changes--28429.html</link>
+<guid isPermaLink="false">forum-sky-28429</guid><pubDate>Tue, 17 Nov 2026 23:08:39 +0000</pubDate>
+<description>A DAO resolution would direct the directors of TACO Foundation to appoint Fortification Foundation as its supervisor, replacing the existing one.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.17 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-17--26415.html</link>
+<guid isPermaLink="false">forum-aave-26415</guid><pubDate>Tue, 17 Nov 2026 19:04:56 +0000</pubDate>
+<description>LlamaRisk recommends changing supply and borrow caps on Aave V3 Mantle, Monad, BNB and Core, mostly reductions, with increases for mUSD on Monad and BTCB on BNB.</description></item>
+<item><title>[RFC] NSEC Proofs as a Permissionless Release Trigger for TLDs (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-rfc-nsec-proofs-as-a-permissionless-release-trigger-for-tlds--22549.html</link>
+<guid isPermaLink="false">forum-ens-22549</guid><pubDate>Tue, 17 Nov 2026 18:02:56 +0000</pubDate>
+<description>An RFC proposes letting anyone return a claimed TLD to DAO custody by submitting a DNSSEC NSEC proof that its delegation has been removed from the DNS root.</description></item>
+<item><title>[Risk Stewards] November 2026 - Stablecoin Interest Rate Adjustments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-november-2026-stablecoin-interest-rate-adjustments--26414.html</link>
+<guid isPermaLink="false">forum-aave-26414</guid><pubDate>Tue, 17 Nov 2026 15:56:48 +0000</pubDate>
+<description>TokenLogic proposes interest-rate changes on 17 stablecoin reserves across Aave V3 and V4: higher Slope 1 on 16, lower on Base EURC, and Base USDC UOptimal from 90% to 92%.</description></item>
+<item><title>Technical scope of the DssExecLib v0.1.0 upgrade (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-dssexeclib-v0-1-0-upgrade--28428.html</link>
+<guid isPermaLink="false">forum-sky-28428</guid><pubDate>Tue, 17 Nov 2026 15:44:20 +0000</pubDate>
+<description>A forum post scopes the adoption of DssExecLib v0.1.0, the library all Sky Core Spells link against, which is already deployed and audited and moves the compiler from 0.6.x to 0.8.16.</description></item>
 <item><title>GIP 152 - Quarterly Investor/DAO Update 1 (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-gip-152-quarterly-investor-dao-update-1--12508.html</link>
 <guid isPermaLink="false">forum-gnosis-12508</guid><pubDate>Tue, 17 Nov 2026 07:17:51 +0000</pubDate>
 <description>The Gnosis team shares its first quarterly update: the Gnosis App is becoming Circles-first, with an alpha pilot in Kenya and a rebrand to the Circles App planned.</description></item>
@@ -136,19 +151,4 @@
 <item><title>Arbitrum Audit Program: Q4 &amp; Final Transparency Report (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-arbitrum-audit-program-q4-final-transparency-report--31681.html</link>
 <guid isPermaLink="false">forum-arbitrum-31681</guid><pubDate>Mon, 09 Nov 2026 17:24:40 +0000</pubDate>
 <description>The final report on the DAO-approved Arbitrum Audit Program says 367 applications led to 25 audits for 22 projects, at a total audit expenditure of $1,477,810.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.09 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-09--26145.html</link>
-<guid isPermaLink="false">forum-aave-26145</guid><pubDate>Mon, 09 Nov 2026 16:09:23 +0000</pubDate>
-<description>LlamaRisk recommends lowering most supply and borrow caps across Aave V3 instances, and raising one: the USD₮0 borrow cap on Arbitrum from 45M to 52.4M.</description></item>
-<item><title>[Constitutional] AIP: Approve Release of Frozen ETH and ARB (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-constitutional-aip-approve-release-of-frozen-eth-and-arb-441e17.html</link>
-<guid isPermaLink="false">0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17</guid><pubDate>Mon, 09 Nov 2026 14:10:50 +0000</pubDate>
-<description>Binance asks ArbitrumDAO to approve releasing 8,425.997 ETH and 74,559,805.2 ARB, frozen by the Arbitrum Security Council on 29 October 2026, back to a Binance recovery address.</description></item>
-<item><title>SAEP-25: Update the Allocation System Primitive (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-saep-25-update-the-allocation-system-primitive--28391.html</link>
-<guid isPermaLink="false">forum-sky-28391</guid><pubDate>Mon, 09 Nov 2026 04:14:32 +0000</pubDate>
-<description>Phoenix Labs proposes SAEP-25 to update the Allocation System Primitive section of the Spark Artifact, recording wound-down instances, rate limit IDs and current controllers.</description></item>
-<item><title>[November 19, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-19-2026-proposed-changes-to-spark-for-upcoming-spell--28390.html</link>
-<guid isPermaLink="false">forum-sky-28390</guid><pubDate>Mon, 09 Nov 2026 03:10:09 +0000</pubDate>
-<description>Proposed changes for the Spark spell of November 19, 2026: seven changes across Ethereum, OP Mainnet, Unichain, Avalanche and X-Layer, including deprecating Spark Liquidity Layer on OP Mainnet, Unichain and Avalanche, and December grants of 865,000 USDS and 45,000 USDS.</description></item>
-<item><title>ACLManager: RISK_ADMIN_ROLE grants, Sep 2026 — decoded (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aclmanager-risk-admin-role-grants-sep-2026-decoded--26139.html</link>
-<guid isPermaLink="false">forum-aave-26139</guid><pubDate>Mon, 09 Nov 2026 00:45:03 +0000</pubDate>
-<description>A forum post decodes three RISK_ADMIN_ROLE grants on Aave V3 Ethereum since 2 September 2026, all sent by the governance Executor, and notes the role can change caps and risk parameters without a full vote.</description></item>
 </channel></rss>

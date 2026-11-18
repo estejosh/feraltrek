@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28428",
+  "space": "sky",
+  "title": "Technical scope of the DssExecLib v0.1.0 upgrade",
+  "url": "https://forum.sky.money/t/technical-scope-of-the-dssexeclib-v0-1-0-upgrade/28428",
+  "headline": "A forum post scopes the adoption of DssExecLib v0.1.0, the library all Sky Core Spells link against, which is already deployed and audited and moves the compiler from 0.6.x to 0.8.16.",
+  "summary": "The post says DssExecLib is a stateless spell-crafting library that holds no funds, has no owner or roles, and is not registered in the Chainlog, so it does not follow the usual Technical Scope Template. v0.1.0 upgrades the compiler to 0.8.16, aligns function names with the Chief Migration and SKY launch, removes helpers tied to retired contracts (including legacy Flap helpers that revert against the current flapper), and adds helpers that spell crafters had been writing inline. The post states the library is deployed at a new address, was audited by ChainSecurity and Cantina on the same commit (555d1c1) with no open findings, and that its bytecode was checked byte-for-byte against that commit. The remaining step is updating the linked address in spells-mainnet; the swap itself is not an onchain governance action. One onchain action is tied to it: a one-time Vat authorization of USDS_JOIN by the Pause Proxy, to be carried by the first Core Spell using v0.1.0 and reviewed through the normal spell process. The post flags two changes the compiler will not surface: CollateralOpts.checkWhitelistedOSM now asserts OSM whitelisting rather than performing it, and mkr() now resolves the MKR token instead of MCD_GOV. It also lists migration notes for spell crafters and bytecode-verification appendices. Open question: reviewers are asked to check the full change list, since every future spell depends on this contract.",
+  "risk_flags": ["changes library every future core spell depends on", "one-time Vat authorization of USDS_JOIN", "two silent behavior changes for spell crafters"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-18"
+}

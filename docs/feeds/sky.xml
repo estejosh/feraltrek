@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 17 Nov 2026 13:01:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:55:48 +0000</lastBuildDate>
+<item><title>DAO Resolution - TACO Foundation Supervisor Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-dao-resolution-taco-foundation-supervisor-changes--28429.html</link>
+<guid isPermaLink="false">forum-sky-28429</guid><pubDate>Tue, 17 Nov 2026 23:08:39 +0000</pubDate>
+<description>A DAO resolution would direct the directors of TACO Foundation to appoint Fortification Foundation as its supervisor, replacing the existing one.</description></item>
+<item><title>Technical scope of the DssExecLib v0.1.0 upgrade (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-dssexeclib-v0-1-0-upgrade--28428.html</link>
+<guid isPermaLink="false">forum-sky-28428</guid><pubDate>Tue, 17 Nov 2026 15:44:20 +0000</pubDate>
+<description>A forum post scopes the adoption of DssExecLib v0.1.0, the library all Sky Core Spells link against, which is already deployed and audited and moves the compiler from 0.6.x to 0.8.16.</description></item>
 <item><title>Technical scope for the new Test Halo agent setup (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-for-the-new-test-halo-agent-setup--28418.html</link>
 <guid isPermaLink="false">forum-sky-28418</guid><pubDate>Mon, 16 Nov 2026 13:40:31 +0000</pubDate>
 <description>A technical post describes the onchain setup for a new Sky agent called Test Halo, a dedicated SubProxy and StarGuard, planned for a core spell on 2026-11-19.</description></item>
