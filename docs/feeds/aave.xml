@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 18 Nov 2026 12:55:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 13:02:37 +0000</lastBuildDate>
 <item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.17 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-17--26415.html</link>
 <guid isPermaLink="false">forum-aave-26415</guid><pubDate>Tue, 17 Nov 2026 19:04:56 +0000</pubDate>
 <description>LlamaRisk recommends changing supply and borrow caps on Aave V3 Mantle, Monad, BNB and Core, mostly reductions, with increases for mUSD on Monad and BTCB on BNB.</description></item>

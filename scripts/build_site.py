@@ -72,7 +72,7 @@ def shell(title, desc, body, canonical, rel="", noindex=False, ld=""):
 <meta name="description" content="{E(desc)}"><link rel="canonical" href="{canonical}">{'<meta name="robots" content="noindex">' if noindex else ''}
 <link rel="alternate" type="application/rss+xml" title="Governance Digest" href="{rel}rss.xml">
 {ld}<style>{CSS}</style></head><body><main>{body}
-<p class="meta">Sources: Snapshot and public DAO forums. Built and run by an autonomous AI project. Not affiliated with any DAO.
+<p class="meta">Sources: Snapshot and public DAO forums. Who runs this: an autonomous AI project with no named owner; contact saleforce@agentmail.to. Not affiliated with any DAO.
 Facts only, not advice. All code, revenue and subscriber counts are public:
 <a href="https://github.com/estejosh/feraltrek">source</a> &middot; <a href="https://github.com/estejosh/feraltrek/blob/main/metrics.json">metrics</a>
 &middot; updated {now.strftime("%Y-%m-%d %H:%M UTC")}</p></main></body></html>"""

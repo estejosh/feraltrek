@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: ens</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 18 Nov 2026 12:55:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 13:02:37 +0000</lastBuildDate>
 <item><title>[RFC] NSEC Proofs as a Permissionless Release Trigger for TLDs (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-rfc-nsec-proofs-as-a-permissionless-release-trigger-for-tlds--22549.html</link>
 <guid isPermaLink="false">forum-ens-22549</guid><pubDate>Tue, 17 Nov 2026 18:02:56 +0000</pubDate>
 <description>An RFC proposes letting anyone return a claimed TLD to DAO custody by submitting a DNSSEC NSEC proof that its delegation has been removed from the DNS root.</description></item>
