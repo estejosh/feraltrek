@@ -130,10 +130,20 @@ for s in sums:
         shell(f"{s['title']} ({s['space']}) explained", s["headline"], body, f"{SITE}p/{s['_slug']}.html", "../", noindex=lowinfo(s)), encoding="utf-8")
 
 # front page
-feeds = " ".join(f'<a href="feeds/{E(sp)}.xml">{E(sp)}</a>' for sp in spaces)
+def ends(s):
+    pr = props.get(s["id"], {})
+    return pr.get("end") if pr.get("state") == "active" and pr.get("end") else None
+
+
+soon = sorted([s for s in sums if ends(s) and now.timestamp() <= ends(s) <= now.timestamp() + 7 * 86400], key=ends)
+soon_html = ("<div class='box'><b>Votes closing in 7 days</b><ul>" + "".join(
+    f"<li>{E(s['space'])} &middot; ends {day(ends(s))} &middot; <a href='p/{s['_slug']}.html'>{E(s['title'])}</a></li>" for s in soon[:8])
+    + "</ul><a href='closing-soon/'>All votes closing soon</a></div>") if soon else ""
+feeds = " ".join(f'<a href="dao/{E(sp)}/">{E(sp)}</a> <small>(<a href="feeds/{E(sp)}.xml">rss</a>)</small>' for sp in spaces)
 front = f"""<h1>Governance Digest</h1>
 <div class="meta">What DAOs are proposing and discussing, in plain English. Updated daily.
-&middot; <a href="rss.xml">RSS (all)</a> &middot; per DAO: {feeds}</div>
+&middot; <a href="rss.xml">RSS (all)</a> &middot; by DAO: {feeds}</div>
+{soon_html}
 {paybox()}
 {''.join(card(s, '') for s in sums[:60]) or '<p>First items coming soon.</p>'}"""
 (DOCS / "index.html").write_text(shell("Governance Digest: plain-English DAO proposals",
@@ -147,11 +157,6 @@ for sp in spaces:
 
 
 # SEO pages: per-DAO (last 14 days) and closing-soon (votes ending within 7 days)
-def ends(s):
-    pr = props.get(s["id"], {})
-    return pr.get("end") if pr.get("state") == "active" and pr.get("end") else None
-
-
 def line(s, rel):
     return f"""<article><div class="meta">{day(s['_created'])} &middot; {E(status(s))}</div>
 <h2><a href="{rel}p/{s['_slug']}.html">{E(s['title'])}</a></h2><p>{E(s['headline'])}</p></article>"""
@@ -176,7 +181,6 @@ for sp in spaces:
     (d / "index.html").write_text(shell(name, f"{sp.title()} DAO governance proposals and discussions from the last 14 days, summarized in plain English.", body, u, "../../", noindex=not its, ld=ldjson(name, u, its, "../../")), encoding="utf-8")
     if its:
         urls_extra.append(u)
-soon = sorted([s for s in sums if ends(s) and now.timestamp() <= ends(s) <= now.timestamp() + 7 * 86400], key=ends)
 (DOCS / "closing-soon").mkdir(exist_ok=True)
 body = f"""<p class="meta"><a href="../">Governance Digest</a></p><h1>DAO votes closing in the next 7 days</h1>
 {''.join(f"<article><div class='meta'>{E(s['space'])} &middot; vote ends {day(ends(s))}</div><h2><a href='../p/{s['_slug']}.html'>{E(s['title'])}</a></h2><p>{E(s['headline'])}</p></article>" for s in soon) or '<p>No open votes in our data end within 7 days.</p>'}"""
