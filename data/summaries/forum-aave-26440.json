@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26440",
+  "space": "aave",
+  "title": "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.18",
+  "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-18/26440",
+  "headline": "LlamaRisk recommends small Slope 1 rate increases on five Aave V4 stablecoin hub reserves and higher add caps for the NVDAc and METAc tokenized equities on the Base Equities Hub.",
+  "summary": "Rates: Slope 1 for frxUSD on the Ethereum Core Hub from 4.00% to 4.25% (the first of two steps toward a proposed 4.50%); USDT on Core 4.50% to 4.60%; USDT and USDC on the Plus Hub 4.70% to 4.80%; USDC on the Avalanche Core Hub 4.50% to 4.60%. These reserves carry about 58.0M in aggregate debt, mostly USDT and frxUSD on the Ethereum Core Hub; base rate, optimal usage and Slope 2 are unchanged, so at or above optimal usage the borrow rate rises by the full Slope 1 change. Caps on Base: NVDAc add cap on the Equities Hub MAG7 Spoke from 35K to 45K (69.2% utilized, 53.8% after) and METAc from 10K to 20K (58.1% utilized, 29.1% after). The post says NVDAc supply is concentrated (largest position about 28%, top three about 58%) and METAc likewise (largest about 27%, top three about 53%), with most top borrowers borrowing USDC against them at health factors between roughly 1.16 and 2.60. The stablecoin rate adjustments originate from a TokenLogic proposal.",
+  "risk_flags": ["parameter changes via Risk Stewards", "concentrated collateral supply", "tokenized equity collateral"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

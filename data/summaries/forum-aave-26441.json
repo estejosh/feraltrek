@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26441",
+  "space": "aave",
+  "title": "[ARFC] Expand Coinbase Tokenized Equities on Base",
+  "url": "https://governance.aave.com/t/arfc-expand-coinbase-tokenized-equities-on-base/26441",
+  "headline": "An ARFC proposes adding six Coinbase tokenized equities (Netflix, Oracle, Palantir, AMD, ServiceNow, Strategy) as collateral-only reserves on the Aave V4 Equities Hub on Base.",
+  "summary": "The six tokens (NFLXc, ORCLc, PLTRc, AMDc, NOWc, MSTRc) share the Base stack of the Mag7 tokens already on the hub (B20 token standard, Coinbase Token Supply Manager) and would be priced by Chainlink total return feeds on the 24/5 template; MSTRc's feed is already live. They would join the Mag-7 Spoke as collateral only, with USDC as the borrowable asset. Proposed collateral factors: NFLXc 71%, ORCLc 58%, PLTRc 58%, AMDc 49%, NOWc 50%, MSTRc 47%. Max liquidation bonus is 5.5% (6.5% for MSTRc, which also carries a 10% risk premium). Add caps are USD 5M of collateral per token, USD 30M in total; the spoke's USDC draw cap stays at USD 21M. One-year volatility ranges from 36.2% (NFLX) to 81.1% (MSTR). The post says each stock clears the listing floor of USD 2B market cap and USD 50M median daily traded value by a factor of 25 or more and none reports going-concern doubt. Five are S&P 500 constituents; Strategy is Nasdaq-listed but not an index member. Open questions include how thin on-chain liquidity behaves for volatile names.",
+  "risk_flags": ["new volatile collateral assets", "total USD 30M add caps", "MSTRc carries 10% risk premium", "24/5 oracle feed"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

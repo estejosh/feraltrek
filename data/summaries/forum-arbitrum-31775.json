@@ -1,0 +1,11 @@
+{
+  "id": "forum-arbitrum-31775",
+  "space": "arbitrum",
+  "title": "Deprecation Notice: eth_sendRawTransactionConditional",
+  "url": "https://forum.arbitrum.foundation/t/deprecation-notice-eth-sendrawtransactionconditional/31775",
+  "headline": "Offchain Labs gives notice it intends to disable the eth_sendRawTransactionConditional RPC method on Arbitrum One and Nova by Jan 17, 2027, after a 30-day comment period and 30-day grace period.",
+  "summary": "The method (ERC-7796) was activated by AIP-2 in 2023 for ERC-4337 bundlers. Offchain Labs says its review found no known genuine bundler usage: of about 5.0M conditional calls on Arbitrum One over Sept 29 - Oct 29, 2026, about 48K (0.97%) succeeded, 74% of failures were premature TimestampMin, and a 14-day on-chain review traced measured traffic to two automated searcher fleets rather than bundlers. Alternatives considered (rate limits, OP Stack-style cost caps, an allow-list) were rejected as adding complexity. Timeline: notice Nov 18, 2026; comment period closes Dec 18, 2026; method disabled at the public sequencer endpoints Jan 17, 2027, returning a method-not-found error; Nitro code removal follows in a later release. Calls to eth_sendRawTransaction are unchanged. No DAO funds, governance action or contract upgrade is requested. The post includes a conflicts statement: Offchain Labs develops Nitro, runs the sequencer, and develops the ZeroDev UltraRelay bundler, which does not use this method. Bundler or app operators who rely on the method are asked to reply before Dec 18.",
+  "risk_flags": ["removes an RPC method", "usage data gathered by the proposing party", "comment period ends Dec 18 2026"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

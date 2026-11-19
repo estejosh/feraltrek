@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28430",
+  "space": "sky",
+  "title": "[November 23, 2026] Grove Governance Proposals: Grove Artifact Edit Proposal",
+  "url": "https://forum.sky.money/t/november-23-2026-grove-governance-proposals-grove-artifact-edit-proposal/28430",
+  "headline": "Grove Labs proposes adding Steakhouse Financial's new SteakhouseOperator contract as an Allocator on seven Grove x Steakhouse Morpho vaults, to be decided in a Grove poll opening Nov 23.",
+  "summary": "Steakhouse Financial, which allocates the vaults' assets, is replacing its several allocator contracts and addresses with one contract, SteakhouseOperator. Adding an Allocator needs governance approval under the Grove Artifact; the change needs no spell, because the Curator Multisig (2-of-2: Steakhouse Financial and Soter Labs) executes it if the poll passes. Seven vaults are covered: Ethereum USDC, AUSD, RLUSD, USDG and PYUSD, Base USDC, and Robinhood Chain USDG. After the addition, the older allocator addresses are removed (disclosure only), leaving each vault with SteakhouseOperator and the Morpho Public Allocator (plus a USDG Faucet on Robinhood Chain). An Allocator can allocate only among existing adapters and markets within the Curator's caps; the post says no adapter, market or cap is added. SteakhouseOperator is an upgradeable contract owned by a 3-of-9 Safe. The post states neither the core contract nor its seven facets have been audited, and that relying on it needs approval from the Protocol Security Workstream Lead before the poll. The poll opens Monday Nov 23 and runs three days; there is no timelock.",
+  "risk_flags": ["unaudited contracts per the post", "upgradeable contract", "no timelock on execution", "needs security lead approval before poll"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

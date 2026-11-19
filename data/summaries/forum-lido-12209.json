@@ -1,0 +1,11 @@
+{
+  "id": "forum-lido-12209",
+  "space": "lido",
+  "title": "RFP: open Ethereum validator signers for on-prem and isolated hardware",
+  "url": "https://research.lido.fi/t/rfp-open-ethereum-validator-signers-for-on-prem-and-isolated-hardware/12209",
+  "headline": "A Lido RFP invites proposals for open-source validator signers that keep keys inside hardware the operator controls, with grants expected well below $50k.",
+  "summary": "The post cites two node operators that had to exit Lido validators after infrastructure compromises (Sep 2025 and Sep 2026) and seeks signers where root access to the host does not expose the key or yield a slashable signature. Lido contributors are building one (tee-signer, for cloud TEEs); this RFP wants alternative implementations usable by any validator, with specs, maintenance and support for Curated Module operators. Accepted approaches include CPU TEEs on operator servers, Arm TrustZone, secure elements, HSMs, or an existing remote signer run inside such a boundary. Conditions: on-prem support required, works with stock validator clients of at least 3 consensus clients, no tee-signer code, threshold signing welcome. Grants are up to Boulder-size in LEGO terms, expected under $50k, paid in stablecoins: 25% on approval, 50% after the signer meets the appendix and has 30 days of live duties, 25% over 9 months of maintenance. Applicants commit 18 months. Proposals go in Community Grants / Initiatives; there is no deadline and the LEGO Council aims to decide within two weeks. The appendix lists technical requirements and public test sets.",
+  "risk_flags": ["grant funding up to roughly $50k", "milestone-based payments", "no deadline"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

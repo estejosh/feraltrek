@@ -1,0 +1,11 @@
+{
+  "id": "forum-compound-8272",
+  "space": "compound",
+  "title": "[Gauntlet] Mantle USDe Comet: Closing Remaining Positions",
+  "url": "https://www.comp.xyz/t/gauntlet-mantle-usde-comet-closing-remaining-positions/8272",
+  "headline": "Gauntlet and Woof recommend lowering liquidation collateral factors to 0.5% on the deprecated Mantle USDe Comet so the last 10 open borrow positions can be absorbed and the market wound down.",
+  "summary": "Gauntlet began deprecating the Mantle USDe Comet earlier this year by setting supply caps and borrow collateral factors to 0. After most surplus reserves were withdrawn, utilization rose to around 250% and the largest supplier cannot withdraw because the comet has no liquidity. The recommendation sets the Liquidation Collateral Factor to 0.5% for WETH (from 87%), mETH (from 85%) and FBTC (from 83%), making every remaining borrow position eligible for absorption. Ten accounts have open borrows totaling about 58,377 USDe (excluding accrued interest), backed by about 78.4 WETH, 4.7 mETH and 0.026 FBTC; one account holds about 52.9K of the debt (91%) at roughly 40% debt to collateral. The lowest position sits at 17.5%. The post says the cause is market structure, not collateral risk, and that 0.5% matches the Scroll USDC Comet wind down. Absorbed borrowers keep remaining equity as a withdrawable USDe supply balance (about $71K for the largest). Borrowers are urged to repay before execution to avoid the liquidation penalty. Seized collateral would be sold through buyCollateral.",
+  "risk_flags": ["forced liquidation of all open borrows", "one account holds 91% of debt", "utilization around 250%", "borrowers face liquidation penalty"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26439",
+  "space": "aave",
+  "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.18",
+  "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-18/26439",
+  "headline": "LlamaRisk recommends Aave V3 cap changes (WBTC supply cap up, USDT borrow cap up, USDC borrow cap down, two Horizon caps down) and a set of stablecoin interest-rate tweaks across several instances.",
+  "summary": "Caps on Aave V3 Core: WBTC supply cap from 35,500 to 36,000 (reserve at 98.4% utilization); USDT borrow cap from 2.56B to 2.7B (97.2% utilization); USDC borrow cap from 2.95B to 2.7B (87.5% utilization, borrows down about 5% since Nov 11). On Aave V3 Horizon: USCC supply cap from 7.5M to 3M (supply down 73.8% in 30 days) and USTB from 8M to 2M (down 36.7%). Interest rates: Slope 1 up 10 bps on 11 stablecoin reserves across Core, Base, Avalanche, Optimism, Plasma, Monad and Mantle; EURC on Base Slope 1 from 7.50% to 7.00%; USDC on Base optimal utilization from 90% to 92%; USDC on Arbitrum Slope 1 from 4.30% to 4.40% with optimal utilization 90% to 92%; a USD-denominated asset on X Layer with Slope 1 4.50% to 5.00%, Slope 2 20% to 10% and optimal utilization 92%; USDe on Mantle base variable borrow rate from 6.60% to 7.00%. The post gives health-factor distributions of top suppliers and borrowers (for example top-20 WBTC suppliers between 1.17 and 6.03). Changes are made through the Risk Stewards.",
+  "risk_flags": ["parameter changes via Risk Stewards", "caps near full utilization", "rate changes on multiple instances"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

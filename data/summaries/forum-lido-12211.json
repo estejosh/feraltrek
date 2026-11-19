@@ -1,0 +1,11 @@
+{
+  "id": "forum-lido-12211",
+  "space": "lido",
+  "title": "LEGO Grant Proposal: eth-dvt-signer",
+  "url": "https://research.lido.fi/t/lego-grant-proposal-eth-dvt-signer/12211",
+  "headline": "A one-person project asks for a $37,000 LEGO grant to build eth-dvt-signer, a threshold validator signer for on-prem AMD SEV-SNP hardware, in response to the Lido signer RFP.",
+  "summary": "The proposal answers the Lido RFP for open validator signers. Design as described: n nodes hold shares of each validator key and any n-f can sign, produced by a dealerless DKG, so no node or operator holds the whole key. Each duty passes BFT consensus that computes the signing root and applies EIP-3076 slashing protection before partial signatures are released. Nodes run as sealed AMD SEV-SNP guests on the operator's own EPYC servers, with GCP Confidential VMs as an optional target. Validator clients connect through the standard remote-signing API. It is MIT-licensed and contains no tee-signer code. It has been tested with Lighthouse, Teku and Nimbus on a devnet; Prysm, Lodestar and a load test (target 3,200 validators per cluster) are part of milestone M1. The ask is $37,000 in stablecoins on the RFP's 25/50/25 schedule, with $9,250 on approval, and the 30-day live mark expected in February 2027. Stated limits: a simultaneous rollback of every node is caught only with the optional WORM anchor, and there is no hardware monotonic counter. The team is one engineer; the post lists prior experience.",
+  "risk_flags": ["grant request $37,000", "single-person team", "known limits stated in post", "key setup tested but load test pending"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-19"
+}

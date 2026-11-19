@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 18 Nov 2026 13:02:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:54:49 +0000</lastBuildDate>
+<item><title>[December 3, 2026] Proposed changes to Osero for upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-proposed-changes-to-osero-for-upcoming-spell--28433.html</link>
+<guid isPermaLink="false">forum-sky-28433</guid><pubDate>Thu, 19 Nov 2026 10:18:06 +0000</pubDate>
+<description>Proposed changes for the Dec 3, 2026 spells would let Osero send USDS to and subscribe USDS in a Test NFAT Facility for the NFAT Pilot, and raise Osero&#x27;s allocator vault debt ceiling from 100M to 500M USDS.</description></item>
+<item><title>[November 23, 2026] Grove Governance Proposals: Grove Artifact Edit Proposal (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-23-2026-grove-governance-proposals-grove-artifact-edit-proposal--28430.html</link>
+<guid isPermaLink="false">forum-sky-28430</guid><pubDate>Wed, 18 Nov 2026 17:30:20 +0000</pubDate>
+<description>Grove Labs proposes adding Steakhouse Financial&#x27;s new SteakhouseOperator contract as an Allocator on seven Grove x Steakhouse Morpho vaults, to be decided in a Grove poll opening Nov 23.</description></item>
 <item><title>DAO Resolution - TACO Foundation Supervisor Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-dao-resolution-taco-foundation-supervisor-changes--28429.html</link>
 <guid isPermaLink="false">forum-sky-28429</guid><pubDate>Tue, 17 Nov 2026 23:08:39 +0000</pubDate>
 <description>A DAO resolution would direct the directors of TACO Foundation to appoint Fortification Foundation as its supervisor, replacing the existing one.</description></item>

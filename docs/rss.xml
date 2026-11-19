@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 18 Nov 2026 13:02:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:54:49 +0000</lastBuildDate>
+<item><title>LEGO Grant Proposal: eth-dvt-signer (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-eth-dvt-signer--12211.html</link>
+<guid isPermaLink="false">forum-lido-12211</guid><pubDate>Thu, 19 Nov 2026 10:22:18 +0000</pubDate>
+<description>A one-person project asks for a $37,000 LEGO grant to build eth-dvt-signer, a threshold validator signer for on-prem AMD SEV-SNP hardware, in response to the Lido signer RFP.</description></item>
+<item><title>[December 3, 2026] Proposed changes to Osero for upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-proposed-changes-to-osero-for-upcoming-spell--28433.html</link>
+<guid isPermaLink="false">forum-sky-28433</guid><pubDate>Thu, 19 Nov 2026 10:18:06 +0000</pubDate>
+<description>Proposed changes for the Dec 3, 2026 spells would let Osero send USDS to and subscribe USDS in a Test NFAT Facility for the NFAT Pilot, and raise Osero&#x27;s allocator vault debt ceiling from 100M to 500M USDS.</description></item>
+<item><title>Zodiac Reality Module on the legacy Safe: Invalid or No? (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-zodiac-reality-module-on-the-legacy-safe-invalid-or-no--12543.html</link>
+<guid isPermaLink="false">forum-gnosis-12543</guid><pubDate>Thu, 19 Nov 2026 02:15:13 +0000</pubDate>
+<description>A forum post says a question about a proposal that does not exist on Snapshot was submitted to the Reality module of GnosisDAO&#x27;s legacy Safe, and argues the correct answer is No.</description></item>
+<item><title>[ARFC] Expand Coinbase Tokenized Equities on Base (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-expand-coinbase-tokenized-equities-on-base--26441.html</link>
+<guid isPermaLink="false">forum-aave-26441</guid><pubDate>Wed, 18 Nov 2026 20:58:51 +0000</pubDate>
+<description>An ARFC proposes adding six Coinbase tokenized equities (Netflix, Oracle, Palantir, AMD, ServiceNow, Strategy) as collateral-only reserves on the Aave V4 Equities Hub on Base.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.18 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-18--26440.html</link>
+<guid isPermaLink="false">forum-aave-26440</guid><pubDate>Wed, 18 Nov 2026 20:57:45 +0000</pubDate>
+<description>LlamaRisk recommends small Slope 1 rate increases on five Aave V4 stablecoin hub reserves and higher add caps for the NVDAc and METAc tokenized equities on the Base Equities Hub.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.18 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-18--26439.html</link>
+<guid isPermaLink="false">forum-aave-26439</guid><pubDate>Wed, 18 Nov 2026 20:55:32 +0000</pubDate>
+<description>LlamaRisk recommends Aave V3 cap changes (WBTC supply cap up, USDT borrow cap up, USDC borrow cap down, two Horizon caps down) and a set of stablecoin interest-rate tweaks across several instances.</description></item>
+<item><title>Deprecation Notice: eth_sendRawTransactionConditional (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-deprecation-notice-eth-sendrawtransactionconditional--31775.html</link>
+<guid isPermaLink="false">forum-arbitrum-31775</guid><pubDate>Wed, 18 Nov 2026 20:02:54 +0000</pubDate>
+<description>Offchain Labs gives notice it intends to disable the eth_sendRawTransactionConditional RPC method on Arbitrum One and Nova by Jan 17, 2027, after a 30-day comment period and 30-day grace period.</description></item>
+<item><title>RFP: open Ethereum validator signers for on-prem and isolated hardware (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-rfp-open-ethereum-validator-signers-for-on-prem-and-isolated-hardware--12209.html</link>
+<guid isPermaLink="false">forum-lido-12209</guid><pubDate>Wed, 18 Nov 2026 19:34:20 +0000</pubDate>
+<description>A Lido RFP invites proposals for open-source validator signers that keep keys inside hardware the operator controls, with grants expected well below $50k.</description></item>
+<item><title>[November 23, 2026] Grove Governance Proposals: Grove Artifact Edit Proposal (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-23-2026-grove-governance-proposals-grove-artifact-edit-proposal--28430.html</link>
+<guid isPermaLink="false">forum-sky-28430</guid><pubDate>Wed, 18 Nov 2026 17:30:20 +0000</pubDate>
+<description>Grove Labs proposes adding Steakhouse Financial&#x27;s new SteakhouseOperator contract as an Allocator on seven Grove x Steakhouse Morpho vaults, to be decided in a Grove poll opening Nov 23.</description></item>
+<item><title>[Gauntlet] Mantle USDe Comet: Closing Remaining Positions (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-mantle-usde-comet-closing-remaining-positions-d-8272.html</link>
+<guid isPermaLink="false">forum-compound-8272</guid><pubDate>Wed, 18 Nov 2026 17:28:37 +0000</pubDate>
+<description>Gauntlet and Woof recommend lowering liquidation collateral factors to 0.5% on the deprecated Mantle USDe Comet so the last 10 open borrow positions can be absorbed and the market wound down.</description></item>
+<item><title>[Direct-to-AIP] Asset Listing - USDC Plasma (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-asset-listing-usdc-plasma--26438.html</link>
+<guid isPermaLink="false">forum-aave-26438</guid><pubDate>Wed, 18 Nov 2026 16:18:15 +0000</pubDate>
+<description>TokenLogic proposes listing Circle&#x27;s native USDC on the Aave V3 Plasma instance, configured in line with USDT0, and adding it as a borrowable asset to eight eMode categories.</description></item>
+<item><title>Safenet Aegis Rewards Distribution - Period 2 (safe)</title><link>https://estejosh.github.io/feraltrek/p/safe-safenet-aegis-rewards-distribution-period-2-e-7211.html</link>
+<guid isPermaLink="false">forum-safe-7211</guid><pubDate>Wed, 18 Nov 2026 14:34:22 +0000</pubDate>
+<description>A post reports that Safenet Aegis rewards for the Oct 27 - Nov 10, 2026 period were distributed on Nov 18 after the permissionless Reality.eth approval process.</description></item>
 <item><title>DAO Resolution - TACO Foundation Supervisor Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-dao-resolution-taco-foundation-supervisor-changes--28429.html</link>
 <guid isPermaLink="false">forum-sky-28429</guid><pubDate>Tue, 17 Nov 2026 23:08:39 +0000</pubDate>
 <description>A DAO resolution would direct the directors of TACO Foundation to appoint Fortification Foundation as its supervisor, replacing the existing one.</description></item>
@@ -115,40 +151,4 @@
 <item><title>Should Equities Hub carry a custodian-level exposure limit? Every reserve on it is custodied at Alpaca (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-should-equities-hub-carry-a-custodian-level-exposure-limit-every-reserve-on--26267.html</link>
 <guid isPermaLink="false">forum-aave-26267</guid><pubDate>Thu, 12 Nov 2026 16:45:47 +0000</pubDate>
 <description>A forum post asks whether the Aave V4 Base Equities hub should have a combined exposure limit per custodian, since all eight of its reserves are custodied at one broker-dealer.</description></item>
-<item><title>[Direct-to-AIP] Reserve Factor Updates Across Aave V3 and V2 Markets (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-reserve-factor-updates-across-aave-v3-and-v2-markets--26249.html</link>
-<guid isPermaLink="false">forum-aave-26249</guid><pubDate>Thu, 12 Nov 2026 05:48:15 +0000</pubDate>
-<description>TokenLogic proposes raising Reserve Factors on 54 reserves across 12 Aave V3 instances and Aave V2 Ethereum, which the post says adds about $3.5M a year of DAO revenue and lifts the blended factor from 12.0% to 12.7%.</description></item>
-<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.12 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-12--26233.html</link>
-<guid isPermaLink="false">forum-aave-26233</guid><pubDate>Wed, 11 Nov 2026 21:50:04 +0000</pubDate>
-<description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.75B to 2.95B, after the reserve reached 99.0% of its current cap.</description></item>
-<item><title>[ARFC] Dynamic Caps Oracle: Rate Limiter (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-dynamic-caps-oracle-rate-limiter--26219.html</link>
-<guid isPermaLink="false">forum-aave-26219</guid><pubDate>Wed, 11 Nov 2026 17:00:38 +0000</pubDate>
-<description>LlamaRisk proposes LlamaGuard Caps, a borrow rate limiter for Aave V3 that gives each reserve limited borrowing room which refills automatically, so large draws have to wait and the Protocol Guardian has time to react.</description></item>
-<item><title>[ARFC] Repositioning Aave V3 Core Around Established &amp; Liquid Collateral (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-repositioning-aave-v3-core-around-established-liquid-collateral--26191.html</link>
-<guid isPermaLink="false">forum-aave-26191</guid><pubDate>Tue, 10 Nov 2026 19:33:53 +0000</pubDate>
-<description>LlamaRisk proposes to freeze rsETH, osETH, LBTC, tBTC, rETH and some smaller reserves on Aave V3 Core, which together held $1.33B of collateral backing $1.03B of debt as of 9 November 2026.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.10 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-10--26181.html</link>
-<guid isPermaLink="false">forum-aave-26181</guid><pubDate>Tue, 10 Nov 2026 16:10:57 +0000</pubDate>
-<description>LlamaRisk recommends 14 supply and borrow cap changes across Aave V3 markets, mostly reductions, with one increase for WBTC on Arbitrum.</description></item>
-<item><title>11 November, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-11-november-2026-roundup-of-active-upcoming-votes--31691.html</link>
-<guid isPermaLink="false">forum-arbitrum-31691</guid><pubDate>Tue, 10 Nov 2026 15:52:20 +0000</pubDate>
-<description>The 11 November roundup lists three on-chain Arbitrum proposals with voting ending November 12, including 100M ARB more for a USDG program and a 1,800 ETH treasury transfer, plus a temperature check on releasing frozen funds.</description></item>
-<item><title>Should the gnosis DAO fund a Compensation Plan in GNO for Affected Users of Personal Data Leak? (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-should-the-gnosis-dao-fund-a-compensation-plan-in-gno-for-affected-users---12503.html</link>
-<guid isPermaLink="false">forum-gnosis-12503</guid><pubDate>Tue, 10 Nov 2026 15:33:39 +0000</pubDate>
-<description>A draft GIP asks GnosisDAO to fund up to 25,000 GNO so each verified user affected by a personal-data leak receives the equivalent of $500 in GNO.</description></item>
-<item><title>Circle Wrapped Bitcoin (cirBTC) on Aave Ethereum Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-circle-wrapped-bitcoin-cirbtc-on-aave-ethereum-assessments--26179.html</link>
-<guid isPermaLink="false">forum-aave-26179</guid><pubDate>Tue, 10 Nov 2026 15:08:56 +0000</pubDate>
-<description>Low-information proposal</description></item>
-<item><title>Security Council Membership Rotation - November 2026 (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-security-council-membership-rotation-november-2026--31682.html</link>
-<guid isPermaLink="false">forum-arbitrum-31682</guid><pubDate>Tue, 10 Nov 2026 02:34:34 +0000</pubDate>
-<description>An announcement says Immunefi&#x27;s representative on the Arbitrum Security Council, who left Immunefi, will keep serving in a personal capacity after 9 of 12 members voted to allow it.</description></item>
-<item><title>Node Operator Admission: Galaxy Digital as stVault Professional Operator (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-node-operator-admission-galaxy-digital-as-stvault-professional-operator--12190.html</link>
-<guid isPermaLink="false">forum-lido-12190</guid><pubDate>Mon, 09 Nov 2026 21:29:18 +0000</pubDate>
-<description>Galaxy Digital applies to join Lido as an stVaults Professional Operator, citing existing client requests and a first stVault targeted for end of 2026 or early Q1 2027.</description></item>
-<item><title>Maintenance Upgrade Proposal: Soneium Mainnet Proposer Rotation and Fee Vault Config Update (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-maintenance-upgrade-proposal-soneium-mainnet-proposer-rotation-and-fee---10978.html</link>
-<guid isPermaLink="false">forum-optimism-10978</guid><pubDate>Mon, 09 Nov 2026 18:37:19 +0000</pubDate>
-<description>A maintenance upgrade proposal would rotate the Soneium dispute game proposer to OP Enterprise and repoint two fee vaults to its cost recipient, as Soneium&#x27;s operator moves from Sony to the Optimism Foundation.</description></item>
-<item><title>Arbitrum Audit Program: Q4 &amp; Final Transparency Report (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-arbitrum-audit-program-q4-final-transparency-report--31681.html</link>
-<guid isPermaLink="false">forum-arbitrum-31681</guid><pubDate>Mon, 09 Nov 2026 17:24:40 +0000</pubDate>
-<description>The final report on the DAO-approved Arbitrum Audit Program says 367 applications led to 25 audits for 22 projects, at a total audit expenditure of $1,477,810.</description></item>
 </channel></rss>

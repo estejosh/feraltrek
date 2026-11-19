@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 18 Nov 2026 13:02:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:54:49 +0000</lastBuildDate>
+<item><title>[ARFC] Expand Coinbase Tokenized Equities on Base (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-expand-coinbase-tokenized-equities-on-base--26441.html</link>
+<guid isPermaLink="false">forum-aave-26441</guid><pubDate>Wed, 18 Nov 2026 20:58:51 +0000</pubDate>
+<description>An ARFC proposes adding six Coinbase tokenized equities (Netflix, Oracle, Palantir, AMD, ServiceNow, Strategy) as collateral-only reserves on the Aave V4 Equities Hub on Base.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.18 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-18--26440.html</link>
+<guid isPermaLink="false">forum-aave-26440</guid><pubDate>Wed, 18 Nov 2026 20:57:45 +0000</pubDate>
+<description>LlamaRisk recommends small Slope 1 rate increases on five Aave V4 stablecoin hub reserves and higher add caps for the NVDAc and METAc tokenized equities on the Base Equities Hub.</description></item>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.18 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-18--26439.html</link>
+<guid isPermaLink="false">forum-aave-26439</guid><pubDate>Wed, 18 Nov 2026 20:55:32 +0000</pubDate>
+<description>LlamaRisk recommends Aave V3 cap changes (WBTC supply cap up, USDT borrow cap up, USDC borrow cap down, two Horizon caps down) and a set of stablecoin interest-rate tweaks across several instances.</description></item>
+<item><title>[Direct-to-AIP] Asset Listing - USDC Plasma (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-asset-listing-usdc-plasma--26438.html</link>
+<guid isPermaLink="false">forum-aave-26438</guid><pubDate>Wed, 18 Nov 2026 16:18:15 +0000</pubDate>
+<description>TokenLogic proposes listing Circle&#x27;s native USDC on the Aave V3 Plasma instance, configured in line with USDT0, and adding it as a borrowable asset to eight eMode categories.</description></item>
 <item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.17 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-17--26415.html</link>
 <guid isPermaLink="false">forum-aave-26415</guid><pubDate>Tue, 17 Nov 2026 19:04:56 +0000</pubDate>
 <description>LlamaRisk recommends changing supply and borrow caps on Aave V3 Mantle, Monad, BNB and Core, mostly reductions, with increases for mUSD on Monad and BTCB on BNB.</description></item>
@@ -139,16 +151,4 @@
 <item><title>Tokenized Amazon.com, Inc. shares (AMZNc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-amazon-com-inc-shares-amznc-on-aave-base-assessments--25937.html</link>
 <guid isPermaLink="false">forum-aave-25937</guid><pubDate>Thu, 29 Oct 2026 13:51:25 +0000</pubDate>
 <description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Amazon shares (AMZNc) on Aave Base.</description></item>
-<item><title>Tokenized Apple Inc. shares (AAPLc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-apple-inc-shares-aaplc-on-aave-base-assessments--25936.html</link>
-<guid isPermaLink="false">forum-aave-25936</guid><pubDate>Thu, 29 Oct 2026 13:47:44 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Apple shares (AAPLc) on Aave Base.</description></item>
-<item><title>[Direct to AIP] Whitelist New CoW Protocol Adapters as Flash Borrowers on Aave V3/V4 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-whitelist-new-cow-protocol-adapters-as-flash-borrowers-on-aav--25931.html</link>
-<guid isPermaLink="false">forum-aave-25931</guid><pubDate>Wed, 28 Oct 2026 15:20:34 +0000</pubDate>
-<description>Aave Labs proposes registering new Aave swap adapter factories as approved flash borrowers on several Aave V3 markets, so adapter routes pay no flash loan fee.</description></item>
-<item><title>Tether America USD (USAT) on Aave Avalanche Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tether-america-usd-usat-on-aave-avalanche-assessments--25927.html</link>
-<guid isPermaLink="false">forum-aave-25927</guid><pubDate>Mon, 26 Oct 2026 20:31:49 +0000</pubDate>
-<description>Aave opened the assessment thread for listing Tether America USD (USAT) on Aave Avalanche.</description></item>
-<item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.10.26 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-increases-on-aave-v4-2026-10-26--25926.html</link>
-<guid isPermaLink="false">forum-aave-25926</guid><pubDate>Mon, 26 Oct 2026 19:42:34 +0000</pubDate>
-<description>LlamaRisk recommends raising supply and borrow caps across Aave V4 on Ethereum and Arc, including USDC, USDG, WETH, weETH, LINK and syrupUSDC, citing demand and liquidity.</description></item>
 </channel></rss>
