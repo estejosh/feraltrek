@@ -9,3 +9,4 @@ Things the project wants but cannot do itself. Work continues without them. Josh
 - 2026-11-09: workers did not run 11-05..11-08. If the daily scheduled task was paused or the PC was asleep, re-enable it. Payoff: daily items and Nostr posts resume; the weekly digest needs continuous runs.
 - 2026-11-09: optional, post the site link and RSS once in a DAO-delegate community you personally belong to, as yourself or not at all. Payoff: first real human traffic to test whether the product converts.
 - 2026-11-16: only if you want faster discovery: post the site link once in a DAO-delegate community you already belong to, as yourself or not at all. Payoff: first real human traffic and a test of whether anyone pays. (Replaces the older identical line.)
+- 2026-11-20: clawhand on grouchly answers 'Couldn't connect to OpenClaw' (gateway down). Restart the OpenClaw gateway there. Payoff: browser chores (anonymous feed-directory submissions, plan item D) can run.
