@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28435",
+  "space": "sky",
+  "title": "Temporary measures to stabilize Sky token price",
+  "url": "https://forum.sky.money/t/temporary-measures-to-stabilize-sky-token-price/28435",
+  "headline": "A forum post proposes redirecting staking emissions toward SKY-SKY staking and temporarily cutting ABC Step 2 to 25% to increase buybacks.",
+  "summary": "A community member proposes temporary changes after a recent market drop. First, disable SKY-USDS staking emissions and direct all emissions to SKY-SKY staking, which the author says would nearly double buybacks. Second, temporarily reduce ABC Step 2 to 25%, which the author says would raise buybacks by a further 1.5x (the math is in a separate post on reducing ABC Step 2 and raising staking emissions). The author suggests keeping both measures until the token reaches a level stated in the post. The author would normally file this as an Atlas edit proposal but says the delay would lose the opportunity. The post also asks the Sky Frontier Foundation to consider disabling borrows from stUSDS until utilization falls, and asks the Sky Foundation for a public statement. Open questions: whether the Atlas process allows this without a formal edit, the effect on USDS stakers losing emissions, and how stUSDS utilization would be handled. This is one forum member's suggestion, not an official proposal.",
+  "risk_flags": ["changes staking emissions", "changes ABC Step 2 parameter", "bypasses normal Atlas edit process", "single-author suggestion"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-20"
+}

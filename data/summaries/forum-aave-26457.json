@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26457",
+  "space": "aave",
+  "title": "Risk Stewards: Supply and Borrow Cap and IRM Changes on Aave V3 / 2026.11.20",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-and-irm-changes-on-aave-v3-2026-11-20/26457",
+  "headline": "LlamaRisk recommends raising Aave V3 Core caps (USDC borrow to 4B, USDe, sUSDe, WBTC), cutting many caps across other instances, and setting rsETH-family supply caps to 1.",
+  "summary": "LlamaRisk recommends another set of cap and rate changes. On Core: USDC borrow cap 2.7B to 4B, USDT borrow 2.7B to 2.8B, USDe supply 750M to 1B, sUSDe supply 210M to 400M, WBTC supply 36,000 to 50,000, and WETH variableRateSlope1 from 2.20% to 2.10%. Reductions on Core: BTC.b 40 to 30, eBTC 100 to 85, tBTC 1,800 to 1, rsETH 530,000 to 1. rsETH and wrsETH supply caps are also set to 1 on Prime, Arbitrum, Avalanche, Base, Linea, MegaETH, Plasma and Mantle; the post notes these reserves are frozen, as is tBTC on Core. Further reductions cover Plasma, Mantle, Arbitrum, Avalanche, Base, Linea and X Layer. Reasons given include USDC at 98.5% of its borrow cap, concentrated suppliers (the largest USDe supplier holds 52.3%), and low health factors among large USDe and sUSDe suppliers (medians near 1.03). The WETH rate change would lower the variable borrow rate at current utilization from 2.00% to 1.91%. Open questions: effect of near-zero caps on frozen reserves and how concentrated positions behave if stablecoin prices shift.",
+  "risk_flags": ["USDC borrow cap up 48%", "caps set to 1 on frozen reserves", "concentrated suppliers", "interest rate curve change"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-20"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26456",
+  "space": "aave",
+  "title": "Aave V3.8 for integrators: what the reentrancy guard covers and what it leaves open",
+  "url": "https://governance.aave.com/t/aave-v3-8-for-integrators-what-the-reentrancy-guard-covers-and-what-it-leaves-open/26456",
+  "headline": "A technical forum post reviews Aave V3.8's new reentrancy lock: most Pool actions are now guarded, but flash loan callbacks stay open, as in V3.7.",
+  "summary": "The author says V3.8 went live on Ethereum Core on 11 November and that POOL_REVISION() returns 12 on the instances listed in the ARFC. Based on reading the code and running tests on a mainnet fork, the post reports that supply, withdraw, borrow, repay variants, liquidationCall, collateral and eMode setters, mintToTreasury and finalizeTransfer now take a reentrancy lock, at roughly 550 extra gas per guarded call. Flash loan functions only check the lock and never set it, so inside a flash loan callback behavior matches V3.7. The author reports that during a flash loan the Pool's virtual underlying balance is lowered before the callback, so a vault or router reading it in the same transaction can see a nearly empty reserve for the cost of the flash premium (5 bps on Core), and says this also applied in V3.7. There is no public getter for the lock; the post describes a staticcall probe to check it. Revision 12 is listed on most instances, while Scroll, Sonic and EtherFi are on 11, zkSync, Metis and Soneium on 10, and Horizon on 7. Open question for integrators: whether other contracts can be on the call stack when Pool reads are made. This is one author's analysis, not an official proposal.",
+  "risk_flags": ["technical analysis by single author", "flash loan callback remains open", "instances on different revisions"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-20"
+}

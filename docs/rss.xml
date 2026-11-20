@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 19 Nov 2026 13:01:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 12:56:06 +0000</lastBuildDate>
+<item><title>Risk Stewards: Supply and Borrow Cap and IRM Changes on Aave V3 / 2026.11.20 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-and-irm-changes-on-aave-v3-2026-11-20--26457.html</link>
+<guid isPermaLink="false">forum-aave-26457</guid><pubDate>Fri, 20 Nov 2026 11:08:13 +0000</pubDate>
+<description>LlamaRisk recommends raising Aave V3 Core caps (USDC borrow to 4B, USDe, sUSDe, WBTC), cutting many caps across other instances, and setting rsETH-family supply caps to 1.</description></item>
+<item><title>Aave V3.8 for integrators: what the reentrancy guard covers and what it leaves open (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-v3-8-for-integrators-what-the-reentrancy-guard-covers-and-what-it-leav--26456.html</link>
+<guid isPermaLink="false">forum-aave-26456</guid><pubDate>Fri, 20 Nov 2026 10:57:45 +0000</pubDate>
+<description>A technical forum post reviews Aave V3.8&#x27;s new reentrancy lock: most Pool actions are now guarded, but flash loan callbacks stay open, as in V3.7.</description></item>
+<item><title>Immediate one-off SKY buyback (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-immediate-one-off-sky-buyback--28439.html</link>
+<guid isPermaLink="false">forum-sky-28439</guid><pubDate>Thu, 19 Nov 2026 19:28:10 +0000</pubDate>
+<description>The Core Council announces a one-off buyback of SKY: 750k USDS a day for 7 days (5.25M USDS total), with the SKY burned.</description></item>
+<item><title>Risk Stewards: Supply and Borrow Cap and IRM Changes on Aave V3 / 2026.11.19 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-and-irm-changes-on-aave-v3-2026-11-19--26447.html</link>
+<guid isPermaLink="false">forum-aave-26447</guid><pubDate>Thu, 19 Nov 2026 15:28:05 +0000</pubDate>
+<description>LlamaRisk recommends raising several Aave V3 Core supply caps (USDC to 5B, WETH, wstETH, cbBTC, weETH) and cutting caps on Plasma, Mantle, Monad, Optimism, Polygon and Gnosis.</description></item>
+<item><title>Temporary measures to stabilize Sky token price (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-temporary-measures-to-stabilize-sky-token-price--28435.html</link>
+<guid isPermaLink="false">forum-sky-28435</guid><pubDate>Thu, 19 Nov 2026 14:27:59 +0000</pubDate>
+<description>A forum post proposes redirecting staking emissions toward SKY-SKY staking and temporarily cutting ABC Step 2 to 25% to increase buybacks.</description></item>
+<item><title>Security Council: Lead Election (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-security-council-lead-election--10991.html</link>
+<guid isPermaLink="false">forum-optimism-10991</guid><pubDate>Thu, 19 Nov 2026 13:20:43 +0000</pubDate>
+<description>Optimism opens the election for the Security Council Lead, a 24-month role that now also recruits and nominates the Council&#x27;s key holders. Self-nominations close 25 November.</description></item>
 <item><title>LEGO Grant Proposal: eth-dvt-signer (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-eth-dvt-signer--12211.html</link>
 <guid isPermaLink="false">forum-lido-12211</guid><pubDate>Thu, 19 Nov 2026 10:22:18 +0000</pubDate>
 <description>A one-person project asks for a $37,000 LEGO grant to build eth-dvt-signer, a threshold validator signer for on-prem AMD SEV-SNP hardware, in response to the Lido signer RFP.</description></item>
@@ -133,22 +151,4 @@
 <item><title>Aave Labs. Request for Bounty Payout - November 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-request-for-bounty-payout-november-2026--26313.html</link>
 <guid isPermaLink="false">forum-aave-26313</guid><pubDate>Fri, 13 Nov 2026 15:16:18 +0000</pubDate>
 <description>Aave Labs asks for release of a 1,000 USD bounty for one valid bug bounty submission, plus a 100 USD Immunefi fee, 1,100 USD in total.</description></item>
-<item><title>[Direct-to-AIP] November 2026 - Funding Update (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-november-2026-funding-update--26312.html</link>
-<guid isPermaLink="false">forum-aave-26312</guid><pubDate>Fri, 13 Nov 2026 14:05:46 +0000</pubDate>
-<description>TokenLogic posts the November funding update: acquire GHO to extend runway, consolidate cross-network assets onto Ethereum, deposit idle ETH, and fund a bug bounty and incentives.</description></item>
-<item><title>Expand the CSMC Mandate to Cover Additional Penalty Cases (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-expand-the-csmc-mandate-to-cover-additional-penalty-cases-8e415c.html</link>
-<guid isPermaLink="false">0x2abd5c6c05b74a847f64967ca553f55a96bfe6ce01a34e6bd7887b98538e415c</guid><pubDate>Fri, 13 Nov 2026 13:10:04 +0000</pubDate>
-<description>Proposes letting the Community Staking Module Committee use the existing General Delayed Penalty mechanism for validator slashing and other protocol-harming incidents, not only MEV stealing.</description></item>
-<item><title>[Direct-to-AIP] Ethena E-Mode Consolidation on Aave V3 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-ethena-e-mode-consolidation-on-aave-v3--26304.html</link>
-<guid isPermaLink="false">forum-aave-26304</guid><pubDate>Fri, 13 Nov 2026 12:19:38 +0000</pubDate>
-<description>TokenLogic proposes common reference e-modes for Ethena collateral (USDe, sUSDe) on five Aave V3 markets and retiring legacy e-modes whose Pendle tokens have matured.</description></item>
-<item><title>Technical Maintenance Proposals (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-technical-maintenance-proposals--26300.html</link>
-<guid isPermaLink="false">forum-aave-26300</guid><pubDate>Fri, 13 Nov 2026 10:58:38 +0000</pubDate>
-<description>Aave Labs opens a single thread for technical maintenance updates across Aave deployments from November 2026, such as oracle feed updates and permission cleanups.</description></item>
-<item><title>Core Vaults parameter changes - Set DC-IAM line to 0 on ETH-A, ETH-B, ETH-C, WSTETH-A, and WSTETH-B (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-core-vaults-parameter-changes-set-dc-iam-line-to-0-on-eth-a-eth-b-eth-c-wste--28399.html</link>
-<guid isPermaLink="false">forum-sky-28399</guid><pubDate>Thu, 12 Nov 2026 18:19:07 +0000</pubDate>
-<description>BA Labs, acting as Core Council Risk Advisor, recommends setting the debt ceilings of five Sky Core vault types to 0, which would stop new USDS minting through them while leaving existing vaults usable.</description></item>
-<item><title>Should Equities Hub carry a custodian-level exposure limit? Every reserve on it is custodied at Alpaca (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-should-equities-hub-carry-a-custodian-level-exposure-limit-every-reserve-on--26267.html</link>
-<guid isPermaLink="false">forum-aave-26267</guid><pubDate>Thu, 12 Nov 2026 16:45:47 +0000</pubDate>
-<description>A forum post asks whether the Aave V4 Base Equities hub should have a combined exposure limit per custodian, since all eight of its reserves are custodied at one broker-dealer.</description></item>
 </channel></rss>

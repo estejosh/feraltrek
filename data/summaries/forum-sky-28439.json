@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28439",
+  "space": "sky",
+  "title": "Immediate one-off SKY buyback",
+  "url": "https://forum.sky.money/t/immediate-one-off-sky-buyback/28439",
+  "headline": "The Core Council announces a one-off buyback of SKY: 750k USDS a day for 7 days (5.25M USDS total), with the SKY burned.",
+  "summary": "The Core Council says it will seek to immediately trigger an extraordinary one-off buyback of SKY using the process in the Atlas, described as a temporary measure to calm markets. It runs at 750,000 USDS per day for 7 days, 5.25M USDS in total, on top of the Smart Burn Engine's existing buybacks. Staking rewards are unchanged and the SKY bought is burned. The Council acts under its authority to modify the Treasury Management allocation (A.2.3.1.5), exercised through a public post by the Core Facilitator, confirmed by Core GovOps and the Core Council Risk Advisor. The buyback runs through the Smart Burn Engine Bounded External Access Module (A.3.5.2.4) and, per the post, fits inside bounds Sky Governance already set, so no Executive Vote is needed. Steps: the Risk Advisor posts a recommendation, the Core Facilitator posts agreement, the Operator Multisig executes, and execution is announced publicly. After 7 days the Smart Burn Engine parameters are reset through the same process. Open questions: whether the module bounds are in fact sufficient and how reset is confirmed.",
+  "risk_flags": ["treasury spend 5.25M USDS", "executed without Executive Vote", "temporary parameter change"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-20"
+}

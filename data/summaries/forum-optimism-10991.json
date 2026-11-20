@@ -1,0 +1,11 @@
+{
+  "id": "forum-optimism-10991",
+  "space": "optimism",
+  "title": "Security Council: Lead Election",
+  "url": "https://gov.optimism.io/t/security-council-lead-election/10991",
+  "headline": "Optimism opens the election for the Security Council Lead, a 24-month role that now also recruits and nominates the Council's key holders. Self-nominations close 25 November.",
+  "summary": "The thread starts the election for the Optimism Security Council Lead under the Security Council Charter. The Lead serves 24 months with no term limit. Under the updated Charter the role is expanded: besides coordinating Council operations, the Lead recruits and nominates key-holding members, who are then confirmed by the Token House through a veto vote. The Lead is procedural, is not a key holder and cannot influence signing decisions. Duties include alerting key holders to upgrade proposals, managing timelines, onboarding, scheduling meetings, publishing a summary of the selection process, and proposing the Council operating budget every 12 months. Composition rules: fewer participants in any one country than the multisig quorum, at least 50% outside core development teams, and no more than one participant per entity. The Foundation recommends the Lead be paid at least 1.5x a key-holding member. Process: candidates post their own self-nomination thread by 25 November 19:00 GMT, need approval comments from four of the Top 100 delegates by 26 November 19:00 GMT, then voting runs 26 November to 2 December using approval voting for a single seat, with a quorum of 30% of active votable supply. The winner must pass Foundation eligibility screening, including KYC/AML and sanctions checks. Open questions: who will stand, and how the larger scope affects the budget.",
+  "risk_flags": ["expanded Lead powers (recruits key holders)", "compensation increase recommended", "Foundation screening required"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-20"
+}

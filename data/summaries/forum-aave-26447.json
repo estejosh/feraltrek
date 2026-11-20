@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26447",
+  "space": "aave",
+  "title": "Risk Stewards: Supply and Borrow Cap and IRM Changes on Aave V3 / 2026.11.19",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-and-irm-changes-on-aave-v3-2026-11-19/26447",
+  "headline": "LlamaRisk recommends raising several Aave V3 Core supply caps (USDC to 5B, WETH, wstETH, cbBTC, weETH) and cutting caps on Plasma, Mantle, Monad, Optimism, Polygon and Gnosis.",
+  "summary": "LlamaRisk recommends parameter changes from its latest review of Aave V3 reserves. On Core: USDC supply cap 3.5B to 5B, WETH supply 2.2M to 2.5M and borrow 1.81M to 1.85M, wstETH supply 900k to 1.3M, cbBTC 22,500 to 40,000, weETH 1.42M to 1.6M. Other instances: reductions on Plasma (USDT0, USDe), Mantle (syrupUSDT), Monad (USDC borrow cap, plus mUSD optimalUsageRatio 80% to 83%), Optimism (USDC, WETH, wstETH, WBTC), Polygon (USDC) and Gnosis (EURe); Arbitrum WBTC rises from 3,630 to 4,000. The stated reasons: USDC is at 99.6% of its Core supply cap and WETH at 97.3% supply and 99.3% borrow utilization. Top-20 WETH borrowers show health factors from 1.01 to 4.51 (median 1.03), with 18 of 20 using staked-ETH collateral. The post gives post-change utilization, for example about 69.7% for USDC supply. Open questions: how concentrated suppliers affect the caps, and how health factors hold up if ETH moves. These are recommendations from a risk provider, not yet executed.",
+  "risk_flags": ["supply cap increases up to 43%", "many cap reductions on smaller instances", "low median health factor among top WETH borrowers"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-20"
+}
