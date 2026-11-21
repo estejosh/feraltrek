@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 20 Nov 2026 12:56:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 15:28:48 +0000</lastBuildDate>
+<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.21 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-21--26470.html</link>
+<guid isPermaLink="false">forum-aave-26470</guid><pubDate>Sat, 21 Nov 2026 10:26:35 +0000</pubDate>
+<description>A risk-service forum post recommends raising borrow caps for WETH, cbBTC and WBTC on Aave V3 Core.</description></item>
+<item><title>[ARFC] - Enable LiquidityBufferController Sweeps via Circle Gateway on Aave V4 Ethereum Core Hub (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-enable-liquiditybuffercontroller-sweeps-via-circle-gateway-on-aave-v4---26469.html</link>
+<guid isPermaLink="false">forum-aave-26469</guid><pubDate>Fri, 20 Nov 2026 22:32:21 +0000</pubDate>
+<description>A proposal would let Aave V4 move idle USDC from the Ethereum Core Hub into Circle Gateway to earn yield.</description></item>
+<item><title>Coinbase Wrapped BTC (cbBTC) on Aave Tempo Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-coinbase-wrapped-btc-cbbtc-on-aave-tempo-assessments--26468.html</link>
+<guid isPermaLink="false">forum-aave-26468</guid><pubDate>Fri, 20 Nov 2026 20:59:30 +0000</pubDate>
+<description>Low-information post: a thread collecting risk assessments for cbBTC on Aave Tempo.</description></item>
+<item><title>[Direct-To-AIP] Umbrella Reward Renewal and Parameter Update on Aave V3 Core (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-umbrella-reward-renewal-and-parameter-update-on-aave-v3-core--26462.html</link>
+<guid isPermaLink="false">forum-aave-26462</guid><pubDate>Fri, 20 Nov 2026 18:01:08 +0000</pubDate>
+<description>A direct-to-AIP proposal would extend Aave V3 Umbrella rewards to April 2, 2027 and raise stablecoin target liquidity.</description></item>
+<item><title>Risk Stewards: Cap Changes on Aave V4 / 2026.11.20 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-changes-on-aave-v4-2026-11-20--26458.html</link>
+<guid isPermaLink="false">forum-aave-26458</guid><pubDate>Fri, 20 Nov 2026 14:01:31 +0000</pubDate>
+<description>A risk-service forum post recommends raising several supply and borrow caps on Aave V4 and lowering the LBTC cap.</description></item>
 <item><title>Risk Stewards: Supply and Borrow Cap and IRM Changes on Aave V3 / 2026.11.20 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-and-irm-changes-on-aave-v3-2026-11-20--26457.html</link>
 <guid isPermaLink="false">forum-aave-26457</guid><pubDate>Fri, 20 Nov 2026 11:08:13 +0000</pubDate>
 <description>LlamaRisk recommends raising Aave V3 Core caps (USDC borrow to 4B, USDe, sUSDe, WBTC), cutting many caps across other instances, and setting rsETH-family supply caps to 1.</description></item>
@@ -136,19 +151,4 @@
 <item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-29--25949.html</link>
 <guid isPermaLink="false">forum-aave-25949</guid><pubDate>Thu, 29 Oct 2026 17:14:34 +0000</pubDate>
 <description>LlamaRisk recommends cap and interest-rate changes for Aave V4 on Ethereum, Avalanche and Base, including a USDC draw cap increase on the Core Hub Main Spoke from 36M to 60M.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-29--25948.html</link>
-<guid isPermaLink="false">forum-aave-25948</guid><pubDate>Thu, 29 Oct 2026 17:07:32 +0000</pubDate>
-<description>LlamaRisk recommends supply cap, borrow cap and interest-rate changes across several Aave V3 instances, including a cbETH supply cap increase on Base and cap reductions on Avalanche and X Layer.</description></item>
-<item><title>Tokenized Space Exploration Technologies Corp. shares (SPCXc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-space-exploration-technologies-corp-shares-spcxc-on-aave-base-ass--25943.html</link>
-<guid isPermaLink="false">forum-aave-25943</guid><pubDate>Thu, 29 Oct 2026 14:00:06 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized SpaceX shares (SPCXc) on Aave Base.</description></item>
-<item><title>Tokenized Tesla, Inc. shares (TSLAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-tesla-inc-shares-tslac-on-aave-base-assessments--25942.html</link>
-<guid isPermaLink="false">forum-aave-25942</guid><pubDate>Thu, 29 Oct 2026 13:58:43 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Tesla shares (TSLAc) on Aave Base.</description></item>
-<item><title>Tokenized NVIDIA Corporation shares (NVDAc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-nvidia-corporation-shares-nvdac-on-aave-base-assessments--25941.html</link>
-<guid isPermaLink="false">forum-aave-25941</guid><pubDate>Thu, 29 Oct 2026 13:56:43 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized NVIDIA shares (NVDAc) on Aave Base.</description></item>
-<item><title>Tokenized Microsoft Corporation shares (MSFTc) on Aave Base Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tokenized-microsoft-corporation-shares-msftc-on-aave-base-assessments--25940.html</link>
-<guid isPermaLink="false">forum-aave-25940</guid><pubDate>Thu, 29 Oct 2026 13:55:24 +0000</pubDate>
-<description>Low-information proposal: a forum thread collecting risk and technical assessments of tokenized Microsoft shares (MSFTc) on Aave Base.</description></item>
 </channel></rss>

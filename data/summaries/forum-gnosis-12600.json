@@ -1,0 +1,14 @@
+{
+  "id": "forum-gnosis-12600",
+  "space": "gnosis",
+  "title": "GIP-[XXX]: Blockscout SLA and Hosting Renewal (January 2027 - December 2027)",
+  "url": "https://forum.gnosis.io/t/gip-xxx-blockscout-sla-and-hosting-renewal-january-2027-december-2027/12600",
+  "headline": "A draft Gnosis funding proposal asks for $106,800 to renew Blockscout explorer hosting and SLA for 2027.",
+  "summary": "A draft Gnosis improvement proposal from the Blockscout team asks GnosisDAO to fund a one-year renewal (January to December 2027) of its service agreement and hosting for the Gnosis block explorer, API and developer infrastructure. The requested amount is $106,800, which the author says is about 7% lower than the 2025 proposal because of database optimizations and storage savings. It replaces GIP-144. The author says everything committed in GIP-144 was delivered, including a Universal Bridge Indexer for the Gnosis bridge, a standalone open-source service that indexes cross-chain activity and is integrated into the explorer UI and API. The author also says Gnosis was able to cancel a previous Etherscan support contract, saving a large annual cost. The post is a draft with a placeholder GIP number, and the vote shows no voters yet. Open questions: the full deliverables list for 2027, and how the claimed savings were measured.",
+  "risk_flags": [
+    "funding request 106,800 USD",
+    "draft, number not yet assigned"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-21"
+}

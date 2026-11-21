@@ -1,0 +1,14 @@
+{
+  "id": "forum-sky-28443",
+  "space": "sky",
+  "title": "stUSDS liquidation ratio",
+  "url": "https://forum.sky.money/t/stusds-liquidation-ratio/28443",
+  "headline": "A forum post alleges Sky governance never restored the stUSDS liquidation ratio to 145% after lowering it to 120%.",
+  "summary": "A forum post refers to a November 26, 2025 post that proposed lowering the LSEV2-SKY-A liquidation ratio to 120% and the sticky oracle max price to 2.5 cents, and stated the ratio must return to 145% before the cap could be raised. The poster says that at Ethereum block 26,447,036 (November 19, 2026) the ratio is still 120%, the capped oracle returns $0.025 and LOCKSTAKE_CLIP.stopped() is 3. The poster alleges the change was meant to be temporary and was forgotten, and says leaving it at 120% carries higher risk for suppliers. These claims are from one forum post and are not confirmed by the source material. Open questions: whether the ratio is intended to stay at 120%, and whether a proposal to change it is planned.",
+  "risk_flags": [
+    "unverified allegation",
+    "liquidation ratio 120%"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-21"
+}

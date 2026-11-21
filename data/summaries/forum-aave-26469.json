@@ -1,0 +1,15 @@
+{
+  "id": "forum-aave-26469",
+  "space": "aave",
+  "title": "[ARFC] - Enable LiquidityBufferController Sweeps via Circle Gateway on Aave V4 Ethereum Core Hub",
+  "url": "https://governance.aave.com/t/arfc-enable-liquiditybuffercontroller-sweeps-via-circle-gateway-on-aave-v4-ethereum-core-hub/26469",
+  "headline": "A proposal would let Aave V4 move idle USDC from the Ethereum Core Hub into Circle Gateway to earn yield.",
+  "summary": "TokenLogic, working with Aave Labs, presents the first LiquidityBufferController for Aave V4. It would let part of the idle USDC in Aave V4 USDC reserves be swept into Circle Gateway to generate yield, starting with the Ethereum Core Hub. The post says swept USDC still counts as supplied liquidity, so utilization and borrow rates are unchanged, but swept USDC is not immediately available for withdrawals or borrowing until returned to the Hub. Gateway was chosen because USDC can be redeemed 1:1 almost instantly. The post says withdrawals from Gateway settle one at a time, so large returns happen in stages, and the controller's parameters are sized for this. It states there is no new credit exposure beyond Circle as issuer, with added operational risks in Circle's attestation service, the keeper, the Gateway contracts and the timing of liquidity returning. The post recommends initial parameters for the Ethereum Core Hub USDC reserve. Open questions: the exact parameter values and behavior during heavy withdrawals.",
+  "risk_flags": [
+    "new yield strategy for idle USDC",
+    "operational risk: attestation service, keeper, Gateway contracts",
+    "staged return of liquidity"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-21"
+}

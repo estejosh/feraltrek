@@ -1,0 +1,15 @@
+{
+  "id": "forum-aave-26470",
+  "space": "aave",
+  "title": "Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.21",
+  "url": "https://governance.aave.com/t/risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-21/26470",
+  "headline": "A risk-service forum post recommends raising borrow caps for WETH, cbBTC and WBTC on Aave V3 Core.",
+  "summary": "A forum post from LlamaRisk recommends raising borrow caps on Aave V3 Core: WETH from 1,850,000 to 2,150,000, cbBTC from 250 to 500, and WBTC from 900 to 1,500. It reports WETH at 99.5% borrow cap utilization with reserve utilization of 86.3%, and says the top twenty WETH borrowers have health factors between 1.01 and 4.94 with a median of 1.04, with 18 of 20 posting LST or LRT collateral. The new WETH cap would put utilization at about 85.7%; the post notes the 92.00% optimal utilization corresponds to about 1.96M of borrows at current supply. cbBTC is at 99.6% of its cap with reserve utilization of 1.0%; the largest borrower accounts for 67.1% of cbBTC debt, and the new cap would put utilization near 49.8%. WBTC is at 89.7% of its cap with reserve utilization of 2.2%. Open questions: how health factors behave if LST or LRT exchange rates move against ETH.",
+  "risk_flags": [
+    "borrow cap increases",
+    "low borrower health factors (median 1.04 for WETH)",
+    "concentrated cbBTC borrowing"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-21"
+}

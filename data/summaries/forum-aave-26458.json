@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-26458",
+  "space": "aave",
+  "title": "Risk Stewards: Cap Changes on Aave V4 / 2026.11.20",
+  "url": "https://governance.aave.com/t/risk-stewards-cap-changes-on-aave-v4-2026-11-20/26458",
+  "headline": "A risk-service forum post recommends raising several supply and borrow caps on Aave V4 and lowering the LBTC cap.",
+  "summary": "A forum post from LlamaRisk recommends parameter changes on Aave V4 based on its review of user behavior, on-chain liquidity and position health. On Ethereum, the add cap for wstETH on the Core Hub Main Spoke would rise from 40K to 60K, the USDC add cap from 85M to 110M, and the USDC draw cap from 60M to 85M. The add cap for LBTC on the Core Hub Lombard BTC Spoke would fall from 45 to 5. On Avalanche, the sAVAX add cap on the Core Hub AVAX Correlated Spoke would rise from 1M to 1.5M. The post says the wstETH add cap is 84.7% utilized (33,868 of 40,000) and would be about 56.4% utilized at 60K. It reports that wstETH supply on the Main Spoke is moderately concentrated: the largest position holds about 24%, the top three about 46% and the top twenty about 84%. It reports that USDC supply is more dispersed (largest position about 10%) and USDC borrowing is moderately concentrated (largest about 11%, top twenty about 58%). Open questions: how the caps are enacted, and how position health would behave if collateral prices fall.",
+  "risk_flags": [
+    "cap increases on Aave V4 reserves",
+    "concentrated wstETH supply"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-21"
+}

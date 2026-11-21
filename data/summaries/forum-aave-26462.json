@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-26462",
+  "space": "aave",
+  "title": "[Direct-To-AIP] Umbrella Reward Renewal and Parameter Update on Aave V3 Core",
+  "url": "https://governance.aave.com/t/direct-to-aip-umbrella-reward-renewal-and-parameter-update-on-aave-v3-core/26462",
+  "headline": "A direct-to-AIP proposal would extend Aave V3 Umbrella rewards to April 2, 2027 and raise stablecoin target liquidity.",
+  "summary": "A direct-to-AIP post by TokenLogic proposes extending the Umbrella reward period for USDC, USDT and WETH on Aave V3 Core, which ends December 2, 2026, to April 2, 2027, renewing the Collector allowances and updating parameters set in its June update. Target Liquidity would rise from 38.84M to 45.80M for USDC and from 40.37M to 45.20M for USDT, reflecting half of each loan book's growth since June. The APY at target would fall to 2.50% for both, from 3.14% (USDC) and 3.17% (USDT). WETH Target Liquidity stays at 18,716 WETH with annual emissions unchanged at 470 aEthWETH until rsETH and osETH offboarding completes. Annual spend at maximum emission would fall from $3.35M to $3.13M. The post says USDC loans grew 36%, USDT loans 24% and WETH loans 15% since June, and that in early November one account borrowed more than $330M of USDC within a few hours. It says rsETH and osETH loops behind 23% of WETH debt are to migrate, unwind or move to V4. Open questions: how the repositioning of Core collateral will play out.",
+  "risk_flags": [
+    "treasury emissions spend about 3.13M USD per year",
+    "concentrated recent USDC borrowing"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-21"
+}

@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 20 Nov 2026 12:56:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 15:28:48 +0000</lastBuildDate>
+<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.21 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-21--26470.html</link>
+<guid isPermaLink="false">forum-aave-26470</guid><pubDate>Sat, 21 Nov 2026 10:26:35 +0000</pubDate>
+<description>A risk-service forum post recommends raising borrow caps for WETH, cbBTC and WBTC on Aave V3 Core.</description></item>
+<item><title>stUSDS liquidation ratio (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-stusds-liquidation-ratio--28443.html</link>
+<guid isPermaLink="false">forum-sky-28443</guid><pubDate>Sat, 21 Nov 2026 00:34:05 +0000</pubDate>
+<description>A forum post alleges Sky governance never restored the stUSDS liquidation ratio to 145% after lowering it to 120%.</description></item>
+<item><title>[ARFC] - Enable LiquidityBufferController Sweeps via Circle Gateway on Aave V4 Ethereum Core Hub (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-enable-liquiditybuffercontroller-sweeps-via-circle-gateway-on-aave-v4---26469.html</link>
+<guid isPermaLink="false">forum-aave-26469</guid><pubDate>Fri, 20 Nov 2026 22:32:21 +0000</pubDate>
+<description>A proposal would let Aave V4 move idle USDC from the Ethereum Core Hub into Circle Gateway to earn yield.</description></item>
+<item><title>Coinbase Wrapped BTC (cbBTC) on Aave Tempo Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-coinbase-wrapped-btc-cbbtc-on-aave-tempo-assessments--26468.html</link>
+<guid isPermaLink="false">forum-aave-26468</guid><pubDate>Fri, 20 Nov 2026 20:59:30 +0000</pubDate>
+<description>Low-information post: a thread collecting risk assessments for cbBTC on Aave Tempo.</description></item>
+<item><title>[Direct-To-AIP] Umbrella Reward Renewal and Parameter Update on Aave V3 Core (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-umbrella-reward-renewal-and-parameter-update-on-aave-v3-core--26462.html</link>
+<guid isPermaLink="false">forum-aave-26462</guid><pubDate>Fri, 20 Nov 2026 18:01:08 +0000</pubDate>
+<description>A direct-to-AIP proposal would extend Aave V3 Umbrella rewards to April 2, 2027 and raise stablecoin target liquidity.</description></item>
+<item><title>GIP-[XXX]: Blockscout SLA and Hosting Renewal (January 2027 - December 2027) (gnosis)</title><link>https://estejosh.github.io/feraltrek/p/gnosis-gip-xxx-blockscout-sla-and-hosting-renewal-january-2027-december-2027--12600.html</link>
+<guid isPermaLink="false">forum-gnosis-12600</guid><pubDate>Fri, 20 Nov 2026 15:42:26 +0000</pubDate>
+<description>A draft Gnosis funding proposal asks for $106,800 to renew Blockscout explorer hosting and SLA for 2027.</description></item>
+<item><title>Risk Stewards: Cap Changes on Aave V4 / 2026.11.20 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-changes-on-aave-v4-2026-11-20--26458.html</link>
+<guid isPermaLink="false">forum-aave-26458</guid><pubDate>Fri, 20 Nov 2026 14:01:31 +0000</pubDate>
+<description>A risk-service forum post recommends raising several supply and borrow caps on Aave V4 and lowering the LBTC cap.</description></item>
 <item><title>Risk Stewards: Supply and Borrow Cap and IRM Changes on Aave V3 / 2026.11.20 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-and-irm-changes-on-aave-v3-2026-11-20--26457.html</link>
 <guid isPermaLink="false">forum-aave-26457</guid><pubDate>Fri, 20 Nov 2026 11:08:13 +0000</pubDate>
 <description>LlamaRisk recommends raising Aave V3 Core caps (USDC borrow to 4B, USDe, sUSDe, WBTC), cutting many caps across other instances, and setting rsETH-family supply caps to 1.</description></item>
@@ -130,25 +151,4 @@
 <item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-16 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-16--28410.html</link>
 <guid isPermaLink="false">forum-sky-28410</guid><pubDate>Sun, 15 Nov 2026 01:00:08 +0000</pubDate>
 <description>Core GovOps submits the weekly Atlas Edit batch for the week of 2026-11-16: five edits including a definition of Halo Agents and Sky Core Halos, new rate bounds for the Osero Diamond PAU on Base, and updated reference links.</description></item>
-<item><title>Aave Labs 180 Day Report (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-180-day-report--26342.html</link>
-<guid isPermaLink="false">forum-aave-26342</guid><pubDate>Fri, 13 Nov 2026 23:00:44 +0000</pubDate>
-<description>Aave Labs reports on its first 180 days as DAO service provider: about 97 team members, 6,096 tracked issues closed, 36 projects, and Aave V4 deposits growing to over 1.3 billion USD.</description></item>
-<item><title>MSC #14 - Settlement Summary (October 2026) (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-msc-14-settlement-summary-october-2026--28406.html</link>
-<guid isPermaLink="false">forum-sky-28406</guid><pubDate>Fri, 13 Nov 2026 18:49:53 +0000</pubDate>
-<description>The October 2026 settlement summary for Spark, Grove and Keel, published by Soter Labs for the Amatsu executor agent, includes Reconciliation IV once and says no payment has been executed.</description></item>
-<item><title>MSC Reconciliation IV - MSC #5-#13 (January-September 2026) (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-msc-reconciliation-iv-msc-5-13-january-september-2026--28405.html</link>
-<guid isPermaLink="false">forum-sky-28405</guid><pubDate>Fri, 13 Nov 2026 18:49:26 +0000</pubDate>
-<description>A reconciliation report proposes corrections to earlier monthly settlements for Spark, Grove, Osero and Obex, from a +536,094 USDS Sky-share adjustment for Spark to a -273,509 USDS supply-side adjustment for Obex.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.13 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-13--26317.html</link>
-<guid isPermaLink="false">forum-aave-26317</guid><pubDate>Fri, 13 Nov 2026 15:42:33 +0000</pubDate>
-<description>LlamaRisk recommends one cap increase (cbBTC) and several cuts on Aave V3 Core and Mantle, including USDT0 supply cap 312.5M to 150M.</description></item>
-<item><title>Risk Stewards: Cap Increases on Aave V4 / 2026.11.13 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-increases-on-aave-v4-2026-11-13--26316.html</link>
-<guid isPermaLink="false">forum-aave-26316</guid><pubDate>Fri, 13 Nov 2026 15:41:06 +0000</pubDate>
-<description>LlamaRisk recommends raising eight supply and borrow caps on Aave V4 (Ethereum and Avalanche), including USDC add cap 75M to 85M and USDt add cap 110M to 150M.</description></item>
-<item><title>Independent BUIDL flow record across all chains (open data) (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-independent-buidl-flow-record-across-all-chains-open-data--28403.html</link>
-<guid isPermaLink="false">forum-sky-28403</guid><pubDate>Fri, 13 Nov 2026 15:28:40 +0000</pubDate>
-<description>A forum poster shares an open-source nightly record of tokenized-fund flows, including BlackRock BUIDL mints and redemptions, and asks what alerts would be useful.</description></item>
-<item><title>Aave Labs. Request for Bounty Payout - November 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-aave-labs-request-for-bounty-payout-november-2026--26313.html</link>
-<guid isPermaLink="false">forum-aave-26313</guid><pubDate>Fri, 13 Nov 2026 15:16:18 +0000</pubDate>
-<description>Aave Labs asks for release of a 1,000 USD bounty for one valid bug bounty submission, plus a 100 USD Immunefi fee, 1,100 USD in total.</description></item>
 </channel></rss>

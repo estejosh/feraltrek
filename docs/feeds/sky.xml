@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Fri, 20 Nov 2026 12:56:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 15:28:48 +0000</lastBuildDate>
+<item><title>stUSDS liquidation ratio (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-stusds-liquidation-ratio--28443.html</link>
+<guid isPermaLink="false">forum-sky-28443</guid><pubDate>Sat, 21 Nov 2026 00:34:05 +0000</pubDate>
+<description>A forum post alleges Sky governance never restored the stUSDS liquidation ratio to 145% after lowering it to 120%.</description></item>
 <item><title>Immediate one-off SKY buyback (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-immediate-one-off-sky-buyback--28439.html</link>
 <guid isPermaLink="false">forum-sky-28439</guid><pubDate>Thu, 19 Nov 2026 19:28:10 +0000</pubDate>
 <description>The Core Council announces a one-off buyback of SKY: 750k USDS a day for 7 days (5.25M USDS total), with the SKY burned.</description></item>
