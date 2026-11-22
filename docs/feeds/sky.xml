@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sat, 21 Nov 2026 15:28:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 12:52:59 +0000</lastBuildDate>
+<item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-23 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-23--28446.html</link>
+<guid isPermaLink="false">forum-sky-28446</guid><pubDate>Sat, 21 Nov 2026 15:43:44 +0000</pubDate>
+<description>Core GovOps submits this week&#x27;s Atlas edits for Sky: NFAT pilot definitions, a Swap Asset Facet, higher Osero rate limits and housekeeping fixes. Discussion stage.</description></item>
 <item><title>stUSDS liquidation ratio (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-stusds-liquidation-ratio--28443.html</link>
 <guid isPermaLink="false">forum-sky-28443</guid><pubDate>Sat, 21 Nov 2026 00:34:05 +0000</pubDate>
 <description>A forum post alleges Sky governance never restored the stUSDS liquidation ratio to 145% after lowering it to 120%.</description></item>
