@@ -30,3 +30,12 @@ One entry per experiment. The un-drifter adds, closes, and judges them.
 
 - Interim review 2026-11-16 (un-drifter): KEEP. Day 7 of 14. SEO pages, JSON-LD, sitemap, IndexNow and WebSub live since 11-11..11-15; 118 items published (49 in 7d). 0 USDC, 0 payments, 0 subscribers, no traffic or reply data. Live-site check found stale status labels and no closing-soon block or HTML DAO links on the front page; fixing those, plus anonymous feed-directory submission (the one untried distribution step). Judgment on 11-23.
 
+
+- Result 2026-11-23 (un-drifter): CLOSED, no signal. 14 of 14 days. 164 items published (52 in 7d), 0 USDC, 0 payments, 0 subscribers, no inbound email, no measured traffic, replies or indexed-page data. Anonymous feed directories never tried (clawhand gateway down 11-20..11-23). Live site still has stale labels (Lido forum post "no vote yet" beside a closed vote; Sky "planned 11-19" items), an empty /closing-soon/, sample email with past dates, IndexNow 403 since 11-17. Three distribution experiments (organic, Nostr + item pages, feeds + SEO) all produced zero measurable human contact; the product also has a weak paid hook (free site has full analysis, deadline list is usually empty). Decision: PIVOT the product, keep the pipeline.
+
+## 4. Pivot: token unlock calendar (started 2026-11-23)
+- Hypothesis: "<token> unlock schedule / vesting" is a standing search query with real demand among crypto buyers. Free per-token pages from public data can rank on long tail; a paid Monday email of "unlocks in the next 7 days above a size threshold" (10 USDC on Base = 31 days) converts the few who want deadlines.
+- Channel: per-token SEO pages and RSS, sitemap, Nostr with token hashtags (side channel), anonymous feed directories when clawhand is up. Governance Digest stays live in maintenance mode (fetch + summarize + build, no new fixes).
+- Metric: USDC payments; secondary: inbound email, indexed pages, Nostr engagement.
+- Review by: 2026-12-07 (2 weeks). First gate 2026-11-26: a free public data source for unlock schedules must be confirmed with no key or paid API; if none, fall back to the second option in PLAN.md.
+- Result: (open)
