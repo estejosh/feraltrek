@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sun, 22 Nov 2026 12:52:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<item><title>Request for a clear stUSDS withdrawal and liquidity plan (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-request-for-a-clear-stusds-withdrawal-and-liquidity-plan--28450.html</link>
+<guid isPermaLink="false">forum-sky-28450</guid><pubDate>Mon, 23 Nov 2026 10:26:44 +0000</pubDate>
+<description>A forum post from an stUSDS holder asks Sky governance for a public plan to restore withdrawals, which the post says have been blocked for over a week.</description></item>
 <item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-23 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-23--28446.html</link>
 <guid isPermaLink="false">forum-sky-28446</guid><pubDate>Sat, 21 Nov 2026 15:43:44 +0000</pubDate>
 <description>Core GovOps submits this week&#x27;s Atlas edits for Sky: NFAT pilot definitions, a Swap Asset Facet, higher Osero rate limits and housekeeping fixes. Discussion stage.</description></item>

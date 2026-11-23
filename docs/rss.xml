@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Sun, 22 Nov 2026 12:52:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<item><title>Request for a clear stUSDS withdrawal and liquidity plan (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-request-for-a-clear-stusds-withdrawal-and-liquidity-plan--28450.html</link>
+<guid isPermaLink="false">forum-sky-28450</guid><pubDate>Mon, 23 Nov 2026 10:26:44 +0000</pubDate>
+<description>A forum post from an stUSDS holder asks Sky governance for a public plan to restore withdrawals, which the post says have been blocked for over a week.</description></item>
+<item><title>23 November, 2026 - Roundup of Active/Upcoming Votes (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-23-november-2026-roundup-of-active-upcoming-votes--31781.html</link>
+<guid isPermaLink="false">forum-arbitrum-31781</guid><pubDate>Mon, 23 Nov 2026 08:36:18 +0000</pubDate>
+<description>Arbitrum&#x27;s roundup lists an on-chain Constitutional AIP in which Binance asks the DAO to release frozen ETH and ARB; voting ends December 4.</description></item>
+<item><title>Security Council Lead Self-Nomination: alisha.eth (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-security-council-lead-self-nomination-alisha-eth--10995.html</link>
+<guid isPermaLink="false">forum-optimism-10995</guid><pubDate>Mon, 23 Nov 2026 02:42:25 +0000</pubDate>
+<description>The current Optimism Security Council Lead nominates themselves to continue in the Lead role.</description></item>
 <item><title>Atlas Edit Weekly Cycle Proposal - Week Of 2026-11-23 (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-atlas-edit-weekly-cycle-proposal-week-of-2026-11-23--28446.html</link>
 <guid isPermaLink="false">forum-sky-28446</guid><pubDate>Sat, 21 Nov 2026 15:43:44 +0000</pubDate>
 <description>Core GovOps submits this week&#x27;s Atlas edits for Sky: NFAT pilot definitions, a Swap Asset Facet, higher Osero rate limits and housekeeping fixes. Discussion stage.</description></item>
@@ -142,13 +151,4 @@
 <item><title>What factors should be considered when selecting Security Council members? (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-what-factors-should-be-considered-when-selecting-security-council-membe--10987.html</link>
 <guid isPermaLink="false">forum-optimism-10987</guid><pubDate>Sun, 15 Nov 2026 16:48:57 +0000</pubDate>
 <description>A community member proposes ten criteria for choosing Optimism Security Council members, including independence, disclosure and ongoing monitoring, while a separate proposal to change selection is under discussion.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.15 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-15--26376.html</link>
-<guid isPermaLink="false">forum-aave-26376</guid><pubDate>Sun, 15 Nov 2026 15:37:21 +0000</pubDate>
-<description>LlamaRisk recommends raising supply or borrow caps on four Aave V3 reserves (wstETH, mUSD, AAVE, EURe) across Core, Monad, Arbitrum and Gnosis, to be applied through the Risk Steward process.</description></item>
-<item><title>ENS DAO Newsletter #124 - 11/15/2026 (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-dao-newsletter-124-11-15-2026--22544.html</link>
-<guid isPermaLink="false">forum-ens-22544</guid><pubDate>Sun, 15 Nov 2026 15:25:53 +0000</pubDate>
-<description>Weekly ENS DAO newsletter: two social proposals on the endowment policy and two executable proposals (a roughly 200k USDC working-group funding request and a DNSSEC upgrade) are in discussion, plus the October endowment report.</description></item>
-<item><title>[Discussion] A Limited-Time Campaign: Lifetime Safe Pro Access for 100K+ SAFE Stakers (safe)</title><link>https://estejosh.github.io/feraltrek/p/safe-discussion-a-limited-time-campaign-lifetime-safe-pro-access-for-100k-safe-s-e-7201.html</link>
-<guid isPermaLink="false">forum-safe-7201</guid><pubDate>Sun, 15 Nov 2026 08:04:25 +0000</pubDate>
-<description>A forum user suggests a one-time, limited-window campaign giving lifetime access to the initial version of Safe Pro to users who stake at least 100,000 SAFE during a published eligibility period.</description></item>
 </channel></rss>
