@@ -1,0 +1,16 @@
+{
+  "id": "forum-aave-26486",
+  "space": "aave",
+  "title": "Risk Stewards: Draw Cap Increases on Aave V4 / 2026.11.24",
+  "url": "https://governance.aave.com/t/risk-stewards-draw-cap-increases-on-aave-v4-2026-11-24/26486",
+  "headline": "LlamaRisk recommends raising four draw caps on Aave V4 Ethereum Core Hub: WETH on two spokes, USDT and USDC.",
+  "summary": "LlamaRisk reports it will implement four draw-cap increases through the Risk Steward process. WETH on the EtherFi Spoke would go from 45K to 55K (now 98.3% used, 44,246 of 45,000); WETH on the Main Spoke from 3.3K to 6K (now 71.6%); USDT on the Main Spoke from 30M to 40M; and USDC on the Gold Spoke from 2M to 4M. The post says WETH borrowing is concentrated: on the Main Spoke the largest position holds about 94% of the drawn amount, at a health factor of 1.11. On the EtherFi Spoke the top twenty hold WETH debt against weETH at health factors between 1.00 and 1.20, median 1.02. It also notes further WETH draws are limited by 8,931 WETH of available liquidity on the Core Hub, where utilization is 84.6%. USDT borrowing on the Main Spoke is more dispersed, with the largest position near 10%.",
+  "risk_flags": [
+    "draw cap increases",
+    "concentrated borrowing",
+    "low health factors in top cohort",
+    "limited hub liquidity"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

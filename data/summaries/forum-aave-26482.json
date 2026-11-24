@@ -1,0 +1,15 @@
+{
+  "id": "forum-aave-26482",
+  "space": "aave",
+  "title": "[ARFC] Collateral Factor Update for Coinbase Tokenized Equities on Base",
+  "url": "https://governance.aave.com/t/arfc-collateral-factor-update-for-coinbase-tokenized-equities-on-base/26482",
+  "headline": "An ARFC proposes lowering collateral factors for six of eight Coinbase tokenized equities on the Aave V4 Equities Hub on Base, citing higher stock volatility.",
+  "summary": "The ARFC would update collateral factors for Coinbase tokenized equities on the Aave V4 Equities Hub on Base under the existing methodology, using data from 2026-11-19. Six of eight reserves would drop: MSFTc 79% to 65%, AAPLc 78% to 65%, GOOGLc 76% to 65%, AMZNc 73% to 65%, NVDAc 70% to 65%, and SPCXc 55% to 53%. METAc and TSLAc stay at 65%. Maximum liquidation bonuses, liquidation fees, collateral risk, caps and the USDC rate curve are unchanged. The post says no position would be liquidated by the update. Its reasoning: the typical S&P 500 stock's recent volatility rose from 27.9% to 34.1% a year, and the collateral factor is capped at 65% and derived from a haircut sized for a once-in-ten-years off-hours fall, the maximum liquidation bonus and an interest allowance. The new values would take effect as new risk configurations.",
+  "risk_flags": [
+    "collateral factor reductions",
+    "tokenized equities collateral",
+    "lower borrowing limits for existing users"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

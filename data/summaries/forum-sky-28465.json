@@ -1,0 +1,16 @@
+{
+  "id": "forum-sky-28465",
+  "space": "sky",
+  "title": "Proposed stUSDS liquidity and protection plan",
+  "url": "https://forum.sky.money/t/proposed-stusds-liquidity-and-protection-plan/28465",
+  "headline": "A forum post proposes locking the stUSDS rate at 10% APR, lowering the minimum from $30k to $10k, disabling new stUSDS borrows against Sky, and funding stUSDS buybacks from monthly Step 2 capital.",
+  "summary": "The author argues that very high borrow rates make repayment less likely and that stUSDS depositors mainly need assurance of repayment. Proposals: lock the stUSDS APR at 10% (the post calls 50% unsustainable); cut the minimum from $30k to $10k so smaller loans are easier to repay; disable stUSDS borrows against Sky for now; and have Sky buy back stUSDS from the market, using about $7M a month from Step 2, until the peg is restored to 0.98 or higher. The post estimates Sky could repurchase all stUSDS debt in roughly two years and says staking distributions of about $6M a month across 17.3B Sky would let borrowers repay over time. The author discloses holding a small stUSDS loan and says depositors in a chat server supported the idea. The post also says the top borrowers are the largest voters, a conflict of interest. Open questions: governance route and whether current loan terms can be changed.",
+  "risk_flags": [
+    "stUSDS liquidity stress",
+    "proposes rate lock and borrow restriction",
+    "treasury-funded buybacks",
+    "author discloses conflict of interest"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

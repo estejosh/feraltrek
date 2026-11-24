@@ -1,0 +1,16 @@
+{
+  "id": "forum-aave-26480",
+  "space": "aave",
+  "title": "[Discussion] Onboard cBTC (tacBTC) to Aave V3 Core and Aave V4 Core",
+  "url": "https://governance.aave.com/t/discussion-onboard-cbtc-tacbtc-to-aave-v3-core-and-aave-v4-core/26480",
+  "headline": "A forum post asks whether Aave should onboard tacBTC, the ERC-20 form of the cBTC token, to the V3 Core instance, the V4 Core Hub, or both.",
+  "summary": "The author introduces cBTC, a BTC token on Ethereum live since 2026-09-18. To mint it, a BTC owner creates a lock on Bitcoin and a wstETH escrow of at least 1.5x the lock's value is posted; the owner keeps the key and no custodian holds the BTC. Bitcoin state is proven on Ethereum with zero-knowledge proofs. The post reports backing of 22,252,699 sats at a stated block. The lock is enforced economically, through a slashable escrow, rather than by Bitcoin script. Trust assumptions listed: Bitcoin and Ethereum consensus, the proof systems, a sync committee, Chainlink and Lido price feeds, and a 2-of-5 ops multisig with a one-hour delay acting within on-chain bounds. The post includes a comparison table against another BTC vault design. Risk parameters and final configuration would be left to Aave's risk service providers. Open questions: which instance, if any, and what risk parameters.",
+  "risk_flags": [
+    "new collateral asset request",
+    "novel economically-enforced custody design",
+    "relies on multisig and price feeds",
+    "small stated backing (about 0.22 BTC)"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

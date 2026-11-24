@@ -1,0 +1,16 @@
+{
+  "id": "forum-sky-28472",
+  "space": "sky",
+  "title": "[December 3, 2026] Proposed Changes to Spark for Upcoming Spell",
+  "url": "https://forum.sky.money/t/december-3-2026-proposed-changes-to-spark-for-upcoming-spell/28472",
+  "headline": "Proposed December 3, 2026 Spark spell with seven items across Ethereum, Arbitrum, X Layer and Base, including moving spUSDT onto its own contracts.",
+  "summary": "The post lists seven items. Items 1 to 3 move Spark Savings USDT (spUSDT) on Ethereum and Arbitrum from the Spark Liquidity Layer to its own Diamond PAU contracts, and point the X Layer LayerZero route at the Ethereum one; spUSDT would be backed by sUSDS from the Liquidity Layer through a one-for-one USDS/USDT swap. Item 4 claims accrued SparkLend reserves and routes them to the Liquidity Layer and the Operations Multisig (recurring). Item 5 transfers USDS to the buyback executor for SPK buybacks (recurring). Item 6 raises the CCTP V2 rate limit for USDC from Base to Ethereum. Item 7 adds a Diamond PAU controller to the Liquidity Layer ALM Proxy to carry the swap. Items 1, 2, 3, 6 and 7 each go to their own SPK Snapshot poll and then the Sky executive vote; items 4 and 5 go straight to the executive vote under Atlas rules. Items 1 to 3 depend on Item 7. Payload code is in a public repository.",
+  "risk_flags": [
+    "multi-chain spell",
+    "changes to savings vault architecture",
+    "recurring treasury transfers",
+    "new controller on ALM Proxy"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

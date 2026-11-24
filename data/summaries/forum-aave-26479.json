@@ -1,0 +1,15 @@
+{
+  "id": "forum-aave-26479",
+  "space": "aave",
+  "title": "Risk Stewards: Supply Cap Changes on Aave V3 / 2026.11.23",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-cap-changes-on-aave-v3-2026-11-23/26479",
+  "headline": "LlamaRisk recommends raising the USDe supply cap on Aave V3 Core to 1.2B, cutting the sUSDe cap to 230M, and raising a cap on Aave V3 Arbitrum to 100M.",
+  "summary": "LlamaRisk, a risk provider funded in part by the Aave DAO, reports parameter changes it will implement through the Risk Steward process. On Aave V3 Core the USDe supply cap would rise from 1,000,000,000 to 1,200,000,000, because USDe is at 100.0% of its cap; the post puts post-change utilization near 83.3%. The sUSDe cap would fall from 400,000,000 to 230,000,000; sUSDe sits at 56.7% utilization (226.88M of 400M) with supply up 117.1% in 30 days, and the new cap would land near 98.6% utilization. On Aave V3 Arbitrum a supply cap would rise from 58.3M to 100M, from 96.5% utilization to about 56.3%. The post notes that the top twenty USDe suppliers all carry debt, with health factors between 1.02 and 2.29 and a median of 1.04. The post says changes are implemented by the Risk Stewards without a separate vote.",
+  "risk_flags": [
+    "supply cap increase",
+    "supply cap reduction",
+    "top USDe suppliers hold debt at low health factors"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

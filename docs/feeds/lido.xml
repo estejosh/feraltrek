@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: lido</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:54:17 +0000</lastBuildDate>
 <item><title>LEGO Grant Proposal: eth-dvt-signer (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-eth-dvt-signer--12211.html</link>
 <guid isPermaLink="false">forum-lido-12211</guid><pubDate>Thu, 19 Nov 2026 10:22:18 +0000</pubDate>
 <description>A one-person project asks for a $37,000 LEGO grant to build eth-dvt-signer, a threshold validator signer for on-prem AMD SEV-SNP hardware, in response to the Lido signer RFP.</description></item>

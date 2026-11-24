@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T13:01:11+00:00",
+  "updated": "2026-11-24T13:00:04+00:00",
   "usdc_received_total": 0,
   "payments_total": 0,
   "payments_unmatched": 0,
   "subscribers_active": 0,
   "subscribers_ever": 0,
-  "items_published_total": 164,
-  "items_published_7d": 52
+  "items_published_total": 174,
+  "items_published_7d": 56
 }

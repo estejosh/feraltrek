@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:54:17 +0000</lastBuildDate>
+<item><title>Risk Stewards: Draw Cap Increases on Aave V4 / 2026.11.24 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-draw-cap-increases-on-aave-v4-2026-11-24--26486.html</link>
+<guid isPermaLink="false">forum-aave-26486</guid><pubDate>Tue, 24 Nov 2026 12:03:48 +0000</pubDate>
+<description>LlamaRisk recommends raising four draw caps on Aave V4 Ethereum Core Hub: WETH on two spokes, USDT and USDC.</description></item>
+<item><title>Risk Stewards: Supply Cap Increases on Aave V3 / 2026.11.24 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-cap-increases-on-aave-v3-2026-11-24--26485.html</link>
+<guid isPermaLink="false">forum-aave-26485</guid><pubDate>Tue, 24 Nov 2026 11:55:28 +0000</pubDate>
+<description>LlamaRisk recommends raising the JAAA supply cap on Aave V3 Horizon from 60M to 80M.</description></item>
+<item><title>[ARFC] Collateral Factor Update for Coinbase Tokenized Equities on Base (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-collateral-factor-update-for-coinbase-tokenized-equities-on-base--26482.html</link>
+<guid isPermaLink="false">forum-aave-26482</guid><pubDate>Mon, 23 Nov 2026 15:00:21 +0000</pubDate>
+<description>An ARFC proposes lowering collateral factors for six of eight Coinbase tokenized equities on the Aave V4 Equities Hub on Base, citing higher stock volatility.</description></item>
+<item><title>Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.23 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-cap-increases-on-aave-v4-2026-11-23--26481.html</link>
+<guid isPermaLink="false">forum-aave-26481</guid><pubDate>Mon, 23 Nov 2026 14:47:16 +0000</pubDate>
+<description>LlamaRisk recommends raising two Aave V4 add caps: cbBTC from 500 to 1,000 and cirBTC from 1,600 to 2,000.</description></item>
+<item><title>[Discussion] Onboard cBTC (tacBTC) to Aave V3 Core and Aave V4 Core (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-discussion-onboard-cbtc-tacbtc-to-aave-v3-core-and-aave-v4-core--26480.html</link>
+<guid isPermaLink="false">forum-aave-26480</guid><pubDate>Mon, 23 Nov 2026 14:33:22 +0000</pubDate>
+<description>A forum post asks whether Aave should onboard tacBTC, the ERC-20 form of the cBTC token, to the V3 Core instance, the V4 Core Hub, or both.</description></item>
+<item><title>Risk Stewards: Supply Cap Changes on Aave V3 / 2026.11.23 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-cap-changes-on-aave-v3-2026-11-23--26479.html</link>
+<guid isPermaLink="false">forum-aave-26479</guid><pubDate>Mon, 23 Nov 2026 14:25:48 +0000</pubDate>
+<description>LlamaRisk recommends raising the USDe supply cap on Aave V3 Core to 1.2B, cutting the sUSDe cap to 230M, and raising a cap on Aave V3 Arbitrum to 100M.</description></item>
 <item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.21 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-21--26470.html</link>
 <guid isPermaLink="false">forum-aave-26470</guid><pubDate>Sat, 21 Nov 2026 10:26:35 +0000</pubDate>
 <description>A risk-service forum post recommends raising borrow caps for WETH, cbBTC and WBTC on Aave V3 Core.</description></item>
@@ -133,22 +151,4 @@
 <item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-01--25974.html</link>
 <guid isPermaLink="false">forum-aave-25974</guid><pubDate>Sun, 01 Nov 2026 17:18:44 +0000</pubDate>
 <description>LlamaRisk recommends raising borrow caps on five Aave V3 reserves whose debt has reached 98.3% to 100% of caps reduced on October 30.</description></item>
-<item><title>Risk Stewards: Slope2 Increases on Aave V3 and Aave V4 / 2026.10.31 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-slope2-increases-on-aave-v3-and-aave-v4-2026-10-31--25970.html</link>
-<guid isPermaLink="false">forum-aave-25970</guid><pubDate>Sat, 31 Oct 2026 19:53:42 +0000</pubDate>
-<description>LlamaRisk recommends restoring Slope2 (the borrow rate slope above optimal utilization) on affected Aave V3 and V4 reserves to pre-incident values, now that the reserves are no longer frozen.</description></item>
-<item><title>tBTC Mint &amp; Redeem Pause: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-tbtc-mint-redeem-pause-aave-s-response--25965.html</link>
-<guid isPermaLink="false">forum-aave-25965</guid><pubDate>Sat, 31 Oct 2026 10:28:51 +0000</pubDate>
-<description>After Threshold Network paused tBTC mints and redeems, the guardian multisig froze tBTC on Aave V3 Ethereum Core, stopping new deposits and borrowing against it.</description></item>
-<item><title>Risk Stewards: Borrow and Draw Cap Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-and-draw-cap-reductions-on-aave-v3-and-aave-v4-2026-10--25960.html</link>
-<guid isPermaLink="false">forum-aave-25960</guid><pubDate>Fri, 30 Oct 2026 10:11:21 +0000</pubDate>
-<description>LlamaRisk recommends cutting borrow caps on the largest Aave V3 reserves and draw caps on the largest V4 credit lines to about 2% above the amount borrowed before the exploit.</description></item>
-<item><title>Risk Stewards: Temporary Slope2 Reductions on Aave V3 and Aave V4 / 2026.10.30 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-temporary-slope2-reductions-on-aave-v3-and-aave-v4-2026-10-30--25955.html</link>
-<guid isPermaLink="false">forum-aave-25955</guid><pubDate>Fri, 30 Oct 2026 01:21:49 +0000</pubDate>
-<description>LlamaRisk recommends temporarily lowering Slope2 on stablecoin reserves (and V4 Ethereum WETH) so borrow rates at full utilization stay at or below 10% APR after the reserve freeze.</description></item>
-<item><title>Binance Hot Wallet Exploit: Aave&#x27;s Response (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-binance-hot-wallet-exploit-aave-s-response--25954.html</link>
-<guid isPermaLink="false">forum-aave-25954</guid><pubDate>Fri, 30 Oct 2026 00:59:32 +0000</pubDate>
-<description>Aave contributors describe their response to a reported Binance hot wallet exploit, including freezing reserves across Aave V3 and V4 networks.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.29 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-29--25949.html</link>
-<guid isPermaLink="false">forum-aave-25949</guid><pubDate>Thu, 29 Oct 2026 17:14:34 +0000</pubDate>
-<description>LlamaRisk recommends cap and interest-rate changes for Aave V4 on Ethereum, Avalanche and Base, including a USDC draw cap increase on the Core Hub Main Spoke from 36M to 60M.</description></item>
 </channel></rss>

@@ -1,0 +1,16 @@
+{
+  "id": "forum-compound-8286",
+  "space": "compound",
+  "title": "Institutional USDG Market: Second R&D Comet Deployment, and Launch",
+  "url": "https://www.comp.xyz/t/institutional-usdg-market-second-r-d-comet-deployment-and-launch/8286",
+  "headline": "The Compound Foundation has deployed a second institutional lending market on Ethereum, this one for the USDG stablecoin, and targets a public launch in December 2026.",
+  "summary": "The post presents the Institutional USDG Market, Compound's second R&D Comet after the Institutional USDC Market. Users could supply USDG, a dollar stablecoin issued by Paxos, and borrow it against four collateral assets. Listed parameters: WETH, wstETH, WBTC and cbBTC each have an 80% borrow collateral factor and 85% liquidation collateral factor; liquidation penalties are 7%, 9%, 10% and 10%; supply caps are 5,265 WETH, 4,202 wstETH, 300 WBTC and 150 cbBTC. The contracts are already deployed on Ethereum mainnet and share the configurator and admin infrastructure of the USDC market. Administration stays with designated institutional multisigs until a governance handover. The Foundation says a security reviewer approved the configuration scripts, targets a December 2026 public launch subject to remaining security review and partner coordination, and plans a Snapshot vote by the end of Q1 2027 to bring both markets under Compound governance. Capital is expected to bootstrap gradually after the feedback period, and activation is not contingent on that vote. Open question: the exact timing of the governance handover.",
+  "risk_flags": [
+    "new lending market on Ethereum",
+    "already deployed before any vote",
+    "admin held by multisigs until handover",
+    "launch targeted December 2026"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

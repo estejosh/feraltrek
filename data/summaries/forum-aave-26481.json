@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-26481",
+  "space": "aave",
+  "title": "Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.23",
+  "url": "https://governance.aave.com/t/risk-stewards-add-cap-increases-on-aave-v4-2026-11-23/26481",
+  "headline": "LlamaRisk recommends raising two Aave V4 add caps: cbBTC from 500 to 1,000 and cirBTC from 1,600 to 2,000.",
+  "summary": "LlamaRisk reports it will implement two add-cap increases on Aave V4 through the Risk Steward process. The cbBTC add cap on the Ethereum Core Hub Main Spoke would double from 500 to 1,000; current added amount is 476.51, or 95.3% utilization, and the new cap would land near 47.7%. The cirBTC add cap on the Arc Core Hub Main Spoke would rise from 1,600 to 2,000; added amount is 1,475.31, or 92.2%, and the new cap would land near 73.8%. All of the top twenty cbBTC suppliers carry debt at health factors from 1.25 to 2.39 (median 1.68), and the largest holds about 38% of the reserve. cirBTC supply is concentrated, with one position at about 85% of the reserve at a health factor of 1.66.",
+  "risk_flags": [
+    "add cap increase",
+    "concentrated cirBTC supply"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}

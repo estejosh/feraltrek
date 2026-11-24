@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:54:17 +0000</lastBuildDate>
+<item><title>Risk Stewards: Draw Cap Increases on Aave V4 / 2026.11.24 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-draw-cap-increases-on-aave-v4-2026-11-24--26486.html</link>
+<guid isPermaLink="false">forum-aave-26486</guid><pubDate>Tue, 24 Nov 2026 12:03:48 +0000</pubDate>
+<description>LlamaRisk recommends raising four draw caps on Aave V4 Ethereum Core Hub: WETH on two spokes, USDT and USDC.</description></item>
+<item><title>Risk Stewards: Supply Cap Increases on Aave V3 / 2026.11.24 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-cap-increases-on-aave-v3-2026-11-24--26485.html</link>
+<guid isPermaLink="false">forum-aave-26485</guid><pubDate>Tue, 24 Nov 2026 11:55:28 +0000</pubDate>
+<description>LlamaRisk recommends raising the JAAA supply cap on Aave V3 Horizon from 60M to 80M.</description></item>
+<item><title>Proposal to Resolve the stUSDS Liquidity Crisis Immediately: $40–50M Atomic OTC Debt-for-SKY Buyback (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-proposal-to-resolve-the-stusds-liquidity-crisis-immediately-40-50m-atomic-ot--28473.html</link>
+<guid isPermaLink="false">forum-sky-28473</guid><pubDate>Mon, 23 Nov 2026 19:44:17 +0000</pubDate>
+<description>A forum post proposes using $40-50M from Sky&#x27;s surplus buffer or treasury for an atomic OTC buyback of SKY from stUSDS borrowers, with proceeds used to repay debt.</description></item>
+<item><title>[December 3, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-proposed-changes-to-spark-for-upcoming-spell--28472.html</link>
+<guid isPermaLink="false">forum-sky-28472</guid><pubDate>Mon, 23 Nov 2026 17:36:50 +0000</pubDate>
+<description>Proposed December 3, 2026 Spark spell with seven items across Ethereum, Arbitrum, X Layer and Base, including moving spUSDT onto its own contracts.</description></item>
+<item><title>Proposed stUSDS liquidity and protection plan (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-proposed-stusds-liquidity-and-protection-plan--28465.html</link>
+<guid isPermaLink="false">forum-sky-28465</guid><pubDate>Mon, 23 Nov 2026 15:36:45 +0000</pubDate>
+<description>A forum post proposes locking the stUSDS rate at 10% APR, lowering the minimum from $30k to $10k, disabling new stUSDS borrows against Sky, and funding stUSDS buybacks from monthly Step 2 capital.</description></item>
+<item><title>[ARFC] Collateral Factor Update for Coinbase Tokenized Equities on Base (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-collateral-factor-update-for-coinbase-tokenized-equities-on-base--26482.html</link>
+<guid isPermaLink="false">forum-aave-26482</guid><pubDate>Mon, 23 Nov 2026 15:00:21 +0000</pubDate>
+<description>An ARFC proposes lowering collateral factors for six of eight Coinbase tokenized equities on the Aave V4 Equities Hub on Base, citing higher stock volatility.</description></item>
+<item><title>Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.23 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-cap-increases-on-aave-v4-2026-11-23--26481.html</link>
+<guid isPermaLink="false">forum-aave-26481</guid><pubDate>Mon, 23 Nov 2026 14:47:16 +0000</pubDate>
+<description>LlamaRisk recommends raising two Aave V4 add caps: cbBTC from 500 to 1,000 and cirBTC from 1,600 to 2,000.</description></item>
+<item><title>[Discussion] Onboard cBTC (tacBTC) to Aave V3 Core and Aave V4 Core (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-discussion-onboard-cbtc-tacbtc-to-aave-v3-core-and-aave-v4-core--26480.html</link>
+<guid isPermaLink="false">forum-aave-26480</guid><pubDate>Mon, 23 Nov 2026 14:33:22 +0000</pubDate>
+<description>A forum post asks whether Aave should onboard tacBTC, the ERC-20 form of the cBTC token, to the V3 Core instance, the V4 Core Hub, or both.</description></item>
+<item><title>Risk Stewards: Supply Cap Changes on Aave V3 / 2026.11.23 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-cap-changes-on-aave-v3-2026-11-23--26479.html</link>
+<guid isPermaLink="false">forum-aave-26479</guid><pubDate>Mon, 23 Nov 2026 14:25:48 +0000</pubDate>
+<description>LlamaRisk recommends raising the USDe supply cap on Aave V3 Core to 1.2B, cutting the sUSDe cap to 230M, and raising a cap on Aave V3 Arbitrum to 100M.</description></item>
+<item><title>Institutional USDG Market: Second R&amp;D Comet Deployment, and Launch (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-institutional-usdg-market-second-r-d-comet-deployment-and-launch-d-8286.html</link>
+<guid isPermaLink="false">forum-compound-8286</guid><pubDate>Mon, 23 Nov 2026 14:25:25 +0000</pubDate>
+<description>The Compound Foundation has deployed a second institutional lending market on Ethereum, this one for the USDG stablecoin, and targets a public launch in December 2026.</description></item>
 <item><title>Request for a clear stUSDS withdrawal and liquidity plan (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-request-for-a-clear-stusds-withdrawal-and-liquidity-plan--28450.html</link>
 <guid isPermaLink="false">forum-sky-28450</guid><pubDate>Mon, 23 Nov 2026 10:26:44 +0000</pubDate>
 <description>A forum post from an stUSDS holder asks Sky governance for a public plan to restore withdrawals, which the post says have been blocked for over a week.</description></item>
@@ -121,34 +151,4 @@
 <item><title>Snapshot Governance: Updated Voting Framework (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-snapshot-governance-updated-voting-framework-d-8265.html</link>
 <guid isPermaLink="false">forum-compound-8265</guid><pubDate>Mon, 16 Nov 2026 18:00:17 +0000</pubDate>
 <description>The Compound Governance Working Group proposes new eligibility rules for voting and proposing in the comp-vote.eth Snapshot space; onchain governance is unchanged.</description></item>
-<item><title>[7.5] [Social] IPS Amendment No. 2: IPS Amendment Authority (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-5-social-ips-amendment-no-2-ips-amendment-authority-22e2f4.html</link>
-<guid isPermaLink="false">0x8862cc2d5574b17aaa97108635ee39a260d7e8a710acb8928538361bbd22e2f4</guid><pubDate>Mon, 16 Nov 2026 17:22:55 +0000</pubDate>
-<description>ENS voters decide whether the ENS Foundation Board, not a DAO vote, may amend the Endowment investment policy, replacing the Meta-Governance Working Group as oversight body.</description></item>
-<item><title>LEGO Grant Proposal: NOC Engine, Base L2 wstETH Peg-Defense Routing and Execution Telemetry (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-noc-engine-base-l2-wsteth-peg-defense-routing-and-execu--12203.html</link>
-<guid isPermaLink="false">forum-lido-12203</guid><pubDate>Mon, 16 Nov 2026 16:42:01 +0000</pubDate>
-<description>A team asks for a $10,000 LEGO Pebble Grant to build a wstETH peg-defense routing adapter on Base and a public telemetry dashboard.</description></item>
-<item><title>[7.4] [Social] IPS Amendment No. 1: Endowment Options Overlay (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-7-4-social-ips-amendment-no-1-endowment-options-overlay-e5bec9.html</link>
-<guid isPermaLink="false">0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9</guid><pubDate>Mon, 16 Nov 2026 16:32:33 +0000</pubDate>
-<description>ENS voters decide whether the Endowment may write covered options as part of its scheduled ETH and stablecoin rebalancing, within written limits.</description></item>
-<item><title>Final Proposal (Version 2): Comprehensive Reporting and Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-and-audit-standards-strate-66b818.html</link>
-<guid isPermaLink="false">0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818</guid><pubDate>Mon, 16 Nov 2026 16:11:52 +0000</pubDate>
-<description>A Lido vote would mandate more detailed financial reporting and audits, and ask for 10-15% cuts to Lido Labs 2027 operating budget; early tally is heavily Against.</description></item>
-<item><title>Technical scope for the new Test Halo agent setup (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-for-the-new-test-halo-agent-setup--28418.html</link>
-<guid isPermaLink="false">forum-sky-28418</guid><pubDate>Mon, 16 Nov 2026 13:40:31 +0000</pubDate>
-<description>A technical post describes the onchain setup for a new Sky agent called Test Halo, a dedicated SubProxy and StarGuard, planned for a core spell on 2026-11-19.</description></item>
-<item><title>PSM-USDC-A housekeeping (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-psm-usdc-a-housekeeping--28417.html</link>
-<guid isPermaLink="false">forum-sky-28417</guid><pubDate>Mon, 16 Nov 2026 13:32:03 +0000</pubDate>
-<description>A technical post proposes fully offboarding the inactive legacy PSM-USDC-A vault type in Sky, removing its registry entries and permissions, with a core spell planned for 2026-11-19.</description></item>
-<item><title>Final Proposal (Version 2): Comprehensive Reporting &amp; Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027 (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-final-proposal-version-2-comprehensive-reporting-audit-standards-strategic---12200.html</link>
-<guid isPermaLink="false">forum-lido-12200</guid><pubDate>Mon, 16 Nov 2026 10:51:36 +0000</pubDate>
-<description>A Lido forum proposal asks Lido Labs and the Finance Workgroup to publish fully itemised financial reports and audits and to build budget cuts into the EGG 2027 plan, instead of paying outside contractors now.</description></item>
-<item><title>Technical Scope of the Core L2 Spell on Base assisting Osero&#x27;s DPAU launch (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-technical-scope-of-the-core-l2-spell-on-base-assisting-osero-s-dpau-launch--28413.html</link>
-<guid isPermaLink="false">forum-sky-28413</guid><pubDate>Mon, 16 Nov 2026 08:52:00 +0000</pubDate>
-<description>Sidestream describes a Sky Core spell for Base that adds an ERC4626 facet to the Beacon and adjusts the PAS module to support Osero&#x27;s DPAU launch, planned for the 2026-11-19 Sky Core spell.</description></item>
-<item><title>Upgrade VolatilePair hook and update X Layer Releaser (uniswap)</title><link>https://estejosh.github.io/feraltrek/p/uniswap-upgrade-volatilepair-hook-and-update-x-layer-releaser-e713df.html</link>
-<guid isPermaLink="false">0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df</guid><pubDate>Sun, 15 Nov 2026 20:34:33 +0000</pubDate>
-<description>Snapshot vote on two Uniswap Labs technical updates: capping the VolatilePair hook temporary fee by block gap on Ethereum, and replacing the protocol fee releaser on X Layer so accrued fees can be released and UNI burned.</description></item>
-<item><title>What factors should be considered when selecting Security Council members? (optimism)</title><link>https://estejosh.github.io/feraltrek/p/optimism-what-factors-should-be-considered-when-selecting-security-council-membe--10987.html</link>
-<guid isPermaLink="false">forum-optimism-10987</guid><pubDate>Sun, 15 Nov 2026 16:48:57 +0000</pubDate>
-<description>A community member proposes ten criteria for choosing Optimism Security Council members, including independence, disclosure and ongoing monitoring, while a separate proposal to change selection is under discussion.</description></item>
 </channel></rss>

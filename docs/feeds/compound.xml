@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: compound</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:54:17 +0000</lastBuildDate>
+<item><title>Institutional USDG Market: Second R&amp;D Comet Deployment, and Launch (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-institutional-usdg-market-second-r-d-comet-deployment-and-launch-d-8286.html</link>
+<guid isPermaLink="false">forum-compound-8286</guid><pubDate>Mon, 23 Nov 2026 14:25:25 +0000</pubDate>
+<description>The Compound Foundation has deployed a second institutional lending market on Ethereum, this one for the USDG stablecoin, and targets a public launch in December 2026.</description></item>
 <item><title>[Gauntlet] Mantle USDe Comet: Closing Remaining Positions (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-mantle-usde-comet-closing-remaining-positions-d-8272.html</link>
 <guid isPermaLink="false">forum-compound-8272</guid><pubDate>Wed, 18 Nov 2026 17:28:37 +0000</pubDate>
 <description>Gauntlet and Woof recommend lowering liquidation collateral factors to 0.5% on the deprecated Mantle USDe Comet so the last 10 open borrow positions can be absorbed and the market wound down.</description></item>

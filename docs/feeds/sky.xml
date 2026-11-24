@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Mon, 23 Nov 2026 12:55:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:54:17 +0000</lastBuildDate>
+<item><title>Proposal to Resolve the stUSDS Liquidity Crisis Immediately: $40–50M Atomic OTC Debt-for-SKY Buyback (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-proposal-to-resolve-the-stusds-liquidity-crisis-immediately-40-50m-atomic-ot--28473.html</link>
+<guid isPermaLink="false">forum-sky-28473</guid><pubDate>Mon, 23 Nov 2026 19:44:17 +0000</pubDate>
+<description>A forum post proposes using $40-50M from Sky&#x27;s surplus buffer or treasury for an atomic OTC buyback of SKY from stUSDS borrowers, with proceeds used to repay debt.</description></item>
+<item><title>[December 3, 2026] Proposed Changes to Spark for Upcoming Spell (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-proposed-changes-to-spark-for-upcoming-spell--28472.html</link>
+<guid isPermaLink="false">forum-sky-28472</guid><pubDate>Mon, 23 Nov 2026 17:36:50 +0000</pubDate>
+<description>Proposed December 3, 2026 Spark spell with seven items across Ethereum, Arbitrum, X Layer and Base, including moving spUSDT onto its own contracts.</description></item>
+<item><title>Proposed stUSDS liquidity and protection plan (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-proposed-stusds-liquidity-and-protection-plan--28465.html</link>
+<guid isPermaLink="false">forum-sky-28465</guid><pubDate>Mon, 23 Nov 2026 15:36:45 +0000</pubDate>
+<description>A forum post proposes locking the stUSDS rate at 10% APR, lowering the minimum from $30k to $10k, disabling new stUSDS borrows against Sky, and funding stUSDS buybacks from monthly Step 2 capital.</description></item>
 <item><title>Request for a clear stUSDS withdrawal and liquidity plan (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-request-for-a-clear-stusds-withdrawal-and-liquidity-plan--28450.html</link>
 <guid isPermaLink="false">forum-sky-28450</guid><pubDate>Mon, 23 Nov 2026 10:26:44 +0000</pubDate>
 <description>A forum post from an stUSDS holder asks Sky governance for a public plan to restore withdrawals, which the post says have been blocked for over a week.</description></item>

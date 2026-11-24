@@ -1,0 +1,15 @@
+{
+  "id": "forum-aave-26485",
+  "space": "aave",
+  "title": "Risk Stewards: Supply Cap Increases on Aave V3 / 2026.11.24",
+  "url": "https://governance.aave.com/t/risk-stewards-supply-cap-increases-on-aave-v3-2026-11-24/26485",
+  "headline": "LlamaRisk recommends raising the JAAA supply cap on Aave V3 Horizon from 60M to 80M.",
+  "summary": "LlamaRisk reports it will implement a supply cap increase through the Risk Steward process. JAAA, the Janus Henderson AAA CLO Fund token, is at 99.9% of its cap on Aave V3 Horizon (59,956,241 of 60,000,000). The proposed cap of 80,000,000 is about 1.33x current supply and would put utilization near 74.9%. The post says the supplier base is concentrated: the largest position holds about 43% of supply and the top three about 86%. Nine of ten suppliers carry debt at health factors between 1.03 and 1.20 (median 1.10), with debt of about 48.2M RLUSD and 11.6M GHO. The post says health factor stability tracks the JAAA price.",
+  "risk_flags": [
+    "supply cap increase",
+    "concentrated supply",
+    "top suppliers at low health factors"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-24"
+}
