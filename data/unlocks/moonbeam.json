@@ -1,0 +1,66 @@
+{
+  "slug": "moonbeam",
+  "name": "Moonbeam",
+  "price_id": "coingecko:moonbeam",
+  "max_supply": 1246894293.0129108,
+  "link": "https://defillama.com/unlocks/moonbeam",
+  "source": "https://defillama-datasets.llama.fi/emissions/moonbeam",
+  "events": [
+    {
+      "ts": 1797805287,
+      "date": "2026-12-20",
+      "tokens": 4554528.18,
+      "groups": "noncirculating, insiders",
+      "type": "cliff",
+      "usd": 27386.07,
+      "pct_of_max": 0.365
+    },
+    {
+      "ts": 1798015830,
+      "date": "2026-12-23",
+      "tokens": 1017415.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 6117.65,
+      "pct_of_max": 0.082
+    },
+    {
+      "ts": 1800435030,
+      "date": "2027-01-20",
+      "tokens": 4554528.18,
+      "groups": "noncirculating, insiders",
+      "type": "cliff",
+      "usd": 27386.07,
+      "pct_of_max": 0.365
+    },
+    {
+      "ts": 1800645573,
+      "date": "2027-01-22",
+      "tokens": 1017415.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 6117.65,
+      "pct_of_max": 0.082
+    },
+    {
+      "ts": 1803064773,
+      "date": "2027-02-19",
+      "tokens": 4554528.18,
+      "groups": "noncirculating, insiders",
+      "type": "cliff",
+      "usd": 27386.07,
+      "pct_of_max": 0.365
+    },
+    {
+      "ts": 1803275316,
+      "date": "2027-02-22",
+      "tokens": 1017415.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 6117.65,
+      "pct_of_max": 0.082
+    }
+  ],
+  "price_usd": 0.00601293186,
+  "fetched": "2026-11-25"
+}

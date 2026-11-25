@@ -1,0 +1,30 @@
+{
+  "slug": "pearl",
+  "name": "Pearl",
+  "price_id": "coingecko:pearl-2",
+  "max_supply": 2100000000,
+  "link": "https://defillama.com/unlocks/pearl",
+  "source": "https://defillama-datasets.llama.fi/emissions/pearl",
+  "events": [
+    {
+      "ts": 1795651200,
+      "date": "2026-11-26",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1827208126,
+      "date": "2027-11-26",
+      "tokens": 5904000.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": 11241746.33,
+      "pct_of_max": 0.281
+    }
+  ],
+  "price_usd": 1.9040898248105538,
+  "fetched": "2026-11-25"
+}

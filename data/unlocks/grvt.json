@@ -1,0 +1,129 @@
+{
+  "slug": "grvt",
+  "name": "Grvt",
+  "price_id": "coingecko:grvt",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/grvt",
+  "source": "https://defillama-datasets.llama.fi/emissions/grvt",
+  "events": [
+    {
+      "ts": 1795968000,
+      "date": "2026-11-29",
+      "tokens": 73633120.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 9019000.49,
+      "pct_of_max": 7.363
+    },
+    {
+      "ts": 1801238400,
+      "date": "2027-01-29",
+      "tokens": 9128187.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 1118071.91,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1803744000,
+      "date": "2027-02-27",
+      "tokens": 9128187.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 1118071.91,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1806336000,
+      "date": "2027-03-29",
+      "tokens": 66490561.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 8144139.52,
+      "pct_of_max": 6.649
+    },
+    {
+      "ts": 1809014400,
+      "date": "2027-04-29",
+      "tokens": 9128187.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 1118071.91,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1811606400,
+      "date": "2027-05-29",
+      "tokens": 9128187.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 1118071.91,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1814284800,
+      "date": "2027-06-29",
+      "tokens": 9128187.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 1118071.91,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1816876800,
+      "date": "2027-07-29",
+      "tokens": 61315432.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 7510260.48,
+      "pct_of_max": 6.132
+    },
+    {
+      "ts": 1819555200,
+      "date": "2027-08-29",
+      "tokens": 19958654.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 2444648.69,
+      "pct_of_max": 1.996
+    },
+    {
+      "ts": 1822233600,
+      "date": "2027-09-29",
+      "tokens": 19958654.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 2444648.69,
+      "pct_of_max": 1.996
+    },
+    {
+      "ts": 1824825600,
+      "date": "2027-10-29",
+      "tokens": 19958654.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 2444648.69,
+      "pct_of_max": 1.996
+    },
+    {
+      "ts": 1827504000,
+      "date": "2027-11-29",
+      "tokens": 19958654.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 2444648.69,
+      "pct_of_max": 1.996
+    },
+    {
+      "ts": 1830096000,
+      "date": "2027-12-29",
+      "tokens": 19958654.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 2444648.69,
+      "pct_of_max": 1.996
+    }
+  ],
+  "price_usd": 0.122485649,
+  "fetched": "2026-11-25"
+}

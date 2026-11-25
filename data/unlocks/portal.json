@@ -1,0 +1,273 @@
+{
+  "slug": "portal",
+  "name": "Portal",
+  "price_id": "coingecko:wormhole",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/portal",
+  "source": "https://defillama-datasets.llama.fi/emissions/portal",
+  "events": [
+    {
+      "ts": 1795737600,
+      "date": "2026-11-27",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1796947200,
+      "date": "2026-12-11",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1798156800,
+      "date": "2026-12-25",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1799366400,
+      "date": "2027-01-08",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1800576000,
+      "date": "2027-01-22",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1801785600,
+      "date": "2027-02-05",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1802995200,
+      "date": "2027-02-19",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1804204800,
+      "date": "2027-03-05",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1805414400,
+      "date": "2027-03-19",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1806624000,
+      "date": "2027-04-02",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1807833600,
+      "date": "2027-04-16",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1809043200,
+      "date": "2027-04-30",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1810252800,
+      "date": "2027-05-14",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1811462400,
+      "date": "2027-05-28",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1812672000,
+      "date": "2027-06-11",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1813881600,
+      "date": "2027-06-25",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1815091200,
+      "date": "2027-07-09",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1816300800,
+      "date": "2027-07-23",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1817510400,
+      "date": "2027-08-06",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1818720000,
+      "date": "2027-08-20",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1819929600,
+      "date": "2027-09-03",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1821139200,
+      "date": "2027-09-17",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1822348800,
+      "date": "2027-10-01",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1823558400,
+      "date": "2027-10-15",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1824768000,
+      "date": "2027-10-29",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1825977600,
+      "date": "2027-11-12",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1827187200,
+      "date": "2027-11-26",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1828396800,
+      "date": "2027-12-10",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    },
+    {
+      "ts": 1829606400,
+      "date": "2027-12-24",
+      "tokens": 50411392.41,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 395702.59,
+      "pct_of_max": 0.504
+    }
+  ],
+  "price_usd": 0.0078494676,
+  "fetched": "2026-11-25"
+}

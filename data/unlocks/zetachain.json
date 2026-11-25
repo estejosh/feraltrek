@@ -1,0 +1,129 @@
+{
+  "slug": "zetachain",
+  "name": "ZetaChain",
+  "price_id": "ethereum:0xf091867ec603a6628ed83d274e835539d82e9cc8",
+  "max_supply": 2100000000,
+  "link": "https://defillama.com/unlocks/zetachain",
+  "source": "https://defillama-datasets.llama.fi/emissions/zetachain",
+  "events": [
+    {
+      "ts": 1796156862,
+      "date": "2026-12-01",
+      "tokens": 44260416.67,
+      "groups": "ecosystem, noncirculating, farming, insiders",
+      "type": "cliff",
+      "usd": 1120498.08,
+      "pct_of_max": 2.108
+    },
+    {
+      "ts": 1798786605,
+      "date": "2027-01-01",
+      "tokens": 44260416.67,
+      "groups": "ecosystem, noncirculating, farming, insiders",
+      "type": "cliff",
+      "usd": 1120498.08,
+      "pct_of_max": 2.108
+    },
+    {
+      "ts": 1801416348,
+      "date": "2027-01-31",
+      "tokens": 21802083.33,
+      "groups": "ecosystem, noncirculating, farming",
+      "type": "cliff",
+      "usd": 551942.22,
+      "pct_of_max": 1.038
+    },
+    {
+      "ts": 1804046091,
+      "date": "2027-03-03",
+      "tokens": 21802083.33,
+      "groups": "ecosystem, noncirculating, farming",
+      "type": "cliff",
+      "usd": 551942.22,
+      "pct_of_max": 1.038
+    },
+    {
+      "ts": 1806675834,
+      "date": "2027-04-02",
+      "tokens": 21802083.33,
+      "groups": "ecosystem, noncirculating, farming",
+      "type": "cliff",
+      "usd": 551942.22,
+      "pct_of_max": 1.038
+    },
+    {
+      "ts": 1809305577,
+      "date": "2027-05-03",
+      "tokens": 21802083.33,
+      "groups": "ecosystem, noncirculating, farming",
+      "type": "cliff",
+      "usd": 551942.22,
+      "pct_of_max": 1.038
+    },
+    {
+      "ts": 1811935320,
+      "date": "2027-06-02",
+      "tokens": 21802083.33,
+      "groups": "ecosystem, noncirculating, farming",
+      "type": "cliff",
+      "usd": 551942.22,
+      "pct_of_max": 1.038
+    },
+    {
+      "ts": 1814565063,
+      "date": "2027-07-02",
+      "tokens": 21802083.33,
+      "groups": "ecosystem, noncirculating, farming",
+      "type": "cliff",
+      "usd": 551942.22,
+      "pct_of_max": 1.038
+    },
+    {
+      "ts": 1817194806,
+      "date": "2027-08-02",
+      "tokens": 19177083.33,
+      "groups": "noncirculating, farming",
+      "type": "cliff",
+      "usd": 485487.64,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1819824549,
+      "date": "2027-09-01",
+      "tokens": 19177083.33,
+      "groups": "noncirculating, farming",
+      "type": "cliff",
+      "usd": 485487.64,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1822454292,
+      "date": "2027-10-02",
+      "tokens": 19177083.33,
+      "groups": "noncirculating, farming",
+      "type": "cliff",
+      "usd": 485487.64,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1825084035,
+      "date": "2027-11-01",
+      "tokens": 19177083.33,
+      "groups": "noncirculating, farming",
+      "type": "cliff",
+      "usd": 485487.64,
+      "pct_of_max": 0.913
+    },
+    {
+      "ts": 1827713778,
+      "date": "2027-12-02",
+      "tokens": 19177083.33,
+      "groups": "noncirculating, farming",
+      "type": "cliff",
+      "usd": 485487.64,
+      "pct_of_max": 0.913
+    }
+  ],
+  "price_usd": 0.025316031,
+  "fetched": "2026-11-25"
+}

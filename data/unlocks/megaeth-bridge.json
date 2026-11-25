@@ -1,0 +1,93 @@
+{
+  "slug": "megaeth-bridge",
+  "name": "MegaETH Bridge",
+  "price_id": "coingecko:megaeth",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/megaeth-bridge",
+  "source": "https://defillama-datasets.llama.fi/emissions/megaeth-bridge",
+  "events": [
+    {
+      "ts": 1809043200,
+      "date": "2027-04-30",
+      "tokens": 125000000.0,
+      "groups": "insiders, Uncategorized, publicSale",
+      "type": "cliff/linear",
+      "usd": 4897178.98,
+      "pct_of_max": 1.25
+    },
+    {
+      "ts": 1811672943,
+      "date": "2027-05-30",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1814302686,
+      "date": "2027-06-29",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1816932429,
+      "date": "2027-07-30",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1819562172,
+      "date": "2027-08-29",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1822191915,
+      "date": "2027-09-29",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1824821658,
+      "date": "2027-10-29",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1827451401,
+      "date": "2027-11-29",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1830081144,
+      "date": "2027-12-29",
+      "tokens": 7638888.89,
+      "groups": "publicSale",
+      "type": "cliff",
+      "usd": 299272.05,
+      "pct_of_max": 0.076
+    }
+  ],
+  "price_usd": 0.0391774318,
+  "fetched": "2026-11-25"
+}

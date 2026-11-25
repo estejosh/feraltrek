@@ -1,0 +1,21 @@
+{
+  "slug": "level-finance",
+  "name": "Level Finance",
+  "price_id": "bsc:0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+  "max_supply": 29104212,
+  "link": "https://defillama.com/unlocks/level-finance",
+  "source": "https://defillama-datasets.llama.fi/emissions/level-finance",
+  "events": [
+    {
+      "ts": 1798219578,
+      "date": "2026-12-25",
+      "tokens": 3333333.33,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 13033.0,
+      "pct_of_max": 11.453
+    }
+  ],
+  "price_usd": 0.003909899809137563,
+  "fetched": "2026-11-25"
+}

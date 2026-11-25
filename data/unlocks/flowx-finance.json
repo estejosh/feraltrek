@@ -1,0 +1,30 @@
+{
+  "slug": "flowx-finance",
+  "name": "FlowX Finance",
+  "price_id": "coingecko:flowx-finance",
+  "max_supply": 10000000,
+  "link": "https://defillama.com/unlocks/flowx-finance",
+  "source": "https://defillama-datasets.llama.fi/emissions/flowx-finance",
+  "events": [
+    {
+      "ts": 1795973148,
+      "date": "2026-11-29",
+      "tokens": 77500.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 3736.43,
+      "pct_of_max": 0.775
+    },
+    {
+      "ts": 1798602891,
+      "date": "2026-12-30",
+      "tokens": 77500.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 3736.43,
+      "pct_of_max": 0.775
+    }
+  ],
+  "price_usd": 0.04821198067653374,
+  "fetched": "2026-11-25"
+}

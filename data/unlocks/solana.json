@@ -1,0 +1,129 @@
+{
+  "slug": "solana",
+  "name": "Solana",
+  "price_id": "coingecko:solana",
+  "max_supply": 723186905.206888,
+  "link": "https://defillama.com/unlocks/solana",
+  "source": "https://defillama-datasets.llama.fi/emissions/solana",
+  "events": [
+    {
+      "ts": 1796997210,
+      "date": "2026-12-11",
+      "tokens": 397300.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 26908779.85,
+      "pct_of_max": 0.055
+    },
+    {
+      "ts": 1799626953,
+      "date": "2027-01-11",
+      "tokens": 393000.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 26617544.63,
+      "pct_of_max": 0.054
+    },
+    {
+      "ts": 1802256696,
+      "date": "2027-02-10",
+      "tokens": 388700.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 26326309.41,
+      "pct_of_max": 0.054
+    },
+    {
+      "ts": 1804886439,
+      "date": "2027-03-12",
+      "tokens": 384400.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 26035074.19,
+      "pct_of_max": 0.053
+    },
+    {
+      "ts": 1807516182,
+      "date": "2027-04-12",
+      "tokens": 380200.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 25750611.88,
+      "pct_of_max": 0.053
+    },
+    {
+      "ts": 1810145925,
+      "date": "2027-05-12",
+      "tokens": 376000.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 25466149.57,
+      "pct_of_max": 0.052
+    },
+    {
+      "ts": 1812775668,
+      "date": "2027-06-12",
+      "tokens": 371900.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 25188460.17,
+      "pct_of_max": 0.051
+    },
+    {
+      "ts": 1815405411,
+      "date": "2027-07-12",
+      "tokens": 367800.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 24910770.78,
+      "pct_of_max": 0.051
+    },
+    {
+      "ts": 1818035154,
+      "date": "2027-08-12",
+      "tokens": 363700.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 24633081.38,
+      "pct_of_max": 0.05
+    },
+    {
+      "ts": 1820664897,
+      "date": "2027-09-11",
+      "tokens": 359600.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 24355391.98,
+      "pct_of_max": 0.05
+    },
+    {
+      "ts": 1823294640,
+      "date": "2027-10-11",
+      "tokens": 355600.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 24084475.5,
+      "pct_of_max": 0.049
+    },
+    {
+      "ts": 1825924383,
+      "date": "2027-11-11",
+      "tokens": 351600.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 23813559.01,
+      "pct_of_max": 0.049
+    },
+    {
+      "ts": 1828554126,
+      "date": "2027-12-11",
+      "tokens": 347700.0,
+      "groups": "staking",
+      "type": "linear",
+      "usd": 23549415.44,
+      "pct_of_max": 0.048
+    }
+  ],
+  "price_usd": 67.7291212,
+  "fetched": "2026-11-25"
+}

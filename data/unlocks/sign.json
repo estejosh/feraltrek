@@ -1,0 +1,66 @@
+{
+  "slug": "sign",
+  "name": "Sign",
+  "price_id": "coingecko:sign-global",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/sign",
+  "source": "https://defillama-datasets.llama.fi/emissions/sign",
+  "events": [
+    {
+      "ts": 1799971200,
+      "date": "2027-01-15",
+      "tokens": 666666666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 5539234.13,
+      "pct_of_max": 6.667
+    },
+    {
+      "ts": 1802670516,
+      "date": "2027-02-15",
+      "tokens": 298235294.12,
+      "groups": "ecosystem, Uncategorized",
+      "type": "cliff",
+      "usd": 2477992.68,
+      "pct_of_max": 2.982
+    },
+    {
+      "ts": 1810559745,
+      "date": "2027-05-17",
+      "tokens": 298235294.12,
+      "groups": "ecosystem, Uncategorized",
+      "type": "cliff",
+      "usd": 2477992.68,
+      "pct_of_max": 2.982
+    },
+    {
+      "ts": 1815609600,
+      "date": "2027-07-15",
+      "tokens": 666666666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 5539234.13,
+      "pct_of_max": 6.667
+    },
+    {
+      "ts": 1818448974,
+      "date": "2027-08-16",
+      "tokens": 298235294.12,
+      "groups": "ecosystem, Uncategorized",
+      "type": "cliff",
+      "usd": 2477992.68,
+      "pct_of_max": 2.982
+    },
+    {
+      "ts": 1826338203,
+      "date": "2027-11-16",
+      "tokens": 298235294.12,
+      "groups": "ecosystem, Uncategorized",
+      "type": "cliff",
+      "usd": 2477992.68,
+      "pct_of_max": 2.982
+    }
+  ],
+  "price_usd": 0.0083088512,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "flare",
+  "name": "Flare",
+  "price_id": "coingecko:flare-networks",
+  "max_supply": 109200000000,
+  "link": "https://defillama.com/unlocks/flare",
+  "source": "https://defillama-datasets.llama.fi/emissions/flare",
+  "events": [
+    {
+      "ts": 1796823921,
+      "date": "2026-12-09",
+      "tokens": 47970000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 239049.54,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1799453664,
+      "date": "2027-01-09",
+      "tokens": 47920000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 238800.38,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1802083407,
+      "date": "2027-02-08",
+      "tokens": 47870000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 238551.21,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1807342893,
+      "date": "2027-04-10",
+      "tokens": 47780000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 238102.71,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1809972636,
+      "date": "2027-05-10",
+      "tokens": 47730000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 237853.55,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1812602379,
+      "date": "2027-06-10",
+      "tokens": 47680000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 237604.38,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1815232122,
+      "date": "2027-07-10",
+      "tokens": 47630000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 237355.22,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1820491608,
+      "date": "2027-09-09",
+      "tokens": 47540000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 236906.72,
+      "pct_of_max": 0.044
+    },
+    {
+      "ts": 1823121351,
+      "date": "2027-10-09",
+      "tokens": 47490000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 236657.55,
+      "pct_of_max": 0.043
+    },
+    {
+      "ts": 1825751094,
+      "date": "2027-11-09",
+      "tokens": 47440000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 236408.39,
+      "pct_of_max": 0.043
+    }
+  ],
+  "price_usd": 0.0049833134,
+  "fetched": "2026-11-25"
+}

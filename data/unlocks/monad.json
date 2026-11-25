@@ -1,0 +1,129 @@
+{
+  "slug": "monad",
+  "name": "Monad",
+  "price_id": "coingecko:monad",
+  "max_supply": 102136958700,
+  "link": "https://defillama.com/unlocks/monad",
+  "source": "https://defillama-datasets.llama.fi/emissions/monad",
+  "events": [
+    {
+      "ts": 1798129069,
+      "date": "2026-12-24",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1800758812,
+      "date": "2027-01-24",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1803388555,
+      "date": "2027-02-23",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1806018298,
+      "date": "2027-03-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1808648041,
+      "date": "2027-04-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1811277784,
+      "date": "2027-05-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1813907527,
+      "date": "2027-06-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1816537270,
+      "date": "2027-07-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1819167013,
+      "date": "2027-08-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1821796756,
+      "date": "2027-09-24",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1824426499,
+      "date": "2027-10-25",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1827056242,
+      "date": "2027-11-24",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    },
+    {
+      "ts": 1829685985,
+      "date": "2027-12-24",
+      "tokens": 492708333.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 4843322.92,
+      "pct_of_max": 0.482
+    }
+  ],
+  "price_usd": 0.00983,
+  "fetched": "2026-11-25"
+}

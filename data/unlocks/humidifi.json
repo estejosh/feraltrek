@@ -1,0 +1,39 @@
+{
+  "slug": "humidifi",
+  "name": "HumidiFi",
+  "price_id": "coingecko:humidifi",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/humidifi",
+  "source": "https://defillama-datasets.llama.fi/emissions/humidifi",
+  "events": [
+    {
+      "ts": 1796276916,
+      "date": "2026-12-03",
+      "tokens": 192500000.0,
+      "groups": "insiders, ecosystem",
+      "type": "cliff",
+      "usd": 6855351.5,
+      "pct_of_max": 19.25
+    },
+    {
+      "ts": 1812055374,
+      "date": "2027-06-03",
+      "tokens": 192500000.0,
+      "groups": "insiders, ecosystem",
+      "type": "cliff",
+      "usd": 6855351.5,
+      "pct_of_max": 19.25
+    },
+    {
+      "ts": 1827833832,
+      "date": "2027-12-03",
+      "tokens": 192500000.0,
+      "groups": "insiders, ecosystem",
+      "type": "cliff",
+      "usd": 6855351.5,
+      "pct_of_max": 19.25
+    }
+  ],
+  "price_usd": 0.0356122156,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "pharos",
+  "name": "Pharos",
+  "price_id": "coingecko:pharos-network",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/pharos",
+  "source": "https://defillama-datasets.llama.fi/emissions/pharos",
+  "events": [
+    {
+      "ts": 1808870400,
+      "date": "2027-04-28",
+      "tokens": 0.0,
+      "groups": "insiders, privateSale",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.694534015,
+  "fetched": "2026-11-25"
+}

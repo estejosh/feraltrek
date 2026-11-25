@@ -1,0 +1,21 @@
+{
+  "slug": "usd-ai",
+  "name": "USD AI",
+  "price_id": "coingecko:chip-2",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/usd-ai",
+  "source": "https://defillama-datasets.llama.fi/emissions/usd-ai",
+  "events": [
+    {
+      "ts": 1807833600,
+      "date": "2027-04-16",
+      "tokens": 2764996222.56,
+      "groups": "ecosystem, privateSale, insiders, noncirculating",
+      "type": "cliff/linear",
+      "usd": 70192020.46,
+      "pct_of_max": 27.65
+    }
+  ],
+  "price_usd": 0.0253859372,
+  "fetched": "2026-11-25"
+}

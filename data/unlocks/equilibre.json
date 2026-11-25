@@ -1,0 +1,534 @@
+{
+  "slug": "equilibre",
+  "name": "Equilibre",
+  "price_id": "kava:0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73",
+  "max_supply": 200311352.09592435,
+  "link": "https://defillama.com/unlocks/equilibre",
+  "source": "https://defillama-datasets.llama.fi/emissions/equilibre",
+  "events": [
+    {
+      "ts": 1795658205,
+      "date": "2026-11-26",
+      "tokens": 243700.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.122
+    },
+    {
+      "ts": 1796263005,
+      "date": "2026-12-03",
+      "tokens": 241200.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.12
+    },
+    {
+      "ts": 1796867805,
+      "date": "2026-12-10",
+      "tokens": 238800.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.119
+    },
+    {
+      "ts": 1797472605,
+      "date": "2026-12-17",
+      "tokens": 236400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.118
+    },
+    {
+      "ts": 1798077405,
+      "date": "2026-12-24",
+      "tokens": 234100.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.117
+    },
+    {
+      "ts": 1798682205,
+      "date": "2026-12-31",
+      "tokens": 231700.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.116
+    },
+    {
+      "ts": 1799287005,
+      "date": "2027-01-07",
+      "tokens": 229400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.115
+    },
+    {
+      "ts": 1799891805,
+      "date": "2027-01-14",
+      "tokens": 227100.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.113
+    },
+    {
+      "ts": 1800496605,
+      "date": "2027-01-21",
+      "tokens": 224800.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.112
+    },
+    {
+      "ts": 1801101405,
+      "date": "2027-01-28",
+      "tokens": 222600.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.111
+    },
+    {
+      "ts": 1801706205,
+      "date": "2027-02-04",
+      "tokens": 220400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.11
+    },
+    {
+      "ts": 1802311005,
+      "date": "2027-02-11",
+      "tokens": 218200.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.109
+    },
+    {
+      "ts": 1802915805,
+      "date": "2027-02-18",
+      "tokens": 216000.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.108
+    },
+    {
+      "ts": 1803520605,
+      "date": "2027-02-25",
+      "tokens": 213800.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.107
+    },
+    {
+      "ts": 1804125405,
+      "date": "2027-03-04",
+      "tokens": 211700.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.106
+    },
+    {
+      "ts": 1804730205,
+      "date": "2027-03-11",
+      "tokens": 209600.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.105
+    },
+    {
+      "ts": 1805335005,
+      "date": "2027-03-18",
+      "tokens": 207500.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.104
+    },
+    {
+      "ts": 1805939805,
+      "date": "2027-03-25",
+      "tokens": 205400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.103
+    },
+    {
+      "ts": 1806544605,
+      "date": "2027-04-01",
+      "tokens": 203300.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.101
+    },
+    {
+      "ts": 1807149405,
+      "date": "2027-04-08",
+      "tokens": 201300.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.1
+    },
+    {
+      "ts": 1807754205,
+      "date": "2027-04-15",
+      "tokens": 199300.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.099
+    },
+    {
+      "ts": 1808359005,
+      "date": "2027-04-22",
+      "tokens": 197300.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.098
+    },
+    {
+      "ts": 1808963805,
+      "date": "2027-04-29",
+      "tokens": 195300.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.097
+    },
+    {
+      "ts": 1809568605,
+      "date": "2027-05-06",
+      "tokens": 193400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.097
+    },
+    {
+      "ts": 1810173405,
+      "date": "2027-05-13",
+      "tokens": 191400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.096
+    },
+    {
+      "ts": 1810778205,
+      "date": "2027-05-20",
+      "tokens": 189500.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.095
+    },
+    {
+      "ts": 1811383005,
+      "date": "2027-05-27",
+      "tokens": 187600.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.094
+    },
+    {
+      "ts": 1811987805,
+      "date": "2027-06-03",
+      "tokens": 185800.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.093
+    },
+    {
+      "ts": 1812592605,
+      "date": "2027-06-10",
+      "tokens": 183900.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.092
+    },
+    {
+      "ts": 1813197405,
+      "date": "2027-06-17",
+      "tokens": 182100.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.091
+    },
+    {
+      "ts": 1813802205,
+      "date": "2027-06-24",
+      "tokens": 180200.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.09
+    },
+    {
+      "ts": 1814407005,
+      "date": "2027-07-01",
+      "tokens": 178400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.089
+    },
+    {
+      "ts": 1815011805,
+      "date": "2027-07-08",
+      "tokens": 176700.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.088
+    },
+    {
+      "ts": 1815616605,
+      "date": "2027-07-15",
+      "tokens": 174900.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.087
+    },
+    {
+      "ts": 1816221405,
+      "date": "2027-07-22",
+      "tokens": 173100.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.086
+    },
+    {
+      "ts": 1816826205,
+      "date": "2027-07-29",
+      "tokens": 171400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.086
+    },
+    {
+      "ts": 1817431005,
+      "date": "2027-08-05",
+      "tokens": 169700.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.085
+    },
+    {
+      "ts": 1818035805,
+      "date": "2027-08-12",
+      "tokens": 168000.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.084
+    },
+    {
+      "ts": 1818640605,
+      "date": "2027-08-19",
+      "tokens": 166300.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.083
+    },
+    {
+      "ts": 1819245405,
+      "date": "2027-08-26",
+      "tokens": 164700.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.082
+    },
+    {
+      "ts": 1819850205,
+      "date": "2027-09-02",
+      "tokens": 163000.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.081
+    },
+    {
+      "ts": 1820455005,
+      "date": "2027-09-09",
+      "tokens": 161400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.081
+    },
+    {
+      "ts": 1821059805,
+      "date": "2027-09-16",
+      "tokens": 159800.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.08
+    },
+    {
+      "ts": 1821664605,
+      "date": "2027-09-23",
+      "tokens": 158200.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.079
+    },
+    {
+      "ts": 1822269405,
+      "date": "2027-09-30",
+      "tokens": 156600.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.078
+    },
+    {
+      "ts": 1822874205,
+      "date": "2027-10-07",
+      "tokens": 155000.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.077
+    },
+    {
+      "ts": 1823479005,
+      "date": "2027-10-14",
+      "tokens": 153500.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.077
+    },
+    {
+      "ts": 1824083805,
+      "date": "2027-10-21",
+      "tokens": 151900.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.076
+    },
+    {
+      "ts": 1824688605,
+      "date": "2027-10-28",
+      "tokens": 150400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.075
+    },
+    {
+      "ts": 1825293405,
+      "date": "2027-11-04",
+      "tokens": 148900.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.074
+    },
+    {
+      "ts": 1825898205,
+      "date": "2027-11-11",
+      "tokens": 147400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.074
+    },
+    {
+      "ts": 1826503005,
+      "date": "2027-11-18",
+      "tokens": 145900.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.073
+    },
+    {
+      "ts": 1827107805,
+      "date": "2027-11-25",
+      "tokens": 144500.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.072
+    },
+    {
+      "ts": 1827712605,
+      "date": "2027-12-02",
+      "tokens": 143000.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.071
+    },
+    {
+      "ts": 1828317405,
+      "date": "2027-12-09",
+      "tokens": 141600.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.071
+    },
+    {
+      "ts": 1828922205,
+      "date": "2027-12-16",
+      "tokens": 140200.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.07
+    },
+    {
+      "ts": 1829527005,
+      "date": "2027-12-23",
+      "tokens": 138800.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.069
+    },
+    {
+      "ts": 1830131805,
+      "date": "2027-12-30",
+      "tokens": 137400.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.069
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "solstice",
+  "name": "Solstice",
+  "price_id": "coingecko:solstice",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/solstice",
+  "source": "https://defillama-datasets.llama.fi/emissions/solstice",
+  "events": [
+    {
+      "ts": 1811116800,
+      "date": "2027-05-24",
+      "tokens": 0.0,
+      "groups": "insiders",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.0333003177,
+  "fetched": "2026-11-25"
+}

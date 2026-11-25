@@ -1,0 +1,237 @@
+{
+  "slug": "stable",
+  "name": "Stable",
+  "price_id": "coingecko:stable-2",
+  "max_supply": 100000000000,
+  "link": "https://defillama.com/unlocks/stable",
+  "source": "https://defillama-datasets.llama.fi/emissions/stable",
+  "events": [
+    {
+      "ts": 1796708916,
+      "date": "2026-12-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1799338659,
+      "date": "2027-01-07",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1799338669,
+      "date": "2027-01-07",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1801968402,
+      "date": "2027-02-07",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1801968412,
+      "date": "2027-02-07",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1804598145,
+      "date": "2027-03-09",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1804598155,
+      "date": "2027-03-09",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1807227888,
+      "date": "2027-04-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1807227898,
+      "date": "2027-04-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1809857631,
+      "date": "2027-05-09",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1809857641,
+      "date": "2027-05-09",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1812487374,
+      "date": "2027-06-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1812487384,
+      "date": "2027-06-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1815117117,
+      "date": "2027-07-09",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1815117127,
+      "date": "2027-07-09",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1817746860,
+      "date": "2027-08-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1817746870,
+      "date": "2027-08-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1820376603,
+      "date": "2027-09-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1820376613,
+      "date": "2027-09-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1823006346,
+      "date": "2027-10-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1823006356,
+      "date": "2027-10-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1825636089,
+      "date": "2027-11-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1825636099,
+      "date": "2027-11-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    },
+    {
+      "ts": 1828265832,
+      "date": "2027-12-08",
+      "tokens": 888888888.89,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 21310145.16,
+      "pct_of_max": 0.889
+    },
+    {
+      "ts": 1828265842,
+      "date": "2027-12-08",
+      "tokens": 1388888888.89,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 33297101.81,
+      "pct_of_max": 1.389
+    }
+  ],
+  "price_usd": 0.0239739133,
+  "fetched": "2026-11-25"
+}

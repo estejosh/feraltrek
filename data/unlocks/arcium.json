@@ -1,0 +1,21 @@
+{
+  "slug": "arcium",
+  "name": "Arcium",
+  "price_id": "coingecko:arcium",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/arcium",
+  "source": "https://defillama-datasets.llama.fi/emissions/arcium",
+  "events": [
+    {
+      "ts": 1813622400,
+      "date": "2027-06-22",
+      "tokens": 0.0,
+      "groups": "insiders, ecosystem, staking",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.1529023962,
+  "fetched": "2026-11-25"
+}

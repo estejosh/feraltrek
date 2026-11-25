@@ -1,0 +1,21 @@
+{
+  "slug": "zealousswap",
+  "name": "ZealousSwap",
+  "price_id": "kasplex:0xb7a95035618354D9ADFC49Eca49F38586B624040",
+  "max_supply": 240000000,
+  "link": "https://defillama.com/unlocks/zealousswap",
+  "source": "https://defillama-datasets.llama.fi/emissions/zealousswap",
+  "events": [
+    {
+      "ts": 1808524800,
+      "date": "2027-04-24",
+      "tokens": 0.0,
+      "groups": "insiders",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.001303840760474573,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "altlayer",
+  "name": "AltLayer",
+  "price_id": "bsc:0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
+  "max_supply": 10000000026,
+  "link": "https://defillama.com/unlocks/altlayer",
+  "source": "https://defillama-datasets.llama.fi/emissions/altlayer",
+  "events": [
+    {
+      "ts": 1795638462,
+      "date": "2026-11-25",
+      "tokens": 240096667.44,
+      "groups": "insiders, privateSale, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 994586.44,
+      "pct_of_max": 2.401
+    },
+    {
+      "ts": 1798268205,
+      "date": "2026-12-26",
+      "tokens": 240096667.44,
+      "groups": "insiders, privateSale, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 994586.44,
+      "pct_of_max": 2.401
+    },
+    {
+      "ts": 1800897948,
+      "date": "2027-01-25",
+      "tokens": 175846667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 728434.56,
+      "pct_of_max": 1.758
+    },
+    {
+      "ts": 1803527691,
+      "date": "2027-02-25",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1806157434,
+      "date": "2027-03-27",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1808787177,
+      "date": "2027-04-27",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1811416920,
+      "date": "2027-05-27",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1814046663,
+      "date": "2027-06-26",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1816676406,
+      "date": "2027-07-27",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1819306149,
+      "date": "2027-08-26",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1821935892,
+      "date": "2027-09-26",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1824565635,
+      "date": "2027-10-26",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1827195378,
+      "date": "2027-11-26",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    },
+    {
+      "ts": 1829825121,
+      "date": "2027-12-26",
+      "tokens": 159166667.44,
+      "groups": "insiders, ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 659338.64,
+      "pct_of_max": 1.592
+    }
+  ],
+  "price_usd": 0.00414244168,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "rainbow",
+  "name": "Rainbow",
+  "price_id": "coingecko:rainbow-3-2",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/rainbow",
+  "source": "https://defillama-datasets.llama.fi/emissions/rainbow",
+  "events": [
+    {
+      "ts": 1801785600,
+      "date": "2027-02-05",
+      "tokens": 69500000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 840386.12,
+      "pct_of_max": 6.95
+    },
+    {
+      "ts": 1804415343,
+      "date": "2027-03-07",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1807045086,
+      "date": "2027-04-06",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1809674829,
+      "date": "2027-05-07",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1812304572,
+      "date": "2027-06-06",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1814934315,
+      "date": "2027-07-07",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1817564058,
+      "date": "2027-08-06",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1820193801,
+      "date": "2027-09-06",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1822823544,
+      "date": "2027-10-06",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1825453287,
+      "date": "2027-11-05",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    },
+    {
+      "ts": 1828083030,
+      "date": "2027-12-06",
+      "tokens": 5791666.67,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 70032.18,
+      "pct_of_max": 0.579
+    }
+  ],
+  "price_usd": 0.012091886615536888,
+  "fetched": "2026-11-25"
+}

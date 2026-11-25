@@ -1,0 +1,129 @@
+{
+  "slug": "pike",
+  "name": "Pike",
+  "price_id": "coingecko:pike-finance",
+  "max_supply": 2140000000,
+  "link": "https://defillama.com/unlocks/pike",
+  "source": "https://defillama-datasets.llama.fi/emissions/pike",
+  "events": [
+    {
+      "ts": 1796088918,
+      "date": "2026-12-01",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1798718661,
+      "date": "2026-12-31",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1801348404,
+      "date": "2027-01-30",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1803978147,
+      "date": "2027-03-02",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1806607890,
+      "date": "2027-04-01",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1809237633,
+      "date": "2027-05-02",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1811867376,
+      "date": "2027-06-01",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1814497119,
+      "date": "2027-07-02",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1817126862,
+      "date": "2027-08-01",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1819756605,
+      "date": "2027-08-31",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1822386348,
+      "date": "2027-10-01",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1825016091,
+      "date": "2027-10-31",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1827645834,
+      "date": "2027-12-01",
+      "tokens": 35666666.67,
+      "groups": "insiders, farming, staking, ecosystem",
+      "type": "cliff",
+      "usd": 10844.59,
+      "pct_of_max": 1.667
+    }
+  ],
+  "price_usd": 0.0003040539440621099,
+  "fetched": "2026-11-25"
+}

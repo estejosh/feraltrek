@@ -1,0 +1,111 @@
+{
+  "slug": "initia",
+  "name": "Initia",
+  "price_id": "coingecko:initia",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/initia",
+  "source": "https://defillama-datasets.llama.fi/emissions/initia",
+  "events": [
+    {
+      "ts": 1808566632,
+      "date": "2027-04-24",
+      "tokens": 7343750.0,
+      "groups": "noncirculating, publicSale",
+      "type": "cliff",
+      "usd": 625665.36,
+      "pct_of_max": 0.734
+    },
+    {
+      "ts": 1808566652,
+      "date": "2027-04-24",
+      "tokens": 75625000.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 6443022.04,
+      "pct_of_max": 7.562
+    },
+    {
+      "ts": 1811196395,
+      "date": "2027-05-24",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1813826138,
+      "date": "2027-06-24",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1816455881,
+      "date": "2027-07-24",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1819085624,
+      "date": "2027-08-24",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1821715367,
+      "date": "2027-09-23",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1824345090,
+      "date": "2027-10-24",
+      "tokens": 4843750.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 412672.9,
+      "pct_of_max": 0.484
+    },
+    {
+      "ts": 1824345110,
+      "date": "2027-10-24",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1826974853,
+      "date": "2027-11-23",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    },
+    {
+      "ts": 1829604596,
+      "date": "2027-12-23",
+      "tokens": 6302083.33,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 536918.5,
+      "pct_of_max": 0.63
+    }
+  ],
+  "price_usd": 0.08519698559059703,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "kaito",
+  "name": "Kaito",
+  "price_id": "base:0x98d0baa52b2d063e780de12f615f963fe8537553",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/kaito",
+  "source": "https://defillama-datasets.llama.fi/emissions/kaito",
+  "events": [
+    {
+      "ts": 1797691146,
+      "date": "2026-12-19",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1800320889,
+      "date": "2027-01-19",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1802950632,
+      "date": "2027-02-18",
+      "tokens": 32597619.05,
+      "groups": "noncirculating, insiders, privateSale, farming",
+      "type": "cliff",
+      "usd": 4925410.86,
+      "pct_of_max": 3.26
+    },
+    {
+      "ts": 1805580375,
+      "date": "2027-03-20",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1808210118,
+      "date": "2027-04-20",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1810839861,
+      "date": "2027-05-20",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1813469604,
+      "date": "2027-06-20",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1816099347,
+      "date": "2027-07-20",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1818729090,
+      "date": "2027-08-20",
+      "tokens": 32597619.05,
+      "groups": "noncirculating, insiders, privateSale, farming",
+      "type": "cliff",
+      "usd": 4925410.86,
+      "pct_of_max": 3.26
+    },
+    {
+      "ts": 1821358833,
+      "date": "2027-09-19",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1823988576,
+      "date": "2027-10-19",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1826618319,
+      "date": "2027-11-19",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    },
+    {
+      "ts": 1829248062,
+      "date": "2027-12-19",
+      "tokens": 17597619.05,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 2658951.99,
+      "pct_of_max": 1.76
+    }
+  ],
+  "price_usd": 0.15109725799999998,
+  "fetched": "2026-11-25"
+}

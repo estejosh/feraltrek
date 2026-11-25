@@ -1,0 +1,48 @@
+{
+  "slug": "solayer",
+  "name": "Solayer",
+  "price_id": "solana:LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/solayer",
+  "source": "https://defillama-datasets.llama.fi/emissions/solayer",
+  "events": [
+    {
+      "ts": 1802259432,
+      "date": "2027-02-10",
+      "tokens": 27018750.0,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1300274.8,
+      "pct_of_max": 2.702
+    },
+    {
+      "ts": 1810148661,
+      "date": "2027-05-12",
+      "tokens": 27018750.0,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1300274.8,
+      "pct_of_max": 2.702
+    },
+    {
+      "ts": 1818037890,
+      "date": "2027-08-12",
+      "tokens": 27018750.0,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1300274.8,
+      "pct_of_max": 2.702
+    },
+    {
+      "ts": 1825927119,
+      "date": "2027-11-11",
+      "tokens": 27018750.0,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1300274.8,
+      "pct_of_max": 2.702
+    }
+  ],
+  "price_usd": 0.04812490573753349,
+  "fetched": "2026-11-25"
+}

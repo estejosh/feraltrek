@@ -1,0 +1,21 @@
+{
+  "slug": "uxlink",
+  "name": "UXLINK",
+  "price_id": "arbitrum:0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/uxlink",
+  "source": "https://defillama-datasets.llama.fi/emissions/uxlink",
+  "events": [
+    {
+      "ts": 1800153090,
+      "date": "2027-01-17",
+      "tokens": 10937500.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 1.094
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

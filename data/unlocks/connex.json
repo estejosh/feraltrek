@@ -1,0 +1,30 @@
+{
+  "slug": "connex",
+  "name": "Connex",
+  "price_id": "coingecko:connex",
+  "max_supply": 100000000,
+  "link": "https://defillama.com/unlocks/connex",
+  "source": "https://defillama-datasets.llama.fi/emissions/connex",
+  "events": [
+    {
+      "ts": 1797295977,
+      "date": "2026-12-15",
+      "tokens": 1322500.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 8563564.27,
+      "pct_of_max": 1.323
+    },
+    {
+      "ts": 1799925720,
+      "date": "2027-01-14",
+      "tokens": 1322500.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 8563564.27,
+      "pct_of_max": 1.323
+    }
+  ],
+  "price_usd": 6.475284895118734,
+  "fetched": "2026-11-25"
+}

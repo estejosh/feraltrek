@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: cow</title><link>https://estejosh.github.io/feraltrek/</link>
+<description>New DAO governance proposals and discussions, summarized in plain English.</description>
+<lastBuildDate>Wed, 25 Nov 2026 12:56:25 +0000</lastBuildDate>
+<item><title>CIP-95: Update social consensus rules (cow)</title><link>https://estejosh.github.io/feraltrek/p/cow-cip-95-update-social-consensus-rules-c28a9a.html</link>
+<guid isPermaLink="false">0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a</guid><pubDate>Tue, 24 Nov 2026 20:14:53 +0000</pubDate>
+<description>Removes three CoW Protocol social consensus rules (overbidding, EBBO, local token conservation) and rewords the others to better capture their intent.</description></item>
+<item><title>CIP-94: Simplifying the operations of the CoW DAO bonding pool (cow)</title><link>https://estejosh.github.io/feraltrek/p/cow-cip-94-simplifying-the-operations-of-the-cow-dao-bonding-pool-9ee957.html</link>
+<guid isPermaLink="false">0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957</guid><pubDate>Tue, 24 Nov 2026 16:51:45 +0000</pubDate>
+<description>Replaces the CoW DAO bonding pool&#x27;s rules with a flat 10% service fee and a 20% HODL rule for all solvers, and sets the reduced bond at $50k plus 0.5M COW.</description></item>
+</channel></rss>

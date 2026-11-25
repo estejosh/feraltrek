@@ -1,0 +1,21 @@
+{
+  "slug": "gensyn",
+  "name": "Gensyn",
+  "price_id": "coingecko:gensyn",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/gensyn",
+  "source": "https://defillama-datasets.llama.fi/emissions/gensyn",
+  "events": [
+    {
+      "ts": 1808956800,
+      "date": "2027-04-29",
+      "tokens": 0.0,
+      "groups": "privateSale, insiders",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.017062152484029584,
+  "fetched": "2026-11-25"
+}

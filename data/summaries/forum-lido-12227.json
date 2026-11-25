@@ -1,0 +1,14 @@
+{
+  "id": "forum-lido-12227",
+  "space": "lido",
+  "title": "LEGO Grant Proposal: eth-hw-signer",
+  "url": "https://research.lido.fi/t/lego-grant-proposal-eth-hw-signer/12227",
+  "headline": "A $40,000 grant request to build open firmware and a host service that keep Ethereum validator keys on dedicated microcontroller boards.",
+  "summary": "This LEGO grant proposal, responding to Lido RFP 12209, asks for $40,000 to build eth-hw-signer: open-source firmware on STM32U5 boards that hold validator keys, plus a Rust host service speaking the Web3Signer-compatible remote-signing API (v1.4+), so validator clients need no changes. According to the proposal, keys are imported once, sealed inside the device and never exported; the device derives the signing root itself and keeps its own forward-only slashing-protection watermark. The team commits to at least 100 validators on physical boards running 30 days of live duties on Hoodi without a slashable signature, with a target of about 500 validators plus standby on 10 boards, dependent on a signing benchmark on the real chip. It would ask Lido NOM for Hoodi test stake. The 30-day mark falls about 3 to 3.5 months after approval, with maintenance promised for 2 years. The RFP was written after two node operators exited Lido validators following infrastructure compromises.",
+  "risk_flags": [
+    "grant spend 40,000 USD",
+    "performance target depends on unbenchmarked hardware"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-25"
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "b2-buzz",
+  "name": "B2 Buzz",
+  "price_id": "coingecko:bsquared-network",
+  "max_supply": 210000000,
+  "link": "https://defillama.com/unlocks/b2-buzz",
+  "source": "https://defillama-datasets.llama.fi/emissions/b2-buzz",
+  "events": [
+    {
+      "ts": 1795849917,
+      "date": "2026-11-28",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1798479660,
+      "date": "2026-12-28",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1801109403,
+      "date": "2027-01-28",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1803739146,
+      "date": "2027-02-27",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1806368889,
+      "date": "2027-03-30",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1808998632,
+      "date": "2027-04-29",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1811628375,
+      "date": "2027-05-29",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1814258118,
+      "date": "2027-06-29",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1816887861,
+      "date": "2027-07-29",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1819517604,
+      "date": "2027-08-29",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1822147347,
+      "date": "2027-09-28",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1824777090,
+      "date": "2027-10-29",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1827406833,
+      "date": "2027-11-28",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    },
+    {
+      "ts": 1830036576,
+      "date": "2027-12-28",
+      "tokens": 3175085.52,
+      "groups": "Uncategorized, privateSale, insiders, ecosystem",
+      "type": "cliff",
+      "usd": 1216683.9,
+      "pct_of_max": 1.512
+    }
+  ],
+  "price_usd": 0.38319720559825554,
+  "fetched": "2026-11-25"
+}

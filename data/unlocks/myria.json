@@ -1,0 +1,21 @@
+{
+  "slug": "myria",
+  "name": "Myria",
+  "price_id": "ethereum:0xa0ef786bf476fe0810408caba05e536ac800ff86",
+  "max_supply": 49258062500,
+  "link": "https://defillama.com/unlocks/myria",
+  "source": "https://defillama-datasets.llama.fi/emissions/myria",
+  "events": [
+    {
+      "ts": 1805886904,
+      "date": "2027-03-24",
+      "tokens": 42000000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 897.99,
+      "pct_of_max": 0.085
+    }
+  ],
+  "price_usd": 2.1380626531667468e-05,
+  "fetched": "2026-11-25"
+}

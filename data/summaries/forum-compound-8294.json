@@ -1,0 +1,14 @@
+{
+  "id": "forum-compound-8294",
+  "space": "compound",
+  "title": "Delegate Compensation Program: Season 1",
+  "url": "https://www.comp.xyz/t/delegate-compensation-program-season-1/8294",
+  "headline": "The Compound Governance Working Group proposes renewing the Delegate Compensation Program for 12 months after a six-month pilot.",
+  "summary": "The Compound Governance Working Group, with the Compound Foundation, proposes to renew the Delegate Compensation Program for a 12-month term on substantially the same terms, with a few targeted changes. The pilot ran May to October 2026 under Proposal 581. Reported pilot results: 8 delegates, 39 proposals voted on, 309 of 312 possible votes cast (99.0%), 45 of 48 delegate-months clearing 95%, and $167,179 paid out of a $192,000 cap (87.1%). The proposal says it does not modify governance power, voting weight or delegation mechanics. The qualifying delegates are determined mechanically from voting participation between May and October 2026 and would be published after the vote passes. Open points: the post notes that rationale assessment involves judgment and that some leniency was applied during the pilot.",
+  "risk_flags": [
+    "recurring delegate compensation spend",
+    "12-month commitment"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-25"
+}

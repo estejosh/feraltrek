@@ -1,0 +1,75 @@
+{
+  "slug": "spcx",
+  "name": "SPCX",
+  "price_id": "coingecko:spacex-bstocks-tokenized-stock",
+  "max_supply": 13425865175,
+  "link": "https://defillama.com/unlocks/spcx",
+  "source": "https://defillama-datasets.llama.fi/emissions/spcx",
+  "events": [
+    {
+      "ts": 1796688000,
+      "date": "2026-12-08",
+      "tokens": 328400000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 39863531193.2,
+      "pct_of_max": 2.446
+    },
+    {
+      "ts": 1802217600,
+      "date": "2027-02-10",
+      "tokens": 351900000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 42716128583.7,
+      "pct_of_max": 2.621
+    },
+    {
+      "ts": 1805328000,
+      "date": "2027-03-18",
+      "tokens": 176000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 21364133648.0,
+      "pct_of_max": 1.311
+    },
+    {
+      "ts": 1809907200,
+      "date": "2027-05-10",
+      "tokens": 351900000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 42716128583.7,
+      "pct_of_max": 2.621
+    },
+    {
+      "ts": 1810512000,
+      "date": "2027-05-17",
+      "tokens": 176000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 21364133648.0,
+      "pct_of_max": 1.311
+    },
+    {
+      "ts": 1812758400,
+      "date": "2027-06-12",
+      "tokens": 6751900000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 819593715783.7,
+      "pct_of_max": 50.29
+    },
+    {
+      "ts": 1817856000,
+      "date": "2027-08-10",
+      "tokens": 351900000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 42716128583.7,
+      "pct_of_max": 2.621
+    }
+  ],
+  "price_usd": 121.387123,
+  "fetched": "2026-11-25"
+}

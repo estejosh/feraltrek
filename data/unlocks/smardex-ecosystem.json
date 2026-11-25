@@ -1,0 +1,21 @@
+{
+  "slug": "smardex-ecosystem",
+  "name": "SMARDEX Ecosystem",
+  "price_id": "ethereum:0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+  "max_supply": 9997010233,
+  "link": "https://defillama.com/unlocks/smardex-ecosystem",
+  "source": "https://defillama-datasets.llama.fi/emissions/smardex-ecosystem",
+  "events": [
+    {
+      "ts": 1804632699,
+      "date": "2027-03-09",
+      "tokens": 4492000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 2793.03,
+      "pct_of_max": 0.045
+    }
+  ],
+  "price_usd": 0.0006217781009240449,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "hybra",
+  "name": "Hybra",
+  "price_id": "hyperliquid:0x067b0c72aa4c6bd3bfefff443c536dcd6a25a9c8",
+  "max_supply": 2238889654.187546,
+  "link": "https://defillama.com/unlocks/hybra",
+  "source": "https://defillama-datasets.llama.fi/emissions/hybra",
+  "events": [
+    {
+      "ts": 1826409600,
+      "date": "2027-11-17",
+      "tokens": 180000000.0,
+      "groups": "Uncategorized",
+      "type": "cliff",
+      "usd": 33387.66,
+      "pct_of_max": 8.04
+    }
+  ],
+  "price_usd": 0.00018548700458936737,
+  "fetched": "2026-11-25"
+}

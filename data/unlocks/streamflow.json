@@ -1,0 +1,30 @@
+{
+  "slug": "streamflow",
+  "name": "Streamflow",
+  "price_id": "solana:STREAMribRwybYpMmSYoCsQUdr6MZNXEqHgm7p1gu9M",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/streamflow",
+  "source": "https://defillama-datasets.llama.fi/emissions/streamflow",
+  "events": [
+    {
+      "ts": 1797638400,
+      "date": "2026-12-19",
+      "tokens": 2000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 15538.77,
+      "pct_of_max": 0.2
+    },
+    {
+      "ts": 1829088000,
+      "date": "2027-12-18",
+      "tokens": 4000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 31077.55,
+      "pct_of_max": 0.4
+    }
+  ],
+  "price_usd": 0.0077693872145816805,
+  "fetched": "2026-11-25"
+}

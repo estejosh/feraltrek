@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-26495",
+  "space": "aave",
+  "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.25",
+  "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-25/26495",
+  "headline": "LlamaRisk recommends lower supply and borrow caps on several Aave V3 assets and interest rate model changes for USDC and USDT on V3 Core.",
+  "summary": "LlamaRisk recommends parameter changes after its latest review of Aave V3 reserves. On V3 Core: supply caps lowered for WBTC (50,000 to 41,000), cbBTC (40,000 to 32,000), weETH (1,600,000 to 1,500,000) and wstETH (1,300,000 to 1,150,000); borrow caps lowered for wstETH (15,000 to 10,000), WETH (2,150,000 to 2,050,000) and USDC (4.0B to 3.7B). For USDC, optimalUsageRatio goes from 94% to 91%, baseVariableBorrowRate from 0% to 1%, and variableRateSlope1 from 4.60% to 3.70%; for USDT, optimalUsageRatio goes from 94% to 92%, base rate from 0% to 1% and slope 1 from 4.50% to 3.50%. The post says the USDC variable borrow rate at the current 77.9% utilization would move from 3.81% to 4.17% APR. Further cap reductions are listed for Plasma, Arbitrum, Monad and X Layer, and cap increases for HINC and mGLOBAL on ETH Horizon.",
+  "risk_flags": [
+    "supply and borrow cap reductions",
+    "interest rate model changes for USDC and USDT"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-25"
+}

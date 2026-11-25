@@ -1,0 +1,102 @@
+{
+  "slug": "edgex",
+  "name": "edgeX",
+  "price_id": "coingecko:edgex",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/edgex",
+  "source": "https://defillama-datasets.llama.fi/emissions/edgex",
+  "events": [
+    {
+      "ts": 1806385716,
+      "date": "2027-03-30",
+      "tokens": 4166666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1057823.18,
+      "pct_of_max": 0.417
+    },
+    {
+      "ts": 1809015459,
+      "date": "2027-04-29",
+      "tokens": 4166666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1057823.18,
+      "pct_of_max": 0.417
+    },
+    {
+      "ts": 1811645202,
+      "date": "2027-05-30",
+      "tokens": 4166666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1057823.18,
+      "pct_of_max": 0.417
+    },
+    {
+      "ts": 1814274945,
+      "date": "2027-06-29",
+      "tokens": 4166666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1057823.18,
+      "pct_of_max": 0.417
+    },
+    {
+      "ts": 1816904688,
+      "date": "2027-07-29",
+      "tokens": 4166666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1057823.18,
+      "pct_of_max": 0.417
+    },
+    {
+      "ts": 1819534431,
+      "date": "2027-08-29",
+      "tokens": 4166666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 1057823.18,
+      "pct_of_max": 0.417
+    },
+    {
+      "ts": 1822164174,
+      "date": "2027-09-28",
+      "tokens": 16666666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 4231292.73,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1824793917,
+      "date": "2027-10-29",
+      "tokens": 16666666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 4231292.73,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1827423660,
+      "date": "2027-11-28",
+      "tokens": 16666666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 4231292.73,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1830053403,
+      "date": "2027-12-29",
+      "tokens": 16666666.67,
+      "groups": "ecosystem, noncirculating",
+      "type": "cliff",
+      "usd": 4231292.73,
+      "pct_of_max": 1.667
+    }
+  ],
+  "price_usd": 0.25387756346734713,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "apriori",
+  "name": "aPriori",
+  "price_id": "coingecko:apriori",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/apriori",
+  "source": "https://defillama-datasets.llama.fi/emissions/apriori",
+  "events": [
+    {
+      "ts": 1800623745,
+      "date": "2027-01-22",
+      "tokens": 56333333.33,
+      "groups": "noncirculating, ecosystem, privateSale, insiders",
+      "type": "cliff",
+      "usd": 1741784.04,
+      "pct_of_max": 5.633
+    },
+    {
+      "ts": 1808512974,
+      "date": "2027-04-23",
+      "tokens": 56333333.33,
+      "groups": "noncirculating, ecosystem, privateSale, insiders",
+      "type": "cliff",
+      "usd": 1741784.04,
+      "pct_of_max": 5.633
+    },
+    {
+      "ts": 1816402203,
+      "date": "2027-07-24",
+      "tokens": 56333333.33,
+      "groups": "noncirculating, ecosystem, privateSale, insiders",
+      "type": "cliff",
+      "usd": 1741784.04,
+      "pct_of_max": 5.633
+    },
+    {
+      "ts": 1824291432,
+      "date": "2027-10-23",
+      "tokens": 56333333.33,
+      "groups": "noncirculating, ecosystem, privateSale, insiders",
+      "type": "cliff",
+      "usd": 1741784.04,
+      "pct_of_max": 5.633
+    }
+  ],
+  "price_usd": 0.0309192434,
+  "fetched": "2026-11-25"
+}

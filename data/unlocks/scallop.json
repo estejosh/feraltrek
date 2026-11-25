@@ -1,0 +1,138 @@
+{
+  "slug": "scallop",
+  "name": "Scallop",
+  "price_id": "sui:0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+  "max_supply": 250000000,
+  "link": "https://defillama.com/unlocks/scallop",
+  "source": "https://defillama-datasets.llama.fi/emissions/scallop",
+  "events": [
+    {
+      "ts": 1795638462,
+      "date": "2026-11-25",
+      "tokens": 395300.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1526.17,
+      "pct_of_max": 0.158
+    },
+    {
+      "ts": 1798268205,
+      "date": "2026-12-26",
+      "tokens": 389400.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1503.39,
+      "pct_of_max": 0.156
+    },
+    {
+      "ts": 1800897948,
+      "date": "2027-01-25",
+      "tokens": 383600.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1481.0,
+      "pct_of_max": 0.153
+    },
+    {
+      "ts": 1803527691,
+      "date": "2027-02-25",
+      "tokens": 377800.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1458.6,
+      "pct_of_max": 0.151
+    },
+    {
+      "ts": 1806157434,
+      "date": "2027-03-27",
+      "tokens": 372100.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1436.6,
+      "pct_of_max": 0.149
+    },
+    {
+      "ts": 1808787177,
+      "date": "2027-04-27",
+      "tokens": 366500.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1414.98,
+      "pct_of_max": 0.147
+    },
+    {
+      "ts": 1811416920,
+      "date": "2027-05-27",
+      "tokens": 361100.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1394.13,
+      "pct_of_max": 0.144
+    },
+    {
+      "ts": 1814046663,
+      "date": "2027-06-26",
+      "tokens": 355600.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1372.89,
+      "pct_of_max": 0.142
+    },
+    {
+      "ts": 1816676406,
+      "date": "2027-07-27",
+      "tokens": 350300.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1352.43,
+      "pct_of_max": 0.14
+    },
+    {
+      "ts": 1819306149,
+      "date": "2027-08-26",
+      "tokens": 345000.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1331.97,
+      "pct_of_max": 0.138
+    },
+    {
+      "ts": 1821935892,
+      "date": "2027-09-26",
+      "tokens": 339900.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1312.28,
+      "pct_of_max": 0.136
+    },
+    {
+      "ts": 1824565635,
+      "date": "2027-10-26",
+      "tokens": 334800.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1292.59,
+      "pct_of_max": 0.134
+    },
+    {
+      "ts": 1827195378,
+      "date": "2027-11-26",
+      "tokens": 329800.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1273.29,
+      "pct_of_max": 0.132
+    },
+    {
+      "ts": 1829825121,
+      "date": "2027-12-26",
+      "tokens": 324800.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 1253.98,
+      "pct_of_max": 0.13
+    }
+  ],
+  "price_usd": 0.003860779890547267,
+  "fetched": "2026-11-25"
+}

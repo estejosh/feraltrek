@@ -1,0 +1,13 @@
+{
+  "id": "0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a",
+  "space": "cow.eth",
+  "title": "CIP-95: Update social consensus rules",
+  "url": "https://snapshot.org/#/cow.eth/proposal/0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a",
+  "headline": "Removes three CoW Protocol social consensus rules (overbidding, EBBO, local token conservation) and rewords the others to better capture their intent.",
+  "summary": "CIP-95 would remove three social consensus rules for CoW Protocol solvers: the rule prohibiting overbidding (from CIP-13), the Ethereum Best Bid and Offer (EBBO) rule on unfair solutions (from CIP-11), and the local token conservation rule (from CIP-11). The author argues these rules are covered by newer mechanism changes: second-price auction rewards make accurate bidding more profitable than pennying, and fairness filtering in combinatorial auctions, together with multiple winners, addresses surplus shifting. The stated motivation is that the rule set is more complicated than necessary, making it harder for solvers to join. Remaining social consensus rules would be reformulated to better capture their intent. The specification is a documentation pull request on the cowprotocol/docs repository. The rationale says social consensus rules are hard to enforce and carry risk of gaming and of executive overreach, so hard rules enforced in the competition are preferred where possible.",
+  "risk_flags": [
+    "removes three solver conduct rules"
+  ],
+  "vote": "For 100% / Against 0% / Abstain 0% (53.5M For so far), ends 2026-12-01",
+  "written": "2026-11-25"
+}

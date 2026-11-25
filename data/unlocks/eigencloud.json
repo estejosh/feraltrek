@@ -1,0 +1,93 @@
+{
+  "slug": "eigencloud",
+  "name": "EigenCloud",
+  "price_id": "ethereum:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+  "max_supply": 1590610583.951796,
+  "link": "https://defillama.com/unlocks/eigencloud",
+  "source": "https://defillama-datasets.llama.fi/emissions/eigencloud",
+  "events": [
+    {
+      "ts": 1796082288,
+      "date": "2026-11-30",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1798712031,
+      "date": "2026-12-31",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1801341774,
+      "date": "2027-01-30",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1803971517,
+      "date": "2027-03-02",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1806601260,
+      "date": "2027-04-01",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1809231003,
+      "date": "2027-05-02",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1811860746,
+      "date": "2027-06-01",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1814490489,
+      "date": "2027-07-02",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    },
+    {
+      "ts": 1817120232,
+      "date": "2027-08-01",
+      "tokens": 36820227.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3869069.45,
+      "pct_of_max": 2.315
+    }
+  ],
+  "price_usd": 0.10508,
+  "fetched": "2026-11-25"
+}

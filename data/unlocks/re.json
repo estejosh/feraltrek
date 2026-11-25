@@ -1,0 +1,129 @@
+{
+  "slug": "re",
+  "name": "Re",
+  "price_id": "coingecko:re",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/re",
+  "source": "https://defillama-datasets.llama.fi/emissions/re",
+  "events": [
+    {
+      "ts": 1797519258,
+      "date": "2026-12-17",
+      "tokens": 7091666.67,
+      "groups": "airdrop",
+      "type": "cliff",
+      "usd": 1393026.22,
+      "pct_of_max": 0.709
+    },
+    {
+      "ts": 1800149001,
+      "date": "2027-01-17",
+      "tokens": 7091666.67,
+      "groups": "airdrop",
+      "type": "cliff",
+      "usd": 1393026.22,
+      "pct_of_max": 0.709
+    },
+    {
+      "ts": 1802778744,
+      "date": "2027-02-16",
+      "tokens": 7091666.67,
+      "groups": "airdrop",
+      "type": "cliff",
+      "usd": 1393026.22,
+      "pct_of_max": 0.709
+    },
+    {
+      "ts": 1805408487,
+      "date": "2027-03-18",
+      "tokens": 7091666.67,
+      "groups": "airdrop",
+      "type": "cliff",
+      "usd": 1393026.22,
+      "pct_of_max": 0.709
+    },
+    {
+      "ts": 1808038230,
+      "date": "2027-04-18",
+      "tokens": 7091666.67,
+      "groups": "airdrop",
+      "type": "cliff",
+      "usd": 1393026.22,
+      "pct_of_max": 0.709
+    },
+    {
+      "ts": 1810667973,
+      "date": "2027-05-18",
+      "tokens": 7091666.67,
+      "groups": "airdrop",
+      "type": "cliff",
+      "usd": 1393026.22,
+      "pct_of_max": 0.709
+    },
+    {
+      "ts": 1813297716,
+      "date": "2027-06-18",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    },
+    {
+      "ts": 1815927459,
+      "date": "2027-07-18",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    },
+    {
+      "ts": 1818557202,
+      "date": "2027-08-18",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    },
+    {
+      "ts": 1821186945,
+      "date": "2027-09-17",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    },
+    {
+      "ts": 1823816688,
+      "date": "2027-10-17",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    },
+    {
+      "ts": 1826446431,
+      "date": "2027-11-17",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    },
+    {
+      "ts": 1829076174,
+      "date": "2027-12-17",
+      "tokens": 17369444.44,
+      "groups": "airdrop, privateSale, insiders",
+      "type": "cliff",
+      "usd": 3411904.79,
+      "pct_of_max": 1.737
+    }
+  ],
+  "price_usd": 0.19643142870000002,
+  "fetched": "2026-11-25"
+}

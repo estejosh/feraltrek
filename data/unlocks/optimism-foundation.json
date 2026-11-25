@@ -1,0 +1,57 @@
+{
+  "slug": "optimism-foundation",
+  "name": "Optimism Foundation",
+  "price_id": "optimism:0x4200000000000000000000000000000000000042",
+  "max_supply": 4294967296,
+  "link": "https://defillama.com/unlocks/optimism-foundation",
+  "source": "https://defillama-datasets.llama.fi/emissions/optimism-foundation",
+  "events": [
+    {
+      "ts": 1796151861,
+      "date": "2026-12-01",
+      "tokens": 4473924.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 298926.79,
+      "pct_of_max": 0.104
+    },
+    {
+      "ts": 1804041090,
+      "date": "2027-03-03",
+      "tokens": 4473924.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 298926.79,
+      "pct_of_max": 0.104
+    },
+    {
+      "ts": 1811930319,
+      "date": "2027-06-02",
+      "tokens": 4473924.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 298926.79,
+      "pct_of_max": 0.104
+    },
+    {
+      "ts": 1819819548,
+      "date": "2027-09-01",
+      "tokens": 4473924.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 298926.79,
+      "pct_of_max": 0.104
+    },
+    {
+      "ts": 1827708777,
+      "date": "2027-12-02",
+      "tokens": 4473924.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 298926.79,
+      "pct_of_max": 0.104
+    }
+  ],
+  "price_usd": 0.0668153473,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "big-time",
+  "name": "Big Time",
+  "price_id": "ethereum:0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
+  "max_supply": 5000000000,
+  "link": "https://defillama.com/unlocks/big-time",
+  "source": "https://defillama-datasets.llama.fi/emissions/big-time",
+  "events": [
+    {
+      "ts": 1795919490,
+      "date": "2026-11-29",
+      "tokens": 20000000.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 139273.12,
+      "pct_of_max": 0.4
+    },
+    {
+      "ts": 1796256000,
+      "date": "2026-12-03",
+      "tokens": 600000000.0,
+      "groups": "farming, noncirculating",
+      "type": "cliff",
+      "usd": 4178193.71,
+      "pct_of_max": 12.0
+    },
+    {
+      "ts": 1803808719,
+      "date": "2027-02-28",
+      "tokens": 20000000.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 139273.12,
+      "pct_of_max": 0.4
+    },
+    {
+      "ts": 1811697948,
+      "date": "2027-05-30",
+      "tokens": 20000000.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 139273.12,
+      "pct_of_max": 0.4
+    },
+    {
+      "ts": 1819587177,
+      "date": "2027-08-30",
+      "tokens": 20000000.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 139273.12,
+      "pct_of_max": 0.4
+    },
+    {
+      "ts": 1827476406,
+      "date": "2027-11-29",
+      "tokens": 20000000.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 139273.12,
+      "pct_of_max": 0.4
+    }
+  ],
+  "price_usd": 0.00696365618,
+  "fetched": "2026-11-25"
+}

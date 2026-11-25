@@ -1,0 +1,129 @@
+{
+  "slug": "aptos",
+  "name": "Aptos",
+  "price_id": "coingecko:aptos",
+  "max_supply": 2100000000,
+  "link": "https://defillama.com/unlocks/aptos",
+  "source": "https://defillama-datasets.llama.fi/emissions/aptos",
+  "events": [
+    {
+      "ts": 1797019950,
+      "date": "2026-12-11",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1799649693,
+      "date": "2027-01-11",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1802279436,
+      "date": "2027-02-10",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1804909179,
+      "date": "2027-03-13",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1807538922,
+      "date": "2027-04-12",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1810168665,
+      "date": "2027-05-13",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1812798408,
+      "date": "2027-06-12",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1815428151,
+      "date": "2027-07-12",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1818057894,
+      "date": "2027-08-12",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1820687637,
+      "date": "2027-09-11",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1823317380,
+      "date": "2027-10-12",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1825947123,
+      "date": "2027-11-11",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    },
+    {
+      "ts": 1828576866,
+      "date": "2027-12-12",
+      "tokens": 4543478.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1616218.23,
+      "pct_of_max": 0.216
+    }
+  ],
+  "price_usd": 0.355722692,
+  "fetched": "2026-11-25"
+}

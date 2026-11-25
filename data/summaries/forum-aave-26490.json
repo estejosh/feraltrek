@@ -1,0 +1,14 @@
+{
+  "id": "forum-aave-26490",
+  "space": "aave",
+  "title": "[Research] Targeted Deleveraging of rsETH and osETH Through Exchange Rate Growth Discounting",
+  "url": "https://governance.aave.com/t/research-targeted-deleveraging-of-rseth-and-oseth-through-exchange-rate-growth-discounting/26490",
+  "headline": "A research post by TokenLogic suggests setting the CAPO growth cap to 0% on rsETH and osETH as a more targeted alternative to raising the WETH borrow rate.",
+  "summary": "TokenLogic's research post responds to LlamaRisk's ARFC on repositioning Aave V3 Core around established and liquid collateral, which lists a WETH borrow rate increase as a final follow-up control for rsETH and osETH loops if voluntary migration is insufficient. The post argues a WETH rate increase would raise borrowing costs across roughly $3.4B of WETH debt to address roughly $860M of rsETH and osETH loop exposure, and would also affect wstETH and weETH positions the ARFC intends to retain. As an alternative, it proposes setting maxYearlyRatioGrowthPercent to 0% on the rsETH and osETH CAPO adapters, which freezes the maximum exchange rate Aave's oracle recognizes at its snapshot; this does not change the assets' actual redemption value. For rsETH, it also describes sized E-Mode liquidation threshold reductions after an initial borrower engagement and migration window. Open questions include how leveraged borrowers would be affected and how this fits with the ARFC's migration route.",
+  "risk_flags": [
+    "changes oracle parameters on leveraged collateral",
+    "could affect borrower health factors"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-25"
+}

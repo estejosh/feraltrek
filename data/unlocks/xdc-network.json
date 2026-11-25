@@ -1,0 +1,21 @@
+{
+  "slug": "xdc-network",
+  "name": "XDC Network",
+  "price_id": "coingecko:xdce-crowd-sale",
+  "max_supply": 27641176460,
+  "link": "https://defillama.com/unlocks/xdc-network",
+  "source": "https://defillama-datasets.llama.fi/emissions/xdc-network",
+  "events": [
+    {
+      "ts": 1798798060,
+      "date": "2027-01-01",
+      "tokens": 841176470.0,
+      "groups": "insiders, ecosystem",
+      "type": "cliff",
+      "usd": 21316250.82,
+      "pct_of_max": 3.043
+    }
+  ],
+  "price_usd": 0.0253409975,
+  "fetched": "2026-11-25"
+}

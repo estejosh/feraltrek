@@ -1,0 +1,138 @@
+{
+  "slug": "acala",
+  "name": "Acala",
+  "price_id": "coingecko:acala",
+  "max_supply": 1600000000,
+  "link": "https://defillama.com/unlocks/acala",
+  "source": "https://defillama-datasets.llama.fi/emissions/acala",
+  "events": [
+    {
+      "ts": 1795637094,
+      "date": "2026-11-25",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1798266837,
+      "date": "2026-12-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1800896580,
+      "date": "2027-01-25",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1803526323,
+      "date": "2027-02-25",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1806156066,
+      "date": "2027-03-27",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1808785809,
+      "date": "2027-04-27",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1811415552,
+      "date": "2027-05-27",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1814045295,
+      "date": "2027-06-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1816675038,
+      "date": "2027-07-27",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1819304781,
+      "date": "2027-08-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1821934524,
+      "date": "2027-09-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1824564267,
+      "date": "2027-10-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1827194010,
+      "date": "2027-11-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    },
+    {
+      "ts": 1829823753,
+      "date": "2027-12-26",
+      "tokens": 4722222.22,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": 657.1,
+      "pct_of_max": 0.295
+    }
+  ],
+  "price_usd": 0.00013915157211248438,
+  "fetched": "2026-11-25"
+}

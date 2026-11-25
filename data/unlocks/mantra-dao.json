@@ -1,0 +1,21 @@
+{
+  "slug": "mantra-dao",
+  "name": "MANTRA DAO",
+  "price_id": "coingecko:mantra",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/mantra-dao",
+  "source": "https://defillama-datasets.llama.fi/emissions/mantra-dao",
+  "events": [
+    {
+      "ts": 1808524800,
+      "date": "2027-04-24",
+      "tokens": 0.0,
+      "groups": "insiders",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.002147119,
+  "fetched": "2026-11-25"
+}

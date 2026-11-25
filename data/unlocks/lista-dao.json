@@ -1,0 +1,102 @@
+{
+  "slug": "lista-dao",
+  "name": "Lista DAO",
+  "price_id": "coingecko:lista",
+  "max_supply": 800000000,
+  "link": "https://defillama.com/unlocks/lista-dao",
+  "source": "https://defillama-datasets.llama.fi/emissions/lista-dao",
+  "events": [
+    {
+      "ts": 1797733890,
+      "date": "2026-12-20",
+      "tokens": 3125000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 331882.81,
+      "pct_of_max": 0.391
+    },
+    {
+      "ts": 1797739803,
+      "date": "2026-12-20",
+      "tokens": 25312500.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 2688250.72,
+      "pct_of_max": 3.164
+    },
+    {
+      "ts": 1805623119,
+      "date": "2027-03-21",
+      "tokens": 3125000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 331882.81,
+      "pct_of_max": 0.391
+    },
+    {
+      "ts": 1805629032,
+      "date": "2027-03-21",
+      "tokens": 25312500.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 2688250.72,
+      "pct_of_max": 3.164
+    },
+    {
+      "ts": 1813512348,
+      "date": "2027-06-20",
+      "tokens": 3125000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 331882.81,
+      "pct_of_max": 0.391
+    },
+    {
+      "ts": 1813518261,
+      "date": "2027-06-20",
+      "tokens": 5312500.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 564200.77,
+      "pct_of_max": 0.664
+    },
+    {
+      "ts": 1821401577,
+      "date": "2027-09-20",
+      "tokens": 3125000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 331882.81,
+      "pct_of_max": 0.391
+    },
+    {
+      "ts": 1821407490,
+      "date": "2027-09-20",
+      "tokens": 5312500.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 564200.77,
+      "pct_of_max": 0.664
+    },
+    {
+      "ts": 1829290806,
+      "date": "2027-12-20",
+      "tokens": 3125000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 331882.81,
+      "pct_of_max": 0.391
+    },
+    {
+      "ts": 1829296719,
+      "date": "2027-12-20",
+      "tokens": 5312500.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 564200.77,
+      "pct_of_max": 0.664
+    }
+  ],
+  "price_usd": 0.1062024977,
+  "fetched": "2026-11-25"
+}

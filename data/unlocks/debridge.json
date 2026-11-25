@@ -1,0 +1,48 @@
+{
+  "slug": "debridge",
+  "name": "deBridge",
+  "price_id": "solana:DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/debridge",
+  "source": "https://defillama-datasets.llama.fi/emissions/debridge",
+  "events": [
+    {
+      "ts": 1800126261,
+      "date": "2027-01-16",
+      "tokens": 618333333.33,
+      "groups": "noncirculating, farming, insiders, privateSale",
+      "type": "cliff",
+      "usd": 8064612.25,
+      "pct_of_max": 6.183
+    },
+    {
+      "ts": 1808015490,
+      "date": "2027-04-18",
+      "tokens": 618333333.33,
+      "groups": "noncirculating, farming, insiders, privateSale",
+      "type": "cliff",
+      "usd": 8064612.25,
+      "pct_of_max": 6.183
+    },
+    {
+      "ts": 1815904719,
+      "date": "2027-07-18",
+      "tokens": 618333333.33,
+      "groups": "noncirculating, farming, insiders, privateSale",
+      "type": "cliff",
+      "usd": 8064612.25,
+      "pct_of_max": 6.183
+    },
+    {
+      "ts": 1823793948,
+      "date": "2027-10-17",
+      "tokens": 618333333.33,
+      "groups": "noncirculating, farming, insiders, privateSale",
+      "type": "cliff",
+      "usd": 8064612.25,
+      "pct_of_max": 6.183
+    }
+  ],
+  "price_usd": 0.0130424996,
+  "fetched": "2026-11-25"
+}

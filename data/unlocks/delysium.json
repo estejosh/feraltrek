@@ -1,0 +1,102 @@
+{
+  "slug": "delysium",
+  "name": "Delysium",
+  "price_id": "coingecko:delysium",
+  "max_supply": 2999999999.9999995,
+  "link": "https://defillama.com/unlocks/delysium",
+  "source": "https://defillama-datasets.llama.fi/emissions/delysium",
+  "events": [
+    {
+      "ts": 1796879892,
+      "date": "2026-12-10",
+      "tokens": 34375000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 107039.78,
+      "pct_of_max": 1.146
+    },
+    {
+      "ts": 1796879912,
+      "date": "2026-12-10",
+      "tokens": 25000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 77847.12,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1799509635,
+      "date": "2027-01-09",
+      "tokens": 34375000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 107039.78,
+      "pct_of_max": 1.146
+    },
+    {
+      "ts": 1799509655,
+      "date": "2027-01-09",
+      "tokens": 25000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 77847.12,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1802139378,
+      "date": "2027-02-09",
+      "tokens": 34375000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 107039.78,
+      "pct_of_max": 1.146
+    },
+    {
+      "ts": 1802139398,
+      "date": "2027-02-09",
+      "tokens": 25000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 77847.12,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1804769121,
+      "date": "2027-03-11",
+      "tokens": 34375000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 107039.78,
+      "pct_of_max": 1.146
+    },
+    {
+      "ts": 1804769141,
+      "date": "2027-03-11",
+      "tokens": 25000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 77847.12,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1807398864,
+      "date": "2027-04-10",
+      "tokens": 34375000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 107039.78,
+      "pct_of_max": 1.146
+    },
+    {
+      "ts": 1807398884,
+      "date": "2027-04-10",
+      "tokens": 25000000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 77847.12,
+      "pct_of_max": 0.833
+    }
+  ],
+  "price_usd": 0.003113884653488951,
+  "fetched": "2026-11-25"
+}

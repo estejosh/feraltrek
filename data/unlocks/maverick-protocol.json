@@ -1,0 +1,165 @@
+{
+  "slug": "maverick-protocol",
+  "name": "Maverick Protocol",
+  "price_id": "ethereum:0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd",
+  "max_supply": 2000000000,
+  "link": "https://defillama.com/unlocks/maverick-protocol",
+  "source": "https://defillama-datasets.llama.fi/emissions/maverick-protocol",
+  "events": [
+    {
+      "ts": 1796059548,
+      "date": "2026-11-30",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1798689291,
+      "date": "2026-12-31",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1798711119,
+      "date": "2026-12-31",
+      "tokens": 36350000.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 231658.48,
+      "pct_of_max": 1.817
+    },
+    {
+      "ts": 1801319034,
+      "date": "2027-01-30",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1803948777,
+      "date": "2027-03-02",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1806578520,
+      "date": "2027-04-01",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1806600348,
+      "date": "2027-04-01",
+      "tokens": 36350000.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 231658.48,
+      "pct_of_max": 1.817
+    },
+    {
+      "ts": 1809208263,
+      "date": "2027-05-01",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1811838006,
+      "date": "2027-06-01",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1814426829,
+      "date": "2027-07-01",
+      "tokens": 971428.57,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 6190.91,
+      "pct_of_max": 0.049
+    },
+    {
+      "ts": 1814467749,
+      "date": "2027-07-01",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1817097492,
+      "date": "2027-08-01",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1819727235,
+      "date": "2027-08-31",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1822316058,
+      "date": "2027-09-30",
+      "tokens": 971428.57,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 6190.91,
+      "pct_of_max": 0.049
+    },
+    {
+      "ts": 1822356978,
+      "date": "2027-10-01",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1824986721,
+      "date": "2027-10-31",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    },
+    {
+      "ts": 1827616464,
+      "date": "2027-11-30",
+      "tokens": 9300080.0,
+      "groups": "farming, insiders",
+      "type": "cliff",
+      "usd": 59269.39,
+      "pct_of_max": 0.465
+    }
+  ],
+  "price_usd": 0.0063729982044183646,
+  "fetched": "2026-11-25"
+}

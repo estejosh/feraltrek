@@ -1,0 +1,21 @@
+{
+  "slug": "omni-network",
+  "name": "Omni Network",
+  "price_id": "coingecko:nomina",
+  "max_supply": 7500000000,
+  "link": "https://defillama.com/unlocks/omni-network",
+  "source": "https://defillama-datasets.llama.fi/emissions/omni-network",
+  "events": [
+    {
+      "ts": 1807982758,
+      "date": "2027-04-17",
+      "tokens": 638640625.0,
+      "groups": "insiders, privateSale",
+      "type": "cliff",
+      "usd": 710607.03,
+      "pct_of_max": 8.515
+    }
+  ],
+  "price_usd": 0.0011126868578257671,
+  "fetched": "2026-11-25"
+}

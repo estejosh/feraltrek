@@ -1,0 +1,21 @@
+{
+  "slug": "clever",
+  "name": "CLever",
+  "price_id": "ethereum:0x72953a5c32413614d24c29c84a66ae4b59581bbf",
+  "max_supply": 1325569.6165574999,
+  "link": "https://defillama.com/unlocks/clever",
+  "source": "https://defillama-datasets.llama.fi/emissions/clever",
+  "events": [
+    {
+      "ts": 1823313830,
+      "date": "2027-10-12",
+      "tokens": 606.7,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 843.06,
+      "pct_of_max": 0.046
+    }
+  ],
+  "price_usd": 1.3895882656169016,
+  "fetched": "2026-11-25"
+}

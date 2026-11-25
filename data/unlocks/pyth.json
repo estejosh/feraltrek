@@ -1,0 +1,21 @@
+{
+  "slug": "pyth",
+  "name": "Pyth",
+  "price_id": "coingecko:pyth-network",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/pyth",
+  "source": "https://defillama-datasets.llama.fi/emissions/pyth",
+  "events": [
+    {
+      "ts": 1810684800,
+      "date": "2027-05-19",
+      "tokens": 2125000000.0,
+      "groups": "noncirculating, insiders, privateSale",
+      "type": "cliff",
+      "usd": 98897014.01,
+      "pct_of_max": 21.25
+    }
+  ],
+  "price_usd": 0.0465397713,
+  "fetched": "2026-11-25"
+}

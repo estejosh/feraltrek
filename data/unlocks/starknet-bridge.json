@@ -1,0 +1,129 @@
+{
+  "slug": "starknet-bridge",
+  "name": "Starknet Bridge",
+  "price_id": "starknet:0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
+  "max_supply": 9994999992,
+  "link": "https://defillama.com/unlocks/starknet-bridge",
+  "source": "https://defillama-datasets.llama.fi/emissions/starknet-bridge",
+  "events": [
+    {
+      "ts": 1797242319,
+      "date": "2026-12-14",
+      "tokens": 226356430.83,
+      "groups": "insiders, liquidity, privateSale",
+      "type": "cliff",
+      "usd": 6582666.66,
+      "pct_of_max": 2.265
+    },
+    {
+      "ts": 1799872062,
+      "date": "2027-01-13",
+      "tokens": 226356430.83,
+      "groups": "insiders, liquidity, privateSale",
+      "type": "cliff",
+      "usd": 6582666.66,
+      "pct_of_max": 2.265
+    },
+    {
+      "ts": 1802501805,
+      "date": "2027-02-13",
+      "tokens": 190523097.83,
+      "groups": "insiders, liquidity, privateSale",
+      "type": "cliff",
+      "usd": 5540598.25,
+      "pct_of_max": 1.906
+    },
+    {
+      "ts": 1805131548,
+      "date": "2027-03-15",
+      "tokens": 190523097.83,
+      "groups": "insiders, liquidity, privateSale",
+      "type": "cliff",
+      "usd": 5540598.25,
+      "pct_of_max": 1.906
+    },
+    {
+      "ts": 1807761291,
+      "date": "2027-04-15",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1810391034,
+      "date": "2027-05-15",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1813020777,
+      "date": "2027-06-15",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1815650520,
+      "date": "2027-07-15",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1818280263,
+      "date": "2027-08-14",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1820910006,
+      "date": "2027-09-14",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1823539749,
+      "date": "2027-10-14",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1826169492,
+      "date": "2027-11-14",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    },
+    {
+      "ts": 1828799235,
+      "date": "2027-12-14",
+      "tokens": 63523097.83,
+      "groups": "insiders, liquidity",
+      "type": "cliff",
+      "usd": 1847313.89,
+      "pct_of_max": 0.636
+    }
+  ],
+  "price_usd": 0.0290809792,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "stepn",
+  "name": "Stepn",
+  "price_id": "coingecko:stepn",
+  "max_supply": 5954402400,
+  "link": "https://defillama.com/unlocks/stepn",
+  "source": "https://defillama-datasets.llama.fi/emissions/stepn",
+  "events": [
+    {
+      "ts": 1796679351,
+      "date": "2026-12-07",
+      "tokens": 50661600.0,
+      "groups": "Uncategorized, noncirculating, insiders",
+      "type": "cliff",
+      "usd": 249452.3,
+      "pct_of_max": 0.851
+    },
+    {
+      "ts": 1799309094,
+      "date": "2027-01-07",
+      "tokens": 50661600.0,
+      "groups": "Uncategorized, noncirculating, insiders",
+      "type": "cliff",
+      "usd": 249452.3,
+      "pct_of_max": 0.851
+    },
+    {
+      "ts": 1801938837,
+      "date": "2027-02-06",
+      "tokens": 50661600.0,
+      "groups": "Uncategorized, noncirculating, insiders",
+      "type": "cliff",
+      "usd": 249452.3,
+      "pct_of_max": 0.851
+    },
+    {
+      "ts": 1804568580,
+      "date": "2027-03-09",
+      "tokens": 50661600.0,
+      "groups": "Uncategorized, noncirculating, insiders",
+      "type": "cliff",
+      "usd": 249452.3,
+      "pct_of_max": 0.851
+    },
+    {
+      "ts": 1807198323,
+      "date": "2027-04-08",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1809828066,
+      "date": "2027-05-09",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1812457809,
+      "date": "2027-06-08",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1815087552,
+      "date": "2027-07-08",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1817717295,
+      "date": "2027-08-08",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1820347038,
+      "date": "2027-09-07",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1822976781,
+      "date": "2027-10-08",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1825606524,
+      "date": "2027-11-07",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    },
+    {
+      "ts": 1828236267,
+      "date": "2027-12-08",
+      "tokens": 32940000.0,
+      "groups": "Uncategorized, noncirculating",
+      "type": "cliff",
+      "usd": 162193.04,
+      "pct_of_max": 0.553
+    }
+  ],
+  "price_usd": 0.00492389313,
+  "fetched": "2026-11-25"
+}

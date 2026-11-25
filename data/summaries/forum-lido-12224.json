@@ -1,0 +1,14 @@
+{
+  "id": "forum-lido-12224",
+  "space": "lido",
+  "title": "[Proposal] A new purpose, vision, and mission for the Lido DAO",
+  "url": "https://research.lido.fi/t/proposal-a-new-purpose-vision-and-mission-for-the-lido-dao/12224",
+  "headline": "Proposes a new Lido DAO purpose, 'Build the foundations for onchain finance', and a new mission, 'Make onchain finance simple, secure, and accessible'.",
+  "summary": "The post proposes updating the Lido DAO's purpose and mission to reflect expansion beyond Ethereum staking into DeFi vaults (earnETH and earnUSD) and onchain decentralized lending. New purpose: Build the foundations for onchain finance. New mission: Make onchain finance simple, secure, and accessible. The vision, 'a world in which Ethereum is the coordination and value layer of the internet', stays unchanged. The legacy 2023 purpose was to keep Ethereum decentralized, accessible and censorship resistant, and the legacy mission was to make staking simple, secure and decentralized. The authors argue the original mission has been achieved, citing stETH at about 22% of staked ETH and more than 8% of Lido stake run by permissionless operators, and say the new direction should guide governance, brand and product. The motivation cites $8.7B of digital assets stolen this year. No funds are requested in the portion reviewed.",
+  "risk_flags": [
+    "changes DAO purpose and mission",
+    "widens product scope beyond staking"
+  ],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-25"
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "canto",
+  "name": "Canto",
+  "price_id": "canto:0x826551890dc65655a0aceca109ab11abdbd7a07b",
+  "max_supply": 1076923076.9230769,
+  "link": "https://defillama.com/unlocks/canto",
+  "source": "https://defillama-datasets.llama.fi/emissions/canto",
+  "events": [
+    {
+      "ts": 1797264646,
+      "date": "2026-12-14",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799894389,
+      "date": "2027-01-14",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1802524132,
+      "date": "2027-02-13",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1805153875,
+      "date": "2027-03-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1807783618,
+      "date": "2027-04-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1810413361,
+      "date": "2027-05-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1813043104,
+      "date": "2027-06-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1815672847,
+      "date": "2027-07-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1818302590,
+      "date": "2027-08-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1820932333,
+      "date": "2027-09-14",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1823562076,
+      "date": "2027-10-15",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1826191819,
+      "date": "2027-11-14",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1828821562,
+      "date": "2027-12-14",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

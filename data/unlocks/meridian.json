@@ -1,0 +1,21 @@
+{
+  "slug": "meridian",
+  "name": "Meridian",
+  "price_id": "base:0x2F3b1A07E3eFb1fCc64BD09b86bD0Fa885D93552",
+  "max_supply": 9907000,
+  "link": "https://defillama.com/unlocks/meridian",
+  "source": "https://defillama-datasets.llama.fi/emissions/meridian",
+  "events": [
+    {
+      "ts": 1817162104,
+      "date": "2027-08-01",
+      "tokens": 3603.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.036
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

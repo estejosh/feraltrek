@@ -1,0 +1,21 @@
+{
+  "slug": "morpheusai",
+  "name": "MorpheusAI",
+  "price_id": "arbitrum:0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86",
+  "max_supply": 42000000,
+  "link": "https://defillama.com/unlocks/morpheusai",
+  "source": "https://defillama-datasets.llama.fi/emissions/morpheusai",
+  "events": [
+    {
+      "ts": 1802001600,
+      "date": "2027-02-07",
+      "tokens": 85042.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": 55571.56,
+      "pct_of_max": 0.202
+    }
+  ],
+  "price_usd": 0.6534601375022484,
+  "fetched": "2026-11-25"
+}

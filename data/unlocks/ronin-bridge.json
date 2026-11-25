@@ -1,0 +1,57 @@
+{
+  "slug": "ronin-bridge",
+  "name": "Ronin Bridge",
+  "price_id": "ronin:0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
+  "max_supply": 1000000007,
+  "link": "https://defillama.com/unlocks/ronin-bridge",
+  "source": "https://defillama-datasets.llama.fi/emissions/ronin-bridge",
+  "events": [
+    {
+      "ts": 1795766694,
+      "date": "2026-11-27",
+      "tokens": 1673400.0,
+      "groups": "staking, farming, insiders, noncirculating",
+      "type": "linear",
+      "usd": 55816.81,
+      "pct_of_max": 0.167
+    },
+    {
+      "ts": 1803655923,
+      "date": "2027-02-26",
+      "tokens": 1607200.0,
+      "groups": "staking, farming, insiders, noncirculating",
+      "type": "linear",
+      "usd": 53608.68,
+      "pct_of_max": 0.161
+    },
+    {
+      "ts": 1811545152,
+      "date": "2027-05-28",
+      "tokens": 1544400.0,
+      "groups": "staking, farming, insiders, noncirculating",
+      "type": "linear",
+      "usd": 51513.97,
+      "pct_of_max": 0.154
+    },
+    {
+      "ts": 1819434381,
+      "date": "2027-08-28",
+      "tokens": 1498300.0,
+      "groups": "staking, farming, insiders, noncirculating",
+      "type": "linear",
+      "usd": 49976.29,
+      "pct_of_max": 0.15
+    },
+    {
+      "ts": 1827323610,
+      "date": "2027-11-27",
+      "tokens": 1446500.0,
+      "groups": "staking, farming, insiders, noncirculating",
+      "type": "linear",
+      "usd": 48248.48,
+      "pct_of_max": 0.145
+    }
+  ],
+  "price_usd": 0.0333553279007918,
+  "fetched": "2026-11-25"
+}

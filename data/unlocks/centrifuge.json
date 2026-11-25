@@ -1,0 +1,129 @@
+{
+  "slug": "centrifuge",
+  "name": "Centrifuge",
+  "price_id": "ethereum:0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94",
+  "max_supply": 691800000,
+  "link": "https://defillama.com/unlocks/centrifuge",
+  "source": "https://defillama-datasets.llama.fi/emissions/centrifuge",
+  "events": [
+    {
+      "ts": 1796152773,
+      "date": "2026-12-01",
+      "tokens": 407800.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18410.83,
+      "pct_of_max": 0.059
+    },
+    {
+      "ts": 1798782516,
+      "date": "2027-01-01",
+      "tokens": 408800.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18455.97,
+      "pct_of_max": 0.059
+    },
+    {
+      "ts": 1801412259,
+      "date": "2027-01-31",
+      "tokens": 409900.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18505.64,
+      "pct_of_max": 0.059
+    },
+    {
+      "ts": 1804042002,
+      "date": "2027-03-03",
+      "tokens": 410900.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18550.78,
+      "pct_of_max": 0.059
+    },
+    {
+      "ts": 1806671745,
+      "date": "2027-04-02",
+      "tokens": 411900.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18595.93,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1809301488,
+      "date": "2027-05-02",
+      "tokens": 412900.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18641.08,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1811931231,
+      "date": "2027-06-02",
+      "tokens": 414000.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18690.74,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1814560974,
+      "date": "2027-07-02",
+      "tokens": 415000.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18735.88,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1817190717,
+      "date": "2027-08-02",
+      "tokens": 416000.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18781.03,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1819820460,
+      "date": "2027-09-01",
+      "tokens": 417100.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18830.69,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1822450203,
+      "date": "2027-10-02",
+      "tokens": 418100.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18875.84,
+      "pct_of_max": 0.06
+    },
+    {
+      "ts": 1825079946,
+      "date": "2027-11-01",
+      "tokens": 419200.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18925.5,
+      "pct_of_max": 0.061
+    },
+    {
+      "ts": 1827709689,
+      "date": "2027-12-02",
+      "tokens": 420200.0,
+      "groups": "noncirculating",
+      "type": "linear",
+      "usd": 18970.65,
+      "pct_of_max": 0.061
+    }
+  ],
+  "price_usd": 0.04514670861179473,
+  "fetched": "2026-11-25"
+}

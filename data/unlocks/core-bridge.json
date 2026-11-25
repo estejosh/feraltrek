@@ -1,0 +1,21 @@
+{
+  "slug": "core-bridge",
+  "name": "CORE Bridge",
+  "price_id": "coingecko:coredaoorg",
+  "max_supply": 2099999999.999999,
+  "link": "https://defillama.com/unlocks/core-bridge",
+  "source": "https://defillama-datasets.llama.fi/emissions/core-bridge",
+  "events": [
+    {
+      "ts": 1799450104,
+      "date": "2027-01-08",
+      "tokens": 548300.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 5420.9,
+      "pct_of_max": 0.026
+    }
+  ],
+  "price_usd": 0.009886734000000001,
+  "fetched": "2026-11-25"
+}

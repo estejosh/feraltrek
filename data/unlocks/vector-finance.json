@@ -1,0 +1,129 @@
+{
+  "slug": "vector-finance",
+  "name": "Vector Finance",
+  "price_id": "avax:0x5817d4f0b62a59b17f75207da1848c2ce75e7af4",
+  "max_supply": 286570188.7051542,
+  "link": "https://defillama.com/unlocks/vector-finance",
+  "source": "https://defillama-datasets.llama.fi/emissions/vector-finance",
+  "events": [
+    {
+      "ts": 1797310068,
+      "date": "2026-12-15",
+      "tokens": 44820.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.016
+    },
+    {
+      "ts": 1799939811,
+      "date": "2027-01-14",
+      "tokens": 44370.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1802569554,
+      "date": "2027-02-14",
+      "tokens": 43930.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1805199297,
+      "date": "2027-03-16",
+      "tokens": 43490.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1807829040,
+      "date": "2027-04-15",
+      "tokens": 43050.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1810458783,
+      "date": "2027-05-16",
+      "tokens": 42620.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1813088526,
+      "date": "2027-06-15",
+      "tokens": 42200.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1815718269,
+      "date": "2027-07-16",
+      "tokens": 41770.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.015
+    },
+    {
+      "ts": 1818348012,
+      "date": "2027-08-15",
+      "tokens": 41360.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.014
+    },
+    {
+      "ts": 1820977755,
+      "date": "2027-09-15",
+      "tokens": 40940.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.014
+    },
+    {
+      "ts": 1823607498,
+      "date": "2027-10-15",
+      "tokens": 40530.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.014
+    },
+    {
+      "ts": 1826237241,
+      "date": "2027-11-15",
+      "tokens": 40130.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.014
+    },
+    {
+      "ts": 1828866984,
+      "date": "2027-12-15",
+      "tokens": 39730.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.014
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

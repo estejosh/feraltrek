@@ -1,0 +1,21 @@
+{
+  "slug": "canton",
+  "name": "Canton",
+  "price_id": "coingecko:canton-network",
+  "max_supply": 60462153720.345024,
+  "link": "https://defillama.com/unlocks/canton",
+  "source": "https://defillama-datasets.llama.fi/emissions/canton",
+  "events": [
+    {
+      "ts": 1795651200,
+      "date": "2026-11-26",
+      "tokens": 0.0,
+      "groups": "Uncategorized",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.0730409895,
+  "fetched": "2026-11-25"
+}

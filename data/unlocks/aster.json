@@ -1,0 +1,138 @@
+{
+  "slug": "aster",
+  "name": "Aster",
+  "price_id": "coingecko:aster-2",
+  "max_supply": 8000000000,
+  "link": "https://defillama.com/unlocks/aster",
+  "source": "https://defillama-datasets.llama.fi/emissions/aster",
+  "events": [
+    {
+      "ts": 1795953144,
+      "date": "2026-11-29",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1798582887,
+      "date": "2026-12-29",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1801212630,
+      "date": "2027-01-29",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1803842373,
+      "date": "2027-02-28",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1806472116,
+      "date": "2027-03-31",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1809101859,
+      "date": "2027-04-30",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1811731602,
+      "date": "2027-05-31",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1814361345,
+      "date": "2027-06-30",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1816991088,
+      "date": "2027-07-30",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1819620831,
+      "date": "2027-08-30",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1822250574,
+      "date": "2027-09-29",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1824880317,
+      "date": "2027-10-30",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1827510060,
+      "date": "2027-11-29",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    },
+    {
+      "ts": 1830139803,
+      "date": "2027-12-30",
+      "tokens": 2250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 1076867.56,
+      "pct_of_max": 0.028
+    }
+  ],
+  "price_usd": 0.478607805,
+  "fetched": "2026-11-25"
+}

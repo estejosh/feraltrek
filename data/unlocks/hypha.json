@@ -1,0 +1,66 @@
+{
+  "slug": "hypha",
+  "name": "Hypha",
+  "price_id": "coingecko:gogopool",
+  "max_supply": 22500000,
+  "link": "https://defillama.com/unlocks/hypha",
+  "source": "https://defillama-datasets.llama.fi/emissions/hypha",
+  "events": [
+    {
+      "ts": 1795805349,
+      "date": "2026-11-27",
+      "tokens": 70312.5,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.312
+    },
+    {
+      "ts": 1798435092,
+      "date": "2026-12-28",
+      "tokens": 70312.5,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.312
+    },
+    {
+      "ts": 1801064835,
+      "date": "2027-01-27",
+      "tokens": 789966.35,
+      "groups": "staking, insiders, privateSale",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 3.511
+    },
+    {
+      "ts": 1803694578,
+      "date": "2027-02-27",
+      "tokens": 70312.5,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.312
+    },
+    {
+      "ts": 1806324321,
+      "date": "2027-03-29",
+      "tokens": 70312.5,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.312
+    },
+    {
+      "ts": 1808954064,
+      "date": "2027-04-28",
+      "tokens": 789966.35,
+      "groups": "staking, insiders, privateSale",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 3.511
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "sei",
+  "name": "Sei",
+  "price_id": "coingecko:sei-network",
+  "max_supply": 9999999960,
+  "link": "https://defillama.com/unlocks/sei",
+  "source": "https://defillama-datasets.llama.fi/emissions/sei",
+  "events": [
+    {
+      "ts": 1797160920,
+      "date": "2026-12-13",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1797160930,
+      "date": "2026-12-13",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1799790663,
+      "date": "2027-01-12",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1799790673,
+      "date": "2027-01-12",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1802420406,
+      "date": "2027-02-12",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1802420416,
+      "date": "2027-02-12",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1805050149,
+      "date": "2027-03-14",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1805050159,
+      "date": "2027-03-14",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1807679892,
+      "date": "2027-04-14",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1807679902,
+      "date": "2027-04-14",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1810309635,
+      "date": "2027-05-14",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1810309645,
+      "date": "2027-05-14",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1812939378,
+      "date": "2027-06-14",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1812939388,
+      "date": "2027-06-14",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1815569121,
+      "date": "2027-07-14",
+      "tokens": 22083333.0,
+      "groups": "staking, privateSale",
+      "type": "cliff",
+      "usd": 703293.81,
+      "pct_of_max": 0.221
+    },
+    {
+      "ts": 1815569131,
+      "date": "2027-07-14",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1818198864,
+      "date": "2027-08-13",
+      "tokens": 13750000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 437899.93,
+      "pct_of_max": 0.138
+    },
+    {
+      "ts": 1818198874,
+      "date": "2027-08-13",
+      "tokens": 97777777.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 3113955.01,
+      "pct_of_max": 0.978
+    },
+    {
+      "ts": 1820828607,
+      "date": "2027-09-13",
+      "tokens": 11250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 358281.76,
+      "pct_of_max": 0.113
+    },
+    {
+      "ts": 1823458350,
+      "date": "2027-10-13",
+      "tokens": 11250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 358281.76,
+      "pct_of_max": 0.113
+    },
+    {
+      "ts": 1826088093,
+      "date": "2027-11-13",
+      "tokens": 11250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 358281.76,
+      "pct_of_max": 0.113
+    },
+    {
+      "ts": 1828717836,
+      "date": "2027-12-13",
+      "tokens": 11250000.0,
+      "groups": "staking",
+      "type": "cliff",
+      "usd": 358281.76,
+      "pct_of_max": 0.113
+    }
+  ],
+  "price_usd": 0.031847267400000004,
+  "fetched": "2026-11-25"
+}

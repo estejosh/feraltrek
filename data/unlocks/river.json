@@ -1,0 +1,30 @@
+{
+  "slug": "river",
+  "name": "River",
+  "price_id": "coingecko:river",
+  "max_supply": 100000000,
+  "link": "https://defillama.com/unlocks/river",
+  "source": "https://defillama-datasets.llama.fi/emissions/river",
+  "events": [
+    {
+      "ts": 1805834574,
+      "date": "2027-03-23",
+      "tokens": 1000000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 533087.17,
+      "pct_of_max": 1.0
+    },
+    {
+      "ts": 1821613032,
+      "date": "2027-09-22",
+      "tokens": 1000000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 533087.17,
+      "pct_of_max": 1.0
+    }
+  ],
+  "price_usd": 0.5330871679156954,
+  "fetched": "2026-11-25"
+}

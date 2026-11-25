@@ -1,0 +1,120 @@
+{
+  "slug": "echelon-prime",
+  "name": "Echelon Prime",
+  "price_id": "coingecko:echelon-prime",
+  "max_supply": 111111111,
+  "link": "https://defillama.com/unlocks/echelon-prime",
+  "source": "https://defillama-datasets.llama.fi/emissions/echelon-prime",
+  "events": [
+    {
+      "ts": 1796060460,
+      "date": "2026-11-30",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1798690203,
+      "date": "2026-12-31",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1801319946,
+      "date": "2027-01-30",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1803949689,
+      "date": "2027-03-02",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1806579432,
+      "date": "2027-04-01",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1809209175,
+      "date": "2027-05-01",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1811838918,
+      "date": "2027-06-01",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1814468661,
+      "date": "2027-07-01",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1817098404,
+      "date": "2027-08-01",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1819728147,
+      "date": "2027-08-31",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1822357890,
+      "date": "2027-10-01",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    },
+    {
+      "ts": 1824987633,
+      "date": "2027-10-31",
+      "tokens": 441309.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 44291.13,
+      "pct_of_max": 0.397
+    }
+  ],
+  "price_usd": 0.1003630738466847,
+  "fetched": "2026-11-25"
+}

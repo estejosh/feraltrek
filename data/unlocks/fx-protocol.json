@@ -1,0 +1,21 @@
+{
+  "slug": "fx-protocol",
+  "name": "fx Protocol",
+  "price_id": "ethereum:0x365accfca291e7d3914637abf1f7635db165bb09",
+  "max_supply": 2000000.0000000002,
+  "link": "https://defillama.com/unlocks/fx-protocol",
+  "source": "https://defillama-datasets.llama.fi/emissions/fx-protocol",
+  "events": [
+    {
+      "ts": 1821222904,
+      "date": "2027-09-17",
+      "tokens": 1377.0,
+      "groups": "farming",
+      "type": "linear",
+      "usd": 17294.49,
+      "pct_of_max": 0.069
+    }
+  ],
+  "price_usd": 12.559541554704019,
+  "fetched": "2026-11-25"
+}

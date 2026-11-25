@@ -1,0 +1,1185 @@
+{
+  "fetched": "2026-11-25",
+  "count": 131,
+  "tokens": [
+    {
+      "slug": "acala",
+      "name": "Acala",
+      "next_date": "2026-11-25",
+      "next_tokens": 4722222.22,
+      "next_usd": 657.1,
+      "next_pct_of_max": 0.295,
+      "events": 14
+    },
+    {
+      "slug": "walrus-protocol",
+      "name": "Walrus Protocol",
+      "next_date": "2026-11-25",
+      "next_tokens": 32708333.33,
+      "next_usd": 670727.16,
+      "next_pct_of_max": 0.654,
+      "events": 28
+    },
+    {
+      "slug": "scallop",
+      "name": "Scallop",
+      "next_date": "2026-11-25",
+      "next_tokens": 395300.0,
+      "next_usd": 1526.17,
+      "next_pct_of_max": 0.158,
+      "events": 14
+    },
+    {
+      "slug": "altlayer",
+      "name": "AltLayer",
+      "next_date": "2026-11-25",
+      "next_tokens": 240096667.44,
+      "next_usd": 994586.44,
+      "next_pct_of_max": 2.401,
+      "events": 14
+    },
+    {
+      "slug": "celestia",
+      "name": "Celestia",
+      "next_date": "2026-11-25",
+      "next_tokens": 183561.64,
+      "next_usd": 57397.93,
+      "next_pct_of_max": 0.014,
+      "events": 60
+    },
+    {
+      "slug": "equilibre",
+      "name": "Equilibre",
+      "next_date": "2026-11-26",
+      "next_tokens": 243700.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.122,
+      "events": 58
+    },
+    {
+      "slug": "canton",
+      "name": "Canton",
+      "next_date": "2026-11-26",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "pearl",
+      "name": "Pearl",
+      "next_date": "2026-11-26",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 2
+    },
+    {
+      "slug": "resolv",
+      "name": "Resolv",
+      "next_date": "2026-11-26",
+      "next_tokens": 18241468.04,
+      "next_usd": 233269.0,
+      "next_pct_of_max": 1.824,
+      "events": 42
+    },
+    {
+      "slug": "thala",
+      "name": "Thala",
+      "next_date": "2026-11-26",
+      "next_tokens": 67950.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.068,
+      "events": 58
+    },
+    {
+      "slug": "salty.io",
+      "name": "Salty.IO",
+      "next_date": "2026-11-26",
+      "next_tokens": 334.1,
+      "next_usd": 0.03,
+      "next_pct_of_max": 0.0,
+      "events": 60
+    },
+    {
+      "slug": "kinetiq",
+      "name": "Kinetiq",
+      "next_date": "2026-11-27",
+      "next_tokens": 12916666.67,
+      "next_usd": 2004795.06,
+      "next_pct_of_max": 1.292,
+      "events": 14
+    },
+    {
+      "slug": "grass",
+      "name": "Grass",
+      "next_date": "2026-11-27",
+      "next_tokens": 2710555.56,
+      "next_usd": 950767.2,
+      "next_pct_of_max": 0.271,
+      "events": 40
+    },
+    {
+      "slug": "ronin-bridge",
+      "name": "Ronin Bridge",
+      "next_date": "2026-11-27",
+      "next_tokens": 1673400.0,
+      "next_usd": 55816.81,
+      "next_pct_of_max": 0.167,
+      "events": 5
+    },
+    {
+      "slug": "hypha",
+      "name": "Hypha",
+      "next_date": "2026-11-27",
+      "next_tokens": 70312.5,
+      "next_usd": "",
+      "next_pct_of_max": 0.312,
+      "events": 6
+    },
+    {
+      "slug": "portal",
+      "name": "Portal",
+      "next_date": "2026-11-27",
+      "next_tokens": 50411392.41,
+      "next_usd": 395702.59,
+      "next_pct_of_max": 0.504,
+      "events": 29
+    },
+    {
+      "slug": "falcon-finance",
+      "name": "Falcon Finance",
+      "next_date": "2026-11-28",
+      "next_tokens": 75000000.0,
+      "next_usd": 7683190.71,
+      "next_pct_of_max": 0.75,
+      "events": 28
+    },
+    {
+      "slug": "b2-buzz",
+      "name": "B2 Buzz",
+      "next_date": "2026-11-28",
+      "next_tokens": 3175085.52,
+      "next_usd": 1216683.9,
+      "next_pct_of_max": 1.512,
+      "events": 14
+    },
+    {
+      "slug": "layer3",
+      "name": "Layer3",
+      "next_date": "2026-11-29",
+      "next_tokens": 45370370.37,
+      "next_usd": 68331.55,
+      "next_pct_of_max": 1.361,
+      "events": 14
+    },
+    {
+      "slug": "big-time",
+      "name": "Big Time",
+      "next_date": "2026-11-29",
+      "next_tokens": 20000000.0,
+      "next_usd": 139273.12,
+      "next_pct_of_max": 0.4,
+      "events": 6
+    },
+    {
+      "slug": "flowx-finance",
+      "name": "FlowX Finance",
+      "next_date": "2026-11-29",
+      "next_tokens": 77500.0,
+      "next_usd": 3736.43,
+      "next_pct_of_max": 0.775,
+      "events": 2
+    },
+    {
+      "slug": "zora-protocol",
+      "name": "ZORA Protocol",
+      "next_date": "2026-11-29",
+      "next_tokens": 166666666.67,
+      "next_usd": 668269.98,
+      "next_pct_of_max": 1.667,
+      "events": 14
+    },
+    {
+      "slug": "gunz",
+      "name": "Gunz",
+      "next_date": "2026-11-29",
+      "next_tokens": 271055555.56,
+      "next_usd": 355419.04,
+      "next_pct_of_max": 2.711,
+      "events": 16
+    },
+    {
+      "slug": "valas-finance",
+      "name": "Valas Finance",
+      "next_date": "2026-11-29",
+      "next_tokens": 1499052.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.05,
+      "events": 5
+    },
+    {
+      "slug": "renzo",
+      "name": "Renzo",
+      "next_date": "2026-11-29",
+      "next_tokens": 83333333.33,
+      "next_usd": 174182.95,
+      "next_pct_of_max": 0.833,
+      "events": 5
+    },
+    {
+      "slug": "grvt",
+      "name": "Grvt",
+      "next_date": "2026-11-29",
+      "next_tokens": 73633120.0,
+      "next_usd": 9019000.49,
+      "next_pct_of_max": 7.363,
+      "events": 13
+    },
+    {
+      "slug": "aster",
+      "name": "Aster",
+      "next_date": "2026-11-29",
+      "next_tokens": 2250000.0,
+      "next_usd": 1076867.56,
+      "next_pct_of_max": 0.028,
+      "events": 14
+    },
+    {
+      "slug": "forta",
+      "name": "Forta",
+      "next_date": "2026-11-29",
+      "next_tokens": 50000.0,
+      "next_usd": 883.29,
+      "next_pct_of_max": 0.005,
+      "events": 57
+    },
+    {
+      "slug": "orderly",
+      "name": "Orderly",
+      "next_date": "2026-11-30",
+      "next_tokens": 500000.0,
+      "next_usd": 12633.05,
+      "next_pct_of_max": 0.05,
+      "events": 29
+    },
+    {
+      "slug": "eigencloud",
+      "name": "EigenCloud",
+      "next_date": "2026-11-30",
+      "next_tokens": 36820227.0,
+      "next_usd": 3869069.45,
+      "next_pct_of_max": 2.315,
+      "events": 9
+    },
+    {
+      "slug": "celo",
+      "name": "Celo",
+      "next_date": "2026-11-30",
+      "next_tokens": 511111.0,
+      "next_usd": 27205.71,
+      "next_pct_of_max": 0.051,
+      "events": 39
+    },
+    {
+      "slug": "sui-foundation",
+      "name": "Sui Foundation",
+      "next_date": "2026-11-30",
+      "next_tokens": 2069367.0,
+      "next_usd": 1300507.63,
+      "next_pct_of_max": 0.021,
+      "events": 52
+    },
+    {
+      "slug": "maverick-protocol",
+      "name": "Maverick Protocol",
+      "next_date": "2026-11-30",
+      "next_tokens": 9300080.0,
+      "next_usd": 59269.39,
+      "next_pct_of_max": 0.465,
+      "events": 17
+    },
+    {
+      "slug": "echelon-prime",
+      "name": "Echelon Prime",
+      "next_date": "2026-11-30",
+      "next_tokens": 441309.0,
+      "next_usd": 44291.13,
+      "next_pct_of_max": 0.397,
+      "events": 12
+    },
+    {
+      "slug": "across",
+      "name": "Across",
+      "next_date": "2026-12-01",
+      "next_tokens": 3125000.0,
+      "next_usd": 134594.75,
+      "next_pct_of_max": 0.312,
+      "events": 13
+    },
+    {
+      "slug": "optimism-foundation",
+      "name": "Optimism Foundation",
+      "next_date": "2026-12-01",
+      "next_tokens": 4473924.0,
+      "next_usd": 298926.79,
+      "next_pct_of_max": 0.104,
+      "events": 5
+    },
+    {
+      "slug": "pike",
+      "name": "Pike",
+      "next_date": "2026-12-01",
+      "next_tokens": 35666666.67,
+      "next_usd": 10844.59,
+      "next_pct_of_max": 1.667,
+      "events": 13
+    },
+    {
+      "slug": "zetachain",
+      "name": "ZetaChain",
+      "next_date": "2026-12-01",
+      "next_tokens": 44260416.67,
+      "next_usd": 1120498.08,
+      "next_pct_of_max": 2.108,
+      "events": 13
+    },
+    {
+      "slug": "centrifuge",
+      "name": "Centrifuge",
+      "next_date": "2026-12-01",
+      "next_tokens": 407800.0,
+      "next_usd": 18410.83,
+      "next_pct_of_max": 0.059,
+      "events": 13
+    },
+    {
+      "slug": "memecore",
+      "name": "MemeCore",
+      "next_date": "2026-12-02",
+      "next_tokens": 56111111.11,
+      "next_usd": 42658807.48,
+      "next_pct_of_max": 0.561,
+      "events": 13
+    },
+    {
+      "slug": "stakestone",
+      "name": "StakeStone",
+      "next_date": "2026-12-02",
+      "next_tokens": 21351728.72,
+      "next_usd": 424381.27,
+      "next_pct_of_max": 2.135,
+      "events": 13
+    },
+    {
+      "slug": "cheelee",
+      "name": "Cheelee",
+      "next_date": "2026-12-03",
+      "next_tokens": 6416666.67,
+      "next_usd": 882262.88,
+      "next_pct_of_max": 0.642,
+      "events": 13
+    },
+    {
+      "slug": "humidifi",
+      "name": "HumidiFi",
+      "next_date": "2026-12-03",
+      "next_tokens": 192500000.0,
+      "next_usd": 6855351.5,
+      "next_pct_of_max": 19.25,
+      "events": 3
+    },
+    {
+      "slug": "opinion",
+      "name": "OPINION",
+      "next_date": "2026-12-03",
+      "next_tokens": 10358083.67,
+      "next_usd": 301016.33,
+      "next_pct_of_max": 1.036,
+      "events": 19
+    },
+    {
+      "slug": "pheasant-network",
+      "name": "Pheasant Network",
+      "next_date": "2026-12-04",
+      "next_tokens": 18000000.0,
+      "next_usd": 400955.49,
+      "next_pct_of_max": 1.8,
+      "events": 26
+    },
+    {
+      "slug": "stader",
+      "name": "Stader",
+      "next_date": "2026-12-04",
+      "next_tokens": 918750.0,
+      "next_usd": 70012.57,
+      "next_pct_of_max": 0.766,
+      "events": 13
+    },
+    {
+      "slug": "quai-network",
+      "name": "Quai Network",
+      "next_date": "2026-12-06",
+      "next_tokens": 696422.67,
+      "next_usd": 4968.28,
+      "next_pct_of_max": 0.04,
+      "events": 26
+    },
+    {
+      "slug": "stepn",
+      "name": "Stepn",
+      "next_date": "2026-12-07",
+      "next_tokens": 50661600.0,
+      "next_usd": 249452.3,
+      "next_pct_of_max": 0.851,
+      "events": 13
+    },
+    {
+      "slug": "hashflow",
+      "name": "Hashflow",
+      "next_date": "2026-12-07",
+      "next_tokens": 1875000.0,
+      "next_usd": 6581.25,
+      "next_pct_of_max": 0.188,
+      "events": 26
+    },
+    {
+      "slug": "stable",
+      "name": "Stable",
+      "next_date": "2026-12-08",
+      "next_tokens": 888888888.89,
+      "next_usd": 21310145.16,
+      "next_pct_of_max": 0.889,
+      "events": 25
+    },
+    {
+      "slug": "credbull",
+      "name": "Credbull",
+      "next_date": "2026-12-08",
+      "next_tokens": 15166666.67,
+      "next_usd": "",
+      "next_pct_of_max": 1.619,
+      "events": 26
+    },
+    {
+      "slug": "spcx",
+      "name": "SPCX",
+      "next_date": "2026-12-08",
+      "next_tokens": 328400000.0,
+      "next_usd": 39863531193.2,
+      "next_pct_of_max": 2.446,
+      "events": 7
+    },
+    {
+      "slug": "carv",
+      "name": "CARV",
+      "next_date": "2026-12-09",
+      "next_tokens": 4395082.66,
+      "next_usd": 102619.34,
+      "next_pct_of_max": 0.44,
+      "events": 24
+    },
+    {
+      "slug": "flare",
+      "name": "Flare",
+      "next_date": "2026-12-09",
+      "next_tokens": 47970000.0,
+      "next_usd": 239049.54,
+      "next_pct_of_max": 0.044,
+      "events": 10
+    },
+    {
+      "slug": "iota",
+      "name": "IOTA",
+      "next_date": "2026-12-09",
+      "next_tokens": 12328168.85,
+      "next_usd": 369226.36,
+      "next_pct_of_max": 0.234,
+      "events": 22
+    },
+    {
+      "slug": "movement",
+      "name": "Movement",
+      "next_date": "2026-12-09",
+      "next_tokens": 164583333.33,
+      "next_usd": 770861.49,
+      "next_pct_of_max": 1.646,
+      "events": 13
+    },
+    {
+      "slug": "delysium",
+      "name": "Delysium",
+      "next_date": "2026-12-10",
+      "next_tokens": 34375000.0,
+      "next_usd": 107039.78,
+      "next_pct_of_max": 1.146,
+      "events": 10
+    },
+    {
+      "slug": "magic-eden",
+      "name": "Magic Eden",
+      "next_date": "2026-12-10",
+      "next_tokens": 6956250.0,
+      "next_usd": 247171.72,
+      "next_pct_of_max": 0.696,
+      "events": 26
+    },
+    {
+      "slug": "bouncebit",
+      "name": "BounceBit",
+      "next_date": "2026-12-11",
+      "next_tokens": 29925000.0,
+      "next_usd": 139861.33,
+      "next_pct_of_max": 1.425,
+      "events": 13
+    },
+    {
+      "slug": "aptos",
+      "name": "Aptos",
+      "next_date": "2026-12-11",
+      "next_tokens": 4543478.0,
+      "next_usd": 1616218.23,
+      "next_pct_of_max": 0.216,
+      "events": 13
+    },
+    {
+      "slug": "solana",
+      "name": "Solana",
+      "next_date": "2026-12-11",
+      "next_tokens": 397300.0,
+      "next_usd": 26908779.85,
+      "next_pct_of_max": 0.055,
+      "events": 13
+    },
+    {
+      "slug": "pump",
+      "name": "Pump",
+      "next_date": "2026-12-11",
+      "next_tokens": 6875000000.0,
+      "next_usd": 16140779.83,
+      "next_pct_of_max": 0.688,
+      "events": 13
+    },
+    {
+      "slug": "sei",
+      "name": "Sei",
+      "next_date": "2026-12-13",
+      "next_tokens": 22083333.0,
+      "next_usd": 703293.81,
+      "next_pct_of_max": 0.221,
+      "events": 22
+    },
+    {
+      "slug": "alaya-ai",
+      "name": "Alaya AI",
+      "next_date": "2026-12-14",
+      "next_tokens": 26666666.67,
+      "next_usd": 538456.06,
+      "next_pct_of_max": 0.533,
+      "events": 26
+    },
+    {
+      "slug": "canto",
+      "name": "Canto",
+      "next_date": "2026-12-14",
+      "next_tokens": 0.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.0,
+      "events": 13
+    },
+    {
+      "slug": "starknet-bridge",
+      "name": "Starknet Bridge",
+      "next_date": "2026-12-14",
+      "next_tokens": 226356430.83,
+      "next_usd": 6582666.66,
+      "next_pct_of_max": 2.265,
+      "events": 13
+    },
+    {
+      "slug": "cyberconnect",
+      "name": "CyberConnect",
+      "next_date": "2026-12-14",
+      "next_tokens": 511116.67,
+      "next_usd": 103617.65,
+      "next_pct_of_max": 0.511,
+      "events": 16
+    },
+    {
+      "slug": "ant",
+      "name": "ANT",
+      "next_date": "2026-12-15",
+      "next_tokens": 303000000.0,
+      "next_usd": 23726427429.29,
+      "next_pct_of_max": 1.84,
+      "events": 22
+    },
+    {
+      "slug": "connex",
+      "name": "Connex",
+      "next_date": "2026-12-15",
+      "next_tokens": 1322500.0,
+      "next_usd": 8563564.27,
+      "next_pct_of_max": 1.323,
+      "events": 2
+    },
+    {
+      "slug": "arbitrum-foundation",
+      "name": "Arbitrum Foundation",
+      "next_date": "2026-12-15",
+      "next_tokens": 92645833.33,
+      "next_usd": 9992342.29,
+      "next_pct_of_max": 0.926,
+      "events": 4
+    },
+    {
+      "slug": "vector-finance",
+      "name": "Vector Finance",
+      "next_date": "2026-12-15",
+      "next_tokens": 44820.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.016,
+      "events": 13
+    },
+    {
+      "slug": "vana",
+      "name": "Vana",
+      "next_date": "2026-12-16",
+      "next_tokens": 5289777.6,
+      "next_usd": 2961475.62,
+      "next_pct_of_max": 4.408,
+      "events": 13
+    },
+    {
+      "slug": "re",
+      "name": "Re",
+      "next_date": "2026-12-17",
+      "next_tokens": 7091666.67,
+      "next_usd": 1393026.22,
+      "next_pct_of_max": 0.709,
+      "events": 13
+    },
+    {
+      "slug": "infrared-finance",
+      "name": "Infrared Finance",
+      "next_date": "2026-12-17",
+      "next_tokens": 49300000.0,
+      "next_usd": 141023.8,
+      "next_pct_of_max": 4.93,
+      "events": 1
+    },
+    {
+      "slug": "redbelly-network",
+      "name": "Redbelly Network",
+      "next_date": "2026-12-17",
+      "next_tokens": 49871399.0,
+      "next_usd": 109934.64,
+      "next_pct_of_max": 0.499,
+      "events": 13
+    },
+    {
+      "slug": "zksync-era",
+      "name": "zkSync Era",
+      "next_date": "2026-12-17",
+      "next_tokens": 173038250.0,
+      "next_usd": 1067788.78,
+      "next_pct_of_max": 0.824,
+      "events": 13
+    },
+    {
+      "slug": "solv-protocol",
+      "name": "Solv Protocol",
+      "next_date": "2026-12-18",
+      "next_tokens": 186577427.24,
+      "next_usd": 736738.59,
+      "next_pct_of_max": 1.931,
+      "events": 13
+    },
+    {
+      "slug": "streamflow",
+      "name": "Streamflow",
+      "next_date": "2026-12-19",
+      "next_tokens": 2000000.0,
+      "next_usd": 15538.77,
+      "next_pct_of_max": 0.2,
+      "events": 2
+    },
+    {
+      "slug": "kaito",
+      "name": "Kaito",
+      "next_date": "2026-12-19",
+      "next_tokens": 17597619.05,
+      "next_usd": 2658951.99,
+      "next_pct_of_max": 1.76,
+      "events": 13
+    },
+    {
+      "slug": "layerzero",
+      "name": "LayerZero",
+      "next_date": "2026-12-20",
+      "next_tokens": 23625000.0,
+      "next_usd": 23367165.37,
+      "next_pct_of_max": 2.362,
+      "events": 7
+    },
+    {
+      "slug": "lista-dao",
+      "name": "Lista DAO",
+      "next_date": "2026-12-20",
+      "next_tokens": 3125000.0,
+      "next_usd": 331882.81,
+      "next_pct_of_max": 0.391,
+      "events": 10
+    },
+    {
+      "slug": "moonbeam",
+      "name": "Moonbeam",
+      "next_date": "2026-12-20",
+      "next_tokens": 4554528.18,
+      "next_usd": 27386.07,
+      "next_pct_of_max": 0.365,
+      "events": 6
+    },
+    {
+      "slug": "limitless-exchange",
+      "name": "Limitless Exchange",
+      "next_date": "2026-12-22",
+      "next_tokens": 19645833.33,
+      "next_usd": 322765.59,
+      "next_pct_of_max": 1.965,
+      "events": 13
+    },
+    {
+      "slug": "humanity",
+      "name": "Humanity",
+      "next_date": "2026-12-23",
+      "next_tokens": 292857142.86,
+      "next_usd": 3319474.51,
+      "next_pct_of_max": 2.929,
+      "events": 13
+    },
+    {
+      "slug": "ton",
+      "name": "TON",
+      "next_date": "2026-12-23",
+      "next_tokens": 36583333.33,
+      "next_usd": 33611566.73,
+      "next_pct_of_max": 0.722,
+      "events": 14
+    },
+    {
+      "slug": "monad",
+      "name": "Monad",
+      "next_date": "2026-12-24",
+      "next_tokens": 492708333.33,
+      "next_usd": 4843322.92,
+      "next_pct_of_max": 0.482,
+      "events": 13
+    },
+    {
+      "slug": "level-finance",
+      "name": "Level Finance",
+      "next_date": "2026-12-25",
+      "next_tokens": 3333333.33,
+      "next_usd": 13033.0,
+      "next_pct_of_max": 11.453,
+      "events": 1
+    },
+    {
+      "slug": "plasma",
+      "name": "Plasma",
+      "next_date": "2026-12-25",
+      "next_tokens": 88888888.89,
+      "next_usd": 3962577.78,
+      "next_pct_of_max": 0.889,
+      "events": 26
+    },
+    {
+      "slug": "lighter",
+      "name": "Lighter",
+      "next_date": "2026-12-29",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "xdc-network",
+      "name": "XDC Network",
+      "next_date": "2027-01-01",
+      "next_tokens": 841176470.0,
+      "next_usd": 21316250.82,
+      "next_pct_of_max": 3.043,
+      "events": 1
+    },
+    {
+      "slug": "core-bridge",
+      "name": "CORE Bridge",
+      "next_date": "2027-01-08",
+      "next_tokens": 548300.0,
+      "next_usd": 5420.9,
+      "next_pct_of_max": 0.026,
+      "events": 1
+    },
+    {
+      "slug": "sign",
+      "name": "Sign",
+      "next_date": "2027-01-15",
+      "next_tokens": 666666666.67,
+      "next_usd": 5539234.13,
+      "next_pct_of_max": 6.667,
+      "events": 6
+    },
+    {
+      "slug": "debridge",
+      "name": "deBridge",
+      "next_date": "2027-01-16",
+      "next_tokens": 618333333.33,
+      "next_usd": 8064612.25,
+      "next_pct_of_max": 6.183,
+      "events": 4
+    },
+    {
+      "slug": "uxlink",
+      "name": "UXLINK",
+      "next_date": "2027-01-17",
+      "next_tokens": 10937500.0,
+      "next_usd": "",
+      "next_pct_of_max": 1.094,
+      "events": 1
+    },
+    {
+      "slug": "ondo-finance",
+      "name": "Ondo Finance",
+      "next_date": "2027-01-17",
+      "next_tokens": 1710101379.64,
+      "next_usd": 456921987.63,
+      "next_pct_of_max": 17.101,
+      "events": 1
+    },
+    {
+      "slug": "heyelsa",
+      "name": "HeyElsa",
+      "next_date": "2027-01-19",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "apriori",
+      "name": "aPriori",
+      "next_date": "2027-01-22",
+      "next_tokens": 56333333.33,
+      "next_usd": 1741784.04,
+      "next_pct_of_max": 5.633,
+      "events": 4
+    },
+    {
+      "slug": "avalanche",
+      "name": "Avalanche",
+      "next_date": "2027-01-24",
+      "next_tokens": 1667000.0,
+      "next_usd": 10675468.0,
+      "next_pct_of_max": 0.232,
+      "events": 4
+    },
+    {
+      "slug": "rainbow",
+      "name": "Rainbow",
+      "next_date": "2027-02-05",
+      "next_tokens": 69500000.0,
+      "next_usd": 840386.12,
+      "next_pct_of_max": 6.95,
+      "events": 11
+    },
+    {
+      "slug": "morpheusai",
+      "name": "MorpheusAI",
+      "next_date": "2027-02-07",
+      "next_tokens": 85042.0,
+      "next_usd": 55571.56,
+      "next_pct_of_max": 0.202,
+      "events": 1
+    },
+    {
+      "slug": "solayer",
+      "name": "Solayer",
+      "next_date": "2027-02-10",
+      "next_tokens": 27018750.0,
+      "next_usd": 1300274.8,
+      "next_pct_of_max": 2.702,
+      "events": 4
+    },
+    {
+      "slug": "spacefi",
+      "name": "SpaceFi",
+      "next_date": "2027-02-13",
+      "next_tokens": 1166000.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.194,
+      "events": 1
+    },
+    {
+      "slug": "smardex-ecosystem",
+      "name": "SMARDEX Ecosystem",
+      "next_date": "2027-03-09",
+      "next_tokens": 4492000.0,
+      "next_usd": 2793.03,
+      "next_pct_of_max": 0.045,
+      "events": 1
+    },
+    {
+      "slug": "katana",
+      "name": "Katana",
+      "next_date": "2027-03-18",
+      "next_tokens": 1668250000.0,
+      "next_usd": 5043859.03,
+      "next_pct_of_max": 16.683,
+      "events": 1
+    },
+    {
+      "slug": "river",
+      "name": "River",
+      "next_date": "2027-03-23",
+      "next_tokens": 1000000.0,
+      "next_usd": 533087.17,
+      "next_pct_of_max": 1.0,
+      "events": 2
+    },
+    {
+      "slug": "myria",
+      "name": "Myria",
+      "next_date": "2027-03-24",
+      "next_tokens": 42000000.0,
+      "next_usd": 897.99,
+      "next_pct_of_max": 0.085,
+      "events": 1
+    },
+    {
+      "slug": "based",
+      "name": "Based",
+      "next_date": "2027-03-30",
+      "next_tokens": 56000000.0,
+      "next_usd": 2052446.03,
+      "next_pct_of_max": 5.6,
+      "events": 10
+    },
+    {
+      "slug": "edgex",
+      "name": "edgeX",
+      "next_date": "2027-03-30",
+      "next_tokens": 4166666.67,
+      "next_usd": 1057823.18,
+      "next_pct_of_max": 0.417,
+      "events": 10
+    },
+    {
+      "slug": "usd-ai",
+      "name": "USD AI",
+      "next_date": "2027-04-16",
+      "next_tokens": 2764996222.56,
+      "next_usd": 70192020.46,
+      "next_pct_of_max": 27.65,
+      "events": 1
+    },
+    {
+      "slug": "omni-network",
+      "name": "Omni Network",
+      "next_date": "2027-04-17",
+      "next_tokens": 638640625.0,
+      "next_usd": 710607.03,
+      "next_pct_of_max": 8.515,
+      "events": 1
+    },
+    {
+      "slug": "initia",
+      "name": "Initia",
+      "next_date": "2027-04-24",
+      "next_tokens": 7343750.0,
+      "next_usd": 625665.36,
+      "next_pct_of_max": 0.734,
+      "events": 11
+    },
+    {
+      "slug": "zealousswap",
+      "name": "ZealousSwap",
+      "next_date": "2027-04-24",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "mantra-dao",
+      "name": "MANTRA DAO",
+      "next_date": "2027-04-24",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "pharos",
+      "name": "Pharos",
+      "next_date": "2027-04-28",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "gensyn",
+      "name": "Gensyn",
+      "next_date": "2027-04-29",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "megaeth-bridge",
+      "name": "MegaETH Bridge",
+      "next_date": "2027-04-30",
+      "next_tokens": 125000000.0,
+      "next_usd": 4897178.98,
+      "next_pct_of_max": 1.25,
+      "events": 9
+    },
+    {
+      "slug": "billions-network",
+      "name": "Billions Network",
+      "next_date": "2027-05-04",
+      "next_tokens": 650000000.0,
+      "next_usd": 2392000.0,
+      "next_pct_of_max": 6.5,
+      "events": 1
+    },
+    {
+      "slug": "zest",
+      "name": "Zest",
+      "next_date": "2027-05-18",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "pyth",
+      "name": "Pyth",
+      "next_date": "2027-05-19",
+      "next_tokens": 2125000000.0,
+      "next_usd": 98897014.01,
+      "next_pct_of_max": 21.25,
+      "events": 1
+    },
+    {
+      "slug": "solstice",
+      "name": "Solstice",
+      "next_date": "2027-05-24",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "citrea-staking",
+      "name": "Citrea Staking",
+      "next_date": "2027-05-25",
+      "next_tokens": 1000250000.0,
+      "next_usd": 14793697.5,
+      "next_pct_of_max": 10.002,
+      "events": 1
+    },
+    {
+      "slug": "fantom",
+      "name": "Fantom",
+      "next_date": "2027-06-16",
+      "next_tokens": 4461700.0,
+      "next_usd": 112555.65,
+      "next_pct_of_max": 0.079,
+      "events": 1
+    },
+    {
+      "slug": "arcium",
+      "name": "Arcium",
+      "next_date": "2027-06-22",
+      "next_tokens": 0.0,
+      "next_usd": 0.0,
+      "next_pct_of_max": 0.0,
+      "events": 1
+    },
+    {
+      "slug": "cap",
+      "name": "cap",
+      "next_date": "2027-06-25",
+      "next_tokens": 1082000000.0,
+      "next_usd": 100856425.1,
+      "next_pct_of_max": 10.82,
+      "events": 7
+    },
+    {
+      "slug": "sonic",
+      "name": "Sonic",
+      "next_date": "2027-07-06",
+      "next_tokens": 47625000.0,
+      "next_usd": 1261359.16,
+      "next_pct_of_max": 1.035,
+      "events": 1
+    },
+    {
+      "slug": "helium-network",
+      "name": "Helium Network",
+      "next_date": "2027-07-31",
+      "next_tokens": 143744.0,
+      "next_usd": 30229.36,
+      "next_pct_of_max": 0.064,
+      "events": 1
+    },
+    {
+      "slug": "meridian",
+      "name": "Meridian",
+      "next_date": "2027-08-01",
+      "next_tokens": 3603.0,
+      "next_usd": "",
+      "next_pct_of_max": 0.036,
+      "events": 1
+    },
+    {
+      "slug": "fx-protocol",
+      "name": "fx Protocol",
+      "next_date": "2027-09-17",
+      "next_tokens": 1377.0,
+      "next_usd": 17294.49,
+      "next_pct_of_max": 0.069,
+      "events": 1
+    },
+    {
+      "slug": "clever",
+      "name": "CLever",
+      "next_date": "2027-10-12",
+      "next_tokens": 606.7,
+      "next_usd": 843.06,
+      "next_pct_of_max": 0.046,
+      "events": 1
+    },
+    {
+      "slug": "peaq",
+      "name": "peaq",
+      "next_date": "2027-11-12",
+      "next_tokens": 2436500.0,
+      "next_usd": 45477.22,
+      "next_pct_of_max": 0.043,
+      "events": 1
+    },
+    {
+      "slug": "hybra",
+      "name": "Hybra",
+      "next_date": "2027-11-17",
+      "next_tokens": 180000000.0,
+      "next_usd": 33387.66,
+      "next_pct_of_max": 8.04,
+      "events": 1
+    }
+  ]
+}

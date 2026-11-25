@@ -1,0 +1,21 @@
+{
+  "slug": "peaq",
+  "name": "peaq",
+  "price_id": "coingecko:peaq-2",
+  "max_supply": 5667620228,
+  "link": "https://defillama.com/unlocks/peaq",
+  "source": "https://defillama-datasets.llama.fi/emissions/peaq",
+  "events": [
+    {
+      "ts": 1826040378,
+      "date": "2027-11-12",
+      "tokens": 2436500.0,
+      "groups": "staking, noncirculating",
+      "type": "linear",
+      "usd": 45477.22,
+      "pct_of_max": 0.043
+    }
+  ],
+  "price_usd": 0.0186649777,
+  "fetched": "2026-11-25"
+}

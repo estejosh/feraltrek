@@ -1,0 +1,21 @@
+{
+  "slug": "zest",
+  "name": "Zest",
+  "price_id": "coingecko:zest-protocol",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/zest",
+  "source": "https://defillama-datasets.llama.fi/emissions/zest",
+  "events": [
+    {
+      "ts": 1810598400,
+      "date": "2027-05-18",
+      "tokens": 0.0,
+      "groups": "insiders, privateSale",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 0.11079557616219361,
+  "fetched": "2026-11-25"
+}

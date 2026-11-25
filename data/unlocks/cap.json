@@ -1,0 +1,75 @@
+{
+  "slug": "cap",
+  "name": "cap",
+  "price_id": "coingecko:cap-4",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/cap",
+  "source": "https://defillama-datasets.llama.fi/emissions/cap",
+  "events": [
+    {
+      "ts": 1813881600,
+      "date": "2027-06-25",
+      "tokens": 1082000000.0,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 100856425.1,
+      "pct_of_max": 10.82
+    },
+    {
+      "ts": 1816511343,
+      "date": "2027-07-25",
+      "tokens": 90166666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 8404702.09,
+      "pct_of_max": 0.902
+    },
+    {
+      "ts": 1819141086,
+      "date": "2027-08-24",
+      "tokens": 90166666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 8404702.09,
+      "pct_of_max": 0.902
+    },
+    {
+      "ts": 1821770829,
+      "date": "2027-09-24",
+      "tokens": 90166666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 8404702.09,
+      "pct_of_max": 0.902
+    },
+    {
+      "ts": 1824400572,
+      "date": "2027-10-24",
+      "tokens": 90166666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 8404702.09,
+      "pct_of_max": 0.902
+    },
+    {
+      "ts": 1827030315,
+      "date": "2027-11-24",
+      "tokens": 90166666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 8404702.09,
+      "pct_of_max": 0.902
+    },
+    {
+      "ts": 1829660058,
+      "date": "2027-12-24",
+      "tokens": 90166666.67,
+      "groups": "privateSale, insiders",
+      "type": "cliff",
+      "usd": 8404702.09,
+      "pct_of_max": 0.902
+    }
+  ],
+  "price_usd": 0.0932129622,
+  "fetched": "2026-11-25"
+}

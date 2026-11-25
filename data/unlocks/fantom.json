@@ -1,0 +1,21 @@
+{
+  "slug": "fantom",
+  "name": "Fantom",
+  "price_id": "coingecko:fantom",
+  "max_supply": 5626275756.669899,
+  "link": "https://defillama.com/unlocks/fantom",
+  "source": "https://defillama-datasets.llama.fi/emissions/fantom",
+  "events": [
+    {
+      "ts": 1813115934,
+      "date": "2027-06-16",
+      "tokens": 4461700.0,
+      "groups": "farming, staking",
+      "type": "linear",
+      "usd": 112555.65,
+      "pct_of_max": 0.079
+    }
+  ],
+  "price_usd": 0.02522707810977322,
+  "fetched": "2026-11-25"
+}

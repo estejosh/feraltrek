@@ -1,0 +1,21 @@
+{
+  "slug": "spacefi",
+  "name": "SpaceFi",
+  "price_id": "evmos:0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
+  "max_supply": 599999999.9999999,
+  "link": "https://defillama.com/unlocks/spacefi",
+  "source": "https://defillama-datasets.llama.fi/emissions/spacefi",
+  "events": [
+    {
+      "ts": 1802560504,
+      "date": "2027-02-13",
+      "tokens": 1166000.0,
+      "groups": "airdrop, noncirculating, insiders",
+      "type": "linear",
+      "usd": "",
+      "pct_of_max": 0.194
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

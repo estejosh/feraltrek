@@ -1,0 +1,48 @@
+{
+  "slug": "arbitrum-foundation",
+  "name": "Arbitrum Foundation",
+  "price_id": "arbitrum:0x912ce59144191c1204e64559fe8253a0e49e6548",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/arbitrum-foundation",
+  "source": "https://defillama-datasets.llama.fi/emissions/arbitrum-foundation",
+  "events": [
+    {
+      "ts": 1797332319,
+      "date": "2026-12-15",
+      "tokens": 92645833.33,
+      "groups": "insiders, privateSale",
+      "type": "cliff",
+      "usd": 9992342.29,
+      "pct_of_max": 0.926
+    },
+    {
+      "ts": 1799962062,
+      "date": "2027-01-14",
+      "tokens": 92645833.33,
+      "groups": "insiders, privateSale",
+      "type": "cliff",
+      "usd": 9992342.29,
+      "pct_of_max": 0.926
+    },
+    {
+      "ts": 1802591805,
+      "date": "2027-02-14",
+      "tokens": 92645833.33,
+      "groups": "insiders, privateSale",
+      "type": "cliff",
+      "usd": 9992342.29,
+      "pct_of_max": 0.926
+    },
+    {
+      "ts": 1805221548,
+      "date": "2027-03-16",
+      "tokens": 92645833.33,
+      "groups": "insiders, privateSale",
+      "type": "cliff",
+      "usd": 9992342.29,
+      "pct_of_max": 0.926
+    }
+  ],
+  "price_usd": 0.10785528,
+  "fetched": "2026-11-25"
+}

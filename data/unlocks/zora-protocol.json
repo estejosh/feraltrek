@@ -1,0 +1,138 @@
+{
+  "slug": "zora-protocol",
+  "name": "ZORA Protocol",
+  "price_id": "base:0x1111111111166b7fe7bd91427724b487980afc69",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/zora-protocol",
+  "source": "https://defillama-datasets.llama.fi/emissions/zora-protocol",
+  "events": [
+    {
+      "ts": 1795958145,
+      "date": "2026-11-29",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1798587888,
+      "date": "2026-12-29",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1801217631,
+      "date": "2027-01-29",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1803847374,
+      "date": "2027-02-28",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1806477117,
+      "date": "2027-03-31",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1809106860,
+      "date": "2027-04-30",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1811736603,
+      "date": "2027-05-31",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1814366346,
+      "date": "2027-06-30",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1816996089,
+      "date": "2027-07-31",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1819625832,
+      "date": "2027-08-30",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1822255575,
+      "date": "2027-09-29",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1824885318,
+      "date": "2027-10-30",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1827515061,
+      "date": "2027-11-29",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    },
+    {
+      "ts": 1830144804,
+      "date": "2027-12-30",
+      "tokens": 166666666.67,
+      "groups": "insiders, noncirculating, privateSale",
+      "type": "cliff",
+      "usd": 668269.98,
+      "pct_of_max": 1.667
+    }
+  ],
+  "price_usd": 0.004009619900000001,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,552 @@
+{
+  "slug": "salty.io",
+  "name": "Salty.IO",
+  "price_id": "ethereum:0x0110B0c3391584Ba24Dbf8017Bf462e9f78A6d9F",
+  "max_supply": 100000000.00000003,
+  "link": "https://defillama.com/unlocks/salty.io",
+  "source": "https://defillama-datasets.llama.fi/emissions/salty.io",
+  "events": [
+    {
+      "ts": 1795694339,
+      "date": "2026-11-26",
+      "tokens": 334.1,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1795780739,
+      "date": "2026-11-27",
+      "tokens": 331.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1795867139,
+      "date": "2026-11-28",
+      "tokens": 329.0,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1795953539,
+      "date": "2026-11-29",
+      "tokens": 140226.6,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.41,
+      "pct_of_max": 0.14
+    },
+    {
+      "ts": 1796039939,
+      "date": "2026-11-30",
+      "tokens": 324.1,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796126339,
+      "date": "2026-12-01",
+      "tokens": 321.7,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796212739,
+      "date": "2026-12-02",
+      "tokens": 319.2,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796299139,
+      "date": "2026-12-03",
+      "tokens": 316.8,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796385539,
+      "date": "2026-12-04",
+      "tokens": 314.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796471939,
+      "date": "2026-12-05",
+      "tokens": 312.2,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796558339,
+      "date": "2026-12-06",
+      "tokens": 139509.8,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.34,
+      "pct_of_max": 0.14
+    },
+    {
+      "ts": 1796644739,
+      "date": "2026-12-07",
+      "tokens": 307.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796731139,
+      "date": "2026-12-08",
+      "tokens": 305.1,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796817539,
+      "date": "2026-12-09",
+      "tokens": 302.9,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796903939,
+      "date": "2026-12-10",
+      "tokens": 300.6,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1796990339,
+      "date": "2026-12-11",
+      "tokens": 298.4,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797076739,
+      "date": "2026-12-12",
+      "tokens": 296.1,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797163139,
+      "date": "2026-12-13",
+      "tokens": 138793.9,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.28,
+      "pct_of_max": 0.139
+    },
+    {
+      "ts": 1797249539,
+      "date": "2026-12-14",
+      "tokens": 291.7,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797335939,
+      "date": "2026-12-15",
+      "tokens": 289.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797422339,
+      "date": "2026-12-16",
+      "tokens": 287.4,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797508739,
+      "date": "2026-12-17",
+      "tokens": 285.1,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797595139,
+      "date": "2026-12-18",
+      "tokens": 283.0,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.03,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797681539,
+      "date": "2026-12-19",
+      "tokens": 280.9,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797767939,
+      "date": "2026-12-20",
+      "tokens": 138078.9,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.22,
+      "pct_of_max": 0.138
+    },
+    {
+      "ts": 1797854339,
+      "date": "2026-12-21",
+      "tokens": 276.8,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1797940739,
+      "date": "2026-12-22",
+      "tokens": 274.7,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798027139,
+      "date": "2026-12-23",
+      "tokens": 272.6,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798113539,
+      "date": "2026-12-24",
+      "tokens": 270.6,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798199939,
+      "date": "2026-12-25",
+      "tokens": 268.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798286339,
+      "date": "2026-12-26",
+      "tokens": 266.54,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798372739,
+      "date": "2026-12-27",
+      "tokens": 137364.49,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.15,
+      "pct_of_max": 0.137
+    },
+    {
+      "ts": 1798459139,
+      "date": "2026-12-28",
+      "tokens": 262.54,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798545539,
+      "date": "2026-12-29",
+      "tokens": 260.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798631939,
+      "date": "2026-12-30",
+      "tokens": 258.57,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798718339,
+      "date": "2026-12-31",
+      "tokens": 256.64,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798804739,
+      "date": "2027-01-01",
+      "tokens": 254.72,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798891139,
+      "date": "2027-01-02",
+      "tokens": 252.81,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1798977539,
+      "date": "2027-01-03",
+      "tokens": 136650.9,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.09,
+      "pct_of_max": 0.137
+    },
+    {
+      "ts": 1799063939,
+      "date": "2027-01-04",
+      "tokens": 248.99,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799150339,
+      "date": "2027-01-05",
+      "tokens": 247.19,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799236739,
+      "date": "2027-01-06",
+      "tokens": 245.29,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799323139,
+      "date": "2027-01-07",
+      "tokens": 243.5,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799409539,
+      "date": "2027-01-08",
+      "tokens": 241.62,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799495939,
+      "date": "2027-01-09",
+      "tokens": 239.84,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799582339,
+      "date": "2027-01-10",
+      "tokens": 135938.07,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 12.03,
+      "pct_of_max": 0.136
+    },
+    {
+      "ts": 1799668739,
+      "date": "2027-01-11",
+      "tokens": 236.3,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799755139,
+      "date": "2027-01-12",
+      "tokens": 234.53,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799841539,
+      "date": "2027-01-13",
+      "tokens": 232.77,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1799927939,
+      "date": "2027-01-14",
+      "tokens": 231.02,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800014339,
+      "date": "2027-01-15",
+      "tokens": 229.27,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800100739,
+      "date": "2027-01-16",
+      "tokens": 227.52,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800187139,
+      "date": "2027-01-17",
+      "tokens": 135325.78,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 11.97,
+      "pct_of_max": 0.135
+    },
+    {
+      "ts": 1800273539,
+      "date": "2027-01-18",
+      "tokens": 224.15,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800359939,
+      "date": "2027-01-19",
+      "tokens": 222.42,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800446339,
+      "date": "2027-01-20",
+      "tokens": 220.79,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800532739,
+      "date": "2027-01-21",
+      "tokens": 219.17,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800619139,
+      "date": "2027-01-22",
+      "tokens": 217.45,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800705539,
+      "date": "2027-01-23",
+      "tokens": 215.84,
+      "groups": "liquidity",
+      "type": "linear",
+      "usd": 0.02,
+      "pct_of_max": 0.0
+    },
+    {
+      "ts": 1800791939,
+      "date": "2027-01-24",
+      "tokens": 134614.24,
+      "groups": "farming, liquidity",
+      "type": "linear",
+      "usd": 11.91,
+      "pct_of_max": 0.135
+    }
+  ],
+  "price_usd": 8.8467927256313e-05,
+  "fetched": "2026-11-25"
+}

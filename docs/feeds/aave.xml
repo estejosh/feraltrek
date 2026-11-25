@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Tue, 24 Nov 2026 12:54:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:56:25 +0000</lastBuildDate>
+<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.25 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-25--26495.html</link>
+<guid isPermaLink="false">forum-aave-26495</guid><pubDate>Wed, 25 Nov 2026 07:02:52 +0000</pubDate>
+<description>LlamaRisk recommends lower supply and borrow caps on several Aave V3 assets and interest rate model changes for USDC and USDT on V3 Core.</description></item>
+<item><title>[Discussion] Aave × Supersmooth: sharing transaction based revenue with the DAO (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-discussion-aave-supersmooth-sharing-transaction-based-revenue-with-the-dao--26494.html</link>
+<guid isPermaLink="false">forum-aave-26494</guid><pubDate>Wed, 25 Nov 2026 03:07:54 +0000</pubDate>
+<description>Supersmooth.fi asks for feedback on becoming Aave&#x27;s official partner for position management and sharing a portion of its transaction fees with the DAO.</description></item>
+<item><title>OpenUSD (OUSD) on Aave Tempo Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-openusd-ousd-on-aave-tempo-assessments--26493.html</link>
+<guid isPermaLink="false">forum-aave-26493</guid><pubDate>Tue, 24 Nov 2026 20:25:42 +0000</pubDate>
+<description>Low-information proposal: a thread that collects risk and technical assessments of OpenUSD (OUSD) on Aave Tempo.</description></item>
+<item><title>[Research] Targeted Deleveraging of rsETH and osETH Through Exchange Rate Growth Discounting (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-research-targeted-deleveraging-of-rseth-and-oseth-through-exchange-rate-gro--26490.html</link>
+<guid isPermaLink="false">forum-aave-26490</guid><pubDate>Tue, 24 Nov 2026 13:51:36 +0000</pubDate>
+<description>A research post by TokenLogic suggests setting the CAPO growth cap to 0% on rsETH and osETH as a more targeted alternative to raising the WETH borrow rate.</description></item>
 <item><title>Risk Stewards: Draw Cap Increases on Aave V4 / 2026.11.24 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-draw-cap-increases-on-aave-v4-2026-11-24--26486.html</link>
 <guid isPermaLink="false">forum-aave-26486</guid><pubDate>Tue, 24 Nov 2026 12:03:48 +0000</pubDate>
 <description>LlamaRisk recommends raising four draw caps on Aave V4 Ethereum Core Hub: WETH on two spokes, USDT and USDC.</description></item>
@@ -139,16 +151,4 @@
 <item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-03--25987.html</link>
 <guid isPermaLink="false">forum-aave-25987</guid><pubDate>Tue, 03 Nov 2026 14:36:57 +0000</pubDate>
 <description>A risk service provider recommends doubling the USD₮0 borrow cap on Aave V3 X Layer and cutting the WAVAX supply cap on Aave V3 Avalanche.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.02 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-02--25980.html</link>
-<guid isPermaLink="false">forum-aave-25980</guid><pubDate>Mon, 02 Nov 2026 17:58:39 +0000</pubDate>
-<description>LlamaRisk recommends raising three Aave V3 caps: USDe supply on X Layer, USDT0 borrow on Monad, and WETH borrow on Optimism, via the Risk Steward process.</description></item>
-<item><title>AL Development Update | October 2026 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-al-development-update-october-2026--25979.html</link>
-<guid isPermaLink="false">forum-aave-25979</guid><pubDate>Mon, 02 Nov 2026 12:14:09 +0000</pubDate>
-<description>Aave Labs&#x27; October update reports Aave V4 deposits above $1.5B, the first external curator on V4, and an ARFC to establish the Aave Foundation.</description></item>
-<item><title>Risk Stewards: Add Cap Increases on Aave V4 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-cap-increases-on-aave-v4-2026-11-01--25975.html</link>
-<guid isPermaLink="false">forum-aave-25975</guid><pubDate>Sun, 01 Nov 2026 17:19:21 +0000</pubDate>
-<description>LlamaRisk recommends raising the Aave V4 add cap for weETH on Ethereum from 20K to 22K and for GOOGLc on Base from 15K to 22K.</description></item>
-<item><title>Risk Stewards: Borrow Cap Increases on Aave V3 / 2026.11.01 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-borrow-cap-increases-on-aave-v3-2026-11-01--25974.html</link>
-<guid isPermaLink="false">forum-aave-25974</guid><pubDate>Sun, 01 Nov 2026 17:18:44 +0000</pubDate>
-<description>LlamaRisk recommends raising borrow caps on five Aave V3 reserves whose debt has reached 98.3% to 100% of caps reduced on October 30.</description></item>
 </channel></rss>

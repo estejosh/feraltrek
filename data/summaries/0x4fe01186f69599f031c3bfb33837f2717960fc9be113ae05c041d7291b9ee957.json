@@ -1,0 +1,14 @@
+{
+  "id": "0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957",
+  "space": "cow.eth",
+  "title": "CIP-94: Simplifying the operations of the CoW DAO bonding pool",
+  "url": "https://snapshot.org/#/cow.eth/proposal/0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957",
+  "headline": "Replaces the CoW DAO bonding pool's rules with a flat 10% service fee and a 20% HODL rule for all solvers, and sets the reduced bond at $50k plus 0.5M COW.",
+  "summary": "CIP-94 proposes to simplify the rules for solvers in the CoW DAO bonding pool, replacing the existing rules including the 25% HODL rule on lifetime rewards. Per the text, every solver in the pool would pay a 10% service fee from day 1 and be subject to a 20% HODL rule from day 1. The size of a reduced bonding pool would be $50k in stables or ETH (yield-bearing allowed) plus 0.5M COW; the minimal initial deposit that must double within one year would be removed. Each solver in the pool would get a dedicated Safe, solely owned by the mainnet payouts safe currently operated by the core team, receiving 20% of the rewards the solver claims each accounting week. When that Safe holds at least $50k in stables or ETH and 0.5M COW, the solver may operate its own driver component. Other requirements on withholding rewards or using specific RPC endpoints for colocated solvers would be lifted. The full bond ($0.5M stables and 1.5M COW) is unchanged. Open point: the reduced bond remains subject to objective eligibility checks, which may include limited counterparty due diligence.",
+  "risk_flags": [
+    "changes solver fee and HODL rules",
+    "core team operates the payouts safe"
+  ],
+  "vote": "For 100% / Against 0% / Abstain 0% (54.1M For so far), ends 2026-12-01",
+  "written": "2026-11-25"
+}

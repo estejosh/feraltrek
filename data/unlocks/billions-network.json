@@ -1,0 +1,21 @@
+{
+  "slug": "billions-network",
+  "name": "Billions Network",
+  "price_id": "coingecko:billions-network",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/billions-network",
+  "source": "https://defillama-datasets.llama.fi/emissions/billions-network",
+  "events": [
+    {
+      "ts": 1809388800,
+      "date": "2027-05-04",
+      "tokens": 650000000.0,
+      "groups": "insiders, privateSale",
+      "type": "cliff/linear",
+      "usd": 2392000.0,
+      "pct_of_max": 6.5
+    }
+  ],
+  "price_usd": 0.00368,
+  "fetched": "2026-11-25"
+}

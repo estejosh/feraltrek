@@ -1,0 +1,57 @@
+{
+  "slug": "renzo",
+  "name": "Renzo",
+  "price_id": "ethereum:0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/renzo",
+  "source": "https://defillama-datasets.llama.fi/emissions/renzo",
+  "events": [
+    {
+      "ts": 1795957233,
+      "date": "2026-11-29",
+      "tokens": 83333333.33,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 174182.95,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1798586976,
+      "date": "2026-12-29",
+      "tokens": 83333333.33,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 174182.95,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1801216719,
+      "date": "2027-01-29",
+      "tokens": 83333333.33,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 174182.95,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1803846462,
+      "date": "2027-02-28",
+      "tokens": 83333333.33,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 174182.95,
+      "pct_of_max": 0.833
+    },
+    {
+      "ts": 1806476205,
+      "date": "2027-03-31",
+      "tokens": 83333333.33,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 174182.95,
+      "pct_of_max": 0.833
+    }
+  ],
+  "price_usd": 0.0020901953799999998,
+  "fetched": "2026-11-25"
+}

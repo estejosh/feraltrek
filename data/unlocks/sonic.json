@@ -1,0 +1,21 @@
+{
+  "slug": "sonic",
+  "name": "Sonic",
+  "price_id": "coingecko:sonic-3",
+  "max_supply": 4603520992.711756,
+  "link": "https://defillama.com/unlocks/sonic",
+  "source": "https://defillama-datasets.llama.fi/emissions/sonic",
+  "events": [
+    {
+      "ts": 1814841110,
+      "date": "2027-07-06",
+      "tokens": 47625000.0,
+      "groups": "noncirculating",
+      "type": "cliff",
+      "usd": 1261359.16,
+      "pct_of_max": 1.035
+    }
+  ],
+  "price_usd": 0.026485231799999998,
+  "fetched": "2026-11-25"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "lighter",
+  "name": "Lighter",
+  "price_id": "coingecko:lighter",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/lighter",
+  "source": "https://defillama-datasets.llama.fi/emissions/lighter",
+  "events": [
+    {
+      "ts": 1798523326,
+      "date": "2026-12-29",
+      "tokens": 0.0,
+      "groups": "insiders",
+      "type": "linear",
+      "usd": 0.0,
+      "pct_of_max": 0.0
+    }
+  ],
+  "price_usd": 2.2925,
+  "fetched": "2026-11-25"
+}

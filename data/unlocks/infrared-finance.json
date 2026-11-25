@@ -1,0 +1,21 @@
+{
+  "slug": "infrared-finance",
+  "name": "Infrared Finance",
+  "price_id": "coingecko:infrared-finance",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/infrared-finance",
+  "source": "https://defillama-datasets.llama.fi/emissions/infrared-finance",
+  "events": [
+    {
+      "ts": 1797465600,
+      "date": "2026-12-17",
+      "tokens": 49300000.0,
+      "groups": "noncirculating, privateSale, insiders",
+      "type": "cliff/linear",
+      "usd": 141023.8,
+      "pct_of_max": 4.93
+    }
+  ],
+  "price_usd": 0.00286052326576231,
+  "fetched": "2026-11-25"
+}

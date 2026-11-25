@@ -1,0 +1,57 @@
+{
+  "slug": "valas-finance",
+  "name": "Valas Finance",
+  "price_id": "bsc:0xB1EbdD56729940089Ecc3aD0BBEEB12b6842ea6F",
+  "max_supply": 2999110523,
+  "link": "https://defillama.com/unlocks/valas-finance",
+  "source": "https://defillama-datasets.llama.fi/emissions/valas-finance",
+  "events": [
+    {
+      "ts": 1795950408,
+      "date": "2026-11-29",
+      "tokens": 1499052.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.05
+    },
+    {
+      "ts": 1798580151,
+      "date": "2026-12-29",
+      "tokens": 1374773.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.046
+    },
+    {
+      "ts": 1801209894,
+      "date": "2027-01-29",
+      "tokens": 1260797.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.042
+    },
+    {
+      "ts": 1803839637,
+      "date": "2027-02-28",
+      "tokens": 1156270.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.039
+    },
+    {
+      "ts": 1806469380,
+      "date": "2027-03-31",
+      "tokens": 1060409.0,
+      "groups": "farming",
+      "type": "cliff",
+      "usd": "",
+      "pct_of_max": 0.035
+    }
+  ],
+  "price_usd": "",
+  "fetched": "2026-11-25"
+}

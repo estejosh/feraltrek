@@ -1,0 +1,129 @@
+{
+  "slug": "humanity",
+  "name": "Humanity",
+  "price_id": "ethereum:0xe76c5b78f93909d34404e9eb4c1f19e7582a5de1",
+  "max_supply": 10000000000,
+  "link": "https://defillama.com/unlocks/humanity",
+  "source": "https://defillama-datasets.llama.fi/emissions/humanity",
+  "events": [
+    {
+      "ts": 1798058574,
+      "date": "2026-12-23",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1800688317,
+      "date": "2027-01-23",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1803318060,
+      "date": "2027-02-22",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1805947803,
+      "date": "2027-03-25",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1808577546,
+      "date": "2027-04-24",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1811207289,
+      "date": "2027-05-25",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1813837032,
+      "date": "2027-06-24",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1816466775,
+      "date": "2027-07-24",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1819096518,
+      "date": "2027-08-24",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1821726261,
+      "date": "2027-09-23",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1824356004,
+      "date": "2027-10-24",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1826985747,
+      "date": "2027-11-23",
+      "tokens": 292857142.86,
+      "groups": "insiders, ecosystem, noncirculating, privateSale, staking",
+      "type": "cliff",
+      "usd": 3319474.51,
+      "pct_of_max": 2.929
+    },
+    {
+      "ts": 1829615490,
+      "date": "2027-12-24",
+      "tokens": 105357142.86,
+      "groups": "ecosystem, noncirculating, staking",
+      "type": "cliff",
+      "usd": 1194201.19,
+      "pct_of_max": 1.054
+    }
+  ],
+  "price_usd": 0.011334791,
+  "fetched": "2026-11-25"
+}

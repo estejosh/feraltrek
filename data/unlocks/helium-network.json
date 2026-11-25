@@ -1,0 +1,21 @@
+{
+  "slug": "helium-network",
+  "name": "Helium Network",
+  "price_id": "coingecko:helium",
+  "max_supply": 222999992.84744263,
+  "link": "https://defillama.com/unlocks/helium-network",
+  "source": "https://defillama-datasets.llama.fi/emissions/helium-network",
+  "events": [
+    {
+      "ts": 1817073008,
+      "date": "2027-07-31",
+      "tokens": 143744.0,
+      "groups": "insiders, farming, noncirculating",
+      "type": "linear",
+      "usd": 30229.36,
+      "pct_of_max": 0.064
+    }
+  ],
+  "price_usd": 0.2103,
+  "fetched": "2026-11-25"
+}

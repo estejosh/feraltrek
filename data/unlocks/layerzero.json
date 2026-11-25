@@ -1,0 +1,75 @@
+{
+  "slug": "layerzero",
+  "name": "LayerZero",
+  "price_id": "coingecko:layerzero",
+  "max_supply": 1000000000,
+  "link": "https://defillama.com/unlocks/layerzero",
+  "source": "https://defillama-datasets.llama.fi/emissions/layerzero",
+  "events": [
+    {
+      "ts": 1797733900,
+      "date": "2026-12-20",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    },
+    {
+      "ts": 1800363643,
+      "date": "2027-01-19",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    },
+    {
+      "ts": 1802993386,
+      "date": "2027-02-18",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    },
+    {
+      "ts": 1805623129,
+      "date": "2027-03-21",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    },
+    {
+      "ts": 1808252872,
+      "date": "2027-04-20",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    },
+    {
+      "ts": 1810882615,
+      "date": "2027-05-21",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    },
+    {
+      "ts": 1813512358,
+      "date": "2027-06-20",
+      "tokens": 23625000.0,
+      "groups": "insiders",
+      "type": "cliff",
+      "usd": 23367165.37,
+      "pct_of_max": 2.362
+    }
+  ],
+  "price_usd": 0.989086365,
+  "fetched": "2026-11-25"
+}
