@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 25 Nov 2026 12:56:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<item><title>[ARFC] Sentora Externally Curated Hub &amp; Spoke Framework on Aave V4: Tempo OUSD Instance (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-sentora-externally-curated-hub-spoke-framework-on-aave-v4-tempo-ousd-i--26510.html</link>
+<guid isPermaLink="false">forum-aave-26510</guid><pubDate>Wed, 25 Nov 2026 23:19:54 +0000</pubDate>
+<description>An ARFC proposes a Sentora-curated Aave V4 Hub on the Tempo network where OUSD is the only borrowable asset, with BTC wrappers and PRIME as launch collateral.</description></item>
+<item><title>[ARFC] Sentora Externally Curated Hub &amp; Spoke on Aave V4: Base RLUSD Instance (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-sentora-externally-curated-hub-spoke-on-aave-v4-base-rlusd-instance--26509.html</link>
+<guid isPermaLink="false">forum-aave-26509</guid><pubDate>Wed, 25 Nov 2026 22:59:39 +0000</pubDate>
+<description>An ARFC proposes a second Sentora-curated Aave V4 Hub on Base where RLUSD is the only borrowable asset, with cbBTC and cbXRP as launch collateral.</description></item>
+<item><title>Risk Stewards: Add and Draw Cap Increases on Aave V4 / 2026.11.25 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-and-draw-cap-increases-on-aave-v4-2026-11-25--26502.html</link>
+<guid isPermaLink="false">forum-aave-26502</guid><pubDate>Wed, 25 Nov 2026 12:56:15 +0000</pubDate>
+<description>LlamaRisk recommends raising supply (add) and borrow (draw) caps on seven Aave V4 reserves, mainly USDC, USDT, WETH and WBTC on the Core Hub.</description></item>
 <item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.25 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-25--26495.html</link>
 <guid isPermaLink="false">forum-aave-26495</guid><pubDate>Wed, 25 Nov 2026 07:02:52 +0000</pubDate>
 <description>LlamaRisk recommends lower supply and borrow caps on several Aave V3 assets and interest rate model changes for USDC and USDT on V3 Core.</description></item>
@@ -142,13 +151,4 @@
 <item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-06--26078.html</link>
 <guid isPermaLink="false">forum-aave-26078</guid><pubDate>Fri, 06 Nov 2026 16:01:37 +0000</pubDate>
 <description>LlamaRisk recommends a broad set of borrow and supply cap changes across Aave V3 instances, mostly reductions, plus a USDe base borrow rate increase to 7.00%. USDt on Avalanche had reached 99.9% borrow cap utilization.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-06--26073.html</link>
-<guid isPermaLink="false">forum-aave-26073</guid><pubDate>Fri, 06 Nov 2026 15:55:38 +0000</pubDate>
-<description>LlamaRisk recommends raising several supply, draw and add caps and one base interest rate on Aave V4 reserves on Ethereum, Avalanche and Base. The post is a risk-steward parameter update based on observed borrowing and liquidity.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-03--25988.html</link>
-<guid isPermaLink="false">forum-aave-25988</guid><pubDate>Tue, 03 Nov 2026 14:42:57 +0000</pubDate>
-<description>A risk service provider recommends raising several supply and borrow caps on Aave V4 (Ethereum and Avalanche) and changing the USDC interest rate slope on two hubs.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.03 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-03--25987.html</link>
-<guid isPermaLink="false">forum-aave-25987</guid><pubDate>Tue, 03 Nov 2026 14:36:57 +0000</pubDate>
-<description>A risk service provider recommends doubling the USD₮0 borrow cap on Aave V3 X Layer and cutting the WAVAX supply cap on Aave V3 Avalanche.</description></item>
 </channel></rss>

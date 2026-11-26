@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28499",
+  "space": "sky",
+  "title": "Declaration of Out-of-Schedule Executive Vote – Sky Frontier Foundation Genesis Capital",
+  "url": "https://forum.sky.money/t/declaration-of-out-of-schedule-executive-vote-sky-frontier-foundation-genesis-capital/28499",
+  "headline": "The Core Facilitator proposes an out-of-schedule Executive Vote this week to move 25 million USDS of Genesis Capital to the Sky Frontier Foundation to pay down debt.",
+  "summary": "The Core Facilitator proposes a standalone, out-of-schedule Executive Vote to transfer 25,000,000 USDS in Genesis Capital to the Sky Frontier Foundation (SFF) to pay down debt. The post says the funds are already earmarked for SFF and are not an additional allocation. The transfer was meant for the November 19, 2026 Executive Vote but could not fit because of the SBE-BEAM changes in that vote. Citing ongoing liquidity stress in the stUSDS market, the Core Facilitator considers it prudent to move sooner than the next scheduled vote. The transfer would come from three subproxies: 6 million USDS from AMATSU_SUBPROXY, 4 million from OZONE_SUBPROXY and 15 million from CCEA1_SUBPROXY, all to one SFF address. The post invokes the Emergency Response Process Definition as the governance basis. Open questions: how the stUSDS liquidity situation develops and how the debt paid down is used.",
+  "risk_flags": ["transfer of 25M USDS", "out-of-schedule executive vote", "cites stUSDS liquidity stress"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-26"
+}

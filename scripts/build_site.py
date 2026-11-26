@@ -142,6 +142,7 @@ soon_html = ("<div class='box'><b>Votes closing in 7 days</b><ul>" + "".join(
 feeds = " ".join(f'<a href="dao/{E(sp)}/">{E(sp)}</a> <small>(<a href="feeds/{E(sp)}.xml">rss</a>)</small>' for sp in spaces)
 front = f"""<h1>Governance Digest</h1>
 <div class="meta">What DAOs are proposing and discussing, in plain English. Updated daily.
+&middot; <a href="unlocks/">Token unlocks, next 30 days</a>
 &middot; <a href="rss.xml">RSS (all)</a> &middot; by DAO: {feeds}</div>
 {soon_html}
 {paybox()}
@@ -187,6 +188,14 @@ body = f"""<p class="meta"><a href="../">Governance Digest</a></p><h1>DAO votes 
 u = SITE + "closing-soon/"
 (DOCS / "closing-soon" / "index.html").write_text(shell("DAO votes closing in the next 7 days", "Governance votes that end within a week, sorted by deadline.", body, u, "../", ld=ldjson("Votes closing soon", u, soon, "../")), encoding="utf-8")
 urls_extra.append(u)
+
+# token unlock pages (never break the governance build)
+try:
+    import build_unlocks
+    _uu, _, _ = build_unlocks.build(shell, SITE, DOCS, now)
+    urls_extra += _uu
+except Exception as _ex:
+    print('unlock pages failed:', type(_ex).__name__, _ex)
 
 # sitemap + robots + nostr identity (NIP-05)
 urls = [SITE] + urls_extra + [f"{SITE}p/{s['_slug']}.html" for s in sums if not lowinfo(s)]

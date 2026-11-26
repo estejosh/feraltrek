@@ -1,0 +1,11 @@
+{
+  "id": "forum-aave-26502",
+  "space": "aave",
+  "title": "Risk Stewards: Add and Draw Cap Increases on Aave V4 / 2026.11.25",
+  "url": "https://governance.aave.com/t/risk-stewards-add-and-draw-cap-increases-on-aave-v4-2026-11-25/26502",
+  "headline": "LlamaRisk recommends raising supply (add) and borrow (draw) caps on seven Aave V4 reserves, mainly USDC, USDT, WETH and WBTC on the Core Hub.",
+  "summary": "LlamaRisk's latest review of Aave V4 reserves recommends seven cap changes on Ethereum. Add caps on the Core Hub Main Spoke: USDC 110M to 150M, USDT 50M to 75M, WETH 90,000 to 110,000, WBTC 1,350 to 1,800. Draw caps: USDC on the Main Spoke 85M to 100M, USDC on the Bluechip Spoke 9M to 15M, EURC on the Bluechip Spoke 600,000 to 1M. The post reports current utilization: USDC add cap 88.3% used and draw cap 57.7%; USDT add cap 66.6%; WETH 65.3%; WBTC 68.6%; Bluechip USDC draw cap 80.4% and EURC 59.7%. It gives estimated post-change utilization such as 64.7% (USDC add) and 49.1% (USDC draw). On supplier concentration, it says the largest USDT supplier holds about 24% of that reserve and the top three about 57%, which it says warrants monitoring of large withdrawals. For WETH and WBTC it reports that most top suppliers carry stablecoin debt, with health factors tracking the asset price. LlamaRisk says it will implement the updates through the Risk Steward process and discloses it is funded in part by the Aave DAO. Open questions: no vote is described, since the changes go through the steward process.",
+  "risk_flags": ["cap increases on USDC, USDT, WETH, WBTC, EURC", "USDT supply concentrated: top 3 about 57%", "implemented via Risk Steward, not a vote"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-26"
+}

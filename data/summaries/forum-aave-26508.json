@@ -1,0 +1,12 @@
+{
+  "id": "forum-aave-26508",
+  "space": "aave",
+  "title": "Aave App x Tron : Good Business, Questionnable Company",
+  "url": "https://governance.aave.com/t/aave-app-x-tron-good-business-questionnable-company/26508",
+  "headline": "Opinion post about a third party's reputation, not a governance proposal.",
+  "summary": "Personal opinion and unverified claims about an individual. Skipped.",
+  "risk_flags": ["unverified allegation", "personal opinion"],
+  "vote": "Discussion stage, no vote yet",
+  "skip": true,
+  "written": "2026-11-26"
+}

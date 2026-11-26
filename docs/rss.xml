@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 25 Nov 2026 12:56:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<item><title>[December 3, 2026] WBTC-A, WBTC-B, WBTC-C Kick Incentive Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-wbtc-a-wbtc-b-wbtc-c-kick-incentive-changes--28503.html</link>
+<guid isPermaLink="false">forum-sky-28503</guid><pubDate>Thu, 26 Nov 2026 12:10:22 +0000</pubDate>
+<description>BA Labs proposes setting the auction kick incentives on the three WBTC vault types to zero, for the December 3, 2026 Executive Vote.</description></item>
+<item><title>LEGO Grant Proposal: RoundBeat for Lido community stakers (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-roundbeat-for-lido-community-stakers--12231.html</link>
+<guid isPermaLink="false">forum-lido-12231</guid><pubDate>Thu, 26 Nov 2026 11:20:50 +0000</pubDate>
+<description>A LEGO grant request of $9,950 for 12 months to give small Lido CSM operators free access to a validator monitoring and alert service, plus two new views.</description></item>
+<item><title>[ARFC] Sentora Externally Curated Hub &amp; Spoke Framework on Aave V4: Tempo OUSD Instance (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-sentora-externally-curated-hub-spoke-framework-on-aave-v4-tempo-ousd-i--26510.html</link>
+<guid isPermaLink="false">forum-aave-26510</guid><pubDate>Wed, 25 Nov 2026 23:19:54 +0000</pubDate>
+<description>An ARFC proposes a Sentora-curated Aave V4 Hub on the Tempo network where OUSD is the only borrowable asset, with BTC wrappers and PRIME as launch collateral.</description></item>
+<item><title>[ARFC] Sentora Externally Curated Hub &amp; Spoke on Aave V4: Base RLUSD Instance (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-sentora-externally-curated-hub-spoke-on-aave-v4-base-rlusd-instance--26509.html</link>
+<guid isPermaLink="false">forum-aave-26509</guid><pubDate>Wed, 25 Nov 2026 22:59:39 +0000</pubDate>
+<description>An ARFC proposes a second Sentora-curated Aave V4 Hub on Base where RLUSD is the only borrowable asset, with cbBTC and cbXRP as launch collateral.</description></item>
+<item><title>Declaration of Out-of-Schedule Executive Vote – Sky Frontier Foundation Genesis Capital (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-declaration-of-out-of-schedule-executive-vote-sky-frontier-foundation-genesi--28499.html</link>
+<guid isPermaLink="false">forum-sky-28499</guid><pubDate>Wed, 25 Nov 2026 22:48:35 +0000</pubDate>
+<description>The Core Facilitator proposes an out-of-schedule Executive Vote this week to move 25 million USDS of Genesis Capital to the Sky Frontier Foundation to pay down debt.</description></item>
+<item><title>ENS Global adoption, thoughts on marketing, and some research on key areas for growth (ens)</title><link>https://estejosh.github.io/feraltrek/p/ens-ens-global-adoption-thoughts-on-marketing-and-some-research-on-key-areas-for--22558.html</link>
+<guid isPermaLink="false">forum-ens-22558</guid><pubDate>Wed, 25 Nov 2026 18:56:49 +0000</pubDate>
+<description>A community member argues that ENS adoption depends on structural factors, not only marketing, and compares .eth names with email, phone numbers and payment IDs.</description></item>
+<item><title>Risk Stewards: Add and Draw Cap Increases on Aave V4 / 2026.11.25 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-add-and-draw-cap-increases-on-aave-v4-2026-11-25--26502.html</link>
+<guid isPermaLink="false">forum-aave-26502</guid><pubDate>Wed, 25 Nov 2026 12:56:15 +0000</pubDate>
+<description>LlamaRisk recommends raising supply (add) and borrow (draw) caps on seven Aave V4 reserves, mainly USDC, USDT, WETH and WBTC on the Core Hub.</description></item>
 <item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.25 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-25--26495.html</link>
 <guid isPermaLink="false">forum-aave-26495</guid><pubDate>Wed, 25 Nov 2026 07:02:52 +0000</pubDate>
 <description>LlamaRisk recommends lower supply and borrow caps on several Aave V3 assets and interest rate model changes for USDC and USDT on V3 Core.</description></item>
@@ -130,25 +151,4 @@
 <item><title>Deprecation Notice: eth_sendRawTransactionConditional (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-deprecation-notice-eth-sendrawtransactionconditional--31775.html</link>
 <guid isPermaLink="false">forum-arbitrum-31775</guid><pubDate>Wed, 18 Nov 2026 20:02:54 +0000</pubDate>
 <description>Offchain Labs gives notice it intends to disable the eth_sendRawTransactionConditional RPC method on Arbitrum One and Nova by Jan 17, 2027, after a 30-day comment period and 30-day grace period.</description></item>
-<item><title>RFP: open Ethereum validator signers for on-prem and isolated hardware (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-rfp-open-ethereum-validator-signers-for-on-prem-and-isolated-hardware--12209.html</link>
-<guid isPermaLink="false">forum-lido-12209</guid><pubDate>Wed, 18 Nov 2026 19:34:20 +0000</pubDate>
-<description>A Lido RFP invites proposals for open-source validator signers that keep keys inside hardware the operator controls, with grants expected well below $50k.</description></item>
-<item><title>[November 23, 2026] Grove Governance Proposals: Grove Artifact Edit Proposal (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-november-23-2026-grove-governance-proposals-grove-artifact-edit-proposal--28430.html</link>
-<guid isPermaLink="false">forum-sky-28430</guid><pubDate>Wed, 18 Nov 2026 17:30:20 +0000</pubDate>
-<description>Grove Labs proposes adding Steakhouse Financial&#x27;s new SteakhouseOperator contract as an Allocator on seven Grove x Steakhouse Morpho vaults, to be decided in a Grove poll opening Nov 23.</description></item>
-<item><title>[Gauntlet] Mantle USDe Comet: Closing Remaining Positions (compound)</title><link>https://estejosh.github.io/feraltrek/p/compound-gauntlet-mantle-usde-comet-closing-remaining-positions-d-8272.html</link>
-<guid isPermaLink="false">forum-compound-8272</guid><pubDate>Wed, 18 Nov 2026 17:28:37 +0000</pubDate>
-<description>Gauntlet and Woof recommend lowering liquidation collateral factors to 0.5% on the deprecated Mantle USDe Comet so the last 10 open borrow positions can be absorbed and the market wound down.</description></item>
-<item><title>[Direct-to-AIP] Asset Listing - USDC Plasma (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-direct-to-aip-asset-listing-usdc-plasma--26438.html</link>
-<guid isPermaLink="false">forum-aave-26438</guid><pubDate>Wed, 18 Nov 2026 16:18:15 +0000</pubDate>
-<description>TokenLogic proposes listing Circle&#x27;s native USDC on the Aave V3 Plasma instance, configured in line with USDT0, and adding it as a borrowable asset to eight eMode categories.</description></item>
-<item><title>Safenet Aegis Rewards Distribution - Period 2 (safe)</title><link>https://estejosh.github.io/feraltrek/p/safe-safenet-aegis-rewards-distribution-period-2-e-7211.html</link>
-<guid isPermaLink="false">forum-safe-7211</guid><pubDate>Wed, 18 Nov 2026 14:34:22 +0000</pubDate>
-<description>A post reports that Safenet Aegis rewards for the Oct 27 - Nov 10, 2026 period were distributed on Nov 18 after the permissionless Reality.eth approval process.</description></item>
-<item><title>DAO Resolution - TACO Foundation Supervisor Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-dao-resolution-taco-foundation-supervisor-changes--28429.html</link>
-<guid isPermaLink="false">forum-sky-28429</guid><pubDate>Tue, 17 Nov 2026 23:08:39 +0000</pubDate>
-<description>A DAO resolution would direct the directors of TACO Foundation to appoint Fortification Foundation as its supervisor, replacing the existing one.</description></item>
-<item><title>Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.11.17 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-11-17--26415.html</link>
-<guid isPermaLink="false">forum-aave-26415</guid><pubDate>Tue, 17 Nov 2026 19:04:56 +0000</pubDate>
-<description>LlamaRisk recommends changing supply and borrow caps on Aave V3 Mantle, Monad, BNB and Core, mostly reductions, with increases for mUSD on Monad and BTCB on BNB.</description></item>
 </channel></rss>

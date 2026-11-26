@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: lido</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 25 Nov 2026 12:56:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<item><title>LEGO Grant Proposal: RoundBeat for Lido community stakers (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-roundbeat-for-lido-community-stakers--12231.html</link>
+<guid isPermaLink="false">forum-lido-12231</guid><pubDate>Thu, 26 Nov 2026 11:20:50 +0000</pubDate>
+<description>A LEGO grant request of $9,950 for 12 months to give small Lido CSM operators free access to a validator monitoring and alert service, plus two new views.</description></item>
 <item><title>LEGO Grant Proposal: eth-hw-signer (lido)</title><link>https://estejosh.github.io/feraltrek/p/lido-lego-grant-proposal-eth-hw-signer--12227.html</link>
 <guid isPermaLink="false">forum-lido-12227</guid><pubDate>Tue, 24 Nov 2026 17:24:11 +0000</pubDate>
 <description>A $40,000 grant request to build open firmware and a host service that keep Ethereum validator keys on dedicated microcontroller boards.</description></item>

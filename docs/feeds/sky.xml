@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Wed, 25 Nov 2026 12:56:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<item><title>[December 3, 2026] WBTC-A, WBTC-B, WBTC-C Kick Incentive Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-wbtc-a-wbtc-b-wbtc-c-kick-incentive-changes--28503.html</link>
+<guid isPermaLink="false">forum-sky-28503</guid><pubDate>Thu, 26 Nov 2026 12:10:22 +0000</pubDate>
+<description>BA Labs proposes setting the auction kick incentives on the three WBTC vault types to zero, for the December 3, 2026 Executive Vote.</description></item>
+<item><title>Declaration of Out-of-Schedule Executive Vote – Sky Frontier Foundation Genesis Capital (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-declaration-of-out-of-schedule-executive-vote-sky-frontier-foundation-genesi--28499.html</link>
+<guid isPermaLink="false">forum-sky-28499</guid><pubDate>Wed, 25 Nov 2026 22:48:35 +0000</pubDate>
+<description>The Core Facilitator proposes an out-of-schedule Executive Vote this week to move 25 million USDS of Genesis Capital to the Sky Frontier Foundation to pay down debt.</description></item>
 <item><title>Proposal to Resolve the stUSDS Liquidity Crisis Immediately: $40–50M Atomic OTC Debt-for-SKY Buyback (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-proposal-to-resolve-the-stusds-liquidity-crisis-immediately-40-50m-atomic-ot--28473.html</link>
 <guid isPermaLink="false">forum-sky-28473</guid><pubDate>Mon, 23 Nov 2026 19:44:17 +0000</pubDate>
 <description>A forum post proposes using $40-50M from Sky&#x27;s surplus buffer or treasury for an atomic OTC buyback of SKY from stUSDS borrowers, with proceeds used to repay debt.</description></item>

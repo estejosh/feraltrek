@@ -1,0 +1,11 @@
+{
+  "id": "forum-sky-28503",
+  "space": "sky",
+  "title": "[December 3, 2026] WBTC-A, WBTC-B, WBTC-C Kick Incentive Changes",
+  "url": "https://forum.sky.money/t/december-3-2026-wbtc-a-wbtc-b-wbtc-c-kick-incentive-changes/28503",
+  "headline": "BA Labs proposes setting the auction kick incentives on the three WBTC vault types to zero, for the December 3, 2026 Executive Vote.",
+  "summary": "As Core Council Risk Advisor, BA Labs proposes lowering the Flat Kick Incentive (tip) from 250 DAI to 0 and the Proportional Kick Incentive (chip) from 0.10% to 0% on WBTC-A, WBTC-B and WBTC-C. The post says these vault types have been in a wind-down configuration since the October 7, 2024 Executive Vote, which set their Liquidation Penalty to 0% and their debt ceilings to 0, while tip and chip were left unchanged. The change aligns them with other vault types that carry no liquidation penalty, such as RETH-A, where both are already zero. The post states this is not an offboarding and all other parameters remain unchanged. If the vault types are reintroduced, penalty and kick incentives could be set together. After execution, the Atlas entries for the three vault types should be updated to 0 and 0.00%. Per the Atlas, auction parameter changes need approval through a Governance Poll before inclusion in an Executive Vote. Open questions: the poll timing and result.",
+  "risk_flags": ["auction parameter change on wind-down vaults", "requires Governance Poll before Executive Vote"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-26"
+}

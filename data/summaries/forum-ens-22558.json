@@ -1,0 +1,11 @@
+{
+  "id": "forum-ens-22558",
+  "space": "ens",
+  "title": "ENS Global adoption, thoughts on marketing, and some research on key areas for growth",
+  "url": "https://discuss.ens.domains/t/ens-global-adoption-thoughts-on-marketing-and-some-research-on-key-areas-for-growth/22558",
+  "headline": "A community member argues that ENS adoption depends on structural factors, not only marketing, and compares .eth names with email, phone numbers and payment IDs.",
+  "summary": "The post responds to complaints that the ENS core team does too little marketing. The author says marketing has some effect, pointing to a period when celebrity accounts posted .eth names, but that structural factors matter at least as much. A comparison table covers email, phone numbers, India's UPI ID, Brazil's Pix key, personal domains, .eth names and Basenames in the Base App, along four factors: whether the identifier is needed to receive something, cost and whether it is issued at signup, visibility, and lock-in. The author says .eth is optional, paid, seen mainly by crypto users, and that little depends on it, while Basenames issued free at signup were the fastest growth in ENS history. It notes the receiver pays for a name while the sender gets the benefit. It cites Telegram username sales as competition. The conclusion is that paid marketing is not the key on its own, and that ENS has a strong technical base (V2) but needs more than that. No specific proposal, budget or vote is made. Open question: what product changes the author would want.",
+  "risk_flags": ["opinion post, no formal proposal"],
+  "vote": "Discussion stage, no vote yet",
+  "written": "2026-11-26"
+}
