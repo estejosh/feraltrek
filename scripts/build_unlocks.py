@@ -34,6 +34,20 @@ def load_tokens():
     return toks
 
 
+def upcoming(days, now, min_usd=0):
+    """Scheduled events from today (UTC) through today + days, optionally only those worth at least min_usd. Sorted by date."""
+    t0 = now.timestamp()
+    day0 = t0 - (t0 % 86400)
+    rows = []
+    for t in load_tokens():
+        for e in t["events"]:
+            u = e.get("usd")
+            if e.get("tokens", 0) > 0 and day0 <= e["ts"] <= day0 + (days + 1) * 86400 and (not min_usd or (isinstance(u, (int, float)) and u >= min_usd)):
+                rows.append((e["ts"], t, e))
+    rows.sort(key=lambda r: (r[0], r[1]["name"]))
+    return rows
+
+
 def build(shell, site, docs, now):
     toks = load_tokens()
     t0 = now.timestamp()

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:58:17 +0000</lastBuildDate>
+<item><title>Syrup USDC (syrupUSDC) on Aave X Layer Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-syrup-usdc-syrupusdc-on-aave-x-layer-assessments--26521.html</link>
+<guid isPermaLink="false">forum-aave-26521</guid><pubDate>Thu, 26 Nov 2026 21:02:09 +0000</pubDate>
+<description>A single thread collecting risk and technical assessments of syrupUSDC on Aave X Layer.</description></item>
+<item><title>Spark cBEAM Configuration on Base (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-spark-cbeam-configuration-on-base--28506.html</link>
+<guid isPermaLink="false">forum-sky-28506</guid><pubDate>Thu, 26 Nov 2026 15:49:17 +0000</pubDate>
+<description>Sky posts the public communication thread for the Spark Configurator Bounded External Access Module (cBEAM) on Base, which can adjust rate limits within governance-set bounds without a Spell.</description></item>
+<item><title>Risk Stewards: IRM Changes on Aave V3 / 2026.11.26 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-irm-changes-on-aave-v3-2026-11-26--26515.html</link>
+<guid isPermaLink="false">forum-aave-26515</guid><pubDate>Thu, 26 Nov 2026 13:08:34 +0000</pubDate>
+<description>LlamaRisk recommends raising the base borrow-rate slope (Slope 1) by about 10-15 BPS on several stablecoin reserves across Aave V3 instances, plus changes to USDC on Arbitrum and mUSD on Monad.</description></item>
 <item><title>[December 3, 2026] WBTC-A, WBTC-B, WBTC-C Kick Incentive Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-wbtc-a-wbtc-b-wbtc-c-kick-incentive-changes--28503.html</link>
 <guid isPermaLink="false">forum-sky-28503</guid><pubDate>Thu, 26 Nov 2026 12:10:22 +0000</pubDate>
 <description>BA Labs proposes setting the auction kick incentives on the three WBTC vault types to zero, for the December 3, 2026 Executive Vote.</description></item>
@@ -142,13 +151,4 @@
 <item><title>[ARFC] Expand Coinbase Tokenized Equities on Base (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-expand-coinbase-tokenized-equities-on-base--26441.html</link>
 <guid isPermaLink="false">forum-aave-26441</guid><pubDate>Wed, 18 Nov 2026 20:58:51 +0000</pubDate>
 <description>An ARFC proposes adding six Coinbase tokenized equities (Netflix, Oracle, Palantir, AMD, ServiceNow, Strategy) as collateral-only reserves on the Aave V4 Equities Hub on Base.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.11.18 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v4-2026-11-18--26440.html</link>
-<guid isPermaLink="false">forum-aave-26440</guid><pubDate>Wed, 18 Nov 2026 20:57:45 +0000</pubDate>
-<description>LlamaRisk recommends small Slope 1 rate increases on five Aave V4 stablecoin hub reserves and higher add caps for the NVDAc and METAc tokenized equities on the Base Equities Hub.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.18 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-18--26439.html</link>
-<guid isPermaLink="false">forum-aave-26439</guid><pubDate>Wed, 18 Nov 2026 20:55:32 +0000</pubDate>
-<description>LlamaRisk recommends Aave V3 cap changes (WBTC supply cap up, USDT borrow cap up, USDC borrow cap down, two Horizon caps down) and a set of stablecoin interest-rate tweaks across several instances.</description></item>
-<item><title>Deprecation Notice: eth_sendRawTransactionConditional (arbitrum)</title><link>https://estejosh.github.io/feraltrek/p/arbitrum-deprecation-notice-eth-sendrawtransactionconditional--31775.html</link>
-<guid isPermaLink="false">forum-arbitrum-31775</guid><pubDate>Wed, 18 Nov 2026 20:02:54 +0000</pubDate>
-<description>Offchain Labs gives notice it intends to disable the eth_sendRawTransactionConditional RPC method on Arbitrum One and Nova by Jan 17, 2027, after a 30-day comment period and 30-day grace period.</description></item>
 </channel></rss>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: aave</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:58:17 +0000</lastBuildDate>
+<item><title>Syrup USDC (syrupUSDC) on Aave X Layer Assessments (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-syrup-usdc-syrupusdc-on-aave-x-layer-assessments--26521.html</link>
+<guid isPermaLink="false">forum-aave-26521</guid><pubDate>Thu, 26 Nov 2026 21:02:09 +0000</pubDate>
+<description>A single thread collecting risk and technical assessments of syrupUSDC on Aave X Layer.</description></item>
+<item><title>Risk Stewards: IRM Changes on Aave V3 / 2026.11.26 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-irm-changes-on-aave-v3-2026-11-26--26515.html</link>
+<guid isPermaLink="false">forum-aave-26515</guid><pubDate>Thu, 26 Nov 2026 13:08:34 +0000</pubDate>
+<description>LlamaRisk recommends raising the base borrow-rate slope (Slope 1) by about 10-15 BPS on several stablecoin reserves across Aave V3 instances, plus changes to USDC on Arbitrum and mUSD on Monad.</description></item>
 <item><title>[ARFC] Sentora Externally Curated Hub &amp; Spoke Framework on Aave V4: Tempo OUSD Instance (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-arfc-sentora-externally-curated-hub-spoke-framework-on-aave-v4-tempo-ousd-i--26510.html</link>
 <guid isPermaLink="false">forum-aave-26510</guid><pubDate>Wed, 25 Nov 2026 23:19:54 +0000</pubDate>
 <description>An ARFC proposes a Sentora-curated Aave V4 Hub on the Tempo network where OUSD is the only borrowable asset, with BTC wrappers and PRIME as launch collateral.</description></item>
@@ -145,10 +151,4 @@
 <item><title>Risk Stewards: Supply and Borrow Cap Increases on Aave V3 / 2026.11.08 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-supply-and-borrow-cap-increases-on-aave-v3-2026-11-08--26107.html</link>
 <guid isPermaLink="false">forum-aave-26107</guid><pubDate>Sun, 08 Nov 2026 10:12:08 +0000</pubDate>
 <description>LlamaRisk recommends raising the USDC borrow cap on Aave V3 Core from 2.6B to 2.75B and the USDe supply cap from 550M to 750M, after both reserves reached near-full utilization.</description></item>
-<item><title>[TEMP CHECK] Extend HyperLend&#x27;s Friendly Fork Recognition to Elysium (Aave v3.7) (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-temp-check-extend-hyperlend-s-friendly-fork-recognition-to-elysium-aave-v3---26079.html</link>
-<guid isPermaLink="false">forum-aave-26079</guid><pubDate>Fri, 06 Nov 2026 17:05:02 +0000</pubDate>
-<description>HyperLend asks the Aave DAO to recognize its deployment on Elysium (an L2 for the Hyperliquid ecosystem) as a friendly fork on Aave v3.7, offering 50% of that deployment&#x27;s revenue to the DAO.</description></item>
-<item><title>Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.11.06 (aave)</title><link>https://estejosh.github.io/feraltrek/p/aave-risk-stewards-cap-and-irm-changes-on-aave-v3-2026-11-06--26078.html</link>
-<guid isPermaLink="false">forum-aave-26078</guid><pubDate>Fri, 06 Nov 2026 16:01:37 +0000</pubDate>
-<description>LlamaRisk recommends a broad set of borrow and supply cap changes across Aave V3 instances, mostly reductions, plus a USDe base borrow rate increase to 7.00%. USDt on Avalanche had reached 99.9% borrow cap utilization.</description></item>
 </channel></rss>

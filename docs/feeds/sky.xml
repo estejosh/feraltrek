@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: sky</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:58:17 +0000</lastBuildDate>
+<item><title>Spark cBEAM Configuration on Base (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-spark-cbeam-configuration-on-base--28506.html</link>
+<guid isPermaLink="false">forum-sky-28506</guid><pubDate>Thu, 26 Nov 2026 15:49:17 +0000</pubDate>
+<description>Sky posts the public communication thread for the Spark Configurator Bounded External Access Module (cBEAM) on Base, which can adjust rate limits within governance-set bounds without a Spell.</description></item>
 <item><title>[December 3, 2026] WBTC-A, WBTC-B, WBTC-C Kick Incentive Changes (sky)</title><link>https://estejosh.github.io/feraltrek/p/sky-december-3-2026-wbtc-a-wbtc-b-wbtc-c-kick-incentive-changes--28503.html</link>
 <guid isPermaLink="false">forum-sky-28503</guid><pubDate>Thu, 26 Nov 2026 12:10:22 +0000</pubDate>
 <description>BA Labs proposes setting the auction kick incentives on the three WBTC vault types to zero, for the December 3, 2026 Executive Vote.</description></item>

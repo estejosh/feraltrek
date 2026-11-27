@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Governance Digest: cow</title><link>https://estejosh.github.io/feraltrek/</link>
 <description>New DAO governance proposals and discussions, summarized in plain English.</description>
-<lastBuildDate>Thu, 26 Nov 2026 12:56:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:58:17 +0000</lastBuildDate>
 <item><title>CIP-95: Update social consensus rules (cow)</title><link>https://estejosh.github.io/feraltrek/p/cow-cip-95-update-social-consensus-rules-c28a9a.html</link>
 <guid isPermaLink="false">0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a</guid><pubDate>Tue, 24 Nov 2026 20:14:53 +0000</pubDate>
 <description>Removes three CoW Protocol social consensus rules (overbidding, EBBO, local token conservation) and rewords the others to better capture their intent.</description></item>

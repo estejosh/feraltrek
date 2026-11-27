@@ -32,7 +32,11 @@ def status(s):
         if end:
             return "Vote closed, ended " + day(end)
         return "Vote closed" if pr.get("state") == "closed" else "Vote open"
-    return "Discussion, no vote yet"
+    base = "Discussion, no vote yet"
+    m = re.search(r"planned[^.]{0,80}?(20\d\d-\d\d-\d\d)", (s.get("headline", "") + " " + s.get("summary", "")))
+    if m and m.group(1) < now.strftime("%Y-%m-%d"):
+        base += f". The post mentions a planned date of {m.group(1)}, which has passed; check the forum for the outcome"
+    return base
 
 
 def tally(s):
@@ -78,14 +82,44 @@ Facts only, not advice. All code, revenue and subscriber counts are public:
 &middot; updated {now.strftime("%Y-%m-%d %H:%M UTC")}</p></main></body></html>"""
 
 
+import build_unlocks as _bu
+UP7 = _bu.upcoming(7, now)
+BIG7 = _bu.upcoming(7, now, 1_000_000)
+
+
+def _ud(x):
+    return "$" + f"{x:,.0f}" if isinstance(x, (int, float)) else "n/a"
+
+
+def sample_email():
+    lines = ["Token unlocks above $1M in the next 7 days"]
+    for i, (_, t, e) in enumerate(BIG7[:3], 1):
+        lines.append(f"{i}. {e['date']} - {t['name']} - {e['tokens']:,.0f} tokens ({_ud(e.get('usd'))})")
+    if not BIG7:
+        lines.append("(none in our data this week)")
+    lines.append("")
+    lines.append("Governance votes closing in the next 7 days")
+    for i, x in enumerate(SOON_FOR_SAMPLE[:2], 1):
+        lines.append(f"{i}. [{x['space']}] {x['title']} - vote ends {day(ends_ts(x))}")
+    if not SOON_FOR_SAMPLE:
+        lines.append("(none in our data this week)")
+    lines.append("")
+    lines.append("The week in governance: full plain-English analysis of each new item")
+    return "\n".join(lines) + "\n\n(Sample built from today's data; the real email is sent Mondays.)"
+
+
+def ends_ts(s):
+    pr = props.get(s["id"], {})
+    return pr.get("end") if pr.get("state") == "active" and pr.get("end") else None
+
+
+SOON_FOR_SAMPLE = sorted([x for x in sums if ends_ts(x) and now.timestamp() <= ends_ts(x) <= now.timestamp() + 7 * 86400], key=ends_ts)
+
+
 def paybox():
-    return f"""<div class="box"><b>Paid weekly email: deadlines pushed to your inbox</b>
-<p>Free: this site, which you have to remember to check. Paid: every Monday an email lists the votes closing in the next 7 days, sorted by deadline, then the week's items in full.</p>
-<details><summary>Sample of the weekly email</summary><pre style="white-space:pre-wrap">Closing in the next 7 days
-1. [dao] Proposal title - vote ends 2026-11-16 - one-line summary
-2. [dao] Proposal title - vote ends 2026-11-18 - one-line summary
-The week in full
-[dao] Proposal title: full plain-English analysis and flags</pre></details>
+    return f"""<div class="box"><b>Paid weekly email: unlocks and deadlines pushed to your inbox</b>
+<p>Free: this site, which you have to remember to check. Paid: every Monday an email lists the token unlocks above $1M in the next 7 days and the governance votes closing, sorted by date, then the week's governance items in full.</p>
+<details><summary>Sample of the weekly email (built from today's data)</summary><pre style="white-space:pre-wrap">{E(sample_email())}</pre></details>
 <p><b>{CFG['price_usdc']} USDC on Base = {CFG['days_per_price']} days.</b></p>
 <ol>
 <li>Send {CFG['price_usdc']} USDC on <b>Base</b> to <code>{CFG['pay_address']}</code></li>
@@ -140,12 +174,26 @@ soon_html = ("<div class='box'><b>Votes closing in 7 days</b><ul>" + "".join(
     f"<li>{E(s['space'])} &middot; ends {day(ends(s))} &middot; <a href='p/{s['_slug']}.html'>{E(s['title'])}</a></li>" for s in soon[:8])
     + "</ul><a href='closing-soon/'>All votes closing soon</a></div>") if soon else ""
 feeds = " ".join(f'<a href="dao/{E(sp)}/">{E(sp)}</a> <small>(<a href="feeds/{E(sp)}.xml">rss</a>)</small>' for sp in spaces)
-front = f"""<h1>Governance Digest</h1>
+def unlock_block():
+    if not UP7:
+        return ""
+    rows = "".join(f"<tr><td>{E(e['date'])}</td><td><a href='unlocks/{E(t['slug'])}/'>{E(t['name'])}</a></td>"
+                   f"<td style='text-align:right'>{e['tokens']:,.0f}</td><td style='text-align:right'>{E(_ud(e.get('usd')))}</td></tr>"
+                   for _, t, e in sorted(UP7, key=lambda r: -(r[2].get('usd') if isinstance(r[2].get('usd'), (int, float)) else 0))[:12])
+    return ("<div class='box'><b>Token unlocks in the next 7 days</b>"
+            f"<p class='meta'>{len(UP7)} scheduled events; largest by dollar size shown. Dates UTC. <a href='unlocks/this-week/'>All of this week</a> &middot; <a href='unlocks/'>Next 30 days</a></p>"
+            "<table style='width:100%;border-collapse:collapse;font:14px/1.4 system-ui,sans-serif' cellpadding='4'>"
+            "<tr style='text-align:left'><th>Date</th><th>Token</th><th>Tokens</th><th>USD value</th></tr>" + rows + "</table></div>")
+
+
+front = f"""<h1>Token unlocks and DAO governance</h1>
 <div class="meta">What DAOs are proposing and discussing, in plain English. Updated daily.
 &middot; <a href="unlocks/">Token unlocks, next 30 days</a>
 &middot; <a href="rss.xml">RSS (all)</a> &middot; by DAO: {feeds}</div>
+{unlock_block()}
 {soon_html}
 {paybox()}
+<h2>Governance Digest: latest DAO items</h2>
 {''.join(card(s, '') for s in sums[:60]) or '<p>First items coming soon.</p>'}"""
 (DOCS / "index.html").write_text(shell("Governance Digest: plain-English DAO proposals",
     "New DAO governance proposals and forum discussions from Aave, Uniswap, Arbitrum, ENS, Lido and more, in plain English.",
