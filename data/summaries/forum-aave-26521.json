@@ -1,0 +1,13 @@
+﻿{
+    "id":  "forum-aave-26521",
+    "space":  "aave",
+    "title":  "Syrup USDC (syrupUSDC) on Aave X Layer Assessments",
+    "url":  "https://governance.aave.com/t/syrup-usdc-syrupusdc-on-aave-x-layer-assessments/26521",
+    "headline":  "A single thread collecting risk and technical assessments of syrupUSDC on Aave X Layer.",
+    "summary":  "This thread is the home for risk and technical assessments of Syrup USDC (syrupUSDC) on Aave X Layer. It is to hold the pre-listing asset risk assessment under the Aave Risk Framework, the pre-listing technical assessment under the Technical Asset Listing Framework, and later post-listing monitoring reports, periodic refreshes and re-evaluations triggered by material changes. New assessments will be posted as replies. The opening post itself contains no parameters, amounts or findings, so there is nothing to evaluate yet; open questions depend on the assessments that follow.",
+    "risk_flags":  [
+                       "placeholder thread, no assessment content yet"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-27"
+}

@@ -1,0 +1,15 @@
+﻿{
+    "id":  "forum-aave-26515",
+    "space":  "aave",
+    "title":  "Risk Stewards: IRM Changes on Aave V3 / 2026.11.26",
+    "url":  "https://governance.aave.com/t/risk-stewards-irm-changes-on-aave-v3-2026-11-26/26515",
+    "headline":  "LlamaRisk recommends raising the base borrow-rate slope (Slope 1) by about 10-15 BPS on several stablecoin reserves across Aave V3 instances, plus changes to USDC on Arbitrum and mUSD on Monad.",
+    "summary":  "LlamaRisk recommends interest rate model (IRM) parameter changes for Aave V3 reserves, to be executed through the Risk Steward process. Stablecoin changes: Slope 1 rises by 10 BPS on seven stablecoin reserves (PYUSD and USDtb on Core, USDC and USDt on Avalanche, USDC on Optimism, USDT0 on Plasma and Mantle) and by 15 BPS for USDC on Base. The post says this completes the Slope 1 increases from a TokenLogic proposal, following a first 10 BPS step in the 2026.11.18 update. Slope 2 is unchanged. The post states these reserves carry about 670M in aggregate debt. Other changes: Slope 1 for USDC on Arbitrum goes from 4.40% to 4.50% (borrow rate at current 93.1% utilization from 5.80% to 5.90%); the optimal utilization point for mUSD on Monad goes from 83% to 86%, which the post says adds about 1.8M of borrow capacity at the kink and lowers liquidity at the kink from about 10.1M to 8.4M. The post notes mUSD supply is almost entirely (about 99.9%) held by one vault, so a vault withdrawal would exceed liquidity at the kink under either curve. Borrowers on the affected reserves would see higher borrow APRs, except mUSD on Monad, where the rate at current utilization falls from 4.85% to 4.68%. The post carries LlamaRisk\u0027s disclosure that it is partly funded by the Aave DAO.",
+    "risk_flags":  [
+                       "changes interest rate model on 9 reserves",
+                       "mUSD Monad: supply concentrated in one vault",
+                       "changes optimal utilization point"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-27"
+}

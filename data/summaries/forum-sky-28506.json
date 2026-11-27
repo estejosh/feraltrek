@@ -1,0 +1,14 @@
+﻿{
+    "id":  "forum-sky-28506",
+    "space":  "sky",
+    "title":  "Spark cBEAM Configuration on Base",
+    "url":  "https://forum.sky.money/t/spark-cbeam-configuration-on-base/28506",
+    "headline":  "Sky posts the public communication thread for the Spark Configurator Bounded External Access Module (cBEAM) on Base, which can adjust rate limits within governance-set bounds without a Spell.",
+    "summary":  "This thread is the public reporting channel the Atlas requires for the Spark cBEAM on Base. A cBEAM is a whitelisted Operator of the Spark Diamond PAU that can adjust rate limits within ceilings set in BeamState, or call exact Controller actions authorized there, without a Spell or waiting for the GSM Pause Delay. Sky Governance keeps full control through Executive Votes or Core Council actions, and the Core Council Multisig can immediately unpair a cBEAM, remove its registration or stop the Base BeamState. Rate-limit increases are constrained by hop (minimum time before the same limit can be raised again) and maxChange (maximum proportional increase per hop); decreases, including to zero, are immediate unless a limit is locked as unlimited. The cBEAM moves values toward targets in the Atlas incrementally. One safety action is authorized: removing the CCTP facet integration if CCTP v2 must be disabled. The post says this was authorized at Base BeamState deployment on October 16, 2026, that the Spark Diamond PAU configuration on Base became operational on November 9, 2026, and that a CCTP v2 USDC transfer from Base to Ethereum later completed. Each cBEAM action will be reported in a reply listing the affected items, before and after states and the transaction hash.",
+    "risk_flags":  [
+                       "operator can change rate limits without a Spell",
+                       "includes authorized action to disable CCTP integration"
+                   ],
+    "vote":  "Discussion stage, no vote yet",
+    "written":  "2026-11-27"
+}
